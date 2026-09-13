@@ -1,0 +1,421 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Hidden Fates",
+  "totalCards": 69,
+  "cards": [
+    {
+      "id": "sm115-1",
+      "number": 1,
+      "name": "Caterpie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/1.png"
+    },
+    {
+      "id": "sm115-2",
+      "number": 2,
+      "name": "Metapod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/2.png"
+    },
+    {
+      "id": "sm115-3",
+      "number": 3,
+      "name": "Butterfree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/3.png"
+    },
+    {
+      "id": "sm115-4",
+      "number": 4,
+      "name": "Paras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/4.png"
+    },
+    {
+      "id": "sm115-5",
+      "number": 5,
+      "name": "Scyther",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/5.png"
+    },
+    {
+      "id": "sm115-6",
+      "number": 6,
+      "name": "Pinsir GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/6.png"
+    },
+    {
+      "id": "sm115-7",
+      "number": 7,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/7.png"
+    },
+    {
+      "id": "sm115-8",
+      "number": 8,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/8.png"
+    },
+    {
+      "id": "sm115-9",
+      "number": 9,
+      "name": "Charizard GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/9.png"
+    },
+    {
+      "id": "sm115-10",
+      "number": 10,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/10.png"
+    },
+    {
+      "id": "sm115-11",
+      "number": 11,
+      "name": "Psyduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/11.png"
+    },
+    {
+      "id": "sm115-12",
+      "number": 12,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/12.png"
+    },
+    {
+      "id": "sm115-13",
+      "number": 13,
+      "name": "Staryu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/13.png"
+    },
+    {
+      "id": "sm115-14",
+      "number": 14,
+      "name": "Starmie GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/14.png"
+    },
+    {
+      "id": "sm115-15",
+      "number": 15,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/15.png"
+    },
+    {
+      "id": "sm115-16",
+      "number": 16,
+      "name": "Gyarados GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/16.png"
+    },
+    {
+      "id": "sm115-17",
+      "number": 17,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/17.png"
+    },
+    {
+      "id": "sm115-18",
+      "number": 18,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/18.png"
+    },
+    {
+      "id": "sm115-19",
+      "number": 19,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/19.png"
+    },
+    {
+      "id": "sm115-20",
+      "number": 20,
+      "name": "Raichu GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/20.png"
+    },
+    {
+      "id": "sm115-21",
+      "number": 21,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/21.png"
+    },
+    {
+      "id": "sm115-22",
+      "number": 22,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/22.png"
+    },
+    {
+      "id": "sm115-23",
+      "number": 23,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/23.png"
+    },
+    {
+      "id": "sm115-24",
+      "number": 24,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/24.png"
+    },
+    {
+      "id": "sm115-25",
+      "number": 25,
+      "name": "Ekans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/25.png"
+    },
+    {
+      "id": "sm115-26",
+      "number": 26,
+      "name": "Ekans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/26.png"
+    },
+    {
+      "id": "sm115-27",
+      "number": 27,
+      "name": "Arbok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/27.png"
+    },
+    {
+      "id": "sm115-28",
+      "number": 28,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/28.png"
+    },
+    {
+      "id": "sm115-29",
+      "number": 29,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/29.png"
+    },
+    {
+      "id": "sm115-30",
+      "number": 30,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/30.png"
+    },
+    {
+      "id": "sm115-31",
+      "number": 31,
+      "name": "Mewtwo GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/31.png"
+    },
+    {
+      "id": "sm115-32",
+      "number": 32,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/32.png"
+    },
+    {
+      "id": "sm115-33",
+      "number": 33,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/33.png"
+    },
+    {
+      "id": "sm115-34",
+      "number": 34,
+      "name": "Graveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/34.png"
+    },
+    {
+      "id": "sm115-35",
+      "number": 35,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/35.png"
+    },
+    {
+      "id": "sm115-36",
+      "number": 36,
+      "name": "Onix GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/36.png"
+    },
+    {
+      "id": "sm115-37",
+      "number": 37,
+      "name": "Cubone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/37.png"
+    },
+    {
+      "id": "sm115-38",
+      "number": 38,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/38.png"
+    },
+    {
+      "id": "sm115-39",
+      "number": 39,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/39.png"
+    },
+    {
+      "id": "sm115-40",
+      "number": 40,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/40.png"
+    },
+    {
+      "id": "sm115-41",
+      "number": 41,
+      "name": "Jigglypuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/41.png"
+    },
+    {
+      "id": "sm115-42",
+      "number": 42,
+      "name": "Wigglytuff GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/42.png"
+    },
+    {
+      "id": "sm115-43",
+      "number": 43,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/43.png"
+    },
+    {
+      "id": "sm115-44",
+      "number": 44,
+      "name": "Moltres & Zapdos & Articuno GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/44.png"
+    },
+    {
+      "id": "sm115-45",
+      "number": 45,
+      "name": "Farfetch’d",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/45.png"
+    },
+    {
+      "id": "sm115-46",
+      "number": 46,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/46.png"
+    },
+    {
+      "id": "sm115-47",
+      "number": 47,
+      "name": "Kangaskhan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/47.png"
+    },
+    {
+      "id": "sm115-48",
+      "number": 48,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/48.png"
+    },
+    {
+      "id": "sm115-49",
+      "number": 49,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/49.png"
+    },
+    {
+      "id": "sm115-50",
+      "number": 50,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/50.png"
+    },
+    {
+      "id": "sm115-51",
+      "number": 51,
+      "name": "Bill’s Analysis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/51.png"
+    },
+    {
+      "id": "sm115-52",
+      "number": 52,
+      "name": "Blaine’s Last Stand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/52.png"
+    },
+    {
+      "id": "sm115-53",
+      "number": 53,
+      "name": "Brock’s Grit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/53.png"
+    },
+    {
+      "id": "sm115-54",
+      "number": 54,
+      "name": "Brock’s Pewter City Gym",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/54.png"
+    },
+    {
+      "id": "sm115-55",
+      "number": 55,
+      "name": "Brock’s Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/55.png"
+    },
+    {
+      "id": "sm115-56",
+      "number": 56,
+      "name": "Erika’s Hospitality",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/56.png"
+    },
+    {
+      "id": "sm115-57",
+      "number": 57,
+      "name": "Giovanni’s Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/57.png"
+    },
+    {
+      "id": "sm115-58",
+      "number": 58,
+      "name": "Jessie & James",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/58.png"
+    },
+    {
+      "id": "sm115-59",
+      "number": 59,
+      "name": "Koga’s Trap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/59.png"
+    },
+    {
+      "id": "sm115-60",
+      "number": 60,
+      "name": "Lt. Surge’s Strategy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/60.png"
+    },
+    {
+      "id": "sm115-61",
+      "number": 61,
+      "name": "Misty’s Cerulean City Gym",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/61.png"
+    },
+    {
+      "id": "sm115-62",
+      "number": 62,
+      "name": "Misty’s Determination",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/62.png"
+    },
+    {
+      "id": "sm115-63",
+      "number": 63,
+      "name": "Misty’s Water Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/63.png"
+    },
+    {
+      "id": "sm115-64",
+      "number": 64,
+      "name": "Pokémon Center Lady",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/64.png"
+    },
+    {
+      "id": "sm115-65",
+      "number": 65,
+      "name": "Sabrina’s Suggestion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/65.png"
+    },
+    {
+      "id": "sm115-66",
+      "number": 66,
+      "name": "Moltres & Zapdos & Articuno GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/66.png"
+    },
+    {
+      "id": "sm115-67",
+      "number": 67,
+      "name": "Giovanni’s Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/67.png"
+    },
+    {
+      "id": "sm115-68",
+      "number": 68,
+      "name": "Jessie & James",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/68.png"
+    },
+    {
+      "id": "sm115-69",
+      "number": 69,
+      "name": "Moltres & Zapdos & Articuno GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Fates/images/69.png"
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Base Set",
+  "totalCards": 102,
+  "cards": [
+    {
+      "id": "base1-1",
+      "number": 1,
+      "name": "Alakazam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/1.png"
+    },
+    {
+      "id": "base1-2",
+      "number": 2,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/2.png"
+    },
+    {
+      "id": "base1-3",
+      "number": 3,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/3.png"
+    },
+    {
+      "id": "base1-4",
+      "number": 4,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/4.png"
+    },
+    {
+      "id": "base1-5",
+      "number": 5,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/5.png"
+    },
+    {
+      "id": "base1-6",
+      "number": 6,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/6.png"
+    },
+    {
+      "id": "base1-7",
+      "number": 7,
+      "name": "Hitmonchan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/7.png"
+    },
+    {
+      "id": "base1-8",
+      "number": 8,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/8.png"
+    },
+    {
+      "id": "base1-9",
+      "number": 9,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/9.png"
+    },
+    {
+      "id": "base1-10",
+      "number": 10,
+      "name": "Mewtwo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/10.png"
+    },
+    {
+      "id": "base1-11",
+      "number": 11,
+      "name": "Nidoking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/11.png"
+    },
+    {
+      "id": "base1-12",
+      "number": 12,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/12.png"
+    },
+    {
+      "id": "base1-13",
+      "number": 13,
+      "name": "Poliwrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/13.png"
+    },
+    {
+      "id": "base1-14",
+      "number": 14,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/14.png"
+    },
+    {
+      "id": "base1-15",
+      "number": 15,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/15.png"
+    },
+    {
+      "id": "base1-16",
+      "number": 16,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/16.png"
+    },
+    {
+      "id": "base1-17",
+      "number": 17,
+      "name": "Beedrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/17.png"
+    },
+    {
+      "id": "base1-18",
+      "number": 18,
+      "name": "Dragonair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/18.png"
+    },
+    {
+      "id": "base1-19",
+      "number": 19,
+      "name": "Dugtrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/19.png"
+    },
+    {
+      "id": "base1-20",
+      "number": 20,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/20.png"
+    },
+    {
+      "id": "base1-21",
+      "number": 21,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/21.png"
+    },
+    {
+      "id": "base1-22",
+      "number": 22,
+      "name": "Pidgeotto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/22.png"
+    },
+    {
+      "id": "base1-23",
+      "number": 23,
+      "name": "Arcanine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/23.png"
+    },
+    {
+      "id": "base1-24",
+      "number": 24,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/24.png"
+    },
+    {
+      "id": "base1-25",
+      "number": 25,
+      "name": "Dewgong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/25.png"
+    },
+    {
+      "id": "base1-26",
+      "number": 26,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/26.png"
+    },
+    {
+      "id": "base1-27",
+      "number": 27,
+      "name": "Farfetch'd",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/27.png"
+    },
+    {
+      "id": "base1-28",
+      "number": 28,
+      "name": "Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/28.png"
+    },
+    {
+      "id": "base1-29",
+      "number": 29,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/29.png"
+    },
+    {
+      "id": "base1-30",
+      "number": 30,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/30.png"
+    },
+    {
+      "id": "base1-31",
+      "number": 31,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/31.png"
+    },
+    {
+      "id": "base1-32",
+      "number": 32,
+      "name": "Kadabra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/32.png"
+    },
+    {
+      "id": "base1-33",
+      "number": 33,
+      "name": "Kakuna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/33.png"
+    },
+    {
+      "id": "base1-34",
+      "number": 34,
+      "name": "Machoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/34.png"
+    },
+    {
+      "id": "base1-35",
+      "number": 35,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/35.png"
+    },
+    {
+      "id": "base1-36",
+      "number": 36,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/36.png"
+    },
+    {
+      "id": "base1-37",
+      "number": 37,
+      "name": "Nidorino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/37.png"
+    },
+    {
+      "id": "base1-38",
+      "number": 38,
+      "name": "Poliwhirl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/38.png"
+    },
+    {
+      "id": "base1-39",
+      "number": 39,
+      "name": "Porygon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/39.png"
+    },
+    {
+      "id": "base1-40",
+      "number": 40,
+      "name": "Raticate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/40.png"
+    },
+    {
+      "id": "base1-41",
+      "number": 41,
+      "name": "Seel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/41.png"
+    },
+    {
+      "id": "base1-42",
+      "number": 42,
+      "name": "Wartortle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/42.png"
+    },
+    {
+      "id": "base1-43",
+      "number": 43,
+      "name": "Abra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/43.png"
+    },
+    {
+      "id": "base1-44",
+      "number": 44,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/44.png"
+    },
+    {
+      "id": "base1-45",
+      "number": 45,
+      "name": "Caterpie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/45.png"
+    },
+    {
+      "id": "base1-46",
+      "number": 46,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/46.png"
+    },
+    {
+      "id": "base1-47",
+      "number": 47,
+      "name": "Diglett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/47.png"
+    },
+    {
+      "id": "base1-48",
+      "number": 48,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/48.png"
+    },
+    {
+      "id": "base1-49",
+      "number": 49,
+      "name": "Drowzee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/49.png"
+    },
+    {
+      "id": "base1-50",
+      "number": 50,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/50.png"
+    },
+    {
+      "id": "base1-51",
+      "number": 51,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/51.png"
+    },
+    {
+      "id": "base1-52",
+      "number": 52,
+      "name": "Machop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/52.png"
+    },
+    {
+      "id": "base1-53",
+      "number": 53,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/53.png"
+    },
+    {
+      "id": "base1-54",
+      "number": 54,
+      "name": "Metapod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/54.png"
+    },
+    {
+      "id": "base1-55",
+      "number": 55,
+      "name": "Nidoran♂",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/55.png"
+    },
+    {
+      "id": "base1-56",
+      "number": 56,
+      "name": "Onix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/56.png"
+    },
+    {
+      "id": "base1-57",
+      "number": 57,
+      "name": "Pidgey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/57.png"
+    },
+    {
+      "id": "base1-58",
+      "number": 58,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/58.png"
+    },
+    {
+      "id": "base1-59",
+      "number": 59,
+      "name": "Poliwag",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/59.png"
+    },
+    {
+      "id": "base1-60",
+      "number": 60,
+      "name": "Ponyta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/60.png"
+    },
+    {
+      "id": "base1-61",
+      "number": 61,
+      "name": "Rattata",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/61.png"
+    },
+    {
+      "id": "base1-62",
+      "number": 62,
+      "name": "Sandshrew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/62.png"
+    },
+    {
+      "id": "base1-63",
+      "number": 63,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/63.png"
+    },
+    {
+      "id": "base1-64",
+      "number": 64,
+      "name": "Starmie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/64.png"
+    },
+    {
+      "id": "base1-65",
+      "number": 65,
+      "name": "Staryu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/65.png"
+    },
+    {
+      "id": "base1-66",
+      "number": 66,
+      "name": "Tangela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/66.png"
+    },
+    {
+      "id": "base1-67",
+      "number": 67,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/67.png"
+    },
+    {
+      "id": "base1-68",
+      "number": 68,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/68.png"
+    },
+    {
+      "id": "base1-69",
+      "number": 69,
+      "name": "Weedle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/69.png"
+    },
+    {
+      "id": "base1-70",
+      "number": 70,
+      "name": "Clefairy Doll",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/70.png"
+    },
+    {
+      "id": "base1-71",
+      "number": 71,
+      "name": "Computer Search",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/71.png"
+    },
+    {
+      "id": "base1-72",
+      "number": 72,
+      "name": "Devolution Spray",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/72.png"
+    },
+    {
+      "id": "base1-73",
+      "number": 73,
+      "name": "Impostor Professor Oak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/73.png"
+    },
+    {
+      "id": "base1-74",
+      "number": 74,
+      "name": "Item Finder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/74.png"
+    },
+    {
+      "id": "base1-75",
+      "number": 75,
+      "name": "Lass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/75.png"
+    },
+    {
+      "id": "base1-76",
+      "number": 76,
+      "name": "Pokémon Breeder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/76.png"
+    },
+    {
+      "id": "base1-77",
+      "number": 77,
+      "name": "Pokémon Trader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/77.png"
+    },
+    {
+      "id": "base1-78",
+      "number": 78,
+      "name": "Scoop Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/78.png"
+    },
+    {
+      "id": "base1-79",
+      "number": 79,
+      "name": "Super Energy Removal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/79.png"
+    },
+    {
+      "id": "base1-80",
+      "number": 80,
+      "name": "Defender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/80.png"
+    },
+    {
+      "id": "base1-81",
+      "number": 81,
+      "name": "Energy Retrieval",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/81.png"
+    },
+    {
+      "id": "base1-82",
+      "number": 82,
+      "name": "Full Heal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/82.png"
+    },
+    {
+      "id": "base1-83",
+      "number": 83,
+      "name": "Maintenance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/83.png"
+    },
+    {
+      "id": "base1-84",
+      "number": 84,
+      "name": "PlusPower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/84.png"
+    },
+    {
+      "id": "base1-85",
+      "number": 85,
+      "name": "Pokémon Center",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/85.png"
+    },
+    {
+      "id": "base1-86",
+      "number": 86,
+      "name": "Pokémon Flute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/86.png"
+    },
+    {
+      "id": "base1-87",
+      "number": 87,
+      "name": "Pokédex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/87.png"
+    },
+    {
+      "id": "base1-88",
+      "number": 88,
+      "name": "Professor Oak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/88.png"
+    },
+    {
+      "id": "base1-89",
+      "number": 89,
+      "name": "Revive",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/89.png"
+    },
+    {
+      "id": "base1-90",
+      "number": 90,
+      "name": "Super Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/90.png"
+    },
+    {
+      "id": "base1-91",
+      "number": 91,
+      "name": "Bill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/91.png"
+    },
+    {
+      "id": "base1-92",
+      "number": 92,
+      "name": "Energy Removal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/92.png"
+    },
+    {
+      "id": "base1-93",
+      "number": 93,
+      "name": "Gust of Wind",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/93.png"
+    },
+    {
+      "id": "base1-94",
+      "number": 94,
+      "name": "Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/94.png"
+    },
+    {
+      "id": "base1-95",
+      "number": 95,
+      "name": "Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/95.png"
+    },
+    {
+      "id": "base1-96",
+      "number": 96,
+      "name": "Double Colorless Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/96.png"
+    },
+    {
+      "id": "base1-97",
+      "number": 97,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/97.png"
+    },
+    {
+      "id": "base1-98",
+      "number": 98,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/98.png"
+    },
+    {
+      "id": "base1-99",
+      "number": 99,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/99.png"
+    },
+    {
+      "id": "base1-100",
+      "number": 100,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/100.png"
+    },
+    {
+      "id": "base1-101",
+      "number": 101,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/101.png"
+    },
+    {
+      "id": "base1-102",
+      "number": 102,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Base%20Set/images/102.png"
+    }
+  ]
+}

@@ -1,0 +1,1021 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Burning Shadows",
+  "totalCards": 169,
+  "cards": [
+    {
+      "id": "sm3-1",
+      "number": 1,
+      "name": "Caterpie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/1.png"
+    },
+    {
+      "id": "sm3-2",
+      "number": 2,
+      "name": "Metapod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/2.png"
+    },
+    {
+      "id": "sm3-3",
+      "number": 3,
+      "name": "Butterfree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/3.png"
+    },
+    {
+      "id": "sm3-4",
+      "number": 4,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/4.png"
+    },
+    {
+      "id": "sm3-5",
+      "number": 5,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/5.png"
+    },
+    {
+      "id": "sm3-6",
+      "number": 6,
+      "name": "Vileplume",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/6.png"
+    },
+    {
+      "id": "sm3-7",
+      "number": 7,
+      "name": "Tangela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/7.png"
+    },
+    {
+      "id": "sm3-8",
+      "number": 8,
+      "name": "Tangrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/8.png"
+    },
+    {
+      "id": "sm3-9",
+      "number": 9,
+      "name": "Ledyba",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/9.png"
+    },
+    {
+      "id": "sm3-10",
+      "number": 10,
+      "name": "Ledian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/10.png"
+    },
+    {
+      "id": "sm3-11",
+      "number": 11,
+      "name": "Heracross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/11.png"
+    },
+    {
+      "id": "sm3-12",
+      "number": 12,
+      "name": "Pansage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/12.png"
+    },
+    {
+      "id": "sm3-13",
+      "number": 13,
+      "name": "Simisage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/13.png"
+    },
+    {
+      "id": "sm3-14",
+      "number": 14,
+      "name": "Dewpider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/14.png"
+    },
+    {
+      "id": "sm3-15",
+      "number": 15,
+      "name": "Araquanid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/15.png"
+    },
+    {
+      "id": "sm3-16",
+      "number": 16,
+      "name": "Wimpod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/16.png"
+    },
+    {
+      "id": "sm3-17",
+      "number": 17,
+      "name": "Golisopod GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/17.png"
+    },
+    {
+      "id": "sm3-18",
+      "number": 18,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/18.png"
+    },
+    {
+      "id": "sm3-19",
+      "number": 19,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/19.png"
+    },
+    {
+      "id": "sm3-20",
+      "number": 20,
+      "name": "Charizard GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/20.png"
+    },
+    {
+      "id": "sm3-21",
+      "number": 21,
+      "name": "Ho-Oh GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/21.png"
+    },
+    {
+      "id": "sm3-22",
+      "number": 22,
+      "name": "Pansear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/22.png"
+    },
+    {
+      "id": "sm3-23",
+      "number": 23,
+      "name": "Simisear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/23.png"
+    },
+    {
+      "id": "sm3-24",
+      "number": 24,
+      "name": "Heatmor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/24.png"
+    },
+    {
+      "id": "sm3-25",
+      "number": 25,
+      "name": "Salazzle GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/25.png"
+    },
+    {
+      "id": "sm3-26",
+      "number": 26,
+      "name": "Turtonator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/26.png"
+    },
+    {
+      "id": "sm3-27",
+      "number": 27,
+      "name": "Alolan Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/27.png"
+    },
+    {
+      "id": "sm3-28",
+      "number": 28,
+      "name": "Alolan Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/28.png"
+    },
+    {
+      "id": "sm3-29",
+      "number": 29,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/29.png"
+    },
+    {
+      "id": "sm3-30",
+      "number": 30,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/30.png"
+    },
+    {
+      "id": "sm3-31",
+      "number": 31,
+      "name": "Kingdra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/31.png"
+    },
+    {
+      "id": "sm3-32",
+      "number": 32,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/32.png"
+    },
+    {
+      "id": "sm3-33",
+      "number": 33,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/33.png"
+    },
+    {
+      "id": "sm3-34",
+      "number": 34,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/34.png"
+    },
+    {
+      "id": "sm3-35",
+      "number": 35,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/35.png"
+    },
+    {
+      "id": "sm3-36",
+      "number": 36,
+      "name": "Panpour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/36.png"
+    },
+    {
+      "id": "sm3-37",
+      "number": 37,
+      "name": "Simipour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/37.png"
+    },
+    {
+      "id": "sm3-38",
+      "number": 38,
+      "name": "Bruxish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/38.png"
+    },
+    {
+      "id": "sm3-39",
+      "number": 39,
+      "name": "Tapu Fini GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/39.png"
+    },
+    {
+      "id": "sm3-40",
+      "number": 40,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/40.png"
+    },
+    {
+      "id": "sm3-41",
+      "number": 41,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/41.png"
+    },
+    {
+      "id": "sm3-42",
+      "number": 42,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/42.png"
+    },
+    {
+      "id": "sm3-43",
+      "number": 43,
+      "name": "Electivire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/43.png"
+    },
+    {
+      "id": "sm3-44",
+      "number": 44,
+      "name": "Tynamo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/44.png"
+    },
+    {
+      "id": "sm3-45",
+      "number": 45,
+      "name": "Eelektrik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/45.png"
+    },
+    {
+      "id": "sm3-46",
+      "number": 46,
+      "name": "Eelektross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/46.png"
+    },
+    {
+      "id": "sm3-47",
+      "number": 47,
+      "name": "Togedemaru",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/47.png"
+    },
+    {
+      "id": "sm3-48",
+      "number": 48,
+      "name": "Slowking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/48.png"
+    },
+    {
+      "id": "sm3-49",
+      "number": 49,
+      "name": "Wobbuffet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/49.png"
+    },
+    {
+      "id": "sm3-50",
+      "number": 50,
+      "name": "Seviper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/50.png"
+    },
+    {
+      "id": "sm3-51",
+      "number": 51,
+      "name": "Duskull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/51.png"
+    },
+    {
+      "id": "sm3-52",
+      "number": 52,
+      "name": "Dusclops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/52.png"
+    },
+    {
+      "id": "sm3-53",
+      "number": 53,
+      "name": "Dusknoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/53.png"
+    },
+    {
+      "id": "sm3-54",
+      "number": 54,
+      "name": "Croagunk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/54.png"
+    },
+    {
+      "id": "sm3-55",
+      "number": 55,
+      "name": "Toxicroak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/55.png"
+    },
+    {
+      "id": "sm3-56",
+      "number": 56,
+      "name": "Venipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/56.png"
+    },
+    {
+      "id": "sm3-57",
+      "number": 57,
+      "name": "Whirlipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/57.png"
+    },
+    {
+      "id": "sm3-58",
+      "number": 58,
+      "name": "Scolipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/58.png"
+    },
+    {
+      "id": "sm3-59",
+      "number": 59,
+      "name": "Espurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/59.png"
+    },
+    {
+      "id": "sm3-60",
+      "number": 60,
+      "name": "Meowstic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/60.png"
+    },
+    {
+      "id": "sm3-61",
+      "number": 61,
+      "name": "Sandygast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/61.png"
+    },
+    {
+      "id": "sm3-62",
+      "number": 62,
+      "name": "Palossand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/62.png"
+    },
+    {
+      "id": "sm3-63",
+      "number": 63,
+      "name": "Necrozma GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/63.png"
+    },
+    {
+      "id": "sm3-64",
+      "number": 64,
+      "name": "Machamp GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/64.png"
+    },
+    {
+      "id": "sm3-65",
+      "number": 65,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/65.png"
+    },
+    {
+      "id": "sm3-66",
+      "number": 66,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/66.png"
+    },
+    {
+      "id": "sm3-67",
+      "number": 67,
+      "name": "Rhyperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/67.png"
+    },
+    {
+      "id": "sm3-68",
+      "number": 68,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/68.png"
+    },
+    {
+      "id": "sm3-69",
+      "number": 69,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/69.png"
+    },
+    {
+      "id": "sm3-70",
+      "number": 70,
+      "name": "Riolu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/70.png"
+    },
+    {
+      "id": "sm3-71",
+      "number": 71,
+      "name": "Lucario",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/71.png"
+    },
+    {
+      "id": "sm3-72",
+      "number": 72,
+      "name": "Sawk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/72.png"
+    },
+    {
+      "id": "sm3-73",
+      "number": 73,
+      "name": "Crabrawler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/73.png"
+    },
+    {
+      "id": "sm3-74",
+      "number": 74,
+      "name": "Crabominable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/74.png"
+    },
+    {
+      "id": "sm3-75",
+      "number": 75,
+      "name": "Lycanroc",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/75.png"
+    },
+    {
+      "id": "sm3-76",
+      "number": 76,
+      "name": "Lycanroc",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/76.png"
+    },
+    {
+      "id": "sm3-77",
+      "number": 77,
+      "name": "Mudbray",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/77.png"
+    },
+    {
+      "id": "sm3-78",
+      "number": 78,
+      "name": "Mudsdale",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/78.png"
+    },
+    {
+      "id": "sm3-79",
+      "number": 79,
+      "name": "Passimian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/79.png"
+    },
+    {
+      "id": "sm3-80",
+      "number": 80,
+      "name": "Marshadow GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/80.png"
+    },
+    {
+      "id": "sm3-81",
+      "number": 81,
+      "name": "Alolan Rattata",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/81.png"
+    },
+    {
+      "id": "sm3-82",
+      "number": 82,
+      "name": "Alolan Raticate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/82.png"
+    },
+    {
+      "id": "sm3-83",
+      "number": 83,
+      "name": "Alolan Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/83.png"
+    },
+    {
+      "id": "sm3-84",
+      "number": 84,
+      "name": "Alolan Muk GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/84.png"
+    },
+    {
+      "id": "sm3-85",
+      "number": 85,
+      "name": "Sneasel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/85.png"
+    },
+    {
+      "id": "sm3-86",
+      "number": 86,
+      "name": "Weavile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/86.png"
+    },
+    {
+      "id": "sm3-87",
+      "number": 87,
+      "name": "Darkrai",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/87.png"
+    },
+    {
+      "id": "sm3-88",
+      "number": 88,
+      "name": "Darkrai GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/88.png"
+    },
+    {
+      "id": "sm3-89",
+      "number": 89,
+      "name": "Inkay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/89.png"
+    },
+    {
+      "id": "sm3-90",
+      "number": 90,
+      "name": "Malamar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/90.png"
+    },
+    {
+      "id": "sm3-91",
+      "number": 91,
+      "name": "Ralts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/91.png"
+    },
+    {
+      "id": "sm3-92",
+      "number": 92,
+      "name": "Kirlia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/92.png"
+    },
+    {
+      "id": "sm3-93",
+      "number": 93,
+      "name": "Gardevoir GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/93.png"
+    },
+    {
+      "id": "sm3-94",
+      "number": 94,
+      "name": "Diancie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/94.png"
+    },
+    {
+      "id": "sm3-95",
+      "number": 95,
+      "name": "Cutiefly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/95.png"
+    },
+    {
+      "id": "sm3-96",
+      "number": 96,
+      "name": "Ribombee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/96.png"
+    },
+    {
+      "id": "sm3-97",
+      "number": 97,
+      "name": "Morelull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/97.png"
+    },
+    {
+      "id": "sm3-98",
+      "number": 98,
+      "name": "Shiinotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/98.png"
+    },
+    {
+      "id": "sm3-99",
+      "number": 99,
+      "name": "Noivern GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/99.png"
+    },
+    {
+      "id": "sm3-100",
+      "number": 100,
+      "name": "Zygarde",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/100.png"
+    },
+    {
+      "id": "sm3-101",
+      "number": 101,
+      "name": "Meowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/101.png"
+    },
+    {
+      "id": "sm3-102",
+      "number": 102,
+      "name": "Persian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/102.png"
+    },
+    {
+      "id": "sm3-103",
+      "number": 103,
+      "name": "Porygon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/103.png"
+    },
+    {
+      "id": "sm3-104",
+      "number": 104,
+      "name": "Porygon2",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/104.png"
+    },
+    {
+      "id": "sm3-105",
+      "number": 105,
+      "name": "Porygon-Z",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/105.png"
+    },
+    {
+      "id": "sm3-106",
+      "number": 106,
+      "name": "Hoothoot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/106.png"
+    },
+    {
+      "id": "sm3-107",
+      "number": 107,
+      "name": "Noctowl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/107.png"
+    },
+    {
+      "id": "sm3-108",
+      "number": 108,
+      "name": "Bouffalant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/108.png"
+    },
+    {
+      "id": "sm3-109",
+      "number": 109,
+      "name": "Noibat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/109.png"
+    },
+    {
+      "id": "sm3-110",
+      "number": 110,
+      "name": "Stufful",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/110.png"
+    },
+    {
+      "id": "sm3-111",
+      "number": 111,
+      "name": "Bewear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/111.png"
+    },
+    {
+      "id": "sm3-112",
+      "number": 112,
+      "name": "Acerola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/112.png"
+    },
+    {
+      "id": "sm3-113",
+      "number": 113,
+      "name": "Bodybuilding Dumbbells",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/113.png"
+    },
+    {
+      "id": "sm3-114",
+      "number": 114,
+      "name": "Escape Rope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/114.png"
+    },
+    {
+      "id": "sm3-115",
+      "number": 115,
+      "name": "Guzma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/115.png"
+    },
+    {
+      "id": "sm3-116",
+      "number": 116,
+      "name": "Kiawe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/116.png"
+    },
+    {
+      "id": "sm3-117",
+      "number": 117,
+      "name": "Lana",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/117.png"
+    },
+    {
+      "id": "sm3-118",
+      "number": 118,
+      "name": "Mount Lanakila",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/118.png"
+    },
+    {
+      "id": "sm3-119",
+      "number": 119,
+      "name": "Olivia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/119.png"
+    },
+    {
+      "id": "sm3-120",
+      "number": 120,
+      "name": "Plumeria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/120.png"
+    },
+    {
+      "id": "sm3-121",
+      "number": 121,
+      "name": "Po Town",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/121.png"
+    },
+    {
+      "id": "sm3-122",
+      "number": 122,
+      "name": "Rotom Dex—Poké Finder Mode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/122.png"
+    },
+    {
+      "id": "sm3-123",
+      "number": 123,
+      "name": "Sophocles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/123.png"
+    },
+    {
+      "id": "sm3-124",
+      "number": 124,
+      "name": "Super Scoop Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/124.png"
+    },
+    {
+      "id": "sm3-125",
+      "number": 125,
+      "name": "Tormenting Spray",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/125.png"
+    },
+    {
+      "id": "sm3-126",
+      "number": 126,
+      "name": "Weakness Policy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/126.png"
+    },
+    {
+      "id": "sm3-127",
+      "number": 127,
+      "name": "Wicke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/127.png"
+    },
+    {
+      "id": "sm3-128",
+      "number": 128,
+      "name": "Wishful Baton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/128.png"
+    },
+    {
+      "id": "sm3-129",
+      "number": 129,
+      "name": "Golisopod GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/129.png"
+    },
+    {
+      "id": "sm3-130",
+      "number": 130,
+      "name": "Tapu Bulu GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/130.png"
+    },
+    {
+      "id": "sm3-131",
+      "number": 131,
+      "name": "Ho-Oh GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/131.png"
+    },
+    {
+      "id": "sm3-132",
+      "number": 132,
+      "name": "Salazzle GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/132.png"
+    },
+    {
+      "id": "sm3-133",
+      "number": 133,
+      "name": "Tapu Fini GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/133.png"
+    },
+    {
+      "id": "sm3-134",
+      "number": 134,
+      "name": "Necrozma GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/134.png"
+    },
+    {
+      "id": "sm3-135",
+      "number": 135,
+      "name": "Machamp GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/135.png"
+    },
+    {
+      "id": "sm3-136",
+      "number": 136,
+      "name": "Lycanroc GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/136.png"
+    },
+    {
+      "id": "sm3-137",
+      "number": 137,
+      "name": "Marshadow GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/137.png"
+    },
+    {
+      "id": "sm3-138",
+      "number": 138,
+      "name": "Alolan Muk GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/138.png"
+    },
+    {
+      "id": "sm3-139",
+      "number": 139,
+      "name": "Darkrai GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/139.png"
+    },
+    {
+      "id": "sm3-140",
+      "number": 140,
+      "name": "Gardevoir GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/140.png"
+    },
+    {
+      "id": "sm3-141",
+      "number": 141,
+      "name": "Noivern GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/141.png"
+    },
+    {
+      "id": "sm3-142",
+      "number": 142,
+      "name": "Acerola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/142.png"
+    },
+    {
+      "id": "sm3-143",
+      "number": 143,
+      "name": "Guzma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/143.png"
+    },
+    {
+      "id": "sm3-144",
+      "number": 144,
+      "name": "Kiawe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/144.png"
+    },
+    {
+      "id": "sm3-145",
+      "number": 145,
+      "name": "Plumeria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/145.png"
+    },
+    {
+      "id": "sm3-146",
+      "number": 146,
+      "name": "Sophocles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/146.png"
+    },
+    {
+      "id": "sm3-147",
+      "number": 147,
+      "name": "Wicke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/147.png"
+    },
+    {
+      "id": "sm3-148",
+      "number": 148,
+      "name": "Golisopod GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/148.png"
+    },
+    {
+      "id": "sm3-149",
+      "number": 149,
+      "name": "Tapu Bulu GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/149.png"
+    },
+    {
+      "id": "sm3-150",
+      "number": 150,
+      "name": "Charizard GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/150.png"
+    },
+    {
+      "id": "sm3-151",
+      "number": 151,
+      "name": "Salazzle GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/151.png"
+    },
+    {
+      "id": "sm3-152",
+      "number": 152,
+      "name": "Tapu Fini GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/152.png"
+    },
+    {
+      "id": "sm3-153",
+      "number": 153,
+      "name": "Necrozma GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/153.png"
+    },
+    {
+      "id": "sm3-154",
+      "number": 154,
+      "name": "Machamp GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/154.png"
+    },
+    {
+      "id": "sm3-155",
+      "number": 155,
+      "name": "Lycanroc GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/155.png"
+    },
+    {
+      "id": "sm3-156",
+      "number": 156,
+      "name": "Marshadow GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/156.png"
+    },
+    {
+      "id": "sm3-157",
+      "number": 157,
+      "name": "Alolan Muk GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/157.png"
+    },
+    {
+      "id": "sm3-158",
+      "number": 158,
+      "name": "Darkrai GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/158.png"
+    },
+    {
+      "id": "sm3-159",
+      "number": 159,
+      "name": "Gardevoir GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/159.png"
+    },
+    {
+      "id": "sm3-160",
+      "number": 160,
+      "name": "Noivern GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/160.png"
+    },
+    {
+      "id": "sm3-161",
+      "number": 161,
+      "name": "Bodybuilding Dumbbells",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/161.png"
+    },
+    {
+      "id": "sm3-162",
+      "number": 162,
+      "name": "Choice Band",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/162.png"
+    },
+    {
+      "id": "sm3-163",
+      "number": 163,
+      "name": "Escape Rope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/163.png"
+    },
+    {
+      "id": "sm3-164",
+      "number": 164,
+      "name": "Multi Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/164.png"
+    },
+    {
+      "id": "sm3-165",
+      "number": 165,
+      "name": "Rescue Stretcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/165.png"
+    },
+    {
+      "id": "sm3-166",
+      "number": 166,
+      "name": "Super Scoop Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/166.png"
+    },
+    {
+      "id": "sm3-167",
+      "number": 167,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/167.png"
+    },
+    {
+      "id": "sm3-168",
+      "number": 168,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/168.png"
+    },
+    {
+      "id": "sm3-169",
+      "number": 169,
+      "name": "Fairy Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Burning%20Shadows/images/169.png"
+    }
+  ]
+}
