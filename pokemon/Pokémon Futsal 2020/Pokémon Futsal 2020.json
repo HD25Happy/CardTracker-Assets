@@ -1,0 +1,37 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Pokémon Futsal 2020",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "fut2020-1",
+      "number": 1,
+      "name": "Pikachu on the Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pok%C3%A9mon%20Futsal%202020/images/1.png"
+    },
+    {
+      "id": "fut2020-2",
+      "number": 2,
+      "name": "Eevee on the Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pok%C3%A9mon%20Futsal%202020/images/2.png"
+    },
+    {
+      "id": "fut2020-3",
+      "number": 3,
+      "name": "Grookey on the Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pok%C3%A9mon%20Futsal%202020/images/3.png"
+    },
+    {
+      "id": "fut2020-4",
+      "number": 4,
+      "name": "Scorbunny on the Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pok%C3%A9mon%20Futsal%202020/images/4.png"
+    },
+    {
+      "id": "fut2020-5",
+      "number": 5,
+      "name": "Sobble on the Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pok%C3%A9mon%20Futsal%202020/images/5.png"
+    }
+  ]
+}

@@ -1,0 +1,991 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Primal Clash",
+  "totalCards": 164,
+  "cards": [
+    {
+      "id": "xy5-1",
+      "number": 1,
+      "name": "Weedle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/1.png"
+    },
+    {
+      "id": "xy5-2",
+      "number": 2,
+      "name": "Kakuna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/2.png"
+    },
+    {
+      "id": "xy5-3",
+      "number": 3,
+      "name": "Beedrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/3.png"
+    },
+    {
+      "id": "xy5-4",
+      "number": 4,
+      "name": "Tangela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/4.png"
+    },
+    {
+      "id": "xy5-5",
+      "number": 5,
+      "name": "Tangrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/5.png"
+    },
+    {
+      "id": "xy5-6",
+      "number": 6,
+      "name": "Treecko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/6.png"
+    },
+    {
+      "id": "xy5-7",
+      "number": 7,
+      "name": "Grovyle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/7.png"
+    },
+    {
+      "id": "xy5-8",
+      "number": 8,
+      "name": "Sceptile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/8.png"
+    },
+    {
+      "id": "xy5-9",
+      "number": 9,
+      "name": "Sceptile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/9.png"
+    },
+    {
+      "id": "xy5-10",
+      "number": 10,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/10.png"
+    },
+    {
+      "id": "xy5-11",
+      "number": 11,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/11.png"
+    },
+    {
+      "id": "xy5-12",
+      "number": 12,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/12.png"
+    },
+    {
+      "id": "xy5-13",
+      "number": 13,
+      "name": "Surskit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/13.png"
+    },
+    {
+      "id": "xy5-14",
+      "number": 14,
+      "name": "Masquerain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/14.png"
+    },
+    {
+      "id": "xy5-15",
+      "number": 15,
+      "name": "Shroomish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/15.png"
+    },
+    {
+      "id": "xy5-16",
+      "number": 16,
+      "name": "Breloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/16.png"
+    },
+    {
+      "id": "xy5-17",
+      "number": 17,
+      "name": "Volbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/17.png"
+    },
+    {
+      "id": "xy5-18",
+      "number": 18,
+      "name": "Illumise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/18.png"
+    },
+    {
+      "id": "xy5-19",
+      "number": 19,
+      "name": "Trevenant EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/19.png"
+    },
+    {
+      "id": "xy5-20",
+      "number": 20,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/20.png"
+    },
+    {
+      "id": "xy5-21",
+      "number": 21,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/21.png"
+    },
+    {
+      "id": "xy5-22",
+      "number": 22,
+      "name": "Slugma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/22.png"
+    },
+    {
+      "id": "xy5-23",
+      "number": 23,
+      "name": "Magcargo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/23.png"
+    },
+    {
+      "id": "xy5-24",
+      "number": 24,
+      "name": "Magcargo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/24.png"
+    },
+    {
+      "id": "xy5-25",
+      "number": 25,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/25.png"
+    },
+    {
+      "id": "xy5-26",
+      "number": 26,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/26.png"
+    },
+    {
+      "id": "xy5-27",
+      "number": 27,
+      "name": "Combusken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/27.png"
+    },
+    {
+      "id": "xy5-28",
+      "number": 28,
+      "name": "Blaziken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/28.png"
+    },
+    {
+      "id": "xy5-29",
+      "number": 29,
+      "name": "Camerupt EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/29.png"
+    },
+    {
+      "id": "xy5-30",
+      "number": 30,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/30.png"
+    },
+    {
+      "id": "xy5-31",
+      "number": 31,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/31.png"
+    },
+    {
+      "id": "xy5-32",
+      "number": 32,
+      "name": "Staryu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/32.png"
+    },
+    {
+      "id": "xy5-33",
+      "number": 33,
+      "name": "Mudkip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/33.png"
+    },
+    {
+      "id": "xy5-34",
+      "number": 34,
+      "name": "Marshtomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/34.png"
+    },
+    {
+      "id": "xy5-35",
+      "number": 35,
+      "name": "Swampert",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/35.png"
+    },
+    {
+      "id": "xy5-36",
+      "number": 36,
+      "name": "Swampert",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/36.png"
+    },
+    {
+      "id": "xy5-37",
+      "number": 37,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/37.png"
+    },
+    {
+      "id": "xy5-38",
+      "number": 38,
+      "name": "Wailord EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/38.png"
+    },
+    {
+      "id": "xy5-39",
+      "number": 39,
+      "name": "Barboach",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/39.png"
+    },
+    {
+      "id": "xy5-40",
+      "number": 40,
+      "name": "Whiscash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/40.png"
+    },
+    {
+      "id": "xy5-41",
+      "number": 41,
+      "name": "Whiscash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/41.png"
+    },
+    {
+      "id": "xy5-42",
+      "number": 42,
+      "name": "Corphish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/42.png"
+    },
+    {
+      "id": "xy5-43",
+      "number": 43,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/43.png"
+    },
+    {
+      "id": "xy5-44",
+      "number": 44,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/44.png"
+    },
+    {
+      "id": "xy5-45",
+      "number": 45,
+      "name": "Spheal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/45.png"
+    },
+    {
+      "id": "xy5-46",
+      "number": 46,
+      "name": "Spheal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/46.png"
+    },
+    {
+      "id": "xy5-47",
+      "number": 47,
+      "name": "Sealeo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/47.png"
+    },
+    {
+      "id": "xy5-48",
+      "number": 48,
+      "name": "Walrein",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/48.png"
+    },
+    {
+      "id": "xy5-49",
+      "number": 49,
+      "name": "Clamperl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/49.png"
+    },
+    {
+      "id": "xy5-50",
+      "number": 50,
+      "name": "Huntail",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/50.png"
+    },
+    {
+      "id": "xy5-51",
+      "number": 51,
+      "name": "Gorebyss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/51.png"
+    },
+    {
+      "id": "xy5-52",
+      "number": 52,
+      "name": "Gorebyss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/52.png"
+    },
+    {
+      "id": "xy5-53",
+      "number": 53,
+      "name": "Kyogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/53.png"
+    },
+    {
+      "id": "xy5-54",
+      "number": 54,
+      "name": "Kyogre EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/54.png"
+    },
+    {
+      "id": "xy5-55",
+      "number": 55,
+      "name": "Primal Kyogre EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/55.png"
+    },
+    {
+      "id": "xy5-56",
+      "number": 56,
+      "name": "Manaphy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/56.png"
+    },
+    {
+      "id": "xy5-57",
+      "number": 57,
+      "name": "Chinchou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/57.png"
+    },
+    {
+      "id": "xy5-58",
+      "number": 58,
+      "name": "Lanturn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/58.png"
+    },
+    {
+      "id": "xy5-59",
+      "number": 59,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/59.png"
+    },
+    {
+      "id": "xy5-60",
+      "number": 60,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/60.png"
+    },
+    {
+      "id": "xy5-61",
+      "number": 61,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/61.png"
+    },
+    {
+      "id": "xy5-62",
+      "number": 62,
+      "name": "Tynamo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/62.png"
+    },
+    {
+      "id": "xy5-63",
+      "number": 63,
+      "name": "Eelektrik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/63.png"
+    },
+    {
+      "id": "xy5-64",
+      "number": 64,
+      "name": "Eelektrik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/64.png"
+    },
+    {
+      "id": "xy5-65",
+      "number": 65,
+      "name": "Eelektross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/65.png"
+    },
+    {
+      "id": "xy5-66",
+      "number": 66,
+      "name": "Nidoran♀",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/66.png"
+    },
+    {
+      "id": "xy5-67",
+      "number": 67,
+      "name": "Nidorina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/67.png"
+    },
+    {
+      "id": "xy5-68",
+      "number": 68,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/68.png"
+    },
+    {
+      "id": "xy5-69",
+      "number": 69,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/69.png"
+    },
+    {
+      "id": "xy5-70",
+      "number": 70,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/70.png"
+    },
+    {
+      "id": "xy5-71",
+      "number": 71,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/71.png"
+    },
+    {
+      "id": "xy5-72",
+      "number": 72,
+      "name": "Tentacruel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/72.png"
+    },
+    {
+      "id": "xy5-73",
+      "number": 73,
+      "name": "Starmie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/73.png"
+    },
+    {
+      "id": "xy5-74",
+      "number": 74,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/74.png"
+    },
+    {
+      "id": "xy5-75",
+      "number": 75,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/75.png"
+    },
+    {
+      "id": "xy5-76",
+      "number": 76,
+      "name": "Rhyperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/76.png"
+    },
+    {
+      "id": "xy5-77",
+      "number": 77,
+      "name": "Rhyperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/77.png"
+    },
+    {
+      "id": "xy5-78",
+      "number": 78,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/78.png"
+    },
+    {
+      "id": "xy5-79",
+      "number": 79,
+      "name": "Meditite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/79.png"
+    },
+    {
+      "id": "xy5-80",
+      "number": 80,
+      "name": "Medicham",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/80.png"
+    },
+    {
+      "id": "xy5-81",
+      "number": 81,
+      "name": "Medicham",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/81.png"
+    },
+    {
+      "id": "xy5-82",
+      "number": 82,
+      "name": "Trapinch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/82.png"
+    },
+    {
+      "id": "xy5-83",
+      "number": 83,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/83.png"
+    },
+    {
+      "id": "xy5-84",
+      "number": 84,
+      "name": "Groudon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/84.png"
+    },
+    {
+      "id": "xy5-85",
+      "number": 85,
+      "name": "Groudon EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/85.png"
+    },
+    {
+      "id": "xy5-86",
+      "number": 86,
+      "name": "Primal Groudon EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/86.png"
+    },
+    {
+      "id": "xy5-87",
+      "number": 87,
+      "name": "Hippopotas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/87.png"
+    },
+    {
+      "id": "xy5-88",
+      "number": 88,
+      "name": "Hippowdon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/88.png"
+    },
+    {
+      "id": "xy5-89",
+      "number": 89,
+      "name": "Drilbur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/89.png"
+    },
+    {
+      "id": "xy5-90",
+      "number": 90,
+      "name": "Diggersby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/90.png"
+    },
+    {
+      "id": "xy5-91",
+      "number": 91,
+      "name": "Sharpedo EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/91.png"
+    },
+    {
+      "id": "xy5-92",
+      "number": 92,
+      "name": "Crawdaunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/92.png"
+    },
+    {
+      "id": "xy5-93",
+      "number": 93,
+      "name": "Aggron EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/93.png"
+    },
+    {
+      "id": "xy5-94",
+      "number": 94,
+      "name": "M Aggron EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/94.png"
+    },
+    {
+      "id": "xy5-95",
+      "number": 95,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/95.png"
+    },
+    {
+      "id": "xy5-96",
+      "number": 96,
+      "name": "Excadrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/96.png"
+    },
+    {
+      "id": "xy5-97",
+      "number": 97,
+      "name": "Excadrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/97.png"
+    },
+    {
+      "id": "xy5-98",
+      "number": 98,
+      "name": "Honedge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/98.png"
+    },
+    {
+      "id": "xy5-99",
+      "number": 99,
+      "name": "Doublade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/99.png"
+    },
+    {
+      "id": "xy5-100",
+      "number": 100,
+      "name": "Aegislash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/100.png"
+    },
+    {
+      "id": "xy5-101",
+      "number": 101,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/101.png"
+    },
+    {
+      "id": "xy5-102",
+      "number": 102,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/102.png"
+    },
+    {
+      "id": "xy5-103",
+      "number": 103,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/103.png"
+    },
+    {
+      "id": "xy5-104",
+      "number": 104,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/104.png"
+    },
+    {
+      "id": "xy5-105",
+      "number": 105,
+      "name": "Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/105.png"
+    },
+    {
+      "id": "xy5-106",
+      "number": 106,
+      "name": "M Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/106.png"
+    },
+    {
+      "id": "xy5-107",
+      "number": 107,
+      "name": "Kingdra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/107.png"
+    },
+    {
+      "id": "xy5-108",
+      "number": 108,
+      "name": "Kingdra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/108.png"
+    },
+    {
+      "id": "xy5-109",
+      "number": 109,
+      "name": "Vibrava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/109.png"
+    },
+    {
+      "id": "xy5-110",
+      "number": 110,
+      "name": "Flygon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/110.png"
+    },
+    {
+      "id": "xy5-111",
+      "number": 111,
+      "name": "Zigzagoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/111.png"
+    },
+    {
+      "id": "xy5-112",
+      "number": 112,
+      "name": "Linoone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/112.png"
+    },
+    {
+      "id": "xy5-113",
+      "number": 113,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/113.png"
+    },
+    {
+      "id": "xy5-114",
+      "number": 114,
+      "name": "Delcatty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/114.png"
+    },
+    {
+      "id": "xy5-115",
+      "number": 115,
+      "name": "Spinda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/115.png"
+    },
+    {
+      "id": "xy5-116",
+      "number": 116,
+      "name": "Bidoof",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/116.png"
+    },
+    {
+      "id": "xy5-117",
+      "number": 117,
+      "name": "Bidoof",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/117.png"
+    },
+    {
+      "id": "xy5-118",
+      "number": 118,
+      "name": "Bibarel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/118.png"
+    },
+    {
+      "id": "xy5-119",
+      "number": 119,
+      "name": "Bouffalant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/119.png"
+    },
+    {
+      "id": "xy5-120",
+      "number": 120,
+      "name": "Bunnelby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/120.png"
+    },
+    {
+      "id": "xy5-121",
+      "number": 121,
+      "name": "Bunnelby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/121.png"
+    },
+    {
+      "id": "xy5-122",
+      "number": 122,
+      "name": "Acro Bike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/122.png"
+    },
+    {
+      "id": "xy5-123",
+      "number": 123,
+      "name": "Aggron Spirit Link",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/123.png"
+    },
+    {
+      "id": "xy5-124",
+      "number": 124,
+      "name": "Archie's Ace in the Hole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/124.png"
+    },
+    {
+      "id": "xy5-125",
+      "number": 125,
+      "name": "Dive Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/125.png"
+    },
+    {
+      "id": "xy5-126",
+      "number": 126,
+      "name": "Energy Retrieval",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/126.png"
+    },
+    {
+      "id": "xy5-127",
+      "number": 127,
+      "name": "Escape Rope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/127.png"
+    },
+    {
+      "id": "xy5-128",
+      "number": 128,
+      "name": "Exp. Share",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/128.png"
+    },
+    {
+      "id": "xy5-129",
+      "number": 129,
+      "name": "Fresh Water Set",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/129.png"
+    },
+    {
+      "id": "xy5-130",
+      "number": 130,
+      "name": "Gardevoir Spirit Link",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/130.png"
+    },
+    {
+      "id": "xy5-131",
+      "number": 131,
+      "name": "Groudon Spirit Link",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/131.png"
+    },
+    {
+      "id": "xy5-132",
+      "number": 132,
+      "name": "Kyogre Spirit Link",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/132.png"
+    },
+    {
+      "id": "xy5-133",
+      "number": 133,
+      "name": "Maxie's Hidden Ball Trick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/133.png"
+    },
+    {
+      "id": "xy5-134",
+      "number": 134,
+      "name": "Professor Birch's Observations",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/134.png"
+    },
+    {
+      "id": "xy5-135",
+      "number": 135,
+      "name": "Rare Candy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/135.png"
+    },
+    {
+      "id": "xy5-136",
+      "number": 136,
+      "name": "Repeat Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/136.png"
+    },
+    {
+      "id": "xy5-137",
+      "number": 137,
+      "name": "Rough Seas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/137.png"
+    },
+    {
+      "id": "xy5-138",
+      "number": 138,
+      "name": "Scorched Earth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/138.png"
+    },
+    {
+      "id": "xy5-139",
+      "number": 139,
+      "name": "Shrine of Memories",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/139.png"
+    },
+    {
+      "id": "xy5-140",
+      "number": 140,
+      "name": "Silent Lab",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/140.png"
+    },
+    {
+      "id": "xy5-141",
+      "number": 141,
+      "name": "Teammates",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/141.png"
+    },
+    {
+      "id": "xy5-142",
+      "number": 142,
+      "name": "Weakness Policy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/142.png"
+    },
+    {
+      "id": "xy5-143",
+      "number": 143,
+      "name": "Shield Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/143.png"
+    },
+    {
+      "id": "xy5-144",
+      "number": 144,
+      "name": "Wonder Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/144.png"
+    },
+    {
+      "id": "xy5-145",
+      "number": 145,
+      "name": "Trevenant EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/145.png"
+    },
+    {
+      "id": "xy5-146",
+      "number": 146,
+      "name": "Camerupt EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/146.png"
+    },
+    {
+      "id": "xy5-147",
+      "number": 147,
+      "name": "Wailord EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/147.png"
+    },
+    {
+      "id": "xy5-148",
+      "number": 148,
+      "name": "Kyogre EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/148.png"
+    },
+    {
+      "id": "xy5-149",
+      "number": 149,
+      "name": "Primal Kyogre EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/149.png"
+    },
+    {
+      "id": "xy5-150",
+      "number": 150,
+      "name": "Groudon EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/150.png"
+    },
+    {
+      "id": "xy5-151",
+      "number": 151,
+      "name": "Primal Groudon EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/151.png"
+    },
+    {
+      "id": "xy5-152",
+      "number": 152,
+      "name": "Sharpedo EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/152.png"
+    },
+    {
+      "id": "xy5-153",
+      "number": 153,
+      "name": "Aggron EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/153.png"
+    },
+    {
+      "id": "xy5-154",
+      "number": 154,
+      "name": "M Aggron EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/154.png"
+    },
+    {
+      "id": "xy5-155",
+      "number": 155,
+      "name": "Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/155.png"
+    },
+    {
+      "id": "xy5-156",
+      "number": 156,
+      "name": "M Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/156.png"
+    },
+    {
+      "id": "xy5-157",
+      "number": 157,
+      "name": "Archie's Ace in the Hole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/157.png"
+    },
+    {
+      "id": "xy5-158",
+      "number": 158,
+      "name": "Maxie's Hidden Ball Trick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/158.png"
+    },
+    {
+      "id": "xy5-159",
+      "number": 159,
+      "name": "Professor Birch's Observations",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/159.png"
+    },
+    {
+      "id": "xy5-160",
+      "number": 160,
+      "name": "Teammates",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/160.png"
+    },
+    {
+      "id": "xy5-161",
+      "number": 161,
+      "name": "Dive Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/161.png"
+    },
+    {
+      "id": "xy5-162",
+      "number": 162,
+      "name": "Enhanced Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/162.png"
+    },
+    {
+      "id": "xy5-163",
+      "number": 163,
+      "name": "Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/163.png"
+    },
+    {
+      "id": "xy5-164",
+      "number": 164,
+      "name": "Weakness Policy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Primal%20Clash/images/164.png"
+    }
+  ]
+}
