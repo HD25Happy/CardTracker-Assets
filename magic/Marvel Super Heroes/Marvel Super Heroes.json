@@ -1,0 +1,2725 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Marvel Super Heroes",
+  "totalCards": 453,
+  "cards": [
+    {
+      "id": "107cb521-9806-47dc-92d8-b43112b63caa",
+      "number": 1,
+      "name": "Agent 13, Sharon Carter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/1.jpg"
+    },
+    {
+      "id": "9e327c67-1cf1-4d82-903c-b41c8e7cf747",
+      "number": 2,
+      "name": "Agent Maria Hill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/2.jpg"
+    },
+    {
+      "id": "a9db550e-ed1f-4973-a7f5-ec2e6adb8e6b",
+      "number": 3,
+      "name": "Agent of Atlas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/3.jpg"
+    },
+    {
+      "id": "1383e587-df58-4b45-9067-b9399e90b9ed",
+      "number": 4,
+      "name": "Agent Phil Coulson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/4.jpg"
+    },
+    {
+      "id": "d9b5e156-0764-44e0-b0c7-de2561ea9e04",
+      "number": 5,
+      "name": "Agents of S.H.I.E.L.D.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/5.jpg"
+    },
+    {
+      "id": "bf736399-af74-4f52-9159-67ea67d0cf83",
+      "number": 6,
+      "name": "Avengers Assemble!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/6.jpg"
+    },
+    {
+      "id": "bb753ac8-67e1-44b0-b404-37f04c2b7438",
+      "number": 7,
+      "name": "Borough Backup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/7.jpg"
+    },
+    {
+      "id": "2242b5c3-42ef-4be0-a61f-65c93e56fcab",
+      "number": 8,
+      "name": "Brave Brawler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/8.jpg"
+    },
+    {
+      "id": "33631d6c-c584-42ff-afe5-2647b5fb321f",
+      "number": 9,
+      "name": "Captain America, Super-Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/9.jpg"
+    },
+    {
+      "id": "c87ca9ce-5034-4137-99cc-c2b28f298912",
+      "number": 10,
+      "name": "Captain America, Wings of Freedom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/10.jpg"
+    },
+    {
+      "id": "eb098550-22e6-4079-8c59-ed9ec2f764e3",
+      "number": 11,
+      "name": "Captain Marvel, Earth's Protector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/11.jpg"
+    },
+    {
+      "id": "27924c2f-756c-42af-9830-18a5a2735137",
+      "number": 12,
+      "name": "Captain Mar-Vell, Space-Born",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/12.jpg"
+    },
+    {
+      "id": "8bffc505-608e-4a5b-9ed9-2321e4cab484",
+      "number": 13,
+      "name": "Colleen Wing, Street Samurai",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/13.jpg"
+    },
+    {
+      "id": "4b2fffb8-d538-4772-8fbc-9bec3b9c4d9c",
+      "number": 14,
+      "name": "Crowd of True Believers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/14.jpg"
+    },
+    {
+      "id": "6e518842-ce44-4af2-8f38-89869828294a",
+      "number": 15,
+      "name": "Helicarrier Strike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/15.jpg"
+    },
+    {
+      "id": "105a937b-289c-47b5-96a4-654c697bbb7d",
+      "number": 16,
+      "name": "Hero in Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/16.jpg"
+    },
+    {
+      "id": "2f80394b-2f7e-40a7-8203-720bcf39d71b",
+      "number": 17,
+      "name": "Invisible Woman, Sue Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/17.jpg"
+    },
+    {
+      "id": "61237530-ad49-469c-a952-67c92315708e",
+      "number": 18,
+      "name": "Jennifer Walters // The Sensational She-Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/18.jpg"
+    },
+    {
+      "id": "401f9ccf-f30c-4777-9a5b-4c340e724fff",
+      "number": 19,
+      "name": "Kree Commandos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/19.jpg"
+    },
+    {
+      "id": "3b72c9e9-1cb2-4374-873a-53af293d86d0",
+      "number": 20,
+      "name": "Luke Cage, Power Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/20.jpg"
+    },
+    {
+      "id": "87f1e69a-6d74-4982-afda-82613637799a",
+      "number": 21,
+      "name": "The Mind Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/21.jpg"
+    },
+    {
+      "id": "0f5701ac-ec30-4fb1-bd71-4bac4693c075",
+      "number": 22,
+      "name": "Mockingbird, Ace Agent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/22.jpg"
+    },
+    {
+      "id": "3f995518-b12a-4623-9ab3-b79a5cef3cba",
+      "number": 23,
+      "name": "Monica Rambeau // Photon, Living Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/23.jpg"
+    },
+    {
+      "id": "98df64ca-39c3-47e6-8143-4106c8e9cf59",
+      "number": 24,
+      "name": "Murdock's Crusade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/24.jpg"
+    },
+    {
+      "id": "3aa6fc02-ef76-426b-accd-6c0ef88b2a5e",
+      "number": 25,
+      "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/25.jpg"
+    },
+    {
+      "id": "3199907b-9f24-4554-942a-8ab5a7701717",
+      "number": 26,
+      "name": "Night Nurse, Healer of Heroes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/26.jpg"
+    },
+    {
+      "id": "2c89acf5-20f0-4441-b96f-2c5cacd685fb",
+      "number": 27,
+      "name": "Okoye, Dora Milaje Leader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/27.jpg"
+    },
+    {
+      "id": "9b0701e8-e365-425a-b897-92f4df9edcb8",
+      "number": 28,
+      "name": "Origin of the Avengers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/28.jpg"
+    },
+    {
+      "id": "4122ae40-800d-4b6b-93c9-aa503c33f1a9",
+      "number": 29,
+      "name": "Panther Pounce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/29.jpg"
+    },
+    {
+      "id": "1467d7c9-00d8-43f1-b4e7-a279d2b10503",
+      "number": 30,
+      "name": "Patriot, Shield Wielder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/30.jpg"
+    },
+    {
+      "id": "dec3dd36-b8ca-432b-8973-d37c6efc4c1a",
+      "number": 31,
+      "name": "Political Triumph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/31.jpg"
+    },
+    {
+      "id": "92dad216-ef8e-4af2-a3c6-1d215721c478",
+      "number": 32,
+      "name": "Quake, Agent of S.H.I.E.L.D.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/32.jpg"
+    },
+    {
+      "id": "f9b9f9d6-b50c-4b29-80be-284ba773c70b",
+      "number": 33,
+      "name": "Raft Security Officer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/33.jpg"
+    },
+    {
+      "id": "c08f8163-319a-4a31-b15a-93974cacd5b7",
+      "number": 34,
+      "name": "Red Guardian, Super-Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/34.jpg"
+    },
+    {
+      "id": "3f56c0e7-5b07-48e3-b0ca-5d09ddc8de9a",
+      "number": 35,
+      "name": "The Sentry, Golden Guardian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/35.jpg"
+    },
+    {
+      "id": "4938e23f-b5da-493b-9904-af61a3733ba0",
+      "number": 36,
+      "name": "S.H.I.E.L.D. Spy Kit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/36.jpg"
+    },
+    {
+      "id": "1af5a1ca-3d11-45e3-ba12-c455c5a7fea1",
+      "number": 37,
+      "name": "Super Villain Lockup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/37.jpg"
+    },
+    {
+      "id": "845b0be1-4f85-4a8c-8205-dc85c8cf9a61",
+      "number": 38,
+      "name": "Super-Soldier Serum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/38.jpg"
+    },
+    {
+      "id": "5199d708-8b11-461d-9e91-3e8cd70906f7",
+      "number": 39,
+      "name": "Take Up the Shield",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/39.jpg"
+    },
+    {
+      "id": "4b12dc1f-2218-4c71-aafa-ea6a26eeb0aa",
+      "number": 40,
+      "name": "Wakandan Drone Flock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/40.jpg"
+    },
+    {
+      "id": "9a1b057b-229c-4f65-ba4e-12dd342238de",
+      "number": 41,
+      "name": "Web Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/41.jpg"
+    },
+    {
+      "id": "57da765f-7d87-42ac-9eb0-a49c296fbbf8",
+      "number": 42,
+      "name": "White Widow, Free Agent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/42.jpg"
+    },
+    {
+      "id": "e727ec1c-dc3b-4f1a-8a62-18549f118b89",
+      "number": 43,
+      "name": "Aerial Doombot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/43.jpg"
+    },
+    {
+      "id": "ab96b656-100e-491a-a8c9-94dbb9482c4d",
+      "number": 44,
+      "name": "A.I.M. Scientists",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/44.jpg"
+    },
+    {
+      "id": "1319bf54-8705-4cc4-8d08-40f05fd09837",
+      "number": 45,
+      "name": "Atlantean Cavalry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/45.jpg"
+    },
+    {
+      "id": "40bc4380-055d-4913-93cb-280c9c1d1a87",
+      "number": 46,
+      "name": "Atlantis Attacks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/46.jpg"
+    },
+    {
+      "id": "c3d5add1-0d0e-414b-a964-8da326472d35",
+      "number": 47,
+      "name": "Attuma, Atlantean Warlord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/47.jpg"
+    },
+    {
+      "id": "10644127-3da0-484e-9afc-de26d9c34390",
+      "number": 48,
+      "name": "Bold Biochemist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/48.jpg"
+    },
+    {
+      "id": "e0dbbdcf-84e1-494f-8b8c-0a094f603fa9",
+      "number": 49,
+      "name": "Bruce Banner // The Incredible Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/49.jpg"
+    },
+    {
+      "id": "36e9a6e9-1f9d-4860-97ee-f01e66f8eb4d",
+      "number": 50,
+      "name": "Depower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/50.jpg"
+    },
+    {
+      "id": "cd9b9be6-0143-467c-8a2a-937ecafe0473",
+      "number": 51,
+      "name": "Echo, Perceptive Prodigy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/51.jpg"
+    },
+    {
+      "id": "8dc209ed-0d4c-4d0c-90e8-04cadc3d4c3d",
+      "number": 52,
+      "name": "Falcon, Winged Wonder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/52.jpg"
+    },
+    {
+      "id": "20e93f86-9e20-4e08-9bf7-ae6ebebf6876",
+      "number": 53,
+      "name": "Falcon's Wing Harness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/53.jpg"
+    },
+    {
+      "id": "a990260b-39b7-4799-930a-bf9ac208d9ed",
+      "number": 54,
+      "name": "Frozen in Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/54.jpg"
+    },
+    {
+      "id": "a50feebf-c660-43f1-9fae-75294703b346",
+      "number": 55,
+      "name": "Futurist Forge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/55.jpg"
+    },
+    {
+      "id": "da529bb3-725b-41aa-ac34-b4117ff5d95b",
+      "number": 56,
+      "name": "Giant-Sized Flying Ant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/56.jpg"
+    },
+    {
+      "id": "06d8a2a0-775b-4813-973f-8b15612b38d1",
+      "number": 57,
+      "name": "Hydraulic Helper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/57.jpg"
+    },
+    {
+      "id": "9c401abb-5978-41c0-962b-0432f9433929",
+      "number": 58,
+      "name": "I Am Iron Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/58.jpg"
+    },
+    {
+      "id": "355e7197-2f20-43b6-9305-73c4e1fd4a3c",
+      "number": 59,
+      "name": "Iron Lad, Diverging Destiny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/59.jpg"
+    },
+    {
+      "id": "395e477a-861f-4661-b329-6c1ad5343ed5",
+      "number": 60,
+      "name": "Ironheart, Clever Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/60.jpg"
+    },
+    {
+      "id": "f1448731-d50e-4b9c-8eb2-3d85c21516c6",
+      "number": 61,
+      "name": "Justice, Vance Astrovik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/61.jpg"
+    },
+    {
+      "id": "79747b45-fd7b-4023-9a9c-4d9dab2429fe",
+      "number": 62,
+      "name": "Kang the Conqueror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/62.jpg"
+    },
+    {
+      "id": "5c9ff69e-6489-49f3-b401-64856f0b7c11",
+      "number": 63,
+      "name": "Kid Loki",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/63.jpg"
+    },
+    {
+      "id": "2c8aab8d-2dfe-49c8-9aa8-536b0587b467",
+      "number": 64,
+      "name": "Leader, Super-Genius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/64.jpg"
+    },
+    {
+      "id": "236c437f-ee9d-4145-a4db-b665908089cf",
+      "number": 65,
+      "name": "Loki, God of Mischief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/65.jpg"
+    },
+    {
+      "id": "17ef068b-61fc-443d-97b0-1e41f2622425",
+      "number": 66,
+      "name": "Mister Fantastic, Reed Richards",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/66.jpg"
+    },
+    {
+      "id": "9dd2d627-10fc-4045-8545-03bcf75e60ca",
+      "number": 67,
+      "name": "Ms. Marvel, Kamala Khan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/67.jpg"
+    },
+    {
+      "id": "8a505f6f-933c-4644-838f-897f5e4133b0",
+      "number": 68,
+      "name": "Multiversal Incursion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/68.jpg"
+    },
+    {
+      "id": "7aaefcf9-fbe1-4767-92a5-09825761d116",
+      "number": 69,
+      "name": "Namor the Sub-Mariner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/69.jpg"
+    },
+    {
+      "id": "928dfa54-1ead-4eff-a538-36cb94f05b78",
+      "number": 70,
+      "name": "Pym Particles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/70.jpg"
+    },
+    {
+      "id": "91fdf444-3f41-4b8b-b9f5-f3ae3d903649",
+      "number": 71,
+      "name": "Rewrite History",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/71.jpg"
+    },
+    {
+      "id": "e361b2f4-cd2f-44e9-a56d-c1d6b5ae742d",
+      "number": 72,
+      "name": "Secret Invasion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/72.jpg"
+    },
+    {
+      "id": "c3d0f02f-dfaf-47b6-8053-514417f4dfe2",
+      "number": 73,
+      "name": "S.H.I.E.L.D. Deployment Drone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/73.jpg"
+    },
+    {
+      "id": "8e651410-b829-4468-b866-a9dd15f909ad",
+      "number": 74,
+      "name": "S.H.I.E.L.D. Flying Car",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/74.jpg"
+    },
+    {
+      "id": "65005522-555e-4479-939c-be16e0262f6f",
+      "number": 75,
+      "name": "Shuri, Wakandan Inventor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/75.jpg"
+    },
+    {
+      "id": "fe692959-64ca-4065-9f9e-1abe590e3d0f",
+      "number": 76,
+      "name": "Stature, Size Shifter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/76.jpg"
+    },
+    {
+      "id": "f26613a1-b4ad-4c7f-8dd9-8f82de995f0c",
+      "number": 77,
+      "name": "Super Intelligence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/77.jpg"
+    },
+    {
+      "id": "e87f3a26-c2e5-47c7-b19d-bc01cb794805",
+      "number": 78,
+      "name": "Super Suit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/78.jpg"
+    },
+    {
+      "id": "5f4f77e5-0019-4a5f-bae6-136121946929",
+      "number": 79,
+      "name": "Thirst for Knowledge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/79.jpg"
+    },
+    {
+      "id": "4cea42fd-035e-4b8f-8b1d-ff363b694f14",
+      "number": 80,
+      "name": "Tony Stark // The Invincible Iron Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/80.jpg"
+    },
+    {
+      "id": "620376d0-dc0c-405f-8121-eb36d9b4f4c2",
+      "number": 81,
+      "name": "Trickster's Stratagem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/81.jpg"
+    },
+    {
+      "id": "13b70321-75bd-4d44-b9f6-5f062a5dda0f",
+      "number": 82,
+      "name": "We Say Thee Nay!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/82.jpg"
+    },
+    {
+      "id": "5d27ddec-716d-47e5-ac48-365e91b88ff1",
+      "number": 83,
+      "name": "Wiccan, Rising Magician",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/83.jpg"
+    },
+    {
+      "id": "484e80a4-1d5f-4c27-98a8-ee2ef9d6cbdc",
+      "number": 84,
+      "name": "The Wondrous Wasp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/84.jpg"
+    },
+    {
+      "id": "857fef2e-df1f-4ec6-a262-f6fa52389cf9",
+      "number": 85,
+      "name": "Agents of HYDRA",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/85.jpg"
+    },
+    {
+      "id": "07c70df6-b064-424a-852e-201b312a5b54",
+      "number": 86,
+      "name": "Arnim Zola, Bio-Fanatic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/86.jpg"
+    },
+    {
+      "id": "c2aadc25-7755-4bc8-a8af-b01d27eec364",
+      "number": 87,
+      "name": "Baron Helmut Zemo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/87.jpg"
+    },
+    {
+      "id": "eaf2251a-ffaf-4055-9474-7e3d08d89609",
+      "number": 88,
+      "name": "Baron Strucker, HYDRA Overlord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/88.jpg"
+    },
+    {
+      "id": "63ce0909-7d7d-410d-ab6c-c87fa3e23877",
+      "number": 89,
+      "name": "Black Widow, Super Spy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/89.jpg"
+    },
+    {
+      "id": "448de757-ac16-4529-b851-1a1331b821a5",
+      "number": 90,
+      "name": "Construct a Cosmic Cube",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/90.jpg"
+    },
+    {
+      "id": "1576148a-2371-49ba-8eef-0bc2ec3dcaf3",
+      "number": 91,
+      "name": "Crossbones, Malicious Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/91.jpg"
+    },
+    {
+      "id": "d895d5a1-d382-438b-8551-e142bb5142af",
+      "number": 92,
+      "name": "Cruel Alliance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/92.jpg"
+    },
+    {
+      "id": "49e36cac-3999-40b3-91b3-85af4fded679",
+      "number": 93,
+      "name": "Dark Deed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/93.jpg"
+    },
+    {
+      "id": "d8719b74-48ef-4f68-b59a-949edd644ddc",
+      "number": 94,
+      "name": "Decoy Ploy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/94.jpg"
+    },
+    {
+      "id": "9b1f213a-e1d4-4a0f-954b-c83915698d98",
+      "number": 95,
+      "name": "Doctor Doom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/95.jpg"
+    },
+    {
+      "id": "9b99894b-c774-45c2-9ee9-4d6a8e7522f5",
+      "number": 96,
+      "name": "Doom Reigns Supreme",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/96.jpg"
+    },
+    {
+      "id": "ac3e586c-d654-4631-beda-a5e29cf04717",
+      "number": 97,
+      "name": "Elektra, Daughter of the Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/97.jpg"
+    },
+    {
+      "id": "4b1cedfe-4712-4602-a8a8-112bd54c9938",
+      "number": 98,
+      "name": "Grim Reaper, Lethal Legionnaire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/98.jpg"
+    },
+    {
+      "id": "9e0034dd-396e-46af-b931-0daa25da4406",
+      "number": 99,
+      "name": "Hour of Defeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/99.jpg"
+    },
+    {
+      "id": "c2e446e1-e384-4d5f-8099-544f78c08510",
+      "number": 100,
+      "name": "HYDRA Infiltration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/100.jpg"
+    },
+    {
+      "id": "40c202f1-6e0d-42f4-a41e-e0be3362d585",
+      "number": 101,
+      "name": "HYDRA Troopers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/101.jpg"
+    },
+    {
+      "id": "64056edb-6de2-4694-b771-f35542c25771",
+      "number": 102,
+      "name": "Kingpin's Enforcers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/102.jpg"
+    },
+    {
+      "id": "c79a86f8-24e9-49a2-8b1c-72a72fed1985",
+      "number": 103,
+      "name": "Klaw, Sonic Subjugator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/103.jpg"
+    },
+    {
+      "id": "f54197b8-6279-43ee-9340-69bd22cf3775",
+      "number": 104,
+      "name": "Madame Masque",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/104.jpg"
+    },
+    {
+      "id": "65ba4439-3282-4179-85b9-67a25e2e5d24",
+      "number": 105,
+      "name": "The Masters of Evil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/105.jpg"
+    },
+    {
+      "id": "38e87542-50f7-4812-9338-84e4b9b7bb44",
+      "number": 106,
+      "name": "M.O.D.O.K.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/106.jpg"
+    },
+    {
+      "id": "1a1b2bd0-e17d-4b34-a8ee-7c913a6bc945",
+      "number": 107,
+      "name": "Moonstone, Harsh Mistress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/107.jpg"
+    },
+    {
+      "id": "6b8116d8-2cc6-449b-a8b4-8a5166553497",
+      "number": 108,
+      "name": "Ninja of the Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/108.jpg"
+    },
+    {
+      "id": "5c21a120-4ec7-46ec-974a-2204edb92abb",
+      "number": 109,
+      "name": "Project Deathlok Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/109.jpg"
+    },
+    {
+      "id": "f52a5ba3-a618-4f52-9d33-ba85345eb627",
+      "number": 110,
+      "name": "Red Room Recruit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/110.jpg"
+    },
+    {
+      "id": "b26bb968-6612-43fe-9147-a3d4786cbc20",
+      "number": 111,
+      "name": "Robot Domination",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/111.jpg"
+    },
+    {
+      "id": "f74b9794-946e-4ddc-93b2-5a321fc51fd0",
+      "number": 112,
+      "name": "Ronin, Shadow Stalker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/112.jpg"
+    },
+    {
+      "id": "66550490-74e1-4bf1-8741-1266dfab3a03",
+      "number": 113,
+      "name": "Roxxon Brutes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/113.jpg"
+    },
+    {
+      "id": "db4557ad-4141-4dae-870e-a587506f4914",
+      "number": 114,
+      "name": "Stolen Stark Tech",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/114.jpg"
+    },
+    {
+      "id": "11fc8221-756a-4919-9272-38793e9c1ad9",
+      "number": 115,
+      "name": "Super-Skrull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/115.jpg"
+    },
+    {
+      "id": "6572aafe-18ed-4182-92e9-25f003f5fe3d",
+      "number": 116,
+      "name": "Swordsman, Sharp Scoundrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/116.jpg"
+    },
+    {
+      "id": "f498c1a4-54d2-4e87-952f-8cf7e408930c",
+      "number": 117,
+      "name": "Thunderbolts Conspiracy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/117.jpg"
+    },
+    {
+      "id": "f471e9ce-73bb-4090-98f2-f591c7cf4efe",
+      "number": 118,
+      "name": "Too Evil to Stay Dead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/118.jpg"
+    },
+    {
+      "id": "ce08f4bb-7da3-4199-8b90-fcdb29e84e98",
+      "number": 119,
+      "name": "Unliving Legionnaire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/119.jpg"
+    },
+    {
+      "id": "f8f1e4f9-7415-437f-b694-ecbdd76db114",
+      "number": 120,
+      "name": "Visions of Villainy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/120.jpg"
+    },
+    {
+      "id": "6f6e6767-4d20-469c-9f4b-7286b8cc1979",
+      "number": 121,
+      "name": "Whiplash, Vengeful Engineer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/121.jpg"
+    },
+    {
+      "id": "dbee18af-9ade-4251-81a1-f6e7ffbf480f",
+      "number": 122,
+      "name": "Widow's Bite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/122.jpg"
+    },
+    {
+      "id": "d8f91212-2ff5-4024-8f14-86bb5c4a9754",
+      "number": 123,
+      "name": "Yellowjacket, Heartless Marauder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/123.jpg"
+    },
+    {
+      "id": "72d3e750-870b-497d-80d7-e3df097db554",
+      "number": 124,
+      "name": "Avengers Disassembled",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/124.jpg"
+    },
+    {
+      "id": "8447c3d6-8c65-4d3c-81c4-609801602d06",
+      "number": 125,
+      "name": "Blazing Crescendo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/125.jpg"
+    },
+    {
+      "id": "c4bc077c-f220-47a5-aaf4-5324ca23d0c5",
+      "number": 126,
+      "name": "Crimson Operative",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/126.jpg"
+    },
+    {
+      "id": "f2a8f518-c0b5-4e15-aab2-49b5ef29fb41",
+      "number": 127,
+      "name": "Death to Our Enemies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/127.jpg"
+    },
+    {
+      "id": "310e30cd-b8c3-40ea-9d61-57c5c5fc2a0b",
+      "number": 128,
+      "name": "Evil's Thrall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/128.jpg"
+    },
+    {
+      "id": "7777fac1-7bf5-4454-960d-26ec3183e392",
+      "number": 129,
+      "name": "Fin Fang Foom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/129.jpg"
+    },
+    {
+      "id": "9991b684-0ae0-4aa4-8f22-a9c473f5d69c",
+      "number": 130,
+      "name": "Hawkeye, Master Marksman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/130.jpg"
+    },
+    {
+      "id": "3cebccbb-dde2-41fe-bfdc-0a46ee185749",
+      "number": 131,
+      "name": "Hawkeye, Young Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/131.jpg"
+    },
+    {
+      "id": "485be72b-d784-4886-bb3a-48cff8f781c6",
+      "number": 132,
+      "name": "Hawkeye's Bow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/132.jpg"
+    },
+    {
+      "id": "259bed47-1950-43ae-8efd-3009537529a8",
+      "number": 133,
+      "name": "Hex Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/133.jpg"
+    },
+    {
+      "id": "50a6aa80-79a3-46f3-9cc1-5bf663b64976",
+      "number": 134,
+      "name": "Hire a Crew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/134.jpg"
+    },
+    {
+      "id": "374ffb3e-0753-4682-936a-ae6921ace475",
+      "number": 135,
+      "name": "HULK SMASH!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/135.jpg"
+    },
+    {
+      "id": "8f8659f6-a793-4edc-8401-d9126840c1c2",
+      "number": 136,
+      "name": "Human Torch, Johnny Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/136.jpg"
+    },
+    {
+      "id": "e3b23fff-7d3b-4341-b556-82136f8c113b",
+      "number": 137,
+      "name": "HYDRA Assault Robot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/137.jpg"
+    },
+    {
+      "id": "5cc2d948-ac8b-4466-b604-3fabc0ab6bb9",
+      "number": 138,
+      "name": "Iron Fist, Living Weapon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/138.jpg"
+    },
+    {
+      "id": "b48278fd-1d95-4ad6-9a51-f1c5a2ab9f4b",
+      "number": 139,
+      "name": "Jessica Jones, Private Eye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/139.jpg"
+    },
+    {
+      "id": "e6e8359d-12be-49be-8cbe-6a3b8506a9e6",
+      "number": 140,
+      "name": "K'un-Lun Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/140.jpg"
+    },
+    {
+      "id": "ba5e441d-d036-4080-9571-6cf76df7b452",
+      "number": 141,
+      "name": "Kree Sentinel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/141.jpg"
+    },
+    {
+      "id": "88b13bc0-da54-4c3b-917c-7c8345a329f5",
+      "number": 142,
+      "name": "Lightning Strike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/142.jpg"
+    },
+    {
+      "id": "53b795a7-11f8-423a-b021-f811007fc82f",
+      "number": 143,
+      "name": "Loki Laufeyson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/143.jpg"
+    },
+    {
+      "id": "802e663e-9529-46da-8af4-eb9ca07971b1",
+      "number": 144,
+      "name": "Machinesmith Automaton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/144.jpg"
+    },
+    {
+      "id": "6b963642-a103-44a0-9eb7-9c3fdde181b7",
+      "number": 145,
+      "name": "Misty Knight, Hero for Hire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/145.jpg"
+    },
+    {
+      "id": "e0c7f566-5351-44e3-a346-b84b0eb10209",
+      "number": 146,
+      "name": "Mjölnir, Hammer of Thor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/146.jpg"
+    },
+    {
+      "id": "f85a77d2-e11e-44bc-a1e7-d783cd49d714",
+      "number": 147,
+      "name": "Photon Blast Barrage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/147.jpg"
+    },
+    {
+      "id": "2d5819ca-165d-4f4c-9500-3ac206994880",
+      "number": 148,
+      "name": "Quicksilver, Brash Blur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/148.jpg"
+    },
+    {
+      "id": "e25468e2-17c6-47b2-8eb6-fcb8ae6f4c17",
+      "number": 149,
+      "name": "Red Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/149.jpg"
+    },
+    {
+      "id": "837265b0-fc15-4d96-9d6b-fd1c78534262",
+      "number": 150,
+      "name": "Repulsor Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/150.jpg"
+    },
+    {
+      "id": "407e8993-e56d-477d-ab85-d10a2522eab3",
+      "number": 151,
+      "name": "The Scarlet Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/151.jpg"
+    },
+    {
+      "id": "d15d187b-dc5d-482d-a79a-b9b98193ad7a",
+      "number": 152,
+      "name": "Speed, Young Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/152.jpg"
+    },
+    {
+      "id": "709ffd07-706c-471f-b74d-4637afa11686",
+      "number": 153,
+      "name": "Stark Industries Executive",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/153.jpg"
+    },
+    {
+      "id": "2aa2e596-e5e0-4c60-8eea-14adda1cdaae",
+      "number": 154,
+      "name": "Super Speed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/154.jpg"
+    },
+    {
+      "id": "db1c7a71-3d01-4f2a-9b25-2a19bb0d1a56",
+      "number": 155,
+      "name": "Team Tactics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/155.jpg"
+    },
+    {
+      "id": "cddd314c-c271-475a-b076-01a8599c8015",
+      "number": 156,
+      "name": "Thor, God of Thunder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/156.jpg"
+    },
+    {
+      "id": "60f02fbf-1416-48a3-bf94-f27509f6983a",
+      "number": 157,
+      "name": "Truck Toss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/157.jpg"
+    },
+    {
+      "id": "5604cee1-a2ea-48ed-88f4-6878bd053fc8",
+      "number": 158,
+      "name": "Vision of Love",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/158.jpg"
+    },
+    {
+      "id": "4f48ba40-9934-40fd-a251-e15a68e772d2",
+      "number": 159,
+      "name": "Volcanic Villain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/159.jpg"
+    },
+    {
+      "id": "1ee52395-9523-4da1-9108-8ab79229fc7a",
+      "number": 160,
+      "name": "Wonder Man, Hollywood Hero",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/160.jpg"
+    },
+    {
+      "id": "61a89566-06c1-404f-8217-e5276e2dc5a2",
+      "number": 161,
+      "name": "Ant-Man's Army",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/161.jpg"
+    },
+    {
+      "id": "de1ed886-c33b-4cfd-8442-944cec654a8b",
+      "number": 162,
+      "name": "Call Damage Control",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/162.jpg"
+    },
+    {
+      "id": "cf13bfb1-5b44-4363-8de9-ece234233870",
+      "number": 163,
+      "name": "Claim the Kingdom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/163.jpg"
+    },
+    {
+      "id": "19dc5fcc-d05d-41a0-84c5-2dec996f3e4f",
+      "number": 164,
+      "name": "Doc Samson, Super Psychiatrist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/164.jpg"
+    },
+    {
+      "id": "b38b9bd6-1dd7-4bbc-8a82-ce391c1172e1",
+      "number": 165,
+      "name": "Earth's Mightiest Heroes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/165.jpg"
+    },
+    {
+      "id": "d521b80b-4b0b-4d69-bd95-4c83feaf2145",
+      "number": 166,
+      "name": "Epic Fight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/166.jpg"
+    },
+    {
+      "id": "fd1f95bf-48ea-455a-8a6c-0249b11c8900",
+      "number": 167,
+      "name": "Giant Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/167.jpg"
+    },
+    {
+      "id": "152a7b5b-2d95-45d3-8fd9-0ca1d5a79f8b",
+      "number": 168,
+      "name": "Go Nuts!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/168.jpg"
+    },
+    {
+      "id": "af6bc9d2-5783-489a-8963-af65f54f4f17",
+      "number": 169,
+      "name": "Guerrilla Gorilla",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/169.jpg"
+    },
+    {
+      "id": "d7922c5f-d6ee-4b62-a537-3be5aa280e10",
+      "number": 170,
+      "name": "Hellcat, Undying Vigilante",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/170.jpg"
+    },
+    {
+      "id": "d610d9fe-f8ae-473f-9325-e2f28f7e8a69",
+      "number": 171,
+      "name": "Hercules, Prince of Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/171.jpg"
+    },
+    {
+      "id": "32d05c3d-cf03-492e-a956-2e77c36e36c4",
+      "number": 172,
+      "name": "Heroic Feast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/172.jpg"
+    },
+    {
+      "id": "9018477f-a67b-4fa4-8661-11ab91fae863",
+      "number": 173,
+      "name": "Hulkling, Burgeoning Bruiser",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/173.jpg"
+    },
+    {
+      "id": "caf70fc5-87a0-4b4d-bedd-74dd09569bed",
+      "number": 174,
+      "name": "Ka-Zar of the Savage Land",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/174.jpg"
+    },
+    {
+      "id": "f3003766-9383-44e0-8b51-35ccbed137ed",
+      "number": 175,
+      "name": "Knight of Wundagore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/175.jpg"
+    },
+    {
+      "id": "3cf30476-ed92-4dc2-86b7-2b5fd60a2de7",
+      "number": 176,
+      "name": "Mister Hyde, Monster Within",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/176.jpg"
+    },
+    {
+      "id": "1b406cc5-75c9-430a-83a2-de0f2a8aeae6",
+      "number": 177,
+      "name": "Mole Man, Moloid Master",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/177.jpg"
+    },
+    {
+      "id": "108a0b92-2134-4776-a2f7-da92050f1b21",
+      "number": 178,
+      "name": "Pet Avengers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/178.jpg"
+    },
+    {
+      "id": "801f0417-b663-4e28-9a61-9570061654d7",
+      "number": 179,
+      "name": "Powerful Broker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/179.jpg"
+    },
+    {
+      "id": "a33a4cb4-1b57-47ca-8e5e-58ff46a6e0ce",
+      "number": 180,
+      "name": "Punishing Punch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/180.jpg"
+    },
+    {
+      "id": "d739e636-681e-4423-84e3-91efd02b2c94",
+      "number": 181,
+      "name": "Rapid Rescue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/181.jpg"
+    },
+    {
+      "id": "472db3f2-23df-46c1-86c6-f35fbe5ab4e3",
+      "number": 182,
+      "name": "Reptil, Dinomorpher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/182.jpg"
+    },
+    {
+      "id": "dbe9102d-b92b-4c32-93f6-5b6dc0fa08e6",
+      "number": 183,
+      "name": "Restorative Technique",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/183.jpg"
+    },
+    {
+      "id": "29bffd7c-73be-4185-976b-36a42a4512fe",
+      "number": 184,
+      "name": "Rick Jones, Destined Sidekick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/184.jpg"
+    },
+    {
+      "id": "562bd376-3fba-4de0-b9fc-183004b03732",
+      "number": 185,
+      "name": "Savage Land Dinosaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/185.jpg"
+    },
+    {
+      "id": "72727c2a-08a9-47bc-a5eb-cda52e21684b",
+      "number": 186,
+      "name": "Serpent Specialist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/186.jpg"
+    },
+    {
+      "id": "2edbb62f-ad45-4422-850b-68dcc18b4c73",
+      "number": 187,
+      "name": "Shang-Chi, Master of Kung Fu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/187.jpg"
+    },
+    {
+      "id": "d22a8d02-023c-4f71-a771-16b5aa2a05d7",
+      "number": 188,
+      "name": "She-Hulk, Jade Defender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/188.jpg"
+    },
+    {
+      "id": "1d24d200-63d4-44cf-8d3a-6c6ece5e16ff",
+      "number": 189,
+      "name": "Super Strength",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/189.jpg"
+    },
+    {
+      "id": "3f1933a8-046f-471a-afcf-cfb08ca0d239",
+      "number": 190,
+      "name": "The Thing, Ben Grimm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/190.jpg"
+    },
+    {
+      "id": "73c11aea-4fa4-438d-b886-2fafa60c82f9",
+      "number": 191,
+      "name": "Tigra, Feline Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/191.jpg"
+    },
+    {
+      "id": "a27aee6d-1fc3-4307-bb16-b964d723fe2f",
+      "number": 192,
+      "name": "Training Regimen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/192.jpg"
+    },
+    {
+      "id": "d8b94ebb-0b3a-4e68-8c0c-3a61ac32f3ef",
+      "number": 193,
+      "name": "The Unbeatable Squirrel Girl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/193.jpg"
+    },
+    {
+      "id": "90b9a3c0-3fd6-403e-9d6c-201342fea0ad",
+      "number": 194,
+      "name": "Undercover Skrull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/194.jpg"
+    },
+    {
+      "id": "9bf0b1e9-32b5-4591-8dd2-6b5f9768c72d",
+      "number": 195,
+      "name": "Wakandan Royal Guard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/195.jpg"
+    },
+    {
+      "id": "c1589e2e-32a8-48b8-93eb-a9af344e7084",
+      "number": 196,
+      "name": "White Tiger, Ava Ayala",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/196.jpg"
+    },
+    {
+      "id": "9032f05b-5c21-4996-90c1-268dc6dffbaa",
+      "number": 197,
+      "name": "World War Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/197.jpg"
+    },
+    {
+      "id": "2c6ab9bb-dba2-4b5b-a4d9-54735f65ac21",
+      "number": 198,
+      "name": "Abomination, Terrifying Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/198.jpg"
+    },
+    {
+      "id": "7114ef87-53ff-43e9-864c-9faa455d86ef",
+      "number": 199,
+      "name": "Absorbing Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/199.jpg"
+    },
+    {
+      "id": "f46a7158-5807-4750-a1f3-853aabb56b99",
+      "number": 200,
+      "name": "Alien Invasion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/200.jpg"
+    },
+    {
+      "id": "26faf2db-ad86-462f-b61f-c1893c9aebbf",
+      "number": 201,
+      "name": "Ant-Man, Colony Commander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/201.jpg"
+    },
+    {
+      "id": "3e121d65-d341-40b9-bebc-1e7d1b83905c",
+      "number": 202,
+      "name": "Ares, God of War",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/202.jpg"
+    },
+    {
+      "id": "11a13397-1d31-4257-87c2-a757a751c601",
+      "number": 203,
+      "name": "Armor Wars",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/203.jpg"
+    },
+    {
+      "id": "5d98073e-2828-4365-a8d6-f631aac0cca9",
+      "number": 204,
+      "name": "The Astonishing Ant-Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/204.jpg"
+    },
+    {
+      "id": "3c379a3f-bde1-4dc1-9843-afcb5f40792f",
+      "number": 205,
+      "name": "Avengers: Under Siege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/205.jpg"
+    },
+    {
+      "id": "a92a95d2-9529-417a-b7d5-b4244d7fdca7",
+      "number": 206,
+      "name": "Beast, Erudite Aerialist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/206.jpg"
+    },
+    {
+      "id": "9e308f77-206b-4c9d-bfba-f4c476ea574a",
+      "number": 207,
+      "name": "Black Panther, Vanguard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/207.jpg"
+    },
+    {
+      "id": "aa8dbbb9-36a5-48e0-9e30-aeed0fb5d522",
+      "number": 208,
+      "name": "Black Widow, Double Agent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/208.jpg"
+    },
+    {
+      "id": "fd1f0b5f-5e0e-4da1-ab54-a62db5af3591",
+      "number": 209,
+      "name": "Bullseye, Death Dealer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/209.jpg"
+    },
+    {
+      "id": "6516f292-469d-4092-b099-97c698f373cd",
+      "number": 210,
+      "name": "Captain America, Living Legend",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/210.jpg"
+    },
+    {
+      "id": "fa01d35f-1064-4a7c-9475-4504566df850",
+      "number": 211,
+      "name": "Cloak and Dagger, Entwined",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/211.jpg"
+    },
+    {
+      "id": "04a38b92-619e-4fe8-b0cb-6fa31f0824ff",
+      "number": 212,
+      "name": "The Coming of Galactus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/212.jpg"
+    },
+    {
+      "id": "14e821bb-55cc-474e-9b63-0ceecc2666c1",
+      "number": 213,
+      "name": "Daredevil, Man Without Fear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/213.jpg"
+    },
+    {
+      "id": "c22bb4d5-6b6f-4c43-b005-48ae4042739d",
+      "number": 214,
+      "name": "Ghost, Spectral Saboteur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/214.jpg"
+    },
+    {
+      "id": "682b9f91-18bb-4113-9d5c-a381c191def9",
+      "number": 215,
+      "name": "Hulk, Gamma Goliath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/215.jpg"
+    },
+    {
+      "id": "8f84ab0a-bf6e-4f28-9da8-998512a224ed",
+      "number": 216,
+      "name": "Iron Man, Master of Machines",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/216.jpg"
+    },
+    {
+      "id": "fb96ee86-5139-472a-9c4b-8a8a4280fc7e",
+      "number": 217,
+      "name": "Kang, Temporal Tyrant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/217.jpg"
+    },
+    {
+      "id": "5060aa13-4b33-4b3a-8bdb-dd81308fa3e3",
+      "number": 218,
+      "name": "Killmonger, Scourge of Wakanda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/218.jpg"
+    },
+    {
+      "id": "add7d3ce-aa58-4da0-8c2a-cfd01c3a8975",
+      "number": 219,
+      "name": "King T'Challa // Black Panther, Hope Enduring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/219.jpg"
+    },
+    {
+      "id": "495c08ea-5502-4bfe-aa15-fa85556755ae",
+      "number": 220,
+      "name": "The Kingpin of Crime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/220.jpg"
+    },
+    {
+      "id": "e94ccedb-1d27-4098-8823-d8d99b30387c",
+      "number": 221,
+      "name": "Madame Hydra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/221.jpg"
+    },
+    {
+      "id": "082cc8cc-bbea-4ca7-a0e8-da1f865d6626",
+      "number": 222,
+      "name": "The Mighty Thor, Jane Foster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/222.jpg"
+    },
+    {
+      "id": "8c6a6d11-45cb-4def-a04b-51b91e1747db",
+      "number": 223,
+      "name": "Moon Girl and Devil Dinosaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/223.jpg"
+    },
+    {
+      "id": "4d8c8ceb-84cd-46d2-9230-ab6ca4569334",
+      "number": 224,
+      "name": "The Ruinous Wrecking Crew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/224.jpg"
+    },
+    {
+      "id": "0473a990-88c4-4921-a492-377d9171318a",
+      "number": 225,
+      "name": "Scientist Supreme of A.I.M.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/225.jpg"
+    },
+    {
+      "id": "209855ee-d531-4b58-926b-8da171d46619",
+      "number": 226,
+      "name": "The Serpent Society",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/226.jpg"
+    },
+    {
+      "id": "e040b456-9853-4e94-9bf8-9374888168bb",
+      "number": 227,
+      "name": "Speedball, New Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/227.jpg"
+    },
+    {
+      "id": "e5db6968-1ca3-46bd-8cf9-e2c411ab29c1",
+      "number": 228,
+      "name": "Spider-Man, To the Rescue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/228.jpg"
+    },
+    {
+      "id": "a0325cb5-4c43-418a-8f1b-cf5bf29e74d7",
+      "number": 229,
+      "name": "Spider-Woman, Secret Agent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/229.jpg"
+    },
+    {
+      "id": "e90196a9-5a76-42f8-9b40-097d02b47f33",
+      "number": 230,
+      "name": "Storm, Windrider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/230.jpg"
+    },
+    {
+      "id": "fbd1f333-5640-41f8-b9dd-1c322ac7724a",
+      "number": 231,
+      "name": "The Super Hero Civil War",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/231.jpg"
+    },
+    {
+      "id": "0d4265fd-cbfa-4e57-89fd-a1d757acfe81",
+      "number": 232,
+      "name": "Taskmaster, Mercenary Mimic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/232.jpg"
+    },
+    {
+      "id": "e669c0b2-0011-4feb-9263-f1ecc0a98f18",
+      "number": 233,
+      "name": "Thanos, the Mad Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/233.jpg"
+    },
+    {
+      "id": "0e06f730-ae30-4ef2-88b1-073e02afdb25",
+      "number": 234,
+      "name": "Thor Odinson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/234.jpg"
+    },
+    {
+      "id": "c281e0ee-155b-4022-b921-ebc391535aad",
+      "number": 235,
+      "name": "Titania, Rugged Rumbler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/235.jpg"
+    },
+    {
+      "id": "35e11911-799c-4d82-9109-3ca27964bef0",
+      "number": 236,
+      "name": "U.S.Agent, John Walker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/236.jpg"
+    },
+    {
+      "id": "c01afea6-645d-4d4f-bdaa-90794a628bcd",
+      "number": 237,
+      "name": "Vision Quest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/237.jpg"
+    },
+    {
+      "id": "433a7d97-9c0b-4f5c-85ad-b55342c02d22",
+      "number": 238,
+      "name": "War Machine, Legacy of Iron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/238.jpg"
+    },
+    {
+      "id": "ebf71ffc-6e3e-4ca0-a84a-3c1ebd2b64b1",
+      "number": 239,
+      "name": "Winter Soldier, Icy Assassin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/239.jpg"
+    },
+    {
+      "id": "c1c7aa22-51b0-45ee-9a8e-5493a1820d8c",
+      "number": 240,
+      "name": "Wolverine, Fierce Fighter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/240.jpg"
+    },
+    {
+      "id": "4765e39c-cbf2-4605-9bf1-3baad7d92cfb",
+      "number": 241,
+      "name": "Worlds Within Worlds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/241.jpg"
+    },
+    {
+      "id": "f29dee50-ea7e-4a54-bc91-99928a8405e3",
+      "number": 242,
+      "name": "A.I.M. Synthoids",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/242.jpg"
+    },
+    {
+      "id": "339acb17-4b8e-4836-9cc5-8a0a946ebc73",
+      "number": 243,
+      "name": "Arc Reactor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/243.jpg"
+    },
+    {
+      "id": "4b5433ac-0d36-4472-bf8b-d22f0ffd367b",
+      "number": 244,
+      "name": "Captain America's Shield",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/244.jpg"
+    },
+    {
+      "id": "d1cf1ead-fe91-4328-89ab-6d0bc9ff6cbe",
+      "number": 245,
+      "name": "Cosmic Cube",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/245.jpg"
+    },
+    {
+      "id": "c035c625-4de5-4c3b-9d07-aa1df8fc7b78",
+      "number": 246,
+      "name": "Dependable Quinjet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/246.jpg"
+    },
+    {
+      "id": "3496d0d4-3fab-4ea4-8986-afe5a7155ec6",
+      "number": 247,
+      "name": "H.E.R.B.I.E. Scout Unit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/247.jpg"
+    },
+    {
+      "id": "361c2f3b-f04e-446b-a683-9195e238daf0",
+      "number": 248,
+      "name": "Iron Man Armor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/248.jpg"
+    },
+    {
+      "id": "364dc091-3161-4cd7-838c-742b9325fc32",
+      "number": 249,
+      "name": "S.H.I.E.L.D. Helicarrier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/249.jpg"
+    },
+    {
+      "id": "fbbd8609-5a00-4188-96fe-77251579b88d",
+      "number": 250,
+      "name": "Super-Adaptoid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/250.jpg"
+    },
+    {
+      "id": "2332bc91-b0f2-4911-844d-d1cc915cd6c8",
+      "number": 251,
+      "name": "The Ten Rings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/251.jpg"
+    },
+    {
+      "id": "32ddd5ac-57ed-4e78-8932-a65980191f6e",
+      "number": 252,
+      "name": "Ultron, Artificial Malevolence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/252.jpg"
+    },
+    {
+      "id": "149a0a3b-c470-414c-a7de-d773b8b4cc82",
+      "number": 253,
+      "name": "Ultron Drone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/253.jpg"
+    },
+    {
+      "id": "4fe5952d-f50f-443a-b960-657fc4bc1965",
+      "number": 254,
+      "name": "Vibranium Energy Daggers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/254.jpg"
+    },
+    {
+      "id": "2961cf20-33c8-4e66-9d0f-6daca8ea7880",
+      "number": 255,
+      "name": "The Vision",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/255.jpg"
+    },
+    {
+      "id": "85cc170a-ecd2-4870-b675-7ece88813995",
+      "number": 256,
+      "name": "Viv Vision, Teen Synthezoid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/256.jpg"
+    },
+    {
+      "id": "ca24cd9f-fd9f-4ea0-8b9c-ecf98db219a6",
+      "number": 257,
+      "name": "A.I.M. Labs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/257.jpg"
+    },
+    {
+      "id": "d5f88c3d-b17b-46aa-a573-449350f95d46",
+      "number": 258,
+      "name": "Asgardian Citadel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/258.jpg"
+    },
+    {
+      "id": "c5d03ebb-1ce9-4a6b-b13e-a72f0b075ae8",
+      "number": 259,
+      "name": "Avengers Hangar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/259.jpg"
+    },
+    {
+      "id": "88f0d9c9-8a1f-4b5a-b6f9-821ddd658d27",
+      "number": 260,
+      "name": "Avengers Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/260.jpg"
+    },
+    {
+      "id": "1abc652f-8e9d-4df7-bc4e-d8b515a40fec",
+      "number": 261,
+      "name": "Baxter Building",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/261.jpg"
+    },
+    {
+      "id": "41463827-46de-40c4-ac2b-1fdf6aa36f65",
+      "number": 262,
+      "name": "Birnin Zana Plaza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/262.jpg"
+    },
+    {
+      "id": "6b39d7a6-ca2d-4376-a18e-efd0138e83bc",
+      "number": 263,
+      "name": "Castle Doom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/263.jpg"
+    },
+    {
+      "id": "c16fd43c-7c47-4c1b-860f-91146532e89d",
+      "number": 264,
+      "name": "Dark Fortress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/264.jpg"
+    },
+    {
+      "id": "7690e624-93c1-46f4-8f33-e28d881787d3",
+      "number": 265,
+      "name": "Fisk Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/265.jpg"
+    },
+    {
+      "id": "081cdbd0-5081-4a9e-90ba-f5baf4ac137e",
+      "number": 266,
+      "name": "Gathering Place",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/266.jpg"
+    },
+    {
+      "id": "c9131bf5-17e3-4aa6-97ed-ed6426b247d0",
+      "number": 267,
+      "name": "Gleaming Bastion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/267.jpg"
+    },
+    {
+      "id": "6137c34e-cc4c-4342-a8e4-cfa9c767c67b",
+      "number": 268,
+      "name": "Hell's Kitchen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/268.jpg"
+    },
+    {
+      "id": "0742ddb6-71ed-444e-91ad-84f876725a4a",
+      "number": 269,
+      "name": "Hidden Lair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/269.jpg"
+    },
+    {
+      "id": "2123fcb5-8181-47ab-9a2d-7ede5b5118e8",
+      "number": 270,
+      "name": "Los Diablos Missile Base",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/270.jpg"
+    },
+    {
+      "id": "1de583ce-e805-45f1-907f-198bc82fd3b5",
+      "number": 271,
+      "name": "Pym Technologies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/271.jpg"
+    },
+    {
+      "id": "fe3609d8-71a2-49d9-a3fa-25e0906a1a0e",
+      "number": 272,
+      "name": "Stark Industries",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/272.jpg"
+    },
+    {
+      "id": "038bf500-e23a-4d38-9312-db1909e20353",
+      "number": 273,
+      "name": "Subterranean Cavern",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/273.jpg"
+    },
+    {
+      "id": "8fb51fbb-ab7f-4484-a3c9-dc50cb6f2756",
+      "number": 274,
+      "name": "Surveillance Room",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/274.jpg"
+    },
+    {
+      "id": "c91e28db-307f-462a-88aa-581d10e77f10",
+      "number": 275,
+      "name": "Training Compound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/275.jpg"
+    },
+    {
+      "id": "822b0249-e1df-453d-8b60-75a5196ed818",
+      "number": 276,
+      "name": "Villainous Hideout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/276.jpg"
+    },
+    {
+      "id": "be30f027-ffdd-4d81-bed2-4adb6b4b803f",
+      "number": 277,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/277.jpg"
+    },
+    {
+      "id": "69a24fc3-90f9-4f2e-91d9-1aaca888e432",
+      "number": 278,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/278.jpg"
+    },
+    {
+      "id": "8c1467b1-ff2c-4f73-91ba-bc2b07afc2c3",
+      "number": 279,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/279.jpg"
+    },
+    {
+      "id": "937b3d7d-decb-4e17-998a-6def3f2c97a2",
+      "number": 280,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/280.jpg"
+    },
+    {
+      "id": "dda87be6-317e-4227-a96d-7742ac054d2e",
+      "number": 281,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/281.jpg"
+    },
+    {
+      "id": "69eee76e-5714-4503-8170-3f551410abec",
+      "number": 282,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/282.jpg"
+    },
+    {
+      "id": "9c29ba11-7438-4fd7-98b9-961be882122d",
+      "number": 283,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/283.jpg"
+    },
+    {
+      "id": "22cc3a0c-ab10-490d-b309-df87df551328",
+      "number": 284,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/284.jpg"
+    },
+    {
+      "id": "e5da22bf-bc8a-4810-b273-1e33a6b37323",
+      "number": 285,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/285.jpg"
+    },
+    {
+      "id": "47eb96ec-a417-4dbc-82d2-6317372dda11",
+      "number": 286,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/286.jpg"
+    },
+    {
+      "id": "5f029c91-f20b-4aa5-a7d9-dd6ddef1c877",
+      "number": 287,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/287.jpg"
+    },
+    {
+      "id": "f29448c0-3126-4018-a934-5a4ed019ea76",
+      "number": 288,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/288.jpg"
+    },
+    {
+      "id": "5a74175b-2418-4226-8435-1490532e644f",
+      "number": 289,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/289.jpg"
+    },
+    {
+      "id": "02f76514-9e0d-4d74-a224-15a2d7b44ae1",
+      "number": 290,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/290.jpg"
+    },
+    {
+      "id": "74414c62-4b68-4e1b-9241-feff3231b9ee",
+      "number": 291,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/291.jpg"
+    },
+    {
+      "id": "3dc20c2b-7344-43d1-8ea0-22bab837657e",
+      "number": 292,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/292.jpg"
+    },
+    {
+      "id": "4bdbae27-9a55-485f-a1fc-3fa988184e9d",
+      "number": 293,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/293.jpg"
+    },
+    {
+      "id": "f7752159-06bd-4f6c-b3d2-c4c7616acfbb",
+      "number": 294,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/294.jpg"
+    },
+    {
+      "id": "22463284-2478-4b1e-9a37-6dd2383266cf",
+      "number": 295,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/295.jpg"
+    },
+    {
+      "id": "c9d637ac-e0d3-4c62-9f00-08270f3c1e91",
+      "number": 296,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/296.jpg"
+    },
+    {
+      "id": "6c11d918-51c4-4728-8277-74d4ddefacc1",
+      "number": 297,
+      "name": "Avengers Assemble!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/297.jpg"
+    },
+    {
+      "id": "8a500880-56c9-44ea-ad34-c3e5123106cb",
+      "number": 298,
+      "name": "Origin of the Avengers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/298.jpg"
+    },
+    {
+      "id": "dbe76b0f-b9ba-4a5d-ae35-288cc95dd6a4",
+      "number": 299,
+      "name": "Super-Soldier Serum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/299.jpg"
+    },
+    {
+      "id": "51fce242-30ff-42f6-9b98-572e69cf9833",
+      "number": 300,
+      "name": "Multiversal Incursion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/300.jpg"
+    },
+    {
+      "id": "97728b94-7807-45d8-9048-996ece5447e1",
+      "number": 301,
+      "name": "Secret Invasion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/301.jpg"
+    },
+    {
+      "id": "c1e9b598-a3a4-4d31-8f74-532415725b70",
+      "number": 302,
+      "name": "Avengers Disassembled",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/302.jpg"
+    },
+    {
+      "id": "4ae7df19-14f2-4f0f-b545-32be7b98b678",
+      "number": 303,
+      "name": "Mjölnir, Hammer of Thor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/303.jpg"
+    },
+    {
+      "id": "51524f8a-030c-4522-bfc0-d55c2c7c9326",
+      "number": 304,
+      "name": "World War Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/304.jpg"
+    },
+    {
+      "id": "bd6a749b-51c2-43f9-b422-7f395f9b7989",
+      "number": 305,
+      "name": "Armor Wars",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/305.jpg"
+    },
+    {
+      "id": "3e02a423-363a-422e-b71b-0daf3722ffcc",
+      "number": 306,
+      "name": "Avengers: Under Siege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/306.jpg"
+    },
+    {
+      "id": "8ffaa5b3-00fa-46ea-918c-dfce0de9e898",
+      "number": 307,
+      "name": "The Coming of Galactus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/307.jpg"
+    },
+    {
+      "id": "3260ac51-1e78-4cb2-9dd8-bbe1b6692583",
+      "number": 308,
+      "name": "The Super Hero Civil War",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/308.jpg"
+    },
+    {
+      "id": "271ee6c8-164b-4d6a-a7c0-3aa8dea10b7d",
+      "number": 309,
+      "name": "Vision Quest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/309.jpg"
+    },
+    {
+      "id": "3b7e9150-028d-482d-9bd8-d9d3e56d24be",
+      "number": 310,
+      "name": "Arc Reactor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/310.jpg"
+    },
+    {
+      "id": "2cef736d-170d-4551-83e5-19f6b6bb677c",
+      "number": 311,
+      "name": "Captain America's Shield",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/311.jpg"
+    },
+    {
+      "id": "7c5abd50-0eaa-4ecb-9e24-a91f54eb37c4",
+      "number": 312,
+      "name": "Cosmic Cube",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/312.jpg"
+    },
+    {
+      "id": "47360bb6-9724-4418-b1f3-59d0b28e7798",
+      "number": 313,
+      "name": "The Ten Rings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/313.jpg"
+    },
+    {
+      "id": "7370a565-274e-4a91-acae-a920ee1c7719",
+      "number": 314,
+      "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/314.jpg"
+    },
+    {
+      "id": "fa4e32b7-8c2c-4efa-b5a4-b32abcae1ad2",
+      "number": 315,
+      "name": "Baron Strucker, HYDRA Overlord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/315.jpg"
+    },
+    {
+      "id": "b0a27523-65bf-4e7a-8560-e11f099b1d1a",
+      "number": 316,
+      "name": "Captain America, Super-Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/316.jpg"
+    },
+    {
+      "id": "8d70d97a-d0a9-4603-8f59-174d54b0e095",
+      "number": 317,
+      "name": "Captain America's Shield",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/317.jpg"
+    },
+    {
+      "id": "f05ffa99-fce3-4dc3-80c1-cd4de82b83d0",
+      "number": 318,
+      "name": "Madame Hydra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/318.jpg"
+    },
+    {
+      "id": "8e3fdece-348a-45eb-871f-fffa91a1fbda",
+      "number": 319,
+      "name": "Arnim Zola, Bio-Fanatic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/319.jpg"
+    },
+    {
+      "id": "6fa1c908-68cb-4832-b972-f9efe7d55cdb",
+      "number": 320,
+      "name": "Mister Fantastic, Reed Richards",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/320.jpg"
+    },
+    {
+      "id": "2fa8010c-3f88-4fbe-880e-7facfea06893",
+      "number": 321,
+      "name": "Human Torch, Johnny Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/321.jpg"
+    },
+    {
+      "id": "16a98e97-2b63-4fcb-a3fc-5f8298f6ab12",
+      "number": 322,
+      "name": "The Thing, Ben Grimm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/322.jpg"
+    },
+    {
+      "id": "8a037650-cdb2-41f8-b3a8-fedcfdb90259",
+      "number": 323,
+      "name": "Invisible Woman, Sue Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/323.jpg"
+    },
+    {
+      "id": "c9e6348f-f77b-42e6-a123-709e8c03013a",
+      "number": 324,
+      "name": "Daredevil, Man Without Fear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/324.jpg"
+    },
+    {
+      "id": "879abc8e-bc69-4214-945a-09d02b66010c",
+      "number": 325,
+      "name": "Bullseye, Death Dealer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/325.jpg"
+    },
+    {
+      "id": "0d855376-c5ff-4981-9605-6c16f213a857",
+      "number": 326,
+      "name": "Elektra, Daughter of the Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/326.jpg"
+    },
+    {
+      "id": "1803564a-5ec5-4c0d-817c-5575127a3703",
+      "number": 327,
+      "name": "The Kingpin of Crime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/327.jpg"
+    },
+    {
+      "id": "eec216e1-971b-490f-aba7-2d5bd5085023",
+      "number": 328,
+      "name": "Jennifer Walters // The Sensational She-Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/328.jpg"
+    },
+    {
+      "id": "7e623818-838b-4c02-a23a-498cf18d70d6",
+      "number": 329,
+      "name": "Red Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/329.jpg"
+    },
+    {
+      "id": "aef5d45a-de20-4c27-866d-f305b04cd47a",
+      "number": 330,
+      "name": "Leader, Super-Genius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/330.jpg"
+    },
+    {
+      "id": "eb2d2d35-4956-42fa-94e0-b241ed666683",
+      "number": 331,
+      "name": "Bruce Banner // The Incredible Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/331.jpg"
+    },
+    {
+      "id": "0d01bc37-ebf4-4f08-9beb-fef8787f8e7a",
+      "number": 332,
+      "name": "HULK SMASH!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/332.jpg"
+    },
+    {
+      "id": "d1fb5d54-8232-4888-9d51-5aca90a7b6eb",
+      "number": 333,
+      "name": "Abomination, Terrifying Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/333.jpg"
+    },
+    {
+      "id": "1292713f-1462-438f-a3a2-1f69ece99668",
+      "number": 334,
+      "name": "Avengers Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/334.jpg"
+    },
+    {
+      "id": "87dd1800-b9b6-4bac-a504-28146a42a4b4",
+      "number": 335,
+      "name": "Spider-Man, To the Rescue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/335.jpg"
+    },
+    {
+      "id": "be8177e1-b0b4-4c8f-90b9-034313c7b271",
+      "number": 336,
+      "name": "Doctor Doom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/336.jpg"
+    },
+    {
+      "id": "1d49e61f-b6b9-4106-b0ad-cdd4da87bb83",
+      "number": 337,
+      "name": "Cosmic Cube",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/337.jpg"
+    },
+    {
+      "id": "2fde89b2-5ad8-4b07-8a48-2b33d373be30",
+      "number": 338,
+      "name": "Thor, God of Thunder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/338.jpg"
+    },
+    {
+      "id": "a9e05121-e0de-463b-8d96-529277167b5d",
+      "number": 339,
+      "name": "Mjölnir, Hammer of Thor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/339.jpg"
+    },
+    {
+      "id": "1ac8c104-572e-443d-b6d2-0cd26c0fef98",
+      "number": 340,
+      "name": "Blazing Crescendo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/340.jpg"
+    },
+    {
+      "id": "78570121-0c1e-42ef-91a1-82fecaad004e",
+      "number": 341,
+      "name": "Avengers Assemble!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/341.jpg"
+    },
+    {
+      "id": "963de372-310c-4272-aa13-576246d69762",
+      "number": 342,
+      "name": "Captain Marvel, Earth's Protector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/342.jpg"
+    },
+    {
+      "id": "881af8c7-2d4d-4b68-b999-20e56a973311",
+      "number": 343,
+      "name": "Loki, God of Mischief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/343.jpg"
+    },
+    {
+      "id": "8a65f1b1-56b5-4a4c-acc7-d1b8933244a4",
+      "number": 344,
+      "name": "Ultron, Artificial Malevolence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/344.jpg"
+    },
+    {
+      "id": "7be20870-ccdc-4285-920d-739cafb60465",
+      "number": 345,
+      "name": "Monica Rambeau // Photon, Living Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/345.jpg"
+    },
+    {
+      "id": "eeedc3a9-e5c0-4234-8653-1a005df095e1",
+      "number": 346,
+      "name": "King T'Challa // Black Panther, Hope Enduring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/346.jpg"
+    },
+    {
+      "id": "c88457b3-0385-43b5-8d56-f537e022eb94",
+      "number": 347,
+      "name": "Black Widow, Super Spy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/347.jpg"
+    },
+    {
+      "id": "d7ebfe43-1772-4557-bad5-e170e8270d21",
+      "number": 348,
+      "name": "Take Up the Shield",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/348.jpg"
+    },
+    {
+      "id": "d8eebea7-a210-41c2-b505-3b9a4cdd5339",
+      "number": 349,
+      "name": "Earth's Mightiest Heroes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/349.jpg"
+    },
+    {
+      "id": "7a85467d-5693-4cf7-b38d-d42c57242f48",
+      "number": 350,
+      "name": "Tony Stark // The Invincible Iron Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/350.jpg"
+    },
+    {
+      "id": "444303ce-b9c1-49be-86ca-8a7e39f06e7c",
+      "number": 351,
+      "name": "Epic Fight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/351.jpg"
+    },
+    {
+      "id": "5873766d-9b8d-4850-bbe7-76ab6c08e138",
+      "number": 352,
+      "name": "Captain America, Super-Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/352.jpg"
+    },
+    {
+      "id": "309e72e0-d47e-49af-b85a-45b51afb65b1",
+      "number": 353,
+      "name": "Captain America, Wings of Freedom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/353.jpg"
+    },
+    {
+      "id": "824e1378-b09e-4de1-ae48-4fc026220ab6",
+      "number": 354,
+      "name": "Captain Marvel, Earth's Protector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/354.jpg"
+    },
+    {
+      "id": "feb9e3c1-4d66-49a2-8a67-eebd0d272fc3",
+      "number": 355,
+      "name": "Jennifer Walters // The Sensational She-Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/355.jpg"
+    },
+    {
+      "id": "32a96916-9356-4e46-ba74-296670c6e865",
+      "number": 356,
+      "name": "Monica Rambeau // Photon, Living Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/356.jpg"
+    },
+    {
+      "id": "307db766-8d25-485d-81da-eb72548f9ce0",
+      "number": 357,
+      "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/357.jpg"
+    },
+    {
+      "id": "6ba62e03-d8e6-4cd9-8997-0784c01ae8c6",
+      "number": 358,
+      "name": "The Sentry, Golden Guardian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/358.jpg"
+    },
+    {
+      "id": "0ccb6a0e-a8aa-413d-8e6d-f25447800ed4",
+      "number": 359,
+      "name": "Bruce Banner // The Incredible Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/359.jpg"
+    },
+    {
+      "id": "ebfaaaac-b0ad-4f1d-93b4-64dcccfe1cd1",
+      "number": 360,
+      "name": "Ironheart, Clever Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/360.jpg"
+    },
+    {
+      "id": "aea6935f-1f10-4a61-83f8-5bd2ed14a3c0",
+      "number": 361,
+      "name": "Ms. Marvel, Kamala Khan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/361.jpg"
+    },
+    {
+      "id": "804e43a0-faf6-4cd7-b5e8-34c767f8fa1c",
+      "number": 362,
+      "name": "Namor the Sub-Mariner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/362.jpg"
+    },
+    {
+      "id": "58bf75bd-83c9-4281-a108-bf5aa31d70e5",
+      "number": 363,
+      "name": "Tony Stark // The Invincible Iron Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/363.jpg"
+    },
+    {
+      "id": "73cf4b89-2551-444c-beb8-ec23e446d44a",
+      "number": 364,
+      "name": "Black Widow, Super Spy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/364.jpg"
+    },
+    {
+      "id": "08b2c1c8-52cd-4c7d-a15a-4703df31dd14",
+      "number": 365,
+      "name": "Doctor Doom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/365.jpg"
+    },
+    {
+      "id": "5beb6acc-38a5-47f5-ae37-bb396baffa5c",
+      "number": 366,
+      "name": "Elektra, Daughter of the Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/366.jpg"
+    },
+    {
+      "id": "972aedc2-c645-45d7-8976-de1fd504e819",
+      "number": 367,
+      "name": "Hawkeye, Master Marksman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/367.jpg"
+    },
+    {
+      "id": "4bf2a4dc-c4aa-453a-ad18-1af42eb59f40",
+      "number": 368,
+      "name": "The Scarlet Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/368.jpg"
+    },
+    {
+      "id": "20b7cb55-16bf-4329-a711-3dbcdaab728b",
+      "number": 369,
+      "name": "Thor, God of Thunder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/369.jpg"
+    },
+    {
+      "id": "44a4eabc-52ec-49f2-aa08-e0d4196a1287",
+      "number": 370,
+      "name": "Shang-Chi, Master of Kung Fu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/370.jpg"
+    },
+    {
+      "id": "ef518e5b-7942-4e66-aee0-a1c2aa1f9754",
+      "number": 371,
+      "name": "The Unbeatable Squirrel Girl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/371.jpg"
+    },
+    {
+      "id": "ddd4c1d4-09c9-4b85-aef5-e764682ece62",
+      "number": 372,
+      "name": "Daredevil, Man Without Fear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/372.jpg"
+    },
+    {
+      "id": "0e99dad7-b3ca-4e89-8d9f-8f8f43195537",
+      "number": 373,
+      "name": "King T'Challa // Black Panther, Hope Enduring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/373.jpg"
+    },
+    {
+      "id": "756fc57c-2687-4cd9-9431-9fa1d453fa2c",
+      "number": 374,
+      "name": "The Kingpin of Crime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/374.jpg"
+    },
+    {
+      "id": "2c4a0e2c-1037-44cd-9630-b5511d82f9cb",
+      "number": 375,
+      "name": "Storm, Windrider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/375.jpg"
+    },
+    {
+      "id": "29e82e97-79b3-4495-9aa0-a90242d594b2",
+      "number": 376,
+      "name": "Thanos, the Mad Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/376.jpg"
+    },
+    {
+      "id": "76c05333-0e02-4173-b8b4-cb0da3b99a64",
+      "number": 377,
+      "name": "Winter Soldier, Icy Assassin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/377.jpg"
+    },
+    {
+      "id": "ddc2bf31-d10b-4a57-ad16-6448830f440c",
+      "number": 378,
+      "name": "Wolverine, Fierce Fighter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/378.jpg"
+    },
+    {
+      "id": "d41a55d9-6007-4b1c-a917-2cb5e8f64000",
+      "number": 379,
+      "name": "The Vision",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/379.jpg"
+    },
+    {
+      "id": "e9b288fb-d122-4c9f-9dd9-d21856a6aac9",
+      "number": 380,
+      "name": "Dark Fortress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/380.jpg"
+    },
+    {
+      "id": "87f14fae-281c-4667-a25b-ca764d8e4fbf",
+      "number": 381,
+      "name": "Gathering Place",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/381.jpg"
+    },
+    {
+      "id": "7c769658-0d99-4758-b8bd-4c8d03a09add",
+      "number": 382,
+      "name": "Gleaming Bastion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/382.jpg"
+    },
+    {
+      "id": "4c2d4184-0377-40ee-9bf4-40d5183d0d0d",
+      "number": 383,
+      "name": "Hidden Lair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/383.jpg"
+    },
+    {
+      "id": "18085a32-bfc4-421b-9e76-ad46bab1f337",
+      "number": 384,
+      "name": "Training Compound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/384.jpg"
+    },
+    {
+      "id": "c023ab8d-7f9e-427f-9dcf-699bb65aba5c",
+      "number": 385,
+      "name": "The Mind Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/385.jpg"
+    },
+    {
+      "id": "0e6f8149-61e4-4d7f-840d-a832d83a284e",
+      "number": 386,
+      "name": "The Mind Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/386.jpg"
+    },
+    {
+      "id": "7ffdca9d-3ee4-4572-b1ad-4f03523968fd",
+      "number": 387,
+      "name": "Captain America, Super-Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/387.jpg"
+    },
+    {
+      "id": "b51282a9-1132-4c93-a216-148d1e7bb007",
+      "number": 388,
+      "name": "Jennifer Walters // The Sensational She-Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/388.jpg"
+    },
+    {
+      "id": "89f7008c-762b-45c3-8ddb-d02ce1b37ebc",
+      "number": 389,
+      "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/389.jpg"
+    },
+    {
+      "id": "481166c5-6a16-469c-91bd-abf291b5db49",
+      "number": 390,
+      "name": "Bruce Banner // The Incredible Hulk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/390.jpg"
+    },
+    {
+      "id": "47016620-48c7-42b2-9bef-8e2f8fc0786e",
+      "number": 391,
+      "name": "Namor the Sub-Mariner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/391.jpg"
+    },
+    {
+      "id": "81eaf2ee-edeb-4026-81bb-8766ffa61f0d",
+      "number": 392,
+      "name": "Tony Stark // The Invincible Iron Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/392.jpg"
+    },
+    {
+      "id": "8e3c4b2a-4ef7-41ea-a4b5-b0cc942a9889",
+      "number": 393,
+      "name": "Black Widow, Super Spy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/393.jpg"
+    },
+    {
+      "id": "06255e9e-5395-41ed-ad89-1e7b2b5478d3",
+      "number": 394,
+      "name": "Doctor Doom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/394.jpg"
+    },
+    {
+      "id": "0c58b938-f856-4828-9d75-2e4db4547df7",
+      "number": 395,
+      "name": "Elektra, Daughter of the Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/395.jpg"
+    },
+    {
+      "id": "b367d034-ae08-4b08-b090-39a6d4f79dc2",
+      "number": 396,
+      "name": "Shang-Chi, Master of Kung Fu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/396.jpg"
+    },
+    {
+      "id": "15850911-bfeb-4e9e-aec9-34a22faac896",
+      "number": 397,
+      "name": "The Astonishing Ant-Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/397.jpg"
+    },
+    {
+      "id": "21610bae-7e18-42fe-8cdc-dacbf7f9c07f",
+      "number": 398,
+      "name": "Daredevil, Man Without Fear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/398.jpg"
+    },
+    {
+      "id": "d1d8391c-dacc-4f21-a40e-5ca53a787f0d",
+      "number": 399,
+      "name": "King T'Challa // Black Panther, Hope Enduring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/399.jpg"
+    },
+    {
+      "id": "c2cdcd6d-15ee-46be-b90e-b0f5d2c5de87",
+      "number": 400,
+      "name": "Thanos, the Mad Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/400.jpg"
+    },
+    {
+      "id": "df9302a8-e918-429c-8853-133c489223f1",
+      "number": 401,
+      "name": "Ultron, Artificial Malevolence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/401.jpg"
+    },
+    {
+      "id": "258b663e-2fa0-4203-9f5f-f9963940c5b3",
+      "number": 402,
+      "name": "Agent Phil Coulson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/402.jpg"
+    },
+    {
+      "id": "55b486ad-53bd-4255-9f8e-286b300e7e43",
+      "number": 403,
+      "name": "Kang the Conqueror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/403.jpg"
+    },
+    {
+      "id": "0912ea2d-88af-48b7-8262-89547e67ff64",
+      "number": 404,
+      "name": "S.H.I.E.L.D. Flying Car",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/404.jpg"
+    },
+    {
+      "id": "1ff8f5aa-a450-4399-bd3a-a8f6b221bab0",
+      "number": 405,
+      "name": "Baron Helmut Zemo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/405.jpg"
+    },
+    {
+      "id": "248b4c86-163b-46eb-9949-e8d8e5875294",
+      "number": 406,
+      "name": "Construct a Cosmic Cube",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/406.jpg"
+    },
+    {
+      "id": "d2468de2-fdb1-4d92-a303-30d255423ddf",
+      "number": 407,
+      "name": "Doom Reigns Supreme",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/407.jpg"
+    },
+    {
+      "id": "bf38cf25-579f-4f94-92fb-a781c90a5f2e",
+      "number": 408,
+      "name": "M.O.D.O.K.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/408.jpg"
+    },
+    {
+      "id": "625d95ac-41c5-4b42-b479-52446bb39465",
+      "number": 409,
+      "name": "Super-Skrull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/409.jpg"
+    },
+    {
+      "id": "90da36af-fddb-43e5-992e-2aa782af66c3",
+      "number": 410,
+      "name": "Thunderbolts Conspiracy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/410.jpg"
+    },
+    {
+      "id": "e79ef21e-ddd3-408a-88a6-7383f88ea320",
+      "number": 411,
+      "name": "Fin Fang Foom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/411.jpg"
+    },
+    {
+      "id": "b8874ee6-504d-447f-a15b-0ee4bbb1a89f",
+      "number": 412,
+      "name": "Quicksilver, Brash Blur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/412.jpg"
+    },
+    {
+      "id": "b3534144-0738-4bbc-8d77-c78e28ce42eb",
+      "number": 413,
+      "name": "Earth's Mightiest Heroes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/413.jpg"
+    },
+    {
+      "id": "dd9b6b3f-07b1-42d2-8aff-8da3113b9d88",
+      "number": 414,
+      "name": "Heroic Feast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/414.jpg"
+    },
+    {
+      "id": "f1fbac4b-574e-4f30-9ee7-6054081b278c",
+      "number": 415,
+      "name": "Mole Man, Moloid Master",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/415.jpg"
+    },
+    {
+      "id": "35d772a2-717d-4b82-a267-52efed584ae9",
+      "number": 416,
+      "name": "Absorbing Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/416.jpg"
+    },
+    {
+      "id": "3d32fd3a-ce7f-42b2-84ca-4f25f096ade0",
+      "number": 417,
+      "name": "Alien Invasion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/417.jpg"
+    },
+    {
+      "id": "1dcccbcf-9dea-4fab-b296-d382c60dd6c7",
+      "number": 418,
+      "name": "Ares, God of War",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/418.jpg"
+    },
+    {
+      "id": "50aa361c-72fd-4ecb-b877-a27646c66ad0",
+      "number": 419,
+      "name": "Cloak and Dagger, Entwined",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/419.jpg"
+    },
+    {
+      "id": "dd02db75-9e7d-4958-9c2b-34e3fc1f7bf7",
+      "number": 420,
+      "name": "The Mighty Thor, Jane Foster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/420.jpg"
+    },
+    {
+      "id": "42141284-32b3-4195-b696-801232fe6799",
+      "number": 421,
+      "name": "Moon Girl and Devil Dinosaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/421.jpg"
+    },
+    {
+      "id": "52c4f3fa-d6d2-4fe7-9a9c-ec3ab41134e9",
+      "number": 422,
+      "name": "The Ruinous Wrecking Crew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/422.jpg"
+    },
+    {
+      "id": "2b9beaa2-87c0-45f3-9b63-3f944c7daa02",
+      "number": 423,
+      "name": "Scientist Supreme of A.I.M.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/423.jpg"
+    },
+    {
+      "id": "112ac08d-a4b6-4f2b-8afb-41d2ca948d56",
+      "number": 424,
+      "name": "The Serpent Society",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/424.jpg"
+    },
+    {
+      "id": "0251766b-ab59-4079-aea7-9968b49f04ef",
+      "number": 425,
+      "name": "Taskmaster, Mercenary Mimic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/425.jpg"
+    },
+    {
+      "id": "36918a64-e13c-4a95-8068-eb2517572c66",
+      "number": 426,
+      "name": "Worlds Within Worlds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/426.jpg"
+    },
+    {
+      "id": "cb2f6737-8063-4e67-affc-42c4915d2db1",
+      "number": 427,
+      "name": "Iron Man Armor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/427.jpg"
+    },
+    {
+      "id": "5dcdba1d-434e-4c4e-8ec5-f51472f915de",
+      "number": 428,
+      "name": "Super-Adaptoid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/428.jpg"
+    },
+    {
+      "id": "daaf180d-074d-4ade-8954-0b3a90d56ce5",
+      "number": 429,
+      "name": "Castle Doom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/429.jpg"
+    },
+    {
+      "id": "3a62ba9f-e164-43ab-a20d-151805e8c237",
+      "number": 431,
+      "name": "The Scarlet Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/431.jpg"
+    },
+    {
+      "id": "a5f5730d-8c6b-4708-887d-9499439da4e7",
+      "number": 432,
+      "name": "Daredevil, Man Without Fear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/432.jpg"
+    },
+    {
+      "id": "427edc1d-0c8c-4a63-9c86-e38afbe7d35f",
+      "number": 433,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/433.jpg"
+    },
+    {
+      "id": "dabb5c08-3529-448f-be7f-179d71682d9f",
+      "number": 434,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/434.jpg"
+    },
+    {
+      "id": "87a0e243-ebb8-4237-886f-632aa72e1c73",
+      "number": 435,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/435.jpg"
+    },
+    {
+      "id": "35ecaa17-6528-4d73-b282-288b4939b96f",
+      "number": 436,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/436.jpg"
+    },
+    {
+      "id": "06b5576e-968a-41b6-bc5c-a0ed6521d419",
+      "number": 437,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/437.jpg"
+    },
+    {
+      "id": "02e71e69-ff6c-4821-81d3-e30931eb7bfe",
+      "number": 438,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/438.jpg"
+    },
+    {
+      "id": "5388993c-685b-4d9a-91d3-ea678ff11b71",
+      "number": 439,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/439.jpg"
+    },
+    {
+      "id": "bc4409dc-aadf-4c0e-a854-190ccc971ea5",
+      "number": 440,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/440.jpg"
+    },
+    {
+      "id": "6b6a8792-2355-4948-9c19-68491888d73f",
+      "number": 441,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/441.jpg"
+    },
+    {
+      "id": "7cc4d5d1-4471-43b0-877a-b3af0b8d67c6",
+      "number": 442,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/442.jpg"
+    },
+    {
+      "id": "ec54ad35-721c-4a8a-8b68-971f416bb150",
+      "number": 443,
+      "name": "Captain Mar-Vell, Space-Born",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/443.jpg"
+    },
+    {
+      "id": "51ab3270-3f50-46e8-b222-64e2b8f9a382",
+      "number": 444,
+      "name": "Patriot, Shield Wielder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/444.jpg"
+    },
+    {
+      "id": "0adf55a7-1e40-4756-a2e0-799271e6a3d2",
+      "number": 445,
+      "name": "Mister Fantastic, Reed Richards",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/445.jpg"
+    },
+    {
+      "id": "0eb58292-72f2-4344-b5ec-db6c8999cb01",
+      "number": 446,
+      "name": "Baron Strucker, HYDRA Overlord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/446.jpg"
+    },
+    {
+      "id": "792e4119-0518-4c97-822d-d146a5368a15",
+      "number": 447,
+      "name": "Moonstone, Harsh Mistress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/447.jpg"
+    },
+    {
+      "id": "7224b9cc-6a88-4aea-a7ab-ab64e0e25451",
+      "number": 448,
+      "name": "Speed, Young Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/448.jpg"
+    },
+    {
+      "id": "debe1ab2-ed15-4b8d-96f4-ad35bab44f82",
+      "number": 449,
+      "name": "Captain America, Living Legend",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/449.jpg"
+    },
+    {
+      "id": "e5dc6bca-f005-43e9-b6c7-739e49064c2f",
+      "number": 450,
+      "name": "Kang, Temporal Tyrant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/450.jpg"
+    },
+    {
+      "id": "4dedca48-b7a2-45b9-af1e-b3754879d1d6",
+      "number": 451,
+      "name": "Madame Hydra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/451.jpg"
+    },
+    {
+      "id": "2fea16cb-7cd0-46f2-bea4-a85cdd40a51a",
+      "number": 452,
+      "name": "Avengers Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/452.jpg"
+    },
+    {
+      "id": "3edd8a6e-1be9-48d1-9dd1-cab72416115d",
+      "number": 453,
+      "name": "Baxter Building",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/453.jpg"
+    },
+    {
+      "id": "cb4727f5-4a7e-487e-bd72-5f58eb8bf88e",
+      "number": 454,
+      "name": "Villainous Hideout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Super%20Heroes/images/454.jpg"
+    }
+  ]
+}
