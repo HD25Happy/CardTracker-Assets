@@ -1,0 +1,925 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Supreme Victors",
+  "totalCards": 153,
+  "cards": [
+    {
+      "id": "pl3-1",
+      "number": 1,
+      "name": "Absol G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/1.png"
+    },
+    {
+      "id": "pl3-2",
+      "number": 2,
+      "name": "Blaziken FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/2.png"
+    },
+    {
+      "id": "pl3-3",
+      "number": 3,
+      "name": "Drifblim FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/3.png"
+    },
+    {
+      "id": "pl3-4",
+      "number": 4,
+      "name": "Electivire FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/4.png"
+    },
+    {
+      "id": "pl3-5",
+      "number": 5,
+      "name": "Garchomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/5.png"
+    },
+    {
+      "id": "pl3-6",
+      "number": 6,
+      "name": "Magmortar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/6.png"
+    },
+    {
+      "id": "pl3-7",
+      "number": 7,
+      "name": "Metagross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/7.png"
+    },
+    {
+      "id": "pl3-8",
+      "number": 8,
+      "name": "Rayquaza C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/8.png"
+    },
+    {
+      "id": "pl3-9",
+      "number": 9,
+      "name": "Regigigas FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/9.png"
+    },
+    {
+      "id": "pl3-10",
+      "number": 10,
+      "name": "Rhyperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/10.png"
+    },
+    {
+      "id": "pl3-11",
+      "number": 11,
+      "name": "Staraptor FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/11.png"
+    },
+    {
+      "id": "pl3-12",
+      "number": 12,
+      "name": "Swampert",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/12.png"
+    },
+    {
+      "id": "pl3-13",
+      "number": 13,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/13.png"
+    },
+    {
+      "id": "pl3-14",
+      "number": 14,
+      "name": "Yanmega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/14.png"
+    },
+    {
+      "id": "pl3-15",
+      "number": 15,
+      "name": "Arcanine G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/15.png"
+    },
+    {
+      "id": "pl3-16",
+      "number": 16,
+      "name": "Articuno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/16.png"
+    },
+    {
+      "id": "pl3-17",
+      "number": 17,
+      "name": "Butterfree FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/17.png"
+    },
+    {
+      "id": "pl3-18",
+      "number": 18,
+      "name": "Camerupt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/18.png"
+    },
+    {
+      "id": "pl3-19",
+      "number": 19,
+      "name": "Camerupt G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/19.png"
+    },
+    {
+      "id": "pl3-20",
+      "number": 20,
+      "name": "Charizard G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/20.png"
+    },
+    {
+      "id": "pl3-21",
+      "number": 21,
+      "name": "Chimecho",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/21.png"
+    },
+    {
+      "id": "pl3-22",
+      "number": 22,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/22.png"
+    },
+    {
+      "id": "pl3-23",
+      "number": 23,
+      "name": "Crawdaunt G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/23.png"
+    },
+    {
+      "id": "pl3-24",
+      "number": 24,
+      "name": "Dewgong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/24.png"
+    },
+    {
+      "id": "pl3-25",
+      "number": 25,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/25.png"
+    },
+    {
+      "id": "pl3-26",
+      "number": 26,
+      "name": "Dusknoir FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/26.png"
+    },
+    {
+      "id": "pl3-27",
+      "number": 27,
+      "name": "Empoleon FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/27.png"
+    },
+    {
+      "id": "pl3-28",
+      "number": 28,
+      "name": "Exploud",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/28.png"
+    },
+    {
+      "id": "pl3-29",
+      "number": 29,
+      "name": "Honchkrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/29.png"
+    },
+    {
+      "id": "pl3-30",
+      "number": 30,
+      "name": "Lickilicky C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/30.png"
+    },
+    {
+      "id": "pl3-31",
+      "number": 31,
+      "name": "Lucario C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/31.png"
+    },
+    {
+      "id": "pl3-32",
+      "number": 32,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/32.png"
+    },
+    {
+      "id": "pl3-33",
+      "number": 33,
+      "name": "Mawile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/33.png"
+    },
+    {
+      "id": "pl3-34",
+      "number": 34,
+      "name": "Medicham",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/34.png"
+    },
+    {
+      "id": "pl3-35",
+      "number": 35,
+      "name": "Milotic C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/35.png"
+    },
+    {
+      "id": "pl3-36",
+      "number": 36,
+      "name": "Moltres",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/36.png"
+    },
+    {
+      "id": "pl3-37",
+      "number": 37,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/37.png"
+    },
+    {
+      "id": "pl3-38",
+      "number": 38,
+      "name": "Parasect",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/38.png"
+    },
+    {
+      "id": "pl3-39",
+      "number": 39,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/39.png"
+    },
+    {
+      "id": "pl3-40",
+      "number": 40,
+      "name": "Roserade C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/40.png"
+    },
+    {
+      "id": "pl3-41",
+      "number": 41,
+      "name": "Sableye G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/41.png"
+    },
+    {
+      "id": "pl3-42",
+      "number": 42,
+      "name": "Sandslash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/42.png"
+    },
+    {
+      "id": "pl3-43",
+      "number": 43,
+      "name": "Seaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/43.png"
+    },
+    {
+      "id": "pl3-44",
+      "number": 44,
+      "name": "Shedinja",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/44.png"
+    },
+    {
+      "id": "pl3-45",
+      "number": 45,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/45.png"
+    },
+    {
+      "id": "pl3-46",
+      "number": 46,
+      "name": "Spinda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/46.png"
+    },
+    {
+      "id": "pl3-47",
+      "number": 47,
+      "name": "Wailord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/47.png"
+    },
+    {
+      "id": "pl3-48",
+      "number": 48,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/48.png"
+    },
+    {
+      "id": "pl3-49",
+      "number": 49,
+      "name": "Altaria C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/49.png"
+    },
+    {
+      "id": "pl3-50",
+      "number": 50,
+      "name": "Arcanine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/50.png"
+    },
+    {
+      "id": "pl3-51",
+      "number": 51,
+      "name": "Bibarel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/51.png"
+    },
+    {
+      "id": "pl3-52",
+      "number": 52,
+      "name": "Breloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/52.png"
+    },
+    {
+      "id": "pl3-53",
+      "number": 53,
+      "name": "Carnivine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/53.png"
+    },
+    {
+      "id": "pl3-54",
+      "number": 54,
+      "name": "Chatot G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/54.png"
+    },
+    {
+      "id": "pl3-55",
+      "number": 55,
+      "name": "Cherrim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/55.png"
+    },
+    {
+      "id": "pl3-56",
+      "number": 56,
+      "name": "Dragonite FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/56.png"
+    },
+    {
+      "id": "pl3-57",
+      "number": 57,
+      "name": "Drifblim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/57.png"
+    },
+    {
+      "id": "pl3-58",
+      "number": 58,
+      "name": "Floatzel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/58.png"
+    },
+    {
+      "id": "pl3-59",
+      "number": 59,
+      "name": "Gabite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/59.png"
+    },
+    {
+      "id": "pl3-60",
+      "number": 60,
+      "name": "Garchomp C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/60.png"
+    },
+    {
+      "id": "pl3-61",
+      "number": 61,
+      "name": "Hippopotas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/61.png"
+    },
+    {
+      "id": "pl3-62",
+      "number": 62,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/62.png"
+    },
+    {
+      "id": "pl3-63",
+      "number": 63,
+      "name": "Lopunny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/63.png"
+    },
+    {
+      "id": "pl3-64",
+      "number": 64,
+      "name": "Loudred",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/64.png"
+    },
+    {
+      "id": "pl3-65",
+      "number": 65,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/65.png"
+    },
+    {
+      "id": "pl3-66",
+      "number": 66,
+      "name": "Manectric G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/66.png"
+    },
+    {
+      "id": "pl3-67",
+      "number": 67,
+      "name": "Marshtomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/67.png"
+    },
+    {
+      "id": "pl3-68",
+      "number": 68,
+      "name": "Masquerain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/68.png"
+    },
+    {
+      "id": "pl3-69",
+      "number": 69,
+      "name": "Metang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/69.png"
+    },
+    {
+      "id": "pl3-70",
+      "number": 70,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/70.png"
+    },
+    {
+      "id": "pl3-71",
+      "number": 71,
+      "name": "Minun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/71.png"
+    },
+    {
+      "id": "pl3-72",
+      "number": 72,
+      "name": "Murkrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/72.png"
+    },
+    {
+      "id": "pl3-73",
+      "number": 73,
+      "name": "Ninjask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/73.png"
+    },
+    {
+      "id": "pl3-74",
+      "number": 74,
+      "name": "Numel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/74.png"
+    },
+    {
+      "id": "pl3-75",
+      "number": 75,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/75.png"
+    },
+    {
+      "id": "pl3-76",
+      "number": 76,
+      "name": "Plusle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/76.png"
+    },
+    {
+      "id": "pl3-77",
+      "number": 77,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/77.png"
+    },
+    {
+      "id": "pl3-78",
+      "number": 78,
+      "name": "Raticate G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/78.png"
+    },
+    {
+      "id": "pl3-79",
+      "number": 79,
+      "name": "Relicanth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/79.png"
+    },
+    {
+      "id": "pl3-80",
+      "number": 80,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/80.png"
+    },
+    {
+      "id": "pl3-81",
+      "number": 81,
+      "name": "Roserade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/81.png"
+    },
+    {
+      "id": "pl3-82",
+      "number": 82,
+      "name": "Rotom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/82.png"
+    },
+    {
+      "id": "pl3-83",
+      "number": 83,
+      "name": "Skarmory FB",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/83.png"
+    },
+    {
+      "id": "pl3-84",
+      "number": 84,
+      "name": "Spiritomb C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/84.png"
+    },
+    {
+      "id": "pl3-85",
+      "number": 85,
+      "name": "Staravia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/85.png"
+    },
+    {
+      "id": "pl3-86",
+      "number": 86,
+      "name": "Togekiss C",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/86.png"
+    },
+    {
+      "id": "pl3-87",
+      "number": 87,
+      "name": "Wailmer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/87.png"
+    },
+    {
+      "id": "pl3-88",
+      "number": 88,
+      "name": "Yanma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/88.png"
+    },
+    {
+      "id": "pl3-89",
+      "number": 89,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/89.png"
+    },
+    {
+      "id": "pl3-90",
+      "number": 90,
+      "name": "Beldum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/90.png"
+    },
+    {
+      "id": "pl3-91",
+      "number": 91,
+      "name": "Bidoof",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/91.png"
+    },
+    {
+      "id": "pl3-92",
+      "number": 92,
+      "name": "Buizel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/92.png"
+    },
+    {
+      "id": "pl3-93",
+      "number": 93,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/93.png"
+    },
+    {
+      "id": "pl3-94",
+      "number": 94,
+      "name": "Buneary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/94.png"
+    },
+    {
+      "id": "pl3-95",
+      "number": 95,
+      "name": "Chatot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/95.png"
+    },
+    {
+      "id": "pl3-96",
+      "number": 96,
+      "name": "Cherubi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/96.png"
+    },
+    {
+      "id": "pl3-97",
+      "number": 97,
+      "name": "Chimchar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/97.png"
+    },
+    {
+      "id": "pl3-98",
+      "number": 98,
+      "name": "Chingling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/98.png"
+    },
+    {
+      "id": "pl3-99",
+      "number": 99,
+      "name": "Combee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/99.png"
+    },
+    {
+      "id": "pl3-100",
+      "number": 100,
+      "name": "Corphish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/100.png"
+    },
+    {
+      "id": "pl3-101",
+      "number": 101,
+      "name": "Croagunk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/101.png"
+    },
+    {
+      "id": "pl3-102",
+      "number": 102,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/102.png"
+    },
+    {
+      "id": "pl3-103",
+      "number": 103,
+      "name": "Drifloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/103.png"
+    },
+    {
+      "id": "pl3-104",
+      "number": 104,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/104.png"
+    },
+    {
+      "id": "pl3-105",
+      "number": 105,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/105.png"
+    },
+    {
+      "id": "pl3-106",
+      "number": 106,
+      "name": "Gible",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/106.png"
+    },
+    {
+      "id": "pl3-107",
+      "number": 107,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/107.png"
+    },
+    {
+      "id": "pl3-108",
+      "number": 108,
+      "name": "Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/108.png"
+    },
+    {
+      "id": "pl3-109",
+      "number": 109,
+      "name": "Kricketot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/109.png"
+    },
+    {
+      "id": "pl3-110",
+      "number": 110,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/110.png"
+    },
+    {
+      "id": "pl3-111",
+      "number": 111,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/111.png"
+    },
+    {
+      "id": "pl3-112",
+      "number": 112,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/112.png"
+    },
+    {
+      "id": "pl3-113",
+      "number": 113,
+      "name": "Meditite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/113.png"
+    },
+    {
+      "id": "pl3-114",
+      "number": 114,
+      "name": "Meowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/114.png"
+    },
+    {
+      "id": "pl3-115",
+      "number": 115,
+      "name": "Mime Jr.",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/115.png"
+    },
+    {
+      "id": "pl3-116",
+      "number": 116,
+      "name": "Mudkip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/116.png"
+    },
+    {
+      "id": "pl3-117",
+      "number": 117,
+      "name": "Nincada",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/117.png"
+    },
+    {
+      "id": "pl3-118",
+      "number": 118,
+      "name": "Pachirisu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/118.png"
+    },
+    {
+      "id": "pl3-119",
+      "number": 119,
+      "name": "Paras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/119.png"
+    },
+    {
+      "id": "pl3-120",
+      "number": 120,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/120.png"
+    },
+    {
+      "id": "pl3-121",
+      "number": 121,
+      "name": "Piplup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/121.png"
+    },
+    {
+      "id": "pl3-122",
+      "number": 122,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/122.png"
+    },
+    {
+      "id": "pl3-123",
+      "number": 123,
+      "name": "Roselia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/123.png"
+    },
+    {
+      "id": "pl3-124",
+      "number": 124,
+      "name": "Sandshrew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/124.png"
+    },
+    {
+      "id": "pl3-125",
+      "number": 125,
+      "name": "Seel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/125.png"
+    },
+    {
+      "id": "pl3-126",
+      "number": 126,
+      "name": "Shinx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/126.png"
+    },
+    {
+      "id": "pl3-127",
+      "number": 127,
+      "name": "Shroomish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/127.png"
+    },
+    {
+      "id": "pl3-128",
+      "number": 128,
+      "name": "Skorupi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/128.png"
+    },
+    {
+      "id": "pl3-129",
+      "number": 129,
+      "name": "Starly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/129.png"
+    },
+    {
+      "id": "pl3-130",
+      "number": 130,
+      "name": "Surskit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/130.png"
+    },
+    {
+      "id": "pl3-131",
+      "number": 131,
+      "name": "Turtwig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/131.png"
+    },
+    {
+      "id": "pl3-132",
+      "number": 132,
+      "name": "Whismur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/132.png"
+    },
+    {
+      "id": "pl3-133",
+      "number": 133,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/133.png"
+    },
+    {
+      "id": "pl3-134",
+      "number": 134,
+      "name": "Battle Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/134.png"
+    },
+    {
+      "id": "pl3-135",
+      "number": 135,
+      "name": "Champion's Room",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/135.png"
+    },
+    {
+      "id": "pl3-136",
+      "number": 136,
+      "name": "Cynthia's Guidance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/136.png"
+    },
+    {
+      "id": "pl3-137",
+      "number": 137,
+      "name": "Cyrus's Initiative",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/137.png"
+    },
+    {
+      "id": "pl3-138",
+      "number": 138,
+      "name": "Night Teleporter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/138.png"
+    },
+    {
+      "id": "pl3-139",
+      "number": 139,
+      "name": "Palmer's Contribution",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/139.png"
+    },
+    {
+      "id": "pl3-140",
+      "number": 140,
+      "name": "VS Seeker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/140.png"
+    },
+    {
+      "id": "pl3-141",
+      "number": 141,
+      "name": "Absol G LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/141.png"
+    },
+    {
+      "id": "pl3-142",
+      "number": 142,
+      "name": "Blaziken FB LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/142.png"
+    },
+    {
+      "id": "pl3-143",
+      "number": 143,
+      "name": "Charizard G LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/143.png"
+    },
+    {
+      "id": "pl3-144",
+      "number": 144,
+      "name": "Electivire FB LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/144.png"
+    },
+    {
+      "id": "pl3-145",
+      "number": 145,
+      "name": "Garchomp C LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/145.png"
+    },
+    {
+      "id": "pl3-146",
+      "number": 146,
+      "name": "Rayquaza C LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/146.png"
+    },
+    {
+      "id": "pl3-147",
+      "number": 147,
+      "name": "Staraptor FB LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/147.png"
+    },
+    {
+      "id": "pl3-148",
+      "number": 148,
+      "name": "Articuno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/148.png"
+    },
+    {
+      "id": "pl3-149",
+      "number": 149,
+      "name": "Moltres",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/149.png"
+    },
+    {
+      "id": "pl3-150",
+      "number": 150,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/150.png"
+    },
+    {
+      "id": "pl3-SH7",
+      "number": 0,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/SH7.png"
+    },
+    {
+      "id": "pl3-SH8",
+      "number": 0,
+      "name": "Relicanth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/SH8.png"
+    },
+    {
+      "id": "pl3-SH9",
+      "number": 0,
+      "name": "Yanma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Supreme%20Victors/images/SH9.png"
+    }
+  ]
+}

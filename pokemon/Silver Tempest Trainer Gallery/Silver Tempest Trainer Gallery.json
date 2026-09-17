@@ -1,6 +1,188 @@
 ﻿{
   "game": "Pokemon",
   "setName": "Silver Tempest Trainer Gallery",
-  "totalCards": 0,
-  "cards": []
+  "totalCards": 30,
+  "availableImages": 30,
+  "cards": [
+    {
+      "id": "swsh12tg-TG01",
+      "number": 0,
+      "name": "Braixen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG01.png"
+    },
+    {
+      "id": "swsh12tg-TG02",
+      "number": 0,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG02.png"
+    },
+    {
+      "id": "swsh12tg-TG03",
+      "number": 0,
+      "name": "Flaaffy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG03.png"
+    },
+    {
+      "id": "swsh12tg-TG04",
+      "number": 0,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG04.png"
+    },
+    {
+      "id": "swsh12tg-TG05",
+      "number": 0,
+      "name": "Gardevoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG05.png"
+    },
+    {
+      "id": "swsh12tg-TG06",
+      "number": 0,
+      "name": "Malamar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG06.png"
+    },
+    {
+      "id": "swsh12tg-TG07",
+      "number": 0,
+      "name": "Rockruff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG07.png"
+    },
+    {
+      "id": "swsh12tg-TG08",
+      "number": 0,
+      "name": "Passimian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG08.png"
+    },
+    {
+      "id": "swsh12tg-TG09",
+      "number": 0,
+      "name": "Druddigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG09.png"
+    },
+    {
+      "id": "swsh12tg-TG10",
+      "number": 0,
+      "name": "Smeargle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG10.png"
+    },
+    {
+      "id": "swsh12tg-TG11",
+      "number": 0,
+      "name": "Altaria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG11.png"
+    },
+    {
+      "id": "swsh12tg-TG12",
+      "number": 0,
+      "name": "Kricketune V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG12.png"
+    },
+    {
+      "id": "swsh12tg-TG13",
+      "number": 0,
+      "name": "Serperior V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG13.png"
+    },
+    {
+      "id": "swsh12tg-TG14",
+      "number": 0,
+      "name": "Blaziken V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG14.png"
+    },
+    {
+      "id": "swsh12tg-TG15",
+      "number": 0,
+      "name": "Blaziken VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG15.png"
+    },
+    {
+      "id": "swsh12tg-TG16",
+      "number": 0,
+      "name": "Zeraora V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG16.png"
+    },
+    {
+      "id": "swsh12tg-TG17",
+      "number": 0,
+      "name": "Mawile V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG17.png"
+    },
+    {
+      "id": "swsh12tg-TG18",
+      "number": 0,
+      "name": "Corviknight V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG18.png"
+    },
+    {
+      "id": "swsh12tg-TG19",
+      "number": 0,
+      "name": "Corviknight VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG19.png"
+    },
+    {
+      "id": "swsh12tg-TG20",
+      "number": 0,
+      "name": "Rayquaza VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG20.png"
+    },
+    {
+      "id": "swsh12tg-TG21",
+      "number": 0,
+      "name": "Duraludon VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG21.png"
+    },
+    {
+      "id": "swsh12tg-TG22",
+      "number": 0,
+      "name": "Blissey V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG22.png"
+    },
+    {
+      "id": "swsh12tg-TG23",
+      "number": 0,
+      "name": "Friends in Galar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG23.png"
+    },
+    {
+      "id": "swsh12tg-TG24",
+      "number": 0,
+      "name": "Gordie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG24.png"
+    },
+    {
+      "id": "swsh12tg-TG25",
+      "number": 0,
+      "name": "Judge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG25.png"
+    },
+    {
+      "id": "swsh12tg-TG26",
+      "number": 0,
+      "name": "Professor Burnet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG26.png"
+    },
+    {
+      "id": "swsh12tg-TG27",
+      "number": 0,
+      "name": "Raihan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG27.png"
+    },
+    {
+      "id": "swsh12tg-TG28",
+      "number": 0,
+      "name": "Sordward & Shielbert",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG28.png"
+    },
+    {
+      "id": "swsh12tg-TG29",
+      "number": 0,
+      "name": "Rayquaza VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG29.png"
+    },
+    {
+      "id": "swsh12tg-TG30",
+      "number": 0,
+      "name": "Duraludon VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Silver%20Tempest%20Trainer%20Gallery/images/TG30.png"
+    }
+  ]
 }

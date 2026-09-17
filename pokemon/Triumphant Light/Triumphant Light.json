@@ -1,0 +1,584 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Triumphant Light",
+  "totalCards": 96,
+  "availableImages": 96,
+  "cards": [
+    {
+      "id": "A2a-001",
+      "number": 1,
+      "name": "Heracross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/001.png"
+    },
+    {
+      "id": "A2a-002",
+      "number": 2,
+      "name": "Burmy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/002.png"
+    },
+    {
+      "id": "A2a-003",
+      "number": 3,
+      "name": "Mothim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/003.png"
+    },
+    {
+      "id": "A2a-004",
+      "number": 4,
+      "name": "Combee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/004.png"
+    },
+    {
+      "id": "A2a-005",
+      "number": 5,
+      "name": "Vespiquen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/005.png"
+    },
+    {
+      "id": "A2a-006",
+      "number": 6,
+      "name": "Cherubi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/006.png"
+    },
+    {
+      "id": "A2a-007",
+      "number": 7,
+      "name": "Cherrim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/007.png"
+    },
+    {
+      "id": "A2a-008",
+      "number": 8,
+      "name": "Cherrim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/008.png"
+    },
+    {
+      "id": "A2a-009",
+      "number": 9,
+      "name": "Carnivine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/009.png"
+    },
+    {
+      "id": "A2a-010",
+      "number": 10,
+      "name": "Leafeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/010.png"
+    },
+    {
+      "id": "A2a-011",
+      "number": 11,
+      "name": "Houndour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/011.png"
+    },
+    {
+      "id": "A2a-012",
+      "number": 12,
+      "name": "Houndoom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/012.png"
+    },
+    {
+      "id": "A2a-013",
+      "number": 13,
+      "name": "Heatran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/013.png"
+    },
+    {
+      "id": "A2a-014",
+      "number": 14,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/014.png"
+    },
+    {
+      "id": "A2a-015",
+      "number": 15,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/015.png"
+    },
+    {
+      "id": "A2a-016",
+      "number": 16,
+      "name": "Barboach",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/016.png"
+    },
+    {
+      "id": "A2a-017",
+      "number": 17,
+      "name": "Whiscash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/017.png"
+    },
+    {
+      "id": "A2a-018",
+      "number": 18,
+      "name": "Snorunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/018.png"
+    },
+    {
+      "id": "A2a-019",
+      "number": 19,
+      "name": "Froslass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/019.png"
+    },
+    {
+      "id": "A2a-020",
+      "number": 20,
+      "name": "Snover",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/020.png"
+    },
+    {
+      "id": "A2a-021",
+      "number": 21,
+      "name": "Abomasnow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/021.png"
+    },
+    {
+      "id": "A2a-022",
+      "number": 22,
+      "name": "Glaceon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/022.png"
+    },
+    {
+      "id": "A2a-023",
+      "number": 23,
+      "name": "Origin Forme Palkia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/023.png"
+    },
+    {
+      "id": "A2a-024",
+      "number": 24,
+      "name": "Phione",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/024.png"
+    },
+    {
+      "id": "A2a-025",
+      "number": 25,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/025.png"
+    },
+    {
+      "id": "A2a-026",
+      "number": 26,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/026.png"
+    },
+    {
+      "id": "A2a-027",
+      "number": 27,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/027.png"
+    },
+    {
+      "id": "A2a-028",
+      "number": 28,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/028.png"
+    },
+    {
+      "id": "A2a-029",
+      "number": 29,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/029.png"
+    },
+    {
+      "id": "A2a-030",
+      "number": 30,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/030.png"
+    },
+    {
+      "id": "A2a-031",
+      "number": 31,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/031.png"
+    },
+    {
+      "id": "A2a-032",
+      "number": 32,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/032.png"
+    },
+    {
+      "id": "A2a-033",
+      "number": 33,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/033.png"
+    },
+    {
+      "id": "A2a-034",
+      "number": 34,
+      "name": "Unown",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/034.png"
+    },
+    {
+      "id": "A2a-035",
+      "number": 35,
+      "name": "Rotom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/035.png"
+    },
+    {
+      "id": "A2a-036",
+      "number": 36,
+      "name": "Sudowoodo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/036.png"
+    },
+    {
+      "id": "A2a-037",
+      "number": 37,
+      "name": "Phanpy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/037.png"
+    },
+    {
+      "id": "A2a-038",
+      "number": 38,
+      "name": "Donphan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/038.png"
+    },
+    {
+      "id": "A2a-039",
+      "number": 39,
+      "name": "Larvitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/039.png"
+    },
+    {
+      "id": "A2a-040",
+      "number": 40,
+      "name": "Pupitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/040.png"
+    },
+    {
+      "id": "A2a-041",
+      "number": 41,
+      "name": "Tyranitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/041.png"
+    },
+    {
+      "id": "A2a-042",
+      "number": 42,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/042.png"
+    },
+    {
+      "id": "A2a-043",
+      "number": 43,
+      "name": "Meditite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/043.png"
+    },
+    {
+      "id": "A2a-044",
+      "number": 44,
+      "name": "Medicham",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/044.png"
+    },
+    {
+      "id": "A2a-045",
+      "number": 45,
+      "name": "Gible",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/045.png"
+    },
+    {
+      "id": "A2a-046",
+      "number": 46,
+      "name": "Gabite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/046.png"
+    },
+    {
+      "id": "A2a-047",
+      "number": 47,
+      "name": "Garchomp ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/047.png"
+    },
+    {
+      "id": "A2a-048",
+      "number": 48,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/048.png"
+    },
+    {
+      "id": "A2a-049",
+      "number": 49,
+      "name": "Golbat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/049.png"
+    },
+    {
+      "id": "A2a-050",
+      "number": 50,
+      "name": "Crobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/050.png"
+    },
+    {
+      "id": "A2a-051",
+      "number": 51,
+      "name": "Croagunk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/051.png"
+    },
+    {
+      "id": "A2a-052",
+      "number": 52,
+      "name": "Toxicroak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/052.png"
+    },
+    {
+      "id": "A2a-053",
+      "number": 53,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/053.png"
+    },
+    {
+      "id": "A2a-054",
+      "number": 54,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/054.png"
+    },
+    {
+      "id": "A2a-055",
+      "number": 55,
+      "name": "Magnezone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/055.png"
+    },
+    {
+      "id": "A2a-056",
+      "number": 56,
+      "name": "Mawile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/056.png"
+    },
+    {
+      "id": "A2a-057",
+      "number": 57,
+      "name": "Probopass ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/057.png"
+    },
+    {
+      "id": "A2a-058",
+      "number": 58,
+      "name": "Bronzor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/058.png"
+    },
+    {
+      "id": "A2a-059",
+      "number": 59,
+      "name": "Bronzong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/059.png"
+    },
+    {
+      "id": "A2a-060",
+      "number": 60,
+      "name": "Origin Forme Dialga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/060.png"
+    },
+    {
+      "id": "A2a-061",
+      "number": 61,
+      "name": "Giratina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/061.png"
+    },
+    {
+      "id": "A2a-062",
+      "number": 62,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/062.png"
+    },
+    {
+      "id": "A2a-063",
+      "number": 63,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/063.png"
+    },
+    {
+      "id": "A2a-064",
+      "number": 64,
+      "name": "Hoothoot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/064.png"
+    },
+    {
+      "id": "A2a-065",
+      "number": 65,
+      "name": "Noctowl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/065.png"
+    },
+    {
+      "id": "A2a-066",
+      "number": 66,
+      "name": "Starly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/066.png"
+    },
+    {
+      "id": "A2a-067",
+      "number": 67,
+      "name": "Staravia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/067.png"
+    },
+    {
+      "id": "A2a-068",
+      "number": 68,
+      "name": "Staraptor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/068.png"
+    },
+    {
+      "id": "A2a-069",
+      "number": 69,
+      "name": "Shaymin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/069.png"
+    },
+    {
+      "id": "A2a-070",
+      "number": 70,
+      "name": "Arceus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/070.png"
+    },
+    {
+      "id": "A2a-071",
+      "number": 71,
+      "name": "Arceus ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/071.png"
+    },
+    {
+      "id": "A2a-072",
+      "number": 72,
+      "name": "Irida",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/072.png"
+    },
+    {
+      "id": "A2a-073",
+      "number": 73,
+      "name": "Celestic Town Elder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/073.png"
+    },
+    {
+      "id": "A2a-074",
+      "number": 74,
+      "name": "Barry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/074.png"
+    },
+    {
+      "id": "A2a-075",
+      "number": 75,
+      "name": "Adaman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/075.png"
+    },
+    {
+      "id": "A2a-076",
+      "number": 76,
+      "name": "Houndoom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/076.png"
+    },
+    {
+      "id": "A2a-077",
+      "number": 77,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/077.png"
+    },
+    {
+      "id": "A2a-078",
+      "number": 78,
+      "name": "Unown",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/078.png"
+    },
+    {
+      "id": "A2a-079",
+      "number": 79,
+      "name": "Sudowoodo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/079.png"
+    },
+    {
+      "id": "A2a-080",
+      "number": 80,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/080.png"
+    },
+    {
+      "id": "A2a-081",
+      "number": 81,
+      "name": "Shaymin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/081.png"
+    },
+    {
+      "id": "A2a-082",
+      "number": 82,
+      "name": "Leafeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/082.png"
+    },
+    {
+      "id": "A2a-083",
+      "number": 83,
+      "name": "Glaceon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/083.png"
+    },
+    {
+      "id": "A2a-084",
+      "number": 84,
+      "name": "Garchomp ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/084.png"
+    },
+    {
+      "id": "A2a-085",
+      "number": 85,
+      "name": "Probopass ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/085.png"
+    },
+    {
+      "id": "A2a-086",
+      "number": 86,
+      "name": "Arceus ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/086.png"
+    },
+    {
+      "id": "A2a-087",
+      "number": 87,
+      "name": "Irida",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/087.png"
+    },
+    {
+      "id": "A2a-088",
+      "number": 88,
+      "name": "Celestic Town Elder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/088.png"
+    },
+    {
+      "id": "A2a-089",
+      "number": 89,
+      "name": "Barry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/089.png"
+    },
+    {
+      "id": "A2a-090",
+      "number": 90,
+      "name": "Adaman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/090.png"
+    },
+    {
+      "id": "A2a-091",
+      "number": 91,
+      "name": "Leafeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/091.png"
+    },
+    {
+      "id": "A2a-092",
+      "number": 92,
+      "name": "Glaceon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/092.png"
+    },
+    {
+      "id": "A2a-093",
+      "number": 93,
+      "name": "Garchomp ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/093.png"
+    },
+    {
+      "id": "A2a-094",
+      "number": 94,
+      "name": "Probopass ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/094.png"
+    },
+    {
+      "id": "A2a-095",
+      "number": 95,
+      "name": "Arceus ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/095.png"
+    },
+    {
+      "id": "A2a-096",
+      "number": 96,
+      "name": "Arceus ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant%20Light/images/096.png"
+    }
+  ]
+}
