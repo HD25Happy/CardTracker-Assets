@@ -1,0 +1,2371 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Avatar: The Last Airbender",
+  "totalCards": 394,
+  "cards": [
+    {
+      "id": "5e51f727-5a9b-4bc7-83a9-dbcf1c933e15",
+      "number": 1,
+      "name": "Aang's Journey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/1.jpg"
+    },
+    {
+      "id": "6c085441-e023-4032-89a0-d24ce5060ac3",
+      "number": 2,
+      "name": "Energybending",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/2.jpg"
+    },
+    {
+      "id": "9090b055-3406-4fed-a8c6-3f6353a9600e",
+      "number": 3,
+      "name": "Zuko's Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/3.jpg"
+    },
+    {
+      "id": "245e008c-e073-443f-9592-6f628c0026ec",
+      "number": 4,
+      "name": "Aang, the Last Airbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/4.jpg"
+    },
+    {
+      "id": "720fbd87-b1c1-4b3b-97a1-46b943b115e3",
+      "number": 5,
+      "name": "Aang's Iceberg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/5.jpg"
+    },
+    {
+      "id": "99a90d13-891c-45cc-b1d5-6080ebae5862",
+      "number": 6,
+      "name": "Airbender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/6.jpg"
+    },
+    {
+      "id": "6b7078e4-2892-4b5f-83ab-90369e0d6dba",
+      "number": 7,
+      "name": "Airbender's Reversal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/7.jpg"
+    },
+    {
+      "id": "e2bcd0a6-e94d-4a21-a334-a57459c1b8cc",
+      "number": 8,
+      "name": "Airbending Lesson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/8.jpg"
+    },
+    {
+      "id": "a9b2a843-c6fe-4d19-801e-1538e4381ab0",
+      "number": 9,
+      "name": "Appa, Loyal Sky Bison",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/9.jpg"
+    },
+    {
+      "id": "829d91e9-4878-4e55-a262-ac0d55b65d4e",
+      "number": 10,
+      "name": "Appa, Steadfast Guardian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/10.jpg"
+    },
+    {
+      "id": "7292e5f2-d5a1-4e39-8f75-eba471819f04",
+      "number": 11,
+      "name": "Avatar Enthusiasts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/11.jpg"
+    },
+    {
+      "id": "4811072d-fac0-40dd-a5cf-9694d51b12cf",
+      "number": 12,
+      "name": "Avatar's Wrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/12.jpg"
+    },
+    {
+      "id": "88d5f8fd-d4de-4e64-9b74-e53719ffbcdc",
+      "number": 13,
+      "name": "Compassionate Healer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/13.jpg"
+    },
+    {
+      "id": "2402d759-84b6-41d2-ad78-9333974e9222",
+      "number": 14,
+      "name": "Curious Farm Animals",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/14.jpg"
+    },
+    {
+      "id": "d4605cf7-03bc-4a7f-b50a-49b83b09b54d",
+      "number": 15,
+      "name": "Destined Confrontation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/15.jpg"
+    },
+    {
+      "id": "9207362c-3605-4794-803f-ad1d0175fcca",
+      "number": 16,
+      "name": "Earth Kingdom Jailer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/16.jpg"
+    },
+    {
+      "id": "d263472e-1d75-4cb9-8f7b-986fa22bc841",
+      "number": 17,
+      "name": "Earth Kingdom Protectors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/17.jpg"
+    },
+    {
+      "id": "a8f3d2cb-d073-4df8-8769-49612628a377",
+      "number": 18,
+      "name": "Enter the Avatar State",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/18.jpg"
+    },
+    {
+      "id": "9c59f8c5-4063-4e5a-b684-fde175c4a981",
+      "number": 19,
+      "name": "Fancy Footwork",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/19.jpg"
+    },
+    {
+      "id": "96e2b3d0-f060-4f3c-9d12-a0444b202008",
+      "number": 20,
+      "name": "Gather the White Lotus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/20.jpg"
+    },
+    {
+      "id": "0613afb5-4cee-4132-8adf-404767ed8d07",
+      "number": 21,
+      "name": "Glider Kids",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/21.jpg"
+    },
+    {
+      "id": "7517f2eb-a24d-49f6-82bf-08de55d3789a",
+      "number": 22,
+      "name": "Glider Staff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/22.jpg"
+    },
+    {
+      "id": "9aef3ddb-9bb7-42c8-975b-b1917955a416",
+      "number": 23,
+      "name": "Hakoda, Selfless Commander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/23.jpg"
+    },
+    {
+      "id": "b8845bba-d116-43cd-8ae0-e553f3324d66",
+      "number": 24,
+      "name": "Invasion Reinforcements",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/24.jpg"
+    },
+    {
+      "id": "060966f9-5e56-4512-9ef3-2b216daf093c",
+      "number": 25,
+      "name": "Jeong Jeong's Deserters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/25.jpg"
+    },
+    {
+      "id": "211045e1-85c7-4088-b830-a2afa0fe520b",
+      "number": 26,
+      "name": "Kyoshi Warriors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/26.jpg"
+    },
+    {
+      "id": "a60e8f23-90b2-4bc6-bd54-a95055556389",
+      "number": 27,
+      "name": "The Legend of Yangchen // Avatar Yangchen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/27.jpg"
+    },
+    {
+      "id": "3e4a042c-f2a6-45e7-9444-acd1ca838b87",
+      "number": 28,
+      "name": "Master Piandao",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/28.jpg"
+    },
+    {
+      "id": "c472ef84-a632-4ad7-853c-60588a7a4b12",
+      "number": 29,
+      "name": "Momo, Friendly Flier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/29.jpg"
+    },
+    {
+      "id": "9350bf4a-fa12-4867-b31f-1f1394d99571",
+      "number": 30,
+      "name": "Momo, Playful Pet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/30.jpg"
+    },
+    {
+      "id": "f936d64a-0db4-49c1-8a57-6d99e012a555",
+      "number": 31,
+      "name": "Path to Redemption",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/31.jpg"
+    },
+    {
+      "id": "62a983b4-ac73-4949-9317-05a75a8ce164",
+      "number": 32,
+      "name": "Rabaroo Troop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/32.jpg"
+    },
+    {
+      "id": "b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a",
+      "number": 33,
+      "name": "Razor Rings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/33.jpg"
+    },
+    {
+      "id": "b3bf4a25-4329-4318-870a-2b06aa620dc4",
+      "number": 34,
+      "name": "Sandbenders' Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/34.jpg"
+    },
+    {
+      "id": "4b5ad895-be8d-476b-91ca-22fad7a3cc58",
+      "number": 35,
+      "name": "South Pole Voyager",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/35.jpg"
+    },
+    {
+      "id": "5c172f9b-2184-4736-9f90-74ce08596292",
+      "number": 36,
+      "name": "Southern Air Temple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/36.jpg"
+    },
+    {
+      "id": "33b97433-e16c-422e-a0ca-f6b1e98d8681",
+      "number": 37,
+      "name": "Suki, Courageous Rescuer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/37.jpg"
+    },
+    {
+      "id": "a9a5f6f7-f04d-477f-b67f-fd01a5dcc0f5",
+      "number": 38,
+      "name": "Team Avatar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/38.jpg"
+    },
+    {
+      "id": "d347caf8-0c12-401f-9e33-9978cb347f89",
+      "number": 39,
+      "name": "United Front",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/39.jpg"
+    },
+    {
+      "id": "8cabb6ed-5c80-4dab-b96c-9d4d9fe72db7",
+      "number": 40,
+      "name": "Vengeful Villagers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/40.jpg"
+    },
+    {
+      "id": "0a0cdf97-1927-47c6-8ef1-29969e3567ee",
+      "number": 41,
+      "name": "Water Tribe Captain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/41.jpg"
+    },
+    {
+      "id": "4e744b6c-1c2f-451a-818a-5ee7785b5213",
+      "number": 42,
+      "name": "Water Tribe Rallier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/42.jpg"
+    },
+    {
+      "id": "43f4b10e-165b-4100-82f3-728e1b0c78ed",
+      "number": 43,
+      "name": "Yip Yip!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/43.jpg"
+    },
+    {
+      "id": "a6335319-6c92-40d4-ab2d-c06c79049c30",
+      "number": 44,
+      "name": "Accumulate Wisdom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/44.jpg"
+    },
+    {
+      "id": "7ffb79cd-d170-4047-89c8-6e85188f30da",
+      "number": 45,
+      "name": "Benevolent River Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/45.jpg"
+    },
+    {
+      "id": "17ab958a-abc6-472e-ad6a-97c731d89c74",
+      "number": 46,
+      "name": "Boomerang Basics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/46.jpg"
+    },
+    {
+      "id": "9fd02eb4-1ef5-4a14-89a8-b25e720e8016",
+      "number": 47,
+      "name": "Crashing Wave",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/47.jpg"
+    },
+    {
+      "id": "0f79a7fc-36b1-4397-8e67-6638379d3a38",
+      "number": 48,
+      "name": "Ember Island Production",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/48.jpg"
+    },
+    {
+      "id": "ea22d29d-3a62-4ae2-91d5-21a678be9b48",
+      "number": 49,
+      "name": "First-Time Flyer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/49.jpg"
+    },
+    {
+      "id": "1447ebce-7e48-4b21-a39c-740920538bdd",
+      "number": 50,
+      "name": "Flexible Waterbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/50.jpg"
+    },
+    {
+      "id": "023e7ad4-6af0-4f29-a716-27a313974227",
+      "number": 51,
+      "name": "Forecasting Fortune Teller",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/51.jpg"
+    },
+    {
+      "id": "4d25428d-e5a5-43c4-8544-43120ed1c4d5",
+      "number": 52,
+      "name": "Geyser Leaper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/52.jpg"
+    },
+    {
+      "id": "3938ec1f-979c-48e5-bb13-bebace006a8f",
+      "number": 53,
+      "name": "Giant Koi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/53.jpg"
+    },
+    {
+      "id": "fa434b41-e5f7-4989-865a-95db67b05cb1",
+      "number": 54,
+      "name": "Gran-Gran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/54.jpg"
+    },
+    {
+      "id": "57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251",
+      "number": 55,
+      "name": "Honest Work",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/55.jpg"
+    },
+    {
+      "id": "7faa3e3d-c08a-4908-85ef-1370d3f90815",
+      "number": 56,
+      "name": "Iguana Parrot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/56.jpg"
+    },
+    {
+      "id": "af5299f5-1633-4c07-ade5-fd47e29ea4aa",
+      "number": 57,
+      "name": "Invasion Submersible",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/57.jpg"
+    },
+    {
+      "id": "47c25e41-f43c-4447-81b5-b9631448bd29",
+      "number": 58,
+      "name": "It'll Quench Ya!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/58.jpg"
+    },
+    {
+      "id": "e8372167-383f-4302-a8ea-b6bf495c870c",
+      "number": 59,
+      "name": "Katara, Bending Prodigy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/59.jpg"
+    },
+    {
+      "id": "8554e862-f78a-42f5-b876-076aac6c9504",
+      "number": 60,
+      "name": "Knowledge Seeker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/60.jpg"
+    },
+    {
+      "id": "5e9a53d3-7f2f-4a9c-9516-0713da740478",
+      "number": 61,
+      "name": "The Legend of Kuruk // Avatar Kuruk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/61.jpg"
+    },
+    {
+      "id": "db8e88e3-0931-403f-90e7-3c22c0b61dac",
+      "number": 62,
+      "name": "Lost Days",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/62.jpg"
+    },
+    {
+      "id": "91e30df5-63f7-4281-8d64-8d522d663652",
+      "number": 63,
+      "name": "Master Pakku",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/63.jpg"
+    },
+    {
+      "id": "b910851e-9332-4c83-a790-d379667cabfc",
+      "number": 64,
+      "name": "The Mechanist, Aerial Artisan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/64.jpg"
+    },
+    {
+      "id": "c2c0c138-5b61-4949-8431-4a6d458ead6a",
+      "number": 65,
+      "name": "North Pole Patrol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/65.jpg"
+    },
+    {
+      "id": "ce96a826-53a0-4029-bf34-46779d133b13",
+      "number": 66,
+      "name": "Octopus Form",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/66.jpg"
+    },
+    {
+      "id": "480b6279-bb34-4b3f-a639-868b52af92b9",
+      "number": 67,
+      "name": "Otter-Penguin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/67.jpg"
+    },
+    {
+      "id": "17d71522-b133-4003-b787-0c742a2fd70e",
+      "number": 68,
+      "name": "Rowdy Snowballers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/68.jpg"
+    },
+    {
+      "id": "9bb928ae-f636-4aee-9146-a7885e6a8976",
+      "number": 69,
+      "name": "Secret of Bloodbending",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/69.jpg"
+    },
+    {
+      "id": "87595843-15bc-48bb-8a81-3e6ad924ed44",
+      "number": 70,
+      "name": "Serpent of the Pass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/70.jpg"
+    },
+    {
+      "id": "004be4bc-ac3c-4026-8d36-f4687ab18c70",
+      "number": 71,
+      "name": "Sokka's Haiku",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/71.jpg"
+    },
+    {
+      "id": "3a1b1329-531c-47ed-9802-c505501f8fd9",
+      "number": 72,
+      "name": "The Spirit Oasis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/72.jpg"
+    },
+    {
+      "id": "0c019e76-c88e-4d1b-a546-0f4e462ef44a",
+      "number": 73,
+      "name": "Spirit Water Revival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/73.jpg"
+    },
+    {
+      "id": "66906ed4-baac-4be0-9359-34f453d1a04a",
+      "number": 74,
+      "name": "Teo, Spirited Glider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/74.jpg"
+    },
+    {
+      "id": "7aef2891-1269-4a1a-acea-0aa37ef544c4",
+      "number": 75,
+      "name": "Tiger-Seal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/75.jpg"
+    },
+    {
+      "id": "308cc687-9cb2-4e3a-98db-c5ba2a7da115",
+      "number": 76,
+      "name": "Ty Lee, Chi Blocker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/76.jpg"
+    },
+    {
+      "id": "0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff",
+      "number": 77,
+      "name": "The Unagi of Kyoshi Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/77.jpg"
+    },
+    {
+      "id": "e20da6b5-1057-4a28-9e85-07de714e262f",
+      "number": 78,
+      "name": "Wan Shi Tong, Librarian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/78.jpg"
+    },
+    {
+      "id": "3f57e0f9-e232-489c-b991-d0d23f75d8dd",
+      "number": 79,
+      "name": "Waterbender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/79.jpg"
+    },
+    {
+      "id": "4f81e3b5-a0a9-4764-8c2d-b499ce1740b4",
+      "number": 80,
+      "name": "Waterbending Lesson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/80.jpg"
+    },
+    {
+      "id": "50d0be73-a2c8-44a0-9178-9949f342f6f9",
+      "number": 81,
+      "name": "Waterbending Scroll",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/81.jpg"
+    },
+    {
+      "id": "26bcff57-428e-4f30-a153-a778fbfc437d",
+      "number": 82,
+      "name": "Watery Grasp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/82.jpg"
+    },
+    {
+      "id": "ecdac50f-c639-43fc-a03e-d488fac96ae2",
+      "number": 83,
+      "name": "Yue, the Moon Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/83.jpg"
+    },
+    {
+      "id": "416b9207-a2af-44d1-9b87-4943f6e46d42",
+      "number": 84,
+      "name": "Azula Always Lies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/84.jpg"
+    },
+    {
+      "id": "1335a145-248a-4f1e-8760-9a5d531e14e3",
+      "number": 85,
+      "name": "Azula, On the Hunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/85.jpg"
+    },
+    {
+      "id": "c2eed79f-38c1-4aac-9525-d54cb114f17f",
+      "number": 86,
+      "name": "Beetle-Headed Merchants",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/86.jpg"
+    },
+    {
+      "id": "739653cc-35c8-4a66-95d8-3e80fa6114f0",
+      "number": 87,
+      "name": "Boiling Rock Rioter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/87.jpg"
+    },
+    {
+      "id": "42d83229-0555-4361-8964-4b525c825843",
+      "number": 88,
+      "name": "Buzzard-Wasp Colony",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/88.jpg"
+    },
+    {
+      "id": "f22610e9-6b14-4914-bb67-bd6723bec9aa",
+      "number": 89,
+      "name": "Callous Inspector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/89.jpg"
+    },
+    {
+      "id": "30a30bfb-f0f3-425b-b37d-20079ee27046",
+      "number": 90,
+      "name": "Canyon Crawler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/90.jpg"
+    },
+    {
+      "id": "ec83a825-79e6-42a4-919c-3bc498ff4433",
+      "number": 91,
+      "name": "Cat-Gator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/91.jpg"
+    },
+    {
+      "id": "4692610e-d64c-438e-b5ad-0cf67fd57f1f",
+      "number": 92,
+      "name": "Corrupt Court Official",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/92.jpg"
+    },
+    {
+      "id": "eca652b8-44f1-4bd9-b4bf-036eeead13aa",
+      "number": 93,
+      "name": "Dai Li Indoctrination",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/93.jpg"
+    },
+    {
+      "id": "d0e24797-3e45-4c2b-b4b0-1ef44d42eaee",
+      "number": 94,
+      "name": "Day of Black Sun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/94.jpg"
+    },
+    {
+      "id": "4661daf6-d960-4278-8946-70948efaf99d",
+      "number": 95,
+      "name": "Deadly Precision",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/95.jpg"
+    },
+    {
+      "id": "3b4a6804-04f5-4467-bb1c-9466a47bc55f",
+      "number": 96,
+      "name": "Epic Downfall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/96.jpg"
+    },
+    {
+      "id": "3343933d-4425-4ede-8d92-876bd0c6df60",
+      "number": 97,
+      "name": "Fatal Fissure",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/97.jpg"
+    },
+    {
+      "id": "54d762f6-e131-480f-b294-10f5a63d9c98",
+      "number": 98,
+      "name": "The Fire Nation Drill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/98.jpg"
+    },
+    {
+      "id": "5daba108-277d-46c8-ac35-7610f4786813",
+      "number": 99,
+      "name": "Fire Nation Engineer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/99.jpg"
+    },
+    {
+      "id": "e58372cc-9a89-47a4-a0db-df5435e26cd3",
+      "number": 100,
+      "name": "Fire Navy Trebuchet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/100.jpg"
+    },
+    {
+      "id": "3f6e5869-ca25-4b98-a844-8a498cb40aab",
+      "number": 101,
+      "name": "Foggy Swamp Hunters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/101.jpg"
+    },
+    {
+      "id": "3a46deaa-88f7-4eec-aa99-b85073847918",
+      "number": 102,
+      "name": "Foggy Swamp Visions",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/102.jpg"
+    },
+    {
+      "id": "b57c57a8-d72b-4c6c-a2db-a7ef61190f42",
+      "number": 103,
+      "name": "Heartless Act",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/103.jpg"
+    },
+    {
+      "id": "4f442970-5355-4abf-8684-17daaa8e469b",
+      "number": 104,
+      "name": "Hog-Monkey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/104.jpg"
+    },
+    {
+      "id": "7ae1439f-a0c4-42c2-a4f3-8851defa981e",
+      "number": 105,
+      "name": "Joo Dee, One of Many",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/105.jpg"
+    },
+    {
+      "id": "148bbaab-bc7b-46ab-8e18-ade69d71d847",
+      "number": 106,
+      "name": "June, Bounty Hunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/106.jpg"
+    },
+    {
+      "id": "28f6fa32-5058-4c29-9ba8-9d8f2057eb6d",
+      "number": 107,
+      "name": "Koh, the Face Stealer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/107.jpg"
+    },
+    {
+      "id": "cba9260d-ef07-4429-99f9-6004cc1fea0f",
+      "number": 108,
+      "name": "Lo and Li, Twin Tutors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/108.jpg"
+    },
+    {
+      "id": "74dd4c0e-27b8-4c47-b7a6-a281413cd6b4",
+      "number": 109,
+      "name": "Mai, Scornful Striker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/109.jpg"
+    },
+    {
+      "id": "752ffa24-93b6-4b33-bf10-7222357ac472",
+      "number": 110,
+      "name": "Merchant of Many Hats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/110.jpg"
+    },
+    {
+      "id": "06b7675e-e665-49cb-a8d9-7092a654d464",
+      "number": 111,
+      "name": "Northern Air Temple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/111.jpg"
+    },
+    {
+      "id": "e837e29c-d241-43c8-8f45-05056e082b60",
+      "number": 112,
+      "name": "Obsessive Pursuit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/112.jpg"
+    },
+    {
+      "id": "22cad680-d46a-4589-a633-b6ee9a78d61e",
+      "number": 113,
+      "name": "Ozai's Cruelty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/113.jpg"
+    },
+    {
+      "id": "b51d3259-c41c-4f64-9666-0a9e676c812f",
+      "number": 114,
+      "name": "Phoenix Fleet Airship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/114.jpg"
+    },
+    {
+      "id": "5c998994-6c3b-4f34-9b31-babba2b17266",
+      "number": 115,
+      "name": "Pirate Peddlers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/115.jpg"
+    },
+    {
+      "id": "2262f24b-db6b-4f86-96d0-47a20fc015ab",
+      "number": 116,
+      "name": "Raven Eagle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/116.jpg"
+    },
+    {
+      "id": "14eadf46-90c2-4376-8183-6a922a60174d",
+      "number": 117,
+      "name": "The Rise of Sozin // Fire Lord Sozin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/117.jpg"
+    },
+    {
+      "id": "53161747-c82b-41e8-90ea-7791ea262a85",
+      "number": 118,
+      "name": "Ruinous Waterbending",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/118.jpg"
+    },
+    {
+      "id": "1affba6d-2cca-4cdf-8690-1e23ffbe8462",
+      "number": 119,
+      "name": "Sold Out",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/119.jpg"
+    },
+    {
+      "id": "6348b6bf-08a7-45f0-8b2d-2827ab89f21c",
+      "number": 120,
+      "name": "Swampsnare Trap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/120.jpg"
+    },
+    {
+      "id": "13c66fce-8f8e-4a98-8413-9f05aebf6e13",
+      "number": 121,
+      "name": "Tundra Tank",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/121.jpg"
+    },
+    {
+      "id": "2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2",
+      "number": 122,
+      "name": "Wolfbat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/122.jpg"
+    },
+    {
+      "id": "ad8933d6-cdc7-4d60-a78e-b43ffecfb136",
+      "number": 123,
+      "name": "Zuko's Conviction",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/123.jpg"
+    },
+    {
+      "id": "087a445c-5f63-45d6-83e8-20d22650db20",
+      "number": 124,
+      "name": "Boar-q-pine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/124.jpg"
+    },
+    {
+      "id": "e8895479-26cb-4ee8-98ca-6d46c43f0dbd",
+      "number": 125,
+      "name": "Bumi Bash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/125.jpg"
+    },
+    {
+      "id": "50bf5c8b-f218-46b7-843c-8d8083f02fd2",
+      "number": 126,
+      "name": "The Cave of Two Lovers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/126.jpg"
+    },
+    {
+      "id": "86f7399d-6876-4e85-ba34-ff1f97dc144a",
+      "number": 127,
+      "name": "Combustion Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/127.jpg"
+    },
+    {
+      "id": "fdcca576-2ef2-44cc-9944-a92bd146444a",
+      "number": 128,
+      "name": "Combustion Technique",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/128.jpg"
+    },
+    {
+      "id": "04c85150-269e-4158-a1b9-bd11bc6b7d79",
+      "number": 129,
+      "name": "Crescent Island Temple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/129.jpg"
+    },
+    {
+      "id": "0ff7c993-ba29-43b0-9639-7c4bc0292fa2",
+      "number": 130,
+      "name": "Cunning Maneuver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/130.jpg"
+    },
+    {
+      "id": "14f2ed5a-042b-4cce-82ad-cfb4bd511d98",
+      "number": 131,
+      "name": "Deserter's Disciple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/131.jpg"
+    },
+    {
+      "id": "51352127-1f86-42e9-b4ca-2fd58b14e86b",
+      "number": 132,
+      "name": "Fated Firepower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/132.jpg"
+    },
+    {
+      "id": "9cc10845-8989-46ca-a57a-fd728fca0729",
+      "number": 133,
+      "name": "Fire Nation Attacks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/133.jpg"
+    },
+    {
+      "id": "1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd",
+      "number": 134,
+      "name": "Fire Nation Cadets",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/134.jpg"
+    },
+    {
+      "id": "ede1bbdb-c726-46e3-aaf1-b8cf2be2c341",
+      "number": 135,
+      "name": "Fire Nation Raider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/135.jpg"
+    },
+    {
+      "id": "71a9fa44-306f-417a-a9d9-991aff95025c",
+      "number": 136,
+      "name": "Fire Sages",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/136.jpg"
+    },
+    {
+      "id": "2929b702-03c6-4cf0-a3f7-61b27f4803be",
+      "number": 137,
+      "name": "Firebender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/137.jpg"
+    },
+    {
+      "id": "fa940e68-010e-4b68-be8a-555d7068f7b4",
+      "number": 138,
+      "name": "Firebending Lesson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/138.jpg"
+    },
+    {
+      "id": "3b366f59-16fe-43cb-888d-1f93ef8fd332",
+      "number": 139,
+      "name": "Firebending Student",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/139.jpg"
+    },
+    {
+      "id": "23b3bf1e-ea85-47f5-8473-4d16615f68d7",
+      "number": 140,
+      "name": "How to Start a Riot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/140.jpg"
+    },
+    {
+      "id": "18d15fed-1f8f-4407-a221-a47ce75001a8",
+      "number": 141,
+      "name": "Iroh's Demonstration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/141.jpg"
+    },
+    {
+      "id": "a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e",
+      "number": 142,
+      "name": "Jeong Jeong, the Deserter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/142.jpg"
+    },
+    {
+      "id": "b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b",
+      "number": 143,
+      "name": "Jet's Brainwashing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/143.jpg"
+    },
+    {
+      "id": "61eaebc6-7575-48ed-b212-ff8b0c7ae694",
+      "number": 144,
+      "name": "The Last Agni Kai",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/144.jpg"
+    },
+    {
+      "id": "95f2f5af-d405-4534-8683-5a9001f997b4",
+      "number": 145,
+      "name": "The Legend of Roku // Avatar Roku",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/145.jpg"
+    },
+    {
+      "id": "5787b0e0-9469-4a6d-8b81-c992628e28c0",
+      "number": 146,
+      "name": "Lightning Strike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/146.jpg"
+    },
+    {
+      "id": "732e6bc9-0798-4c00-aea0-5ef4298b45f5",
+      "number": 147,
+      "name": "Mai, Jaded Edge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/147.jpg"
+    },
+    {
+      "id": "7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c",
+      "number": 148,
+      "name": "Mongoose Lizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/148.jpg"
+    },
+    {
+      "id": "9fbe94e9-a71d-4a31-9210-c599abe08e3f",
+      "number": 149,
+      "name": "Price of Freedom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/149.jpg"
+    },
+    {
+      "id": "6436e2d0-989f-47e3-90bc-9cde82a2ddb4",
+      "number": 150,
+      "name": "Ran and Shaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/150.jpg"
+    },
+    {
+      "id": "2b5b14a7-1fdd-4efc-b197-cadfa7f7c860",
+      "number": 151,
+      "name": "Redirect Lightning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/151.jpg"
+    },
+    {
+      "id": "a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d",
+      "number": 152,
+      "name": "Rough Rhino Cavalry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/152.jpg"
+    },
+    {
+      "id": "f22ac19f-66fb-4d54-9f09-495a20a29577",
+      "number": 153,
+      "name": "Solstice Revelations",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/153.jpg"
+    },
+    {
+      "id": "649e50e5-299b-4191-87a8-36e9378795be",
+      "number": 154,
+      "name": "Sozin's Comet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/154.jpg"
+    },
+    {
+      "id": "067bd117-04e6-410e-89c4-6d431d627751",
+      "number": 155,
+      "name": "Tiger-Dillo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/155.jpg"
+    },
+    {
+      "id": "a9394200-7ffc-440f-8b5f-c08b7930133c",
+      "number": 156,
+      "name": "Treetop Freedom Fighters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/156.jpg"
+    },
+    {
+      "id": "dc399ae0-36b5-4c92-9fe2-138caf8d7a86",
+      "number": 157,
+      "name": "Twin Blades",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/157.jpg"
+    },
+    {
+      "id": "dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7",
+      "number": 158,
+      "name": "Ty Lee, Artful Acrobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/158.jpg"
+    },
+    {
+      "id": "6829b20d-c2fa-41a6-89ca-f21c522d8866",
+      "number": 159,
+      "name": "War Balloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/159.jpg"
+    },
+    {
+      "id": "bac81940-d717-49ff-83b2-16a22bb2c988",
+      "number": 160,
+      "name": "Wartime Protestors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/160.jpg"
+    },
+    {
+      "id": "99244462-a996-4a5b-91fb-947045647d6d",
+      "number": 161,
+      "name": "Yuyan Archers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/161.jpg"
+    },
+    {
+      "id": "f1015bf5-de98-41f3-b6b1-ed95f7465944",
+      "number": 162,
+      "name": "Zhao, the Moon Slayer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/162.jpg"
+    },
+    {
+      "id": "6a73b372-9c0e-4a85-89d2-440163330687",
+      "number": 163,
+      "name": "Zuko, Exiled Prince",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/163.jpg"
+    },
+    {
+      "id": "11a77897-2aba-4a9b-bbe6-1768ca9f12cb",
+      "number": 164,
+      "name": "Allies at Last",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/164.jpg"
+    },
+    {
+      "id": "4d74da72-8443-4fce-9d64-d2041f6a3292",
+      "number": 165,
+      "name": "Avatar Destiny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/165.jpg"
+    },
+    {
+      "id": "aabbd420-b7fc-496f-9168-bad823d51d9e",
+      "number": 166,
+      "name": "Badgermole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/166.jpg"
+    },
+    {
+      "id": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+      "number": 167,
+      "name": "Badgermole Cub",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/167.jpg"
+    },
+    {
+      "id": "ec27a466-5457-44c6-a842-1de7d3788d66",
+      "number": 168,
+      "name": "The Boulder, Ready to Rumble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/168.jpg"
+    },
+    {
+      "id": "a268697b-22b0-4e1b-a5b6-d9be95025e57",
+      "number": 169,
+      "name": "Bumi, King of Three Trials",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/169.jpg"
+    },
+    {
+      "id": "233f4a05-057b-48f4-8f56-8d4a060a40e4",
+      "number": 170,
+      "name": "Cycle of Renewal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/170.jpg"
+    },
+    {
+      "id": "21f52564-9820-42dc-a08d-459d51afc397",
+      "number": 171,
+      "name": "Diligent Zookeeper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/171.jpg"
+    },
+    {
+      "id": "a8d5dca6-381a-4361-b265-27de8d04335c",
+      "number": 172,
+      "name": "The Earth King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/172.jpg"
+    },
+    {
+      "id": "8688fce5-74b1-41e1-a59a-05a3878a75cb",
+      "number": 173,
+      "name": "Earth Kingdom General",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/173.jpg"
+    },
+    {
+      "id": "62730505-56f1-4043-a8b9-4fb7bc508b47",
+      "number": 174,
+      "name": "Earth Rumble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/174.jpg"
+    },
+    {
+      "id": "590a58ab-5e98-4031-8aa6-ce396dc1429f",
+      "number": 175,
+      "name": "Earthbender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/175.jpg"
+    },
+    {
+      "id": "eccd63b3-3a3a-4661-9d6e-fb8152429bdb",
+      "number": 176,
+      "name": "Earthbending Lesson",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/176.jpg"
+    },
+    {
+      "id": "d7a0f2d9-efa4-4a53-a24b-36694457bd1c",
+      "number": 177,
+      "name": "Earthen Ally",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/177.jpg"
+    },
+    {
+      "id": "cac8ac35-6860-4839-ab85-93d409206c08",
+      "number": 178,
+      "name": "Elemental Teachings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/178.jpg"
+    },
+    {
+      "id": "082f4abc-c09f-42cf-977f-060875dfd411",
+      "number": 179,
+      "name": "Flopsie, Bumi's Buddy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/179.jpg"
+    },
+    {
+      "id": "78a75317-94f7-47a4-b4da-5a027fa73248",
+      "number": 180,
+      "name": "Foggy Swamp Vinebender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/180.jpg"
+    },
+    {
+      "id": "cc3063ec-5ea6-46c1-8331-c740cbaf6c76",
+      "number": 181,
+      "name": "Great Divide Guide",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/181.jpg"
+    },
+    {
+      "id": "9657a0c0-2c26-4331-8e62-f032265a01af",
+      "number": 182,
+      "name": "Haru, Hidden Talent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/182.jpg"
+    },
+    {
+      "id": "27c6330d-49f6-4707-b4d4-d1411fa422eb",
+      "number": 183,
+      "name": "Invasion Tactics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/183.jpg"
+    },
+    {
+      "id": "9c25ea98-9823-4487-bf6b-ee29ce5a4ed8",
+      "number": 184,
+      "name": "Kyoshi Island Plaza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/184.jpg"
+    },
+    {
+      "id": "b18995c2-efe3-46ca-8204-e2dc0e42f6e3",
+      "number": 185,
+      "name": "Leaves from the Vine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/185.jpg"
+    },
+    {
+      "id": "4887ce64-7c98-4bd7-95db-0c43ab71cc6e",
+      "number": 186,
+      "name": "The Legend of Kyoshi // Avatar Kyoshi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/186.jpg"
+    },
+    {
+      "id": "25749f9a-260d-4bdc-bd28-429c12faa4a5",
+      "number": 187,
+      "name": "Origin of Metalbending",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/187.jpg"
+    },
+    {
+      "id": "5ca3fd45-9301-44ef-afc0-4d7999d66d36",
+      "number": 188,
+      "name": "Ostrich-Horse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/188.jpg"
+    },
+    {
+      "id": "f177e9cc-0c41-417d-9215-5ff23a1a0657",
+      "number": 189,
+      "name": "Pillar Launch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/189.jpg"
+    },
+    {
+      "id": "ccd03ec3-0fae-48b2-9f04-9c57d2f94267",
+      "number": 190,
+      "name": "Raucous Audience",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/190.jpg"
+    },
+    {
+      "id": "e64a4a8b-323c-4c8b-92af-1a3295799e65",
+      "number": 191,
+      "name": "Rebellious Captives",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/191.jpg"
+    },
+    {
+      "id": "52b213d3-6f68-43e6-91e9-435d8fe1f34c",
+      "number": 192,
+      "name": "Rockalanche",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/192.jpg"
+    },
+    {
+      "id": "52fd910f-6d42-41f5-a4be-f375aa254ea2",
+      "number": 193,
+      "name": "Rocky Rebuke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/193.jpg"
+    },
+    {
+      "id": "b15f302d-c451-4e79-a5af-75ee3ba4cadf",
+      "number": 194,
+      "name": "Saber-Tooth Moose-Lion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/194.jpg"
+    },
+    {
+      "id": "a7b93c2a-c478-4734-8aca-03f3e9c11b20",
+      "number": 195,
+      "name": "Seismic Sense",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/195.jpg"
+    },
+    {
+      "id": "e7847ba5-e85e-417f-96c0-aef2e6f83994",
+      "number": 196,
+      "name": "Shared Roots",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/196.jpg"
+    },
+    {
+      "id": "520f5a03-ff5a-43ed-8f15-cf24596d60cd",
+      "number": 197,
+      "name": "Sparring Dummy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/197.jpg"
+    },
+    {
+      "id": "ff68fa7b-8065-407b-a8b4-bfbb14f1c99c",
+      "number": 198,
+      "name": "Toph, the Blind Bandit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/198.jpg"
+    },
+    {
+      "id": "8c55b333-dc8b-4332-895b-eec5eb45543f",
+      "number": 199,
+      "name": "True Ancestry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/199.jpg"
+    },
+    {
+      "id": "aefcd734-3916-4c77-9d98-3ea2c2795658",
+      "number": 200,
+      "name": "Turtle-Duck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/200.jpg"
+    },
+    {
+      "id": "0a838009-b115-4497-b35d-682e41ead7db",
+      "number": 201,
+      "name": "Unlucky Cabbage Merchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/201.jpg"
+    },
+    {
+      "id": "e55f1c63-58f6-4e2b-aaeb-f2d5faca47a2",
+      "number": 202,
+      "name": "Walltop Sentries",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/202.jpg"
+    },
+    {
+      "id": "fea89ca0-8070-4f28-9851-994314f9d248",
+      "number": 203,
+      "name": "Aang, at the Crossroads // Aang, Destined Savior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/203.jpg"
+    },
+    {
+      "id": "82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4",
+      "number": 204,
+      "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/204.jpg"
+    },
+    {
+      "id": "74ca45a4-97ab-4255-9129-884e8b42b984",
+      "number": 205,
+      "name": "Abandon Attachments",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/205.jpg"
+    },
+    {
+      "id": "10874416-fa4c-4aa3-b885-4351d011d208",
+      "number": 206,
+      "name": "Air Nomad Legacy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/206.jpg"
+    },
+    {
+      "id": "fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8",
+      "number": 207,
+      "name": "Avatar Aang // Aang, Master of Elements",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/207.jpg"
+    },
+    {
+      "id": "daf30e1c-436d-4f23-b1d2-570619a4b7f5",
+      "number": 208,
+      "name": "Azula, Cunning Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/208.jpg"
+    },
+    {
+      "id": "4f88ec3a-44a7-4ae5-a68c-24294dabaeed",
+      "number": 209,
+      "name": "Beifong's Bounty Hunters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/209.jpg"
+    },
+    {
+      "id": "3e8de6a9-9859-4ed2-8ece-ef80a7209be9",
+      "number": 210,
+      "name": "Bitter Work",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/210.jpg"
+    },
+    {
+      "id": "b20a5185-7e31-4fc9-be11-9423bfc389bf",
+      "number": 211,
+      "name": "Bumi, Unleashed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/211.jpg"
+    },
+    {
+      "id": "d7df3391-dbe5-4eb4-85c1-037c5f3ea971",
+      "number": 212,
+      "name": "Cat-Owl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/212.jpg"
+    },
+    {
+      "id": "9d70707b-2e25-40b1-80a8-9a5492bca7e2",
+      "number": 213,
+      "name": "Cruel Administrator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/213.jpg"
+    },
+    {
+      "id": "9ddb8715-341b-400a-b6eb-f3f90518157c",
+      "number": 214,
+      "name": "Dai Li Agents",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/214.jpg"
+    },
+    {
+      "id": "16be5cc4-b15a-4c5e-8a6e-05c87b519127",
+      "number": 215,
+      "name": "Dragonfly Swarm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/215.jpg"
+    },
+    {
+      "id": "2d543d35-945a-4ffa-beb7-7c5d4f894f79",
+      "number": 216,
+      "name": "Earth Kingdom Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/216.jpg"
+    },
+    {
+      "id": "4533d155-5c56-41a5-9d76-2d1414ac47c9",
+      "number": 217,
+      "name": "Earth King's Lieutenant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/217.jpg"
+    },
+    {
+      "id": "74fca0b8-12e1-405f-b999-160d65fe0ade",
+      "number": 218,
+      "name": "Earth Rumble Wrestlers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/218.jpg"
+    },
+    {
+      "id": "56d4e0b7-232f-4953-84a3-e6f17781aa45",
+      "number": 219,
+      "name": "Earth Village Ruffians",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/219.jpg"
+    },
+    {
+      "id": "bc6146bf-f0c6-4557-af6a-74c643d5fc01",
+      "number": 220,
+      "name": "Fire Lord Azula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/220.jpg"
+    },
+    {
+      "id": "e62d3bcc-7bb4-42be-90a9-caf3c1caa29d",
+      "number": 221,
+      "name": "Fire Lord Zuko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/221.jpg"
+    },
+    {
+      "id": "cd624be9-e960-4485-a8a9-2d5f2dd51777",
+      "number": 222,
+      "name": "Foggy Swamp Spirit Keeper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/222.jpg"
+    },
+    {
+      "id": "224a2241-0dce-4008-8d9c-86db40ec5f8b",
+      "number": 223,
+      "name": "Guru Pathik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/223.jpg"
+    },
+    {
+      "id": "6fa1197d-7b19-4d86-81e2-5c87de87757b",
+      "number": 224,
+      "name": "Hama, the Bloodbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/224.jpg"
+    },
+    {
+      "id": "060d24e0-1567-41f1-ae8c-2d3b1834df3c",
+      "number": 225,
+      "name": "Hei Bai, Spirit of Balance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/225.jpg"
+    },
+    {
+      "id": "5d0ee441-a057-41b5-abb8-dc86864ac248",
+      "number": 226,
+      "name": "Hermitic Herbalist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/226.jpg"
+    },
+    {
+      "id": "879b73d3-4552-4fdc-baee-c4d097ae9a4f",
+      "number": 227,
+      "name": "Iroh, Grand Lotus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/227.jpg"
+    },
+    {
+      "id": "d1f5e10d-0a89-4129-9717-a921f20d3616",
+      "number": 228,
+      "name": "Iroh, Tea Master",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/228.jpg"
+    },
+    {
+      "id": "9202c044-15e4-4218-a94d-16287ba19d69",
+      "number": 229,
+      "name": "Jet, Freedom Fighter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/229.jpg"
+    },
+    {
+      "id": "b0a18f8b-7364-4375-b2e1-e2f15978517f",
+      "number": 230,
+      "name": "Katara, the Fearless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/230.jpg"
+    },
+    {
+      "id": "9ec03308-59a2-417a-938f-bdda75080e43",
+      "number": 231,
+      "name": "Katara, Water Tribe's Hope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/231.jpg"
+    },
+    {
+      "id": "8491585c-81d0-48be-8ed0-832e42fad9c6",
+      "number": 232,
+      "name": "The Lion-Turtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/232.jpg"
+    },
+    {
+      "id": "a3eb92fe-bc59-4472-9028-f368bd015609",
+      "number": 233,
+      "name": "Long Feng, Grand Secretariat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/233.jpg"
+    },
+    {
+      "id": "6a2946c0-0a40-4cdb-92c8-af2bafecca09",
+      "number": 234,
+      "name": "Messenger Hawk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/234.jpg"
+    },
+    {
+      "id": "a98b1550-4609-4a2f-9371-4afe1cdc613e",
+      "number": 235,
+      "name": "Ozai, the Phoenix King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/235.jpg"
+    },
+    {
+      "id": "7ebf742a-3995-4b22-9dc7-b05f57889683",
+      "number": 236,
+      "name": "Platypus-Bear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/236.jpg"
+    },
+    {
+      "id": "d1af91a5-8681-4a05-910d-96f7a819bfaa",
+      "number": 237,
+      "name": "Pretending Poxbearers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/237.jpg"
+    },
+    {
+      "id": "27baccc0-7e25-4f39-be0d-31cd98ca0dc5",
+      "number": 238,
+      "name": "Professor Zei, Anthropologist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/238.jpg"
+    },
+    {
+      "id": "9bfe0f7c-6dac-41d4-a013-109445158a5e",
+      "number": 239,
+      "name": "Sandbender Scavengers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/239.jpg"
+    },
+    {
+      "id": "4a1f1472-55b4-450d-8e4d-7297130a0cf3",
+      "number": 240,
+      "name": "Sokka, Bold Boomeranger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/240.jpg"
+    },
+    {
+      "id": "1326c5db-4615-495f-8e30-376243d91352",
+      "number": 241,
+      "name": "Sokka, Lateral Strategist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/241.jpg"
+    },
+    {
+      "id": "f0fa5897-1da7-488f-bb19-1632e969c050",
+      "number": 242,
+      "name": "Sokka, Tenacious Tactician",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/242.jpg"
+    },
+    {
+      "id": "3e311480-04f8-4b8f-938e-1cc6d06b9902",
+      "number": 243,
+      "name": "Suki, Kyoshi Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/243.jpg"
+    },
+    {
+      "id": "e477d750-42d2-48c8-bc1f-8148d15d5f53",
+      "number": 244,
+      "name": "Sun Warriors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/244.jpg"
+    },
+    {
+      "id": "d822b9ad-a787-4355-88c2-07ae2bd3a78e",
+      "number": 245,
+      "name": "Tolls of War",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/245.jpg"
+    },
+    {
+      "id": "e3ba3395-39db-4330-9801-53def924f253",
+      "number": 246,
+      "name": "Toph, Hardheaded Teacher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/246.jpg"
+    },
+    {
+      "id": "70b6670f-a9fa-4d75-b0a7-c01b5071a514",
+      "number": 247,
+      "name": "Toph, the First Metalbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/247.jpg"
+    },
+    {
+      "id": "5c88672c-0eba-4e93-a0ec-30bbb1bb7661",
+      "number": 248,
+      "name": "Uncle Iroh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/248.jpg"
+    },
+    {
+      "id": "0f34de05-39a9-425f-a3b4-3a9d46c917ac",
+      "number": 249,
+      "name": "Vindictive Warden",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/249.jpg"
+    },
+    {
+      "id": "3da81dbd-dc80-47ff-a33b-270d23a24e0a",
+      "number": 250,
+      "name": "Wandering Musicians",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/250.jpg"
+    },
+    {
+      "id": "4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316",
+      "number": 251,
+      "name": "White Lotus Reinforcements",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/251.jpg"
+    },
+    {
+      "id": "3fd48a57-b0bb-4177-a0f3-bd317a179cbe",
+      "number": 252,
+      "name": "Zhao, Ruthless Admiral",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/252.jpg"
+    },
+    {
+      "id": "9d555cab-ec86-4f27-bca2-7d01f79c3f46",
+      "number": 253,
+      "name": "Zuko, Conflicted",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/253.jpg"
+    },
+    {
+      "id": "4fd83083-3779-41f0-90a0-a00e3270e4e6",
+      "number": 254,
+      "name": "Barrels of Blasting Jelly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/254.jpg"
+    },
+    {
+      "id": "6d4a1712-d19e-4475-9614-a0b1af4da610",
+      "number": 255,
+      "name": "Bender's Waterskin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/255.jpg"
+    },
+    {
+      "id": "41ecc1de-353e-4131-b735-d2ce18c9c2d5",
+      "number": 256,
+      "name": "Fire Nation Warship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/256.jpg"
+    },
+    {
+      "id": "257e6862-96fe-4312-aff2-509d0696843a",
+      "number": 257,
+      "name": "Kyoshi Battle Fan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/257.jpg"
+    },
+    {
+      "id": "68b1c746-a4b8-4a45-9f0e-3962f0ae40e3",
+      "number": 258,
+      "name": "Meteor Sword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/258.jpg"
+    },
+    {
+      "id": "0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede",
+      "number": 259,
+      "name": "Planetarium of Wan Shi Tong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/259.jpg"
+    },
+    {
+      "id": "df99a166-6d58-4d92-9037-2fdfbaf65629",
+      "number": 260,
+      "name": "Trusty Boomerang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/260.jpg"
+    },
+    {
+      "id": "24a14ac5-0b7e-4441-9963-782a7cda3f4a",
+      "number": 261,
+      "name": "The Walls of Ba Sing Se",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/261.jpg"
+    },
+    {
+      "id": "1d70f9ec-fdc1-4219-b89b-c030d712c1fc",
+      "number": 262,
+      "name": "White Lotus Tile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/262.jpg"
+    },
+    {
+      "id": "9c0433f9-8f1e-4a19-a83f-a41925f1b1a9",
+      "number": 263,
+      "name": "Abandoned Air Temple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/263.jpg"
+    },
+    {
+      "id": "6b885829-a323-4f7d-87c9-aa4615dcbe5c",
+      "number": 264,
+      "name": "Agna Qel'a",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/264.jpg"
+    },
+    {
+      "id": "0b98ba34-f251-4bd0-9d75-1d4445be5cfd",
+      "number": 265,
+      "name": "Airship Engine Room",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/265.jpg"
+    },
+    {
+      "id": "bdf3b2be-d0cd-4a3c-a10e-82d32c12d3bd",
+      "number": 266,
+      "name": "Ba Sing Se",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/266.jpg"
+    },
+    {
+      "id": "1c2e2220-54d1-4180-93a0-964e3b0ba8b8",
+      "number": 267,
+      "name": "Boiling Rock Prison",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/267.jpg"
+    },
+    {
+      "id": "c91ac3f2-9fcd-4b41-a168-ae7f70b67d3c",
+      "number": 268,
+      "name": "Fire Nation Palace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/268.jpg"
+    },
+    {
+      "id": "226af626-873d-4bd2-b889-000f8316786f",
+      "number": 269,
+      "name": "Foggy Bottom Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/269.jpg"
+    },
+    {
+      "id": "da2c83d4-a95f-47ff-a08f-694eb78d6b9b",
+      "number": 270,
+      "name": "Jasmine Dragon Tea Shop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/270.jpg"
+    },
+    {
+      "id": "8d5f3008-2af8-4e81-8847-1c91f524e747",
+      "number": 271,
+      "name": "Kyoshi Village",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/271.jpg"
+    },
+    {
+      "id": "cc078fc6-4470-473f-9e24-d2c470e09141",
+      "number": 272,
+      "name": "Meditation Pools",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/272.jpg"
+    },
+    {
+      "id": "7cc29ddb-8f44-4493-985d-2fac35f9f34d",
+      "number": 273,
+      "name": "Misty Palms Oasis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/273.jpg"
+    },
+    {
+      "id": "bcf7b9da-d35d-4338-b4d9-83e47dc058ee",
+      "number": 274,
+      "name": "North Pole Gates",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/274.jpg"
+    },
+    {
+      "id": "c21e413b-96ed-4ded-b567-f1647074ce5f",
+      "number": 275,
+      "name": "Omashu City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/275.jpg"
+    },
+    {
+      "id": "061ac694-610c-479f-b038-a4ef5270d5d7",
+      "number": 276,
+      "name": "Realm of Koh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/276.jpg"
+    },
+    {
+      "id": "3f5d2c38-663c-4f64-8cfc-c102462e82ef",
+      "number": 277,
+      "name": "Rumble Arena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/277.jpg"
+    },
+    {
+      "id": "2d39a0e1-6484-409c-ab05-5b276925a949",
+      "number": 278,
+      "name": "Secret Tunnel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/278.jpg"
+    },
+    {
+      "id": "ad87bff5-9b8c-44e4-a6d3-8cc71be9640a",
+      "number": 279,
+      "name": "Serpent's Pass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/279.jpg"
+    },
+    {
+      "id": "ae04c862-095f-41d2-8aef-21036d5a0cdc",
+      "number": 280,
+      "name": "Sun-Blessed Peak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/280.jpg"
+    },
+    {
+      "id": "24d1e22c-0d99-4ed5-94f0-fd055fd8e2be",
+      "number": 281,
+      "name": "White Lotus Hideout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/281.jpg"
+    },
+    {
+      "id": "4069fb4a-8ee1-41ef-ab93-39a8cc58e0e5",
+      "number": 282,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/282.jpg"
+    },
+    {
+      "id": "a2e22347-f0cb-4cfd-88a3-4f46a16e4946",
+      "number": 283,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/283.jpg"
+    },
+    {
+      "id": "f0b234d8-d6bb-48ec-8a4d-d8a570a69c62",
+      "number": 284,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/284.jpg"
+    },
+    {
+      "id": "c44f81ca-f72f-445c-8901-3a894a2a47f9",
+      "number": 285,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/285.jpg"
+    },
+    {
+      "id": "a305e44f-4253-4754-b83f-1e34103d77b0",
+      "number": 286,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/286.jpg"
+    },
+    {
+      "id": "8a880169-41ca-4507-83fd-306a489d31ce",
+      "number": 287,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/287.jpg"
+    },
+    {
+      "id": "d894c61a-4062-442e-8ead-5197c3bffd00",
+      "number": 288,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/288.jpg"
+    },
+    {
+      "id": "874f0f27-81a4-4853-aaa0-2c15e07c177e",
+      "number": 289,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/289.jpg"
+    },
+    {
+      "id": "ea96ecc4-72f3-46a4-8900-6a7c5a83d4df",
+      "number": 290,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/290.jpg"
+    },
+    {
+      "id": "05683891-cdd4-4401-b7d5-0ef17e79c699",
+      "number": 291,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/291.jpg"
+    },
+    {
+      "id": "d812b6f3-83f0-44c9-8583-eb97fd8fade8",
+      "number": 292,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/292.jpg"
+    },
+    {
+      "id": "dd5b22ec-847a-46bd-828e-be6059b4faec",
+      "number": 293,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/293.jpg"
+    },
+    {
+      "id": "5c818f03-0e20-4ef4-bac7-11b2b7f41b5c",
+      "number": 294,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/294.jpg"
+    },
+    {
+      "id": "488ca216-de75-4acc-9c67-fd37070d7e92",
+      "number": 295,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/295.jpg"
+    },
+    {
+      "id": "7ca91ba8-c08d-4239-b9f2-d6c960466456",
+      "number": 296,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/296.jpg"
+    },
+    {
+      "id": "63968c25-23fc-4257-863a-ad42537130d1",
+      "number": 297,
+      "name": "Fated Firepower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/297.jpg"
+    },
+    {
+      "id": "de89fec4-f5c8-4513-8504-ac9bafb44054",
+      "number": 298,
+      "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/298.jpg"
+    },
+    {
+      "id": "ed94f384-ebd2-4c30-a9bb-9cf793d9a810",
+      "number": 299,
+      "name": "Fire Nation Attacks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/299.jpg"
+    },
+    {
+      "id": "a4cee0c6-8a29-4d08-9b24-c12c45c2309d",
+      "number": 300,
+      "name": "Crashing Wave",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/300.jpg"
+    },
+    {
+      "id": "17d97052-e153-42d8-beb6-6d85815c9b59",
+      "number": 301,
+      "name": "Combustion Technique",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/301.jpg"
+    },
+    {
+      "id": "52f92b27-6dfe-466f-b68b-f5dc6befa271",
+      "number": 302,
+      "name": "Zuko, Conflicted",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/302.jpg"
+    },
+    {
+      "id": "5b3352fd-f100-44c2-9e63-83be172317e9",
+      "number": 303,
+      "name": "Azula, Cunning Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/303.jpg"
+    },
+    {
+      "id": "ea886239-c58f-4291-bd32-ed306ae1d6de",
+      "number": 304,
+      "name": "Aang, at the Crossroads // Aang, Destined Savior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/304.jpg"
+    },
+    {
+      "id": "397ec95c-0af5-4ed3-93a3-39dbc7a74a7b",
+      "number": 305,
+      "name": "Katara, the Fearless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/305.jpg"
+    },
+    {
+      "id": "82822ac1-9288-4bac-8afd-83563e693731",
+      "number": 306,
+      "name": "Dai Li Agents",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/306.jpg"
+    },
+    {
+      "id": "826b4f26-419a-4d74-8c70-275555092095",
+      "number": 307,
+      "name": "Earthbender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/307.jpg"
+    },
+    {
+      "id": "257928ba-27ae-4a11-ae41-76dfcd626ed4",
+      "number": 308,
+      "name": "Avatar Aang // Aang, Master of Elements",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/308.jpg"
+    },
+    {
+      "id": "673f6692-fda2-4a79-b7a7-5b02be175cd9",
+      "number": 309,
+      "name": "Sozin's Comet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/309.jpg"
+    },
+    {
+      "id": "e5f2648f-990d-44d7-a7bf-0db99bdc3015",
+      "number": 310,
+      "name": "Waterbender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/310.jpg"
+    },
+    {
+      "id": "5c5e8aa5-91d7-49d2-863a-b9db836436fd",
+      "number": 311,
+      "name": "Ozai, the Phoenix King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/311.jpg"
+    },
+    {
+      "id": "05309d0b-302d-4a9e-b147-1b504ecf365e",
+      "number": 312,
+      "name": "Firebender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/312.jpg"
+    },
+    {
+      "id": "281b8979-aefc-4fe7-a130-3638cdc0b1dd",
+      "number": 313,
+      "name": "Fire Lord Azula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/313.jpg"
+    },
+    {
+      "id": "51af6d52-bda7-40be-8a83-c19916320df5",
+      "number": 314,
+      "name": "The Last Agni Kai",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/314.jpg"
+    },
+    {
+      "id": "cdcf267f-53b4-406e-8522-14e3e73dffa9",
+      "number": 315,
+      "name": "Fire Lord Zuko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/315.jpg"
+    },
+    {
+      "id": "4d822fa1-70f9-4a63-841d-31c94e1e3dd4",
+      "number": 316,
+      "name": "Appa, Steadfast Guardian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/316.jpg"
+    },
+    {
+      "id": "ad9849d4-6608-43e4-8fac-1c16cfa38a9f",
+      "number": 317,
+      "name": "Momo, Friendly Flier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/317.jpg"
+    },
+    {
+      "id": "d47fd63e-ddf0-4d98-8883-9ac883c20691",
+      "number": 318,
+      "name": "Tiger-Seal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/318.jpg"
+    },
+    {
+      "id": "66387ea1-af31-4332-bacc-c32fe3260f4b",
+      "number": 319,
+      "name": "The Unagi of Kyoshi Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/319.jpg"
+    },
+    {
+      "id": "d4bf05c4-a924-4006-835e-42f8468ba869",
+      "number": 320,
+      "name": "Wan Shi Tong, Librarian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/320.jpg"
+    },
+    {
+      "id": "aaf7eb99-b60d-44d7-baf5-30508cc8d6b3",
+      "number": 321,
+      "name": "The Fire Nation Drill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/321.jpg"
+    },
+    {
+      "id": "b3bf2ebe-336a-4b9a-9134-4e3efbcafdd2",
+      "number": 322,
+      "name": "Koh, the Face Stealer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/322.jpg"
+    },
+    {
+      "id": "bf9085bd-0ee0-4d8a-8deb-686a87b28c7a",
+      "number": 323,
+      "name": "Phoenix Fleet Airship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/323.jpg"
+    },
+    {
+      "id": "bc9b17de-ddb7-4f4c-826d-2f8e0678b680",
+      "number": 324,
+      "name": "Raven Eagle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/324.jpg"
+    },
+    {
+      "id": "b9b12da4-7c5c-4dce-932d-0683bf04df7d",
+      "number": 325,
+      "name": "Ran and Shaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/325.jpg"
+    },
+    {
+      "id": "be16c053-99e1-4921-8530-5135c989149d",
+      "number": 326,
+      "name": "Badgermole Cub",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/326.jpg"
+    },
+    {
+      "id": "5f7e8f5d-c9d6-4f25-af92-f1a6b815f0c1",
+      "number": 327,
+      "name": "Diligent Zookeeper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/327.jpg"
+    },
+    {
+      "id": "8da5dab3-4505-40d9-8d81-f653cd77e491",
+      "number": 328,
+      "name": "The Lion-Turtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/328.jpg"
+    },
+    {
+      "id": "086b6003-6d90-426b-809e-ea837d868290",
+      "number": 329,
+      "name": "The Walls of Ba Sing Se",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/329.jpg"
+    },
+    {
+      "id": "15efe915-5e38-4e00-b10f-28e76ab51597",
+      "number": 330,
+      "name": "White Lotus Tile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/330.jpg"
+    },
+    {
+      "id": "dad8f56c-1bf2-4641-885d-04b885533a3c",
+      "number": 331,
+      "name": "United Front",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/331.jpg"
+    },
+    {
+      "id": "e4588e53-a5cf-463a-a7b6-20437aeaabee",
+      "number": 332,
+      "name": "Sozin's Comet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/332.jpg"
+    },
+    {
+      "id": "19b71bf7-d354-4729-a160-b85402c084f3",
+      "number": 333,
+      "name": "Avatar Destiny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/333.jpg"
+    },
+    {
+      "id": "1ea7248c-e4b3-4776-8e6a-cba06da2d6cc",
+      "number": 334,
+      "name": "Fire Lord Azula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/334.jpg"
+    },
+    {
+      "id": "d11a45f5-9552-46a5-9f75-008b352c8121",
+      "number": 335,
+      "name": "Ozai, the Phoenix King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/335.jpg"
+    },
+    {
+      "id": "6cd25a10-1e4e-4f47-8a67-221df4907b26",
+      "number": 336,
+      "name": "Aang's Iceberg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/336.jpg"
+    },
+    {
+      "id": "682fabaf-bfb0-4ee8-b297-f7436c7a68f2",
+      "number": 337,
+      "name": "Secret of Bloodbending",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/337.jpg"
+    },
+    {
+      "id": "b50e8e26-0f3c-4478-8827-dc3245f31d8a",
+      "number": 338,
+      "name": "Yue, the Moon Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/338.jpg"
+    },
+    {
+      "id": "f8f56648-85be-417a-814b-c356df390ba0",
+      "number": 339,
+      "name": "Foggy Swamp Visions",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/339.jpg"
+    },
+    {
+      "id": "2ff0a75c-b679-436f-8150-faaec3ea1df6",
+      "number": 340,
+      "name": "Obsessive Pursuit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/340.jpg"
+    },
+    {
+      "id": "13688c4d-d63f-4cef-8aae-16aec7b9effc",
+      "number": 341,
+      "name": "Fated Firepower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/341.jpg"
+    },
+    {
+      "id": "c0b0e696-3cb1-4192-a127-da1d112489b7",
+      "number": 342,
+      "name": "Firebending Student",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/342.jpg"
+    },
+    {
+      "id": "2c1c0fb2-cb74-46a1-9ce4-5274feab1146",
+      "number": 343,
+      "name": "Redirect Lightning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/343.jpg"
+    },
+    {
+      "id": "3687f487-eec1-4979-8008-5c907adafe9d",
+      "number": 344,
+      "name": "The Earth King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/344.jpg"
+    },
+    {
+      "id": "7a89533f-1236-49bf-9a25-1b7f7789eb2a",
+      "number": 345,
+      "name": "Great Divide Guide",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/345.jpg"
+    },
+    {
+      "id": "d7f35cd9-71ac-4191-8604-1a653b56c42d",
+      "number": 346,
+      "name": "Aang, at the Crossroads // Aang, Destined Savior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/346.jpg"
+    },
+    {
+      "id": "077a1ad2-6317-4271-b86c-cc999776251d",
+      "number": 347,
+      "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/347.jpg"
+    },
+    {
+      "id": "7143a5ba-c597-4f8b-9f39-15849e298a6f",
+      "number": 348,
+      "name": "Bumi, Unleashed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/348.jpg"
+    },
+    {
+      "id": "85af39f5-8207-4fc5-a956-1ee2799ac374",
+      "number": 349,
+      "name": "Iroh, Grand Lotus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/349.jpg"
+    },
+    {
+      "id": "50f388bf-868c-466b-9a47-2f437336bba4",
+      "number": 350,
+      "name": "Katara, the Fearless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/350.jpg"
+    },
+    {
+      "id": "95547532-c056-44a5-9d80-4f6b729b6e0c",
+      "number": 351,
+      "name": "Katara, Water Tribe's Hope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/351.jpg"
+    },
+    {
+      "id": "b9dc53c3-351e-46da-bce6-ab8c651cb4ea",
+      "number": 352,
+      "name": "Sokka, Tenacious Tactician",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/352.jpg"
+    },
+    {
+      "id": "aaa3e063-472e-445a-8440-dc1910899d81",
+      "number": 353,
+      "name": "Toph, the First Metalbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/353.jpg"
+    },
+    {
+      "id": "944ddbe5-45bf-44c3-aad5-b051ec79ae8b",
+      "number": 354,
+      "name": "The Legend of Yangchen // Avatar Yangchen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/354.jpg"
+    },
+    {
+      "id": "f487686d-2b8a-440f-b2f3-8a07dd95ad93",
+      "number": 355,
+      "name": "The Legend of Kuruk // Avatar Kuruk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/355.jpg"
+    },
+    {
+      "id": "75fcadb9-2573-4c10-8e61-ecdf72120c53",
+      "number": 356,
+      "name": "The Rise of Sozin // Fire Lord Sozin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/356.jpg"
+    },
+    {
+      "id": "4a8bdef0-c50c-4a30-81bc-507a8289a81b",
+      "number": 357,
+      "name": "The Legend of Roku // Avatar Roku",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/357.jpg"
+    },
+    {
+      "id": "83731884-cd1a-4c12-8b1c-9a1c7b34ef12",
+      "number": 358,
+      "name": "The Legend of Kyoshi // Avatar Kyoshi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/358.jpg"
+    },
+    {
+      "id": "372afa84-9ca9-46e6-8643-e16249505c59",
+      "number": 359,
+      "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/359.jpg"
+    },
+    {
+      "id": "0c457a8b-8d56-474d-b788-c058a9882fdd",
+      "number": 360,
+      "name": "Fire Lord Zuko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/360.jpg"
+    },
+    {
+      "id": "15260c74-6400-46bd-a144-9d9e107eab8a",
+      "number": 361,
+      "name": "Katara, the Fearless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/361.jpg"
+    },
+    {
+      "id": "1381ec47-55fd-47d9-aded-d21776bc06b9",
+      "number": 362,
+      "name": "Toph, the First Metalbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/362.jpg"
+    },
+    {
+      "id": "d0467b6f-8c7d-4fcd-99f8-d335bb736484",
+      "number": 363,
+      "name": "Avatar Aang // Aang, Master of Elements",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/363.jpg"
+    },
+    {
+      "id": "eb941485-d85a-4693-b797-890e38c8d056",
+      "number": 364,
+      "name": "Airbender Ascension",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/364.jpg"
+    },
+    {
+      "id": "a24b3b8a-7742-4aa1-8da9-162dd1d49441",
+      "number": 365,
+      "name": "Avatar's Wrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/365.jpg"
+    },
+    {
+      "id": "3fdb2f5f-c881-4c10-8787-d37a4ee57aa4",
+      "number": 366,
+      "name": "Hakoda, Selfless Commander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/366.jpg"
+    },
+    {
+      "id": "04b58759-e9a2-46c6-b0ce-82f550c5c38d",
+      "number": 367,
+      "name": "South Pole Voyager",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/367.jpg"
+    },
+    {
+      "id": "f4e73660-ca67-4587-9aac-02154e984861",
+      "number": 368,
+      "name": "Suki, Courageous Rescuer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/368.jpg"
+    },
+    {
+      "id": "d638ce04-cff8-4253-95f6-4ebdcfe01309",
+      "number": 369,
+      "name": "The Mechanist, Aerial Artisan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/369.jpg"
+    },
+    {
+      "id": "eadded94-3c18-43a9-bde9-f7ec86a98cce",
+      "number": 370,
+      "name": "Spirit Water Revival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/370.jpg"
+    },
+    {
+      "id": "4d2e5f2b-993a-48b1-834e-a4fe18e119ae",
+      "number": 371,
+      "name": "Ty Lee, Chi Blocker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/371.jpg"
+    },
+    {
+      "id": "7fa397df-99c4-4ea8-9ec1-836626ddcca4",
+      "number": 372,
+      "name": "Boiling Rock Rioter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/372.jpg"
+    },
+    {
+      "id": "f42f6bd4-dc1d-4b5f-9489-2cb109a68904",
+      "number": 373,
+      "name": "Day of Black Sun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/373.jpg"
+    },
+    {
+      "id": "aaf2c3e2-7941-49a6-9299-7135690f01e1",
+      "number": 374,
+      "name": "Mai, Scornful Striker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/374.jpg"
+    },
+    {
+      "id": "17310896-20e9-4844-9c3e-9e114c619bfe",
+      "number": 375,
+      "name": "Wartime Protestors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/375.jpg"
+    },
+    {
+      "id": "6a438677-5355-4918-897e-fd2d5b693bb1",
+      "number": 376,
+      "name": "Zhao, the Moon Slayer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/376.jpg"
+    },
+    {
+      "id": "5a2754b7-6a0f-4124-ad31-10214d0f4895",
+      "number": 377,
+      "name": "Earthen Ally",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/377.jpg"
+    },
+    {
+      "id": "809bd283-8587-44df-af27-fe4d9bdeedd0",
+      "number": 378,
+      "name": "Elemental Teachings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/378.jpg"
+    },
+    {
+      "id": "993d8c56-068d-4708-a22c-486fc6f8fcf1",
+      "number": 379,
+      "name": "Beifong's Bounty Hunters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/379.jpg"
+    },
+    {
+      "id": "6a431eaf-13a0-4052-b887-ca477bb55847",
+      "number": 380,
+      "name": "Earth King's Lieutenant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/380.jpg"
+    },
+    {
+      "id": "76a39187-317f-40b6-a920-18edcb0bf6ac",
+      "number": 381,
+      "name": "Iroh, Tea Master",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/381.jpg"
+    },
+    {
+      "id": "c2584dda-a1e6-41d4-ae50-a073db428cee",
+      "number": 382,
+      "name": "Sandbender Scavengers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/382.jpg"
+    },
+    {
+      "id": "0d4788f3-ae08-4698-ac4f-c78a337981c2",
+      "number": 383,
+      "name": "Sokka, Bold Boomeranger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/383.jpg"
+    },
+    {
+      "id": "3b36026b-15fb-4eeb-9cb3-266f295e4375",
+      "number": 384,
+      "name": "Toph, Hardheaded Teacher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/384.jpg"
+    },
+    {
+      "id": "e3276b9a-6cb1-4afb-bcc0-ea5a8d8d6a44",
+      "number": 385,
+      "name": "Planetarium of Wan Shi Tong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/385.jpg"
+    },
+    {
+      "id": "761988b0-fb0e-45e7-97d3-cef259fe47b7",
+      "number": 386,
+      "name": "Abandoned Air Temple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/386.jpg"
+    },
+    {
+      "id": "501c24b4-26e4-47ac-8a5c-3289d937620e",
+      "number": 387,
+      "name": "Agna Qel'a",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/387.jpg"
+    },
+    {
+      "id": "a8fd4587-7c30-4322-8f19-eb395d66c623",
+      "number": 388,
+      "name": "Ba Sing Se",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/388.jpg"
+    },
+    {
+      "id": "372e7d4e-c011-423b-9e2c-af57fb0d5403",
+      "number": 389,
+      "name": "Fire Nation Palace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/389.jpg"
+    },
+    {
+      "id": "4487d299-1571-4d44-81bb-9bf54fb33fbc",
+      "number": 390,
+      "name": "Jasmine Dragon Tea Shop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/390.jpg"
+    },
+    {
+      "id": "191cbf96-5e92-4b83-aef7-d7ae65b8e555",
+      "number": 391,
+      "name": "Realm of Koh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/391.jpg"
+    },
+    {
+      "id": "51003a38-3493-4524-aed8-9681f5a89037",
+      "number": 392,
+      "name": "Secret Tunnel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/392.jpg"
+    },
+    {
+      "id": "79d1889c-4b3d-47d4-847e-4343cdaf9750",
+      "number": 393,
+      "name": "Firebending Student",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/393.jpg"
+    },
+    {
+      "id": "a7b91b5f-815c-4bdc-97e4-dc7bc8ed29c0",
+      "number": 394,
+      "name": "Momo, Friendly Flier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Avatar%20The%20Last%20Airbender/images/394.jpg"
+    }
+  ]
+}
