@@ -1,0 +1,721 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "The Dark",
+  "totalCards": 119,
+  "cards": [
+    {
+      "id": "9e14db1c-0a05-47d2-9f27-df881f7f37ab",
+      "number": 1,
+      "name": "Angry Mob",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/1.jpg"
+    },
+    {
+      "id": "22d4761d-acf2-4cb3-86a8-a3f30420a92e",
+      "number": 2,
+      "name": "Blood of the Martyr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/2.jpg"
+    },
+    {
+      "id": "6da4fb5a-0d24-4bee-b3f5-535ba9fe6850",
+      "number": 3,
+      "name": "Brainwash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/3.jpg"
+    },
+    {
+      "id": "fc1973a3-1410-4c6d-9b09-bd9d18646a1e",
+      "number": 4,
+      "name": "Cleansing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/4.jpg"
+    },
+    {
+      "id": "ade075fd-73ee-4d12-a2da-48e5938043af",
+      "number": 5,
+      "name": "Dust to Dust",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/5.jpg"
+    },
+    {
+      "id": "184b7d52-e991-4668-9f6a-bcded97f51ac",
+      "number": 6,
+      "name": "Exorcist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/6.jpg"
+    },
+    {
+      "id": "8da35f9f-e72c-4154-a212-7de98f84ad7d",
+      "number": 7,
+      "name": "Fasting",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/7.jpg"
+    },
+    {
+      "id": "e9357990-701a-4336-b545-ac5a24d89cad",
+      "number": 8,
+      "name": "Festival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/8.jpg"
+    },
+    {
+      "id": "d5208dbb-63d2-4789-8ef9-f82499a43b3a",
+      "number": 9,
+      "name": "Fire and Brimstone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/9.jpg"
+    },
+    {
+      "id": "c3c8a850-bc99-4679-a316-45ecdea696b2",
+      "number": 10,
+      "name": "Holy Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/10.jpg"
+    },
+    {
+      "id": "ae541c73-9903-49e6-997a-db4701135145",
+      "number": 11,
+      "name": "Knights of Thorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/11.jpg"
+    },
+    {
+      "id": "e2c9f463-d1cc-4f11-aad2-d4a4520aa978",
+      "number": 12,
+      "name": "Martyr's Cry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/12.jpg"
+    },
+    {
+      "id": "35d29bda-096c-44d4-b45e-c2c507f8efbe",
+      "number": 13,
+      "name": "Miracle Worker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/13.jpg"
+    },
+    {
+      "id": "c4104546-abd9-4bfb-a65e-5928cdd4522f",
+      "number": 14,
+      "name": "Morale",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/14.jpg"
+    },
+    {
+      "id": "bf2f6936-b50c-4907-9b55-ebf8a3fba8f5",
+      "number": 15,
+      "name": "Pikemen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/15.jpg"
+    },
+    {
+      "id": "1e03d335-d259-4ab4-814f-9333cfd3afc9",
+      "number": 16,
+      "name": "Preacher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/16.jpg"
+    },
+    {
+      "id": "374df061-ebd2-4f1f-9a6e-7940a49197a9",
+      "number": 17,
+      "name": "Squire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/17.jpg"
+    },
+    {
+      "id": "8b6da540-6803-47e5-9af0-7ae8e2f84b6c",
+      "number": 18,
+      "name": "Tivadar's Crusade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/18.jpg"
+    },
+    {
+      "id": "4eef9bb7-cd3c-422e-a93b-90d98684675a",
+      "number": 19,
+      "name": "Witch Hunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/19.jpg"
+    },
+    {
+      "id": "e07df65c-ebcc-4873-b928-d99040d1f2f6",
+      "number": 20,
+      "name": "Amnesia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/20.jpg"
+    },
+    {
+      "id": "151b332e-164b-4646-8f52-741984cd71ad",
+      "number": 21,
+      "name": "Apprentice Wizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/21.jpg"
+    },
+    {
+      "id": "13453abe-3f05-4956-8493-382d7d2af699",
+      "number": 22,
+      "name": "Dance of Many",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/22.jpg"
+    },
+    {
+      "id": "9dd6a230-6bc0-499c-b7fd-4aaa2569f98f",
+      "number": 23,
+      "name": "Deep Water",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/23.jpg"
+    },
+    {
+      "id": "951b6c10-cbba-44b6-aae2-2c386b7ebacb",
+      "number": 24,
+      "name": "Drowned",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/24.jpg"
+    },
+    {
+      "id": "b8834c18-0e4e-4785-9d15-b33345e3789b",
+      "number": 25,
+      "name": "Electric Eel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/25.jpg"
+    },
+    {
+      "id": "5f4b6507-89ee-482e-aafd-8e05ada8f1ce",
+      "number": 26,
+      "name": "Erosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/26.jpg"
+    },
+    {
+      "id": "fabc3267-b59b-4f36-8873-5b4b072711ca",
+      "number": 27,
+      "name": "Flood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/27.jpg"
+    },
+    {
+      "id": "db591b28-37e5-4e7c-ae4d-d761262b12d0",
+      "number": 28,
+      "name": "Ghost Ship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/28.jpg"
+    },
+    {
+      "id": "53ec4a19-0f2f-4713-a869-58832484648d",
+      "number": 29,
+      "name": "Giant Shark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/29.jpg"
+    },
+    {
+      "id": "b638d9be-c533-45c3-92f9-fabf56edc2df",
+      "number": 30,
+      "name": "Leviathan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/30.jpg"
+    },
+    {
+      "id": "f857a00a-82e0-4227-86ee-1f9c7ca232ae",
+      "number": 31,
+      "name": "Mana Vortex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/31.jpg"
+    },
+    {
+      "id": "36313dc7-6bf2-4d73-b696-969d984a7466",
+      "number": 32,
+      "name": "Merfolk Assassin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/32.jpg"
+    },
+    {
+      "id": "0ee810a5-f0f9-4b73-8194-3d1344784050",
+      "number": 33,
+      "name": "Mind Bomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/33.jpg"
+    },
+    {
+      "id": "fec3275e-4491-43a8-9f23-d7b48177c103",
+      "number": 34,
+      "name": "Psychic Allergy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/34.jpg"
+    },
+    {
+      "id": "b0f11ae4-e30e-441d-bb64-439930d9997c",
+      "number": 35,
+      "name": "Riptide",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/35.jpg"
+    },
+    {
+      "id": "f1e0f9ec-2b06-4bda-8b80-a716d82d1f13",
+      "number": 36,
+      "name": "Sunken City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/36.jpg"
+    },
+    {
+      "id": "497bc42d-ab81-4d84-bdf7-e3a05a7c984d",
+      "number": 37,
+      "name": "Tangle Kelp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/37.jpg"
+    },
+    {
+      "id": "e3da4a88-5225-467f-9240-f30bc1eee520",
+      "number": 38,
+      "name": "Water Wurm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/38.jpg"
+    },
+    {
+      "id": "825496e5-19c7-4f50-8070-0265a58608dc",
+      "number": 39,
+      "name": "Ashes to Ashes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/39.jpg"
+    },
+    {
+      "id": "66eaa7d6-48b2-4b35-a834-790edd679e0e",
+      "number": 40,
+      "name": "Banshee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/40.jpg"
+    },
+    {
+      "id": "e3bb7271-634a-4612-9073-7a5438e8c2b8",
+      "number": 41,
+      "name": "Bog Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/41.jpg"
+    },
+    {
+      "id": "d64c9153-bc6d-4a64-885f-c039a5487a31",
+      "number": 42,
+      "name": "Bog Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/42.jpg"
+    },
+    {
+      "id": "9fc0d070-8a42-4d5e-8f2b-ceb59147de6f",
+      "number": 43,
+      "name": "Curse Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/43.jpg"
+    },
+    {
+      "id": "d89fe2be-bb7e-4bae-9b1f-9f0d58f20ceb",
+      "number": 44,
+      "name": "Eater of the Dead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/44.jpg"
+    },
+    {
+      "id": "8f99894d-5ece-44f1-acce-474494ae2084",
+      "number": 45,
+      "name": "Frankenstein's Monster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/45.jpg"
+    },
+    {
+      "id": "a131605a-f646-4745-a1e4-48d155a3d94f",
+      "number": 46,
+      "name": "Grave Robbers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/46.jpg"
+    },
+    {
+      "id": "5f133f06-6398-4db1-8577-66c16fd3e00d",
+      "number": 47,
+      "name": "Inquisition",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/47.jpg"
+    },
+    {
+      "id": "b80ecb15-258b-4fc9-86e4-c2bf01891606",
+      "number": 48,
+      "name": "Marsh Gas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/48.jpg"
+    },
+    {
+      "id": "a213450f-02f4-4c08-8da8-891ebfa8e237",
+      "number": 49,
+      "name": "Murk Dwellers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/49.jpg"
+    },
+    {
+      "id": "348a467a-4661-4fdb-af1d-9171a1a930d9",
+      "number": 50,
+      "name": "Nameless Race",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/50.jpg"
+    },
+    {
+      "id": "f4c133b8-8383-433f-be96-c47a937287b7",
+      "number": 51,
+      "name": "Rag Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/51.jpg"
+    },
+    {
+      "id": "06900a71-34ca-48c6-94ac-fca744356829",
+      "number": 52,
+      "name": "Season of the Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/52.jpg"
+    },
+    {
+      "id": "f4a176e1-b22b-4f36-ba7b-c506cb4e1bed",
+      "number": 53,
+      "name": "The Fallen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/53.jpg"
+    },
+    {
+      "id": "848ad6d5-3a7e-4d6b-9929-36465796871f",
+      "number": 54,
+      "name": "Uncle Istvan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/54.jpg"
+    },
+    {
+      "id": "ee30efdb-f1f1-497f-80a6-ec961db67c1d",
+      "number": 55,
+      "name": "Word of Binding",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/55.jpg"
+    },
+    {
+      "id": "65a97821-ca5b-46fb-af08-86de81d0daac",
+      "number": 56,
+      "name": "Worms of the Earth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/56.jpg"
+    },
+    {
+      "id": "c1ba83ab-83f5-421d-bba1-0f925870b5c8",
+      "number": 57,
+      "name": "Ball Lightning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/57.jpg"
+    },
+    {
+      "id": "78373616-e2d6-4ccf-998f-09f02bea45b4",
+      "number": 58,
+      "name": "Blood Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/58.jpg"
+    },
+    {
+      "id": "ba2cc4a6-fdcc-4082-801a-d2c50e560e8d",
+      "number": 59,
+      "name": "Brothers of Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/59.jpg"
+    },
+    {
+      "id": "72746a5d-faa1-44b7-97b5-0ef9302a3c13",
+      "number": 60,
+      "name": "Cave People",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/60.jpg"
+    },
+    {
+      "id": "d646feea-3c20-4737-8d20-ffad42258ced",
+      "number": 61,
+      "name": "Eternal Flame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/61.jpg"
+    },
+    {
+      "id": "d3419db6-1c38-4aa4-b953-1dde7d22b927",
+      "number": 62,
+      "name": "Fire Drake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/62.jpg"
+    },
+    {
+      "id": "aa2d778d-d74b-45ec-a86b-5d52ffad6ba5",
+      "number": 63,
+      "name": "Fissure",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/63.jpg"
+    },
+    {
+      "id": "c6a415b0-00a2-4a65-8994-4a395c50ae2d",
+      "number": 64,
+      "name": "Goblin Caves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/64.jpg"
+    },
+    {
+      "id": "8a538b9d-351e-40bb-be11-9ba08c16352b",
+      "number": 65,
+      "name": "Goblin Digging Team",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/65.jpg"
+    },
+    {
+      "id": "7135a569-e5d3-4a1f-924b-bdb86926b4e1",
+      "number": 66,
+      "name": "Goblin Hero",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/66.jpg"
+    },
+    {
+      "id": "91e0b59d-8f9b-4a76-9845-bcb0dc32523d",
+      "number": 67,
+      "name": "Goblin Rock Sled",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/67.jpg"
+    },
+    {
+      "id": "cd69a6dc-27f3-42aa-9e63-4417796e4ef5",
+      "number": 68,
+      "name": "Goblin Shrine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/68.jpg"
+    },
+    {
+      "id": "9b73dfb4-d930-4a89-b621-129dd9f6328c",
+      "number": 69,
+      "name": "Goblin Wizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/69.jpg"
+    },
+    {
+      "id": "fd333b18-b896-4ab8-9c46-eed4efdd94f2",
+      "number": 70,
+      "name": "Goblins of the Flarg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/70.jpg"
+    },
+    {
+      "id": "a6b61512-5b24-424c-966f-36b595781e14",
+      "number": 71,
+      "name": "Inferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/71.jpg"
+    },
+    {
+      "id": "72955141-d990-459f-adbe-7d3d0f5f6c95",
+      "number": 72,
+      "name": "Mana Clash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/72.jpg"
+    },
+    {
+      "id": "65a10fd5-506e-46bf-87e6-fde134c0dc04",
+      "number": 73,
+      "name": "Orc General",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/73.jpg"
+    },
+    {
+      "id": "564e0ccd-decb-48d2-981f-cefa8045340f",
+      "number": 74,
+      "name": "Sisters of the Flame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/74.jpg"
+    },
+    {
+      "id": "6a615650-4da3-4efc-aa5e-c1f2c4f79478",
+      "number": 75,
+      "name": "Carnivorous Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/75.jpg"
+    },
+    {
+      "id": "f395278e-6d74-4f35-af9d-21bad7b19763",
+      "number": 76,
+      "name": "Elves of Deep Shadow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/76.jpg"
+    },
+    {
+      "id": "0e1ae3d6-6d96-4db6-bbc4-cee91bae6cf7",
+      "number": 77,
+      "name": "Gaea's Touch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/77.jpg"
+    },
+    {
+      "id": "cbc93c0b-0ac8-4b8f-b2f6-96887d1acd77",
+      "number": 78,
+      "name": "Hidden Path",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/78.jpg"
+    },
+    {
+      "id": "ff99543d-86a1-44f8-88ec-aaec071d6c05",
+      "number": 79,
+      "name": "Land Leeches",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/79.jpg"
+    },
+    {
+      "id": "b39eb671-e17e-4c5a-8913-1e3be7faedfb",
+      "number": 80,
+      "name": "Lurker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/80.jpg"
+    },
+    {
+      "id": "109cce7a-96f7-4e67-878a-bd5c93ea8643",
+      "number": 81,
+      "name": "Marsh Viper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/81.jpg"
+    },
+    {
+      "id": "9d5911b5-a54e-4ebb-9c36-d4dc8e97bb4b",
+      "number": 82,
+      "name": "Niall Silvain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/82.jpg"
+    },
+    {
+      "id": "2fb5926f-9988-4bc0-b2b7-e286db208310",
+      "number": 83,
+      "name": "People of the Woods",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/83.jpg"
+    },
+    {
+      "id": "38fb3014-f631-4a75-92cd-7e626b13a4c3",
+      "number": 84,
+      "name": "Savaen Elves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/84.jpg"
+    },
+    {
+      "id": "46b762a7-a774-4cb4-8ecf-dd6486a066c3",
+      "number": 85,
+      "name": "Scarwood Bandits",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/85.jpg"
+    },
+    {
+      "id": "ac2655e4-3a4d-4f73-820a-02fab675d42e",
+      "number": 86,
+      "name": "Scarwood Hag",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/86.jpg"
+    },
+    {
+      "id": "8e99870c-b2b9-431b-b8a8-3f4a80aa8fa5",
+      "number": 87,
+      "name": "Scavenger Folk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/87.jpg"
+    },
+    {
+      "id": "7011356e-7516-4ca0-ac54-d30af7ce03a2",
+      "number": 88,
+      "name": "Spitting Slug",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/88.jpg"
+    },
+    {
+      "id": "35ffc69e-26f2-434f-8c89-2df108dd984a",
+      "number": 89,
+      "name": "Tracker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/89.jpg"
+    },
+    {
+      "id": "bb0480f5-6aae-4297-afa6-3f7a5801bf95",
+      "number": 90,
+      "name": "Venom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/90.jpg"
+    },
+    {
+      "id": "e56146bf-5db0-4bef-83bb-efa5ebec6684",
+      "number": 91,
+      "name": "Whippoorwill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/91.jpg"
+    },
+    {
+      "id": "2fa20173-e88a-4b14-9c54-14567ca5571c",
+      "number": 92,
+      "name": "Wormwood Treefolk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/92.jpg"
+    },
+    {
+      "id": "8aabd80f-a18a-4bc1-9f05-4c3a63de77ce",
+      "number": 93,
+      "name": "Marsh Goblins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/93.jpg"
+    },
+    {
+      "id": "5542d236-af43-43b8-b30f-8980d74bbdd0",
+      "number": 94,
+      "name": "Scarwood Goblins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/94.jpg"
+    },
+    {
+      "id": "e3d3df64-1e90-4aef-86ae-0062aa23ff30",
+      "number": 95,
+      "name": "Dark Heart of the Wood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/95.jpg"
+    },
+    {
+      "id": "6768a307-da2e-435e-8efd-72d82b4d4a2b",
+      "number": 96,
+      "name": "Barl's Cage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/96.jpg"
+    },
+    {
+      "id": "63a31de0-d764-4ff6-a85f-027e1e58d86c",
+      "number": 97,
+      "name": "Bone Flute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/97.jpg"
+    },
+    {
+      "id": "5a391ada-e9e3-45db-ae84-17421ac6b44d",
+      "number": 98,
+      "name": "Book of Rass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/98.jpg"
+    },
+    {
+      "id": "1ad7692d-5a51-493f-a322-7b615446ea8e",
+      "number": 99,
+      "name": "Coal Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/99.jpg"
+    },
+    {
+      "id": "72cfe9b9-677d-4ecb-83ab-67fb6481371d",
+      "number": 100,
+      "name": "Dark Sphere",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/100.jpg"
+    },
+    {
+      "id": "c3b0f228-6b06-4426-a557-1225d547b908",
+      "number": 101,
+      "name": "Diabolic Machine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/101.jpg"
+    },
+    {
+      "id": "dc47e322-f8b8-4685-b035-fda0cc433e6b",
+      "number": 102,
+      "name": "Fellwar Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/102.jpg"
+    },
+    {
+      "id": "2b60eb23-cb9a-4203-86fb-60e47dbd870b",
+      "number": 103,
+      "name": "Fountain of Youth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/103.jpg"
+    },
+    {
+      "id": "3c31a957-ad1e-40cc-b3c4-2f4caa492b77",
+      "number": 104,
+      "name": "Living Armor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/104.jpg"
+    },
+    {
+      "id": "893e8e9c-983e-4db1-8d93-10637025a559",
+      "number": 105,
+      "name": "Necropolis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/105.jpg"
+    },
+    {
+      "id": "d551ff93-d8da-4c21-bc3c-6451c0dde07e",
+      "number": 106,
+      "name": "Reflecting Mirror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/106.jpg"
+    },
+    {
+      "id": "741dbcf2-3372-45a8-b66f-d2ae12b4aac6",
+      "number": 107,
+      "name": "Runesword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/107.jpg"
+    },
+    {
+      "id": "93850e74-744c-4261-a84e-01eaced6e49a",
+      "number": 108,
+      "name": "Scarecrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/108.jpg"
+    },
+    {
+      "id": "aa1d9bb5-972a-4705-bf22-0fa1e974dd26",
+      "number": 109,
+      "name": "Skull of Orm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/109.jpg"
+    },
+    {
+      "id": "6d4c853e-2231-4af2-bcb0-1781c18ec3be",
+      "number": 110,
+      "name": "Standing Stones",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/110.jpg"
+    },
+    {
+      "id": "a49ba1a5-33b1-40f2-9780-26139ed829d7",
+      "number": 111,
+      "name": "Stone Calendar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/111.jpg"
+    },
+    {
+      "id": "0f9668ba-d26d-4484-b4b8-6fb91fbfb617",
+      "number": 112,
+      "name": "Tormod's Crypt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/112.jpg"
+    },
+    {
+      "id": "64c19977-ac7d-4ce7-925c-33a7503420f5",
+      "number": 113,
+      "name": "Tower of Coireall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/113.jpg"
+    },
+    {
+      "id": "80c9070a-8c70-480e-a476-e00f8e2c71b9",
+      "number": 114,
+      "name": "Wand of Ith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/114.jpg"
+    },
+    {
+      "id": "9023c078-4169-498b-8626-a4862e0631f8",
+      "number": 115,
+      "name": "War Barge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/115.jpg"
+    },
+    {
+      "id": "76e5ee8a-34e5-4a2e-a04e-9fcdc7e53dda",
+      "number": 116,
+      "name": "City of Shadows",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/116.jpg"
+    },
+    {
+      "id": "42dcceee-2a47-4eaa-a6a3-2931b3d50244",
+      "number": 117,
+      "name": "Maze of Ith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/117.jpg"
+    },
+    {
+      "id": "0d48fb47-1bed-4791-a014-504515f3d36f",
+      "number": 118,
+      "name": "Safe Haven",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/118.jpg"
+    },
+    {
+      "id": "6f75946b-1690-43cc-993c-d4e451a1a41c",
+      "number": 119,
+      "name": "Sorrow's Path",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/The%20Dark/images/119.jpg"
+    }
+  ]
+}

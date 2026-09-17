@@ -1,0 +1,1843 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Summer Magic / Edgar",
+  "totalCards": 306,
+  "cards": [
+    {
+      "id": "3b1a98e4-9bc6-416c-801d-141e1bdca54d",
+      "number": 1,
+      "name": "Animate Wall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/1.jpg"
+    },
+    {
+      "id": "571bca7c-8655-4ff5-902c-c50fee371832",
+      "number": 2,
+      "name": "Armageddon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/2.jpg"
+    },
+    {
+      "id": "3095d590-f105-4338-b96c-4fc2972912ca",
+      "number": 3,
+      "name": "Balance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/3.jpg"
+    },
+    {
+      "id": "78ee3eb7-6fb4-4dc0-8338-9666fe58ca71",
+      "number": 4,
+      "name": "Benalish Hero",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/4.jpg"
+    },
+    {
+      "id": "b50159f3-47d2-4f10-ad52-3adc751f7be5",
+      "number": 5,
+      "name": "Black Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/5.jpg"
+    },
+    {
+      "id": "fe6f4388-dd4b-4697-b234-561ef9ed277a",
+      "number": 6,
+      "name": "Blessing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/6.jpg"
+    },
+    {
+      "id": "42b7e6e7-eb3a-41be-8459-b90ea228b3f9",
+      "number": 7,
+      "name": "Blue Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/7.jpg"
+    },
+    {
+      "id": "f60cd0ad-43b9-4c8e-a10f-cbd240cbe120",
+      "number": 8,
+      "name": "Castle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/8.jpg"
+    },
+    {
+      "id": "aecc8ebf-8a32-403f-b3f8-5bbda265ad0a",
+      "number": 9,
+      "name": "Circle of Protection: Black",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/9.jpg"
+    },
+    {
+      "id": "7f09d805-ce3a-4f5a-8ea3-fe07f652af3c",
+      "number": 10,
+      "name": "Circle of Protection: Blue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/10.jpg"
+    },
+    {
+      "id": "3926ef15-1696-4cc5-b7d8-a50a0bcaf095",
+      "number": 11,
+      "name": "Circle of Protection: Green",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/11.jpg"
+    },
+    {
+      "id": "4ba2f8c2-0cba-4bd5-abb3-cdb2b7026cde",
+      "number": 12,
+      "name": "Circle of Protection: Red",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/12.jpg"
+    },
+    {
+      "id": "7a28dab1-f28d-4ac5-b5a2-f79b14e11b06",
+      "number": 13,
+      "name": "Circle of Protection: White",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/13.jpg"
+    },
+    {
+      "id": "a8f0e1cf-346f-41f0-ba8d-27b743cda61f",
+      "number": 14,
+      "name": "Conversion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/14.jpg"
+    },
+    {
+      "id": "a226055e-03b4-4e94-884d-94fffa9e77c2",
+      "number": 15,
+      "name": "Crusade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/15.jpg"
+    },
+    {
+      "id": "94bd1f3f-473e-4929-8a0b-0fe88caa88a5",
+      "number": 16,
+      "name": "Death Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/16.jpg"
+    },
+    {
+      "id": "aba74289-72ee-4330-835c-e43ca1d32add",
+      "number": 17,
+      "name": "Disenchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/17.jpg"
+    },
+    {
+      "id": "f1d61b33-4950-4a48-bc19-537802c87614",
+      "number": 18,
+      "name": "Eye for an Eye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/18.jpg"
+    },
+    {
+      "id": "8cd5732c-cd54-48d8-8b32-f33782ec69da",
+      "number": 19,
+      "name": "Farmstead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/19.jpg"
+    },
+    {
+      "id": "de7b3112-0f28-47a1-9048-8ff9aa67bbad",
+      "number": 20,
+      "name": "Green Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/20.jpg"
+    },
+    {
+      "id": "071ca80b-62b4-40e6-81c6-fc5bd9019354",
+      "number": 21,
+      "name": "Guardian Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/21.jpg"
+    },
+    {
+      "id": "a3617338-1c7e-445f-8efd-ecd17315c1ff",
+      "number": 22,
+      "name": "Healing Salve",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/22.jpg"
+    },
+    {
+      "id": "ae6a0105-a4c7-46b6-a2a1-8e8a93e2be6c",
+      "number": 23,
+      "name": "Holy Armor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/23.jpg"
+    },
+    {
+      "id": "096eacf4-16bb-47d5-b229-c46cbe6a73f7",
+      "number": 24,
+      "name": "Holy Strength",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/24.jpg"
+    },
+    {
+      "id": "8996f0df-d9c8-4fae-b69f-bf388b84fa5f",
+      "number": 25,
+      "name": "Island Sanctuary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/25.jpg"
+    },
+    {
+      "id": "8b6d4dab-0cce-4a3f-abe2-bf3b4bb6d26b",
+      "number": 26,
+      "name": "Karma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/26.jpg"
+    },
+    {
+      "id": "402eea7c-2afe-4e93-9773-3e0424cabfdd",
+      "number": 27,
+      "name": "Lance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/27.jpg"
+    },
+    {
+      "id": "ce4db796-ee4a-46de-8b9a-89378dd30d73",
+      "number": 28,
+      "name": "Mesa Pegasus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/28.jpg"
+    },
+    {
+      "id": "ed20fecf-dc1c-4d3c-8ddf-e91aab1e9b47",
+      "number": 29,
+      "name": "Northern Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/29.jpg"
+    },
+    {
+      "id": "5b93c8f6-75a4-47e5-bf7f-c3db20c6d7c9",
+      "number": 30,
+      "name": "Pearled Unicorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/30.jpg"
+    },
+    {
+      "id": "6f626e32-14c8-4dcc-a810-a02a5bf9d42f",
+      "number": 31,
+      "name": "Personal Incarnation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/31.jpg"
+    },
+    {
+      "id": "6fb9c77b-c028-46d9-8574-9bc9343b9cc2",
+      "number": 32,
+      "name": "Purelace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/32.jpg"
+    },
+    {
+      "id": "476d3cfa-6cf4-4212-86c4-abf46d4564fe",
+      "number": 33,
+      "name": "Red Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/33.jpg"
+    },
+    {
+      "id": "d9785c6c-9f02-45bc-89e5-ea5dd0e768df",
+      "number": 34,
+      "name": "Resurrection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/34.jpg"
+    },
+    {
+      "id": "2713f2b0-5dbd-4777-b5b3-0c99a55ca6f1",
+      "number": 35,
+      "name": "Reverse Damage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/35.jpg"
+    },
+    {
+      "id": "1e89856a-2496-41b2-b90c-ed42b02980cc",
+      "number": 36,
+      "name": "Reverse Polarity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/36.jpg"
+    },
+    {
+      "id": "1434f648-ac70-46ba-9061-cf2c976ea11a",
+      "number": 37,
+      "name": "Righteousness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/37.jpg"
+    },
+    {
+      "id": "c229bca3-1b5b-4a15-9e6f-0c063835bfc6",
+      "number": 38,
+      "name": "Samite Healer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/38.jpg"
+    },
+    {
+      "id": "5ada7133-d23b-47e9-8a58-c1f78f4095e0",
+      "number": 39,
+      "name": "Savannah Lions",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/39.jpg"
+    },
+    {
+      "id": "c3607d52-9b76-4950-a47e-d09f47c1b7e8",
+      "number": 40,
+      "name": "Serra Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/40.jpg"
+    },
+    {
+      "id": "a61f40cd-7641-4228-9239-8894d1d04851",
+      "number": 41,
+      "name": "Swords to Plowshares",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/41.jpg"
+    },
+    {
+      "id": "6ef12925-e181-47be-81cd-4c1d55ad8395",
+      "number": 42,
+      "name": "Veteran Bodyguard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/42.jpg"
+    },
+    {
+      "id": "c0924444-2a53-4c1f-a273-f9e48560bef6",
+      "number": 43,
+      "name": "Wall of Swords",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/43.jpg"
+    },
+    {
+      "id": "0cb4cef5-99e4-4855-a782-801b2cb974ec",
+      "number": 44,
+      "name": "White Knight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/44.jpg"
+    },
+    {
+      "id": "1d8b9830-2b79-44d1-a2f7-964194521d9e",
+      "number": 45,
+      "name": "White Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/45.jpg"
+    },
+    {
+      "id": "acdacb34-d144-433d-8138-6602c3bad0a9",
+      "number": 46,
+      "name": "Wrath of God",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/46.jpg"
+    },
+    {
+      "id": "4aeebaea-a2b2-48a3-8bd3-b605684d41b6",
+      "number": 47,
+      "name": "Air Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/47.jpg"
+    },
+    {
+      "id": "eeb9ae06-2f87-49e2-ad76-31c49f1f0f8e",
+      "number": 48,
+      "name": "Animate Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/48.jpg"
+    },
+    {
+      "id": "fd5ac34a-dd0d-4814-8cf6-43dce405a139",
+      "number": 49,
+      "name": "Blue Elemental Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/49.jpg"
+    },
+    {
+      "id": "25e1ff5d-0ba5-4055-9a1d-42ed65c11485",
+      "number": 50,
+      "name": "Braingeyser",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/50.jpg"
+    },
+    {
+      "id": "d8d652af-4d68-436d-89c6-346f5c7ff9ae",
+      "number": 51,
+      "name": "Clone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/51.jpg"
+    },
+    {
+      "id": "bfb6227f-9f71-4d78-bddc-3d78635965d5",
+      "number": 52,
+      "name": "Control Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/52.jpg"
+    },
+    {
+      "id": "2183848b-c0ad-46a0-a017-e60210c4c6b7",
+      "number": 53,
+      "name": "Copy Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/53.jpg"
+    },
+    {
+      "id": "885b5ca4-b8e4-4a66-9508-a12396959253",
+      "number": 54,
+      "name": "Counterspell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/54.jpg"
+    },
+    {
+      "id": "678e1ddd-caf8-4565-b9c0-cea2891a531e",
+      "number": 55,
+      "name": "Creature Bond",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/55.jpg"
+    },
+    {
+      "id": "38d20e6d-4520-4a07-a28b-50f751127685",
+      "number": 56,
+      "name": "Drain Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/56.jpg"
+    },
+    {
+      "id": "ce7f821d-a4e1-4d7f-8411-eaff170cb794",
+      "number": 57,
+      "name": "Energy Flux",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/57.jpg"
+    },
+    {
+      "id": "2add5855-8bf9-4dee-99ce-ccd4487d2391",
+      "number": 58,
+      "name": "Feedback",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/58.jpg"
+    },
+    {
+      "id": "e2baf73f-44e8-4249-83d4-271d78ba657f",
+      "number": 59,
+      "name": "Flight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/59.jpg"
+    },
+    {
+      "id": "1f93b3b3-021e-4d2d-bc8b-bf71c50b76a6",
+      "number": 60,
+      "name": "Hurkyl's Recall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/60.jpg"
+    },
+    {
+      "id": "7e35d406-53ca-4394-ac8f-83926c69e4d9",
+      "number": 61,
+      "name": "Island Fish Jasconius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/61.jpg"
+    },
+    {
+      "id": "5d86b77f-7890-40b8-b5c3-fffa88f3fe52",
+      "number": 62,
+      "name": "Jump",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/62.jpg"
+    },
+    {
+      "id": "0a31e063-80c6-4f72-a80a-8f4e576d4736",
+      "number": 63,
+      "name": "Lifetap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/63.jpg"
+    },
+    {
+      "id": "dd370ce8-8e0c-4147-a044-a70bfabf0a4f",
+      "number": 64,
+      "name": "Lord of Atlantis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/64.jpg"
+    },
+    {
+      "id": "30425688-b20d-4abf-9427-a62a9b6ef359",
+      "number": 65,
+      "name": "Magical Hack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/65.jpg"
+    },
+    {
+      "id": "bed8b82c-3579-426b-9309-4e9fa0f7d60d",
+      "number": 66,
+      "name": "Mahamoti Djinn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/66.jpg"
+    },
+    {
+      "id": "b796f1e0-ff3a-4eee-9fdb-8385a0f02788",
+      "number": 67,
+      "name": "Mana Short",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/67.jpg"
+    },
+    {
+      "id": "3c3e6ac4-8ee4-4802-bd86-5480222aba57",
+      "number": 68,
+      "name": "Merfolk of the Pearl Trident",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/68.jpg"
+    },
+    {
+      "id": "9f2905e3-5b52-44c7-9756-236f793d9618",
+      "number": 69,
+      "name": "Phantasmal Forces",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/69.jpg"
+    },
+    {
+      "id": "8156813c-937d-429b-90c8-c8ffc6df384a",
+      "number": 70,
+      "name": "Phantasmal Terrain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/70.jpg"
+    },
+    {
+      "id": "ea1c139d-9e54-4c71-9b46-886e2a402a7b",
+      "number": 71,
+      "name": "Phantom Monster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/71.jpg"
+    },
+    {
+      "id": "5aa31512-32a7-45c5-b57c-4adbf124c4f9",
+      "number": 72,
+      "name": "Pirate Ship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/72.jpg"
+    },
+    {
+      "id": "9d5e905f-266a-4e17-b925-e45421dc05f5",
+      "number": 73,
+      "name": "Power Leak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/73.jpg"
+    },
+    {
+      "id": "76a5c5d2-921d-464f-8a9f-faeabc11f50e",
+      "number": 74,
+      "name": "Power Sink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/74.jpg"
+    },
+    {
+      "id": "5eba41e6-106a-4f2d-ae92-5a01a06e158a",
+      "number": 75,
+      "name": "Prodigal Sorcerer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/75.jpg"
+    },
+    {
+      "id": "1e3fe454-a3b3-4fcf-8d00-5bdfe077298e",
+      "number": 76,
+      "name": "Psychic Venom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/76.jpg"
+    },
+    {
+      "id": "2705117e-c1bf-464a-9dc8-58ee2ce00d1c",
+      "number": 77,
+      "name": "Reconstruction",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/77.jpg"
+    },
+    {
+      "id": "5371142e-bafc-4259-b86a-16902c4a6404",
+      "number": 78,
+      "name": "Sea Serpent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/78.jpg"
+    },
+    {
+      "id": "019fb309-2cd1-4367-8a42-0295e9bbf552",
+      "number": 79,
+      "name": "Serendib Efreet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/79.jpg"
+    },
+    {
+      "id": "08dae3b8-917e-404c-87b8-ce8ee7928f0f",
+      "number": 80,
+      "name": "Siren's Call",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/80.jpg"
+    },
+    {
+      "id": "fb12be1a-d3b6-4467-b711-3693bbcdd7ab",
+      "number": 81,
+      "name": "Sleight of Mind",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/81.jpg"
+    },
+    {
+      "id": "bc9cea21-97d7-4174-9140-140334af2c12",
+      "number": 82,
+      "name": "Spell Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/82.jpg"
+    },
+    {
+      "id": "ccba06c1-d623-4751-99c9-08824a98569b",
+      "number": 83,
+      "name": "Stasis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/83.jpg"
+    },
+    {
+      "id": "b4fbe559-0f6b-4244-a555-7eadb88a71bc",
+      "number": 84,
+      "name": "Steal Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/84.jpg"
+    },
+    {
+      "id": "c730d44d-4ac6-4fa5-91bc-7a701da2bf32",
+      "number": 85,
+      "name": "Thoughtlace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/85.jpg"
+    },
+    {
+      "id": "443d4177-2db8-4327-b42d-82557656c159",
+      "number": 86,
+      "name": "Unstable Mutation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/86.jpg"
+    },
+    {
+      "id": "9bf3610c-4af3-45e7-a6f8-490c9cd18e3a",
+      "number": 87,
+      "name": "Unsummon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/87.jpg"
+    },
+    {
+      "id": "92808879-895f-4e65-854c-2c92f170a1e3",
+      "number": 88,
+      "name": "Vesuvan Doppelganger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/88.jpg"
+    },
+    {
+      "id": "271df2c5-04c4-49f4-82fd-bdde9f1fa779",
+      "number": 89,
+      "name": "Volcanic Eruption",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/89.jpg"
+    },
+    {
+      "id": "fec5bfbf-5c80-4a04-a8bf-c61710e34a0e",
+      "number": 90,
+      "name": "Wall of Air",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/90.jpg"
+    },
+    {
+      "id": "5b346779-62dc-47bf-8199-77a5f57a545f",
+      "number": 91,
+      "name": "Wall of Water",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/91.jpg"
+    },
+    {
+      "id": "88910aa1-180d-41ab-a6ea-57fd66a955aa",
+      "number": 92,
+      "name": "Water Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/92.jpg"
+    },
+    {
+      "id": "c0d7591f-96c0-4cac-aa4e-f3dea0ec4703",
+      "number": 93,
+      "name": "Animate Dead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/93.jpg"
+    },
+    {
+      "id": "12d80fa4-80c8-4c16-ba35-3da7f83e7a18",
+      "number": 94,
+      "name": "Bad Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/94.jpg"
+    },
+    {
+      "id": "684c5070-e72a-42fb-ab5c-44d7f04f9d34",
+      "number": 95,
+      "name": "Black Knight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/95.jpg"
+    },
+    {
+      "id": "8405c30f-89bc-4210-a430-2521294f3302",
+      "number": 96,
+      "name": "Bog Wraith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/96.jpg"
+    },
+    {
+      "id": "e1e33690-b851-404a-9cde-d00235be5aa5",
+      "number": 97,
+      "name": "Contract from Below",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/97.jpg"
+    },
+    {
+      "id": "d1a48818-7783-4698-976e-23f0c9bc9577",
+      "number": 98,
+      "name": "Cursed Land",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/98.jpg"
+    },
+    {
+      "id": "6739a5bb-5ed7-4f15-affb-4170239d997a",
+      "number": 99,
+      "name": "Dark Ritual",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/99.jpg"
+    },
+    {
+      "id": "f9ab1c5e-e36e-4a2a-9e6d-c993edc17c03",
+      "number": 100,
+      "name": "Darkpact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/100.jpg"
+    },
+    {
+      "id": "5742739a-b257-496c-b345-d4e43b073a4e",
+      "number": 101,
+      "name": "Deathgrip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/101.jpg"
+    },
+    {
+      "id": "aac520e1-cf1e-4768-b9f0-738f4ccea0c6",
+      "number": 102,
+      "name": "Deathlace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/102.jpg"
+    },
+    {
+      "id": "233b1104-91b3-4949-8356-baf6e80ab07e",
+      "number": 103,
+      "name": "Demonic Attorney",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/103.jpg"
+    },
+    {
+      "id": "18e6a219-207b-4fc4-aaeb-99e2efee188c",
+      "number": 104,
+      "name": "Demonic Hordes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/104.jpg"
+    },
+    {
+      "id": "c8435923-d3eb-4366-a0d5-edf538f9f261",
+      "number": 105,
+      "name": "Demonic Tutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/105.jpg"
+    },
+    {
+      "id": "a400d404-9e0a-44dc-ba34-3a3115028ae0",
+      "number": 106,
+      "name": "Drain Life",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/106.jpg"
+    },
+    {
+      "id": "6d3ecc2e-7e49-4822-8330-32e57f05ee5e",
+      "number": 107,
+      "name": "Drudge Skeletons",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/107.jpg"
+    },
+    {
+      "id": "78b3e7ad-e928-4e15-9ec4-9feafff83d14",
+      "number": 108,
+      "name": "El-Hajjâj",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/108.jpg"
+    },
+    {
+      "id": "44f4cea0-8491-4475-a4ac-8c7cc9fea142",
+      "number": 109,
+      "name": "Erg Raiders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/109.jpg"
+    },
+    {
+      "id": "1c1a1278-b221-4d31-8625-062f96453b6b",
+      "number": 110,
+      "name": "Evil Presence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/110.jpg"
+    },
+    {
+      "id": "3f9b6fcd-129b-4c94-b216-d065485ba736",
+      "number": 111,
+      "name": "Fear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/111.jpg"
+    },
+    {
+      "id": "f6c8b155-1fb0-4991-b027-9f77bf7f5a04",
+      "number": 112,
+      "name": "Frozen Shade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/112.jpg"
+    },
+    {
+      "id": "57ca7989-461e-4609-ad6d-c4eac045b5c4",
+      "number": 113,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/113.jpg"
+    },
+    {
+      "id": "5cee491e-7958-4ea1-b03d-9fb75320fe44",
+      "number": 114,
+      "name": "Howl from Beyond",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/114.jpg"
+    },
+    {
+      "id": "55d3b95a-2103-4145-9820-e55e3d86c682",
+      "number": 115,
+      "name": "Hypnotic Specter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/115.jpg"
+    },
+    {
+      "id": "3ae3e8b7-3801-4b99-b308-937c661623f4",
+      "number": 116,
+      "name": "Lord of the Pit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/116.jpg"
+    },
+    {
+      "id": "6c0369d2-ae31-42fb-803b-85ec48d3f987",
+      "number": 117,
+      "name": "Mind Twist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/117.jpg"
+    },
+    {
+      "id": "793656ed-acbe-4fec-bac5-96778f234e72",
+      "number": 118,
+      "name": "Nether Shadow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/118.jpg"
+    },
+    {
+      "id": "54039c4b-23c7-4e2c-8bd3-7a28714244b8",
+      "number": 119,
+      "name": "Nettling Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/119.jpg"
+    },
+    {
+      "id": "eb535b69-4fc7-4b76-b85b-194755d6b355",
+      "number": 120,
+      "name": "Nightmare",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/120.jpg"
+    },
+    {
+      "id": "8b99edfa-4bc2-4e90-9def-14d5db0fe6c1",
+      "number": 121,
+      "name": "Paralyze",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/121.jpg"
+    },
+    {
+      "id": "d515da5d-90b5-435b-8e86-c95c8f30a9eb",
+      "number": 122,
+      "name": "Pestilence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/122.jpg"
+    },
+    {
+      "id": "c2259a81-e5fc-40c4-9da8-0c868ccaac56",
+      "number": 123,
+      "name": "Plague Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/123.jpg"
+    },
+    {
+      "id": "d7b51ccf-fcae-49ff-b4f3-cef496aa639d",
+      "number": 124,
+      "name": "Raise Dead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/124.jpg"
+    },
+    {
+      "id": "7aa77f70-2525-4e32-bd75-f96d34150b1f",
+      "number": 125,
+      "name": "Royal Assassin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/125.jpg"
+    },
+    {
+      "id": "652bd781-1a48-42c1-9aff-f9050a9285d6",
+      "number": 126,
+      "name": "Sacrifice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/126.jpg"
+    },
+    {
+      "id": "30125a5d-f9cd-47df-9314-5ba2deff35ba",
+      "number": 127,
+      "name": "Scathe Zombies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/127.jpg"
+    },
+    {
+      "id": "c7a57f0e-5b67-44fc-ab68-9fc7a1345e9b",
+      "number": 128,
+      "name": "Scavenging Ghoul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/128.jpg"
+    },
+    {
+      "id": "47c04d78-de56-4f8a-9865-d7dd3f698940",
+      "number": 129,
+      "name": "Sengir Vampire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/129.jpg"
+    },
+    {
+      "id": "c60f0789-946a-4747-8ef8-a36514c46ec2",
+      "number": 130,
+      "name": "Simulacrum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/130.jpg"
+    },
+    {
+      "id": "a96fd635-ea1d-47cc-a2dc-9cc9494b3c52",
+      "number": 131,
+      "name": "Sorceress Queen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/131.jpg"
+    },
+    {
+      "id": "4e4daeab-d8ee-409c-8817-10d618650784",
+      "number": 132,
+      "name": "Terror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/132.jpg"
+    },
+    {
+      "id": "14ffcd73-dfb2-4056-a7a4-d71c4c7c9ef7",
+      "number": 133,
+      "name": "Unholy Strength",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/133.jpg"
+    },
+    {
+      "id": "0a36284b-e88e-4bdc-9fdd-d3c033448fd1",
+      "number": 134,
+      "name": "Wall of Bone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/134.jpg"
+    },
+    {
+      "id": "c22e6167-6103-4393-bb95-83b5a57bea98",
+      "number": 135,
+      "name": "Warp Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/135.jpg"
+    },
+    {
+      "id": "d3d269bc-3295-430a-9370-7d5a41b8fbf9",
+      "number": 136,
+      "name": "Weakness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/136.jpg"
+    },
+    {
+      "id": "136d0956-1eac-45c5-b58e-0c627051e9e0",
+      "number": 137,
+      "name": "Will-o'-the-Wisp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/137.jpg"
+    },
+    {
+      "id": "dde55f0d-5997-4b60-9acd-b041f5b15a3d",
+      "number": 138,
+      "name": "Zombie Master",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/138.jpg"
+    },
+    {
+      "id": "64b097d7-a004-4014-8261-d7870b6cbc96",
+      "number": 139,
+      "name": "Atog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/139.jpg"
+    },
+    {
+      "id": "a91857ac-5e73-4e06-af32-6a8f486e907e",
+      "number": 140,
+      "name": "Burrowing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/140.jpg"
+    },
+    {
+      "id": "9ac4d505-e055-45a9-bc23-bbf715af0560",
+      "number": 141,
+      "name": "Chaoslace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/141.jpg"
+    },
+    {
+      "id": "00b016d7-e7ac-4958-b21e-82324b001369",
+      "number": 142,
+      "name": "Disintegrate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/142.jpg"
+    },
+    {
+      "id": "7178a1de-741d-49f1-b199-be772c82ad36",
+      "number": 143,
+      "name": "Dragon Whelp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/143.jpg"
+    },
+    {
+      "id": "c65e2353-20a0-4894-bd9e-dae5c8920168",
+      "number": 144,
+      "name": "Dwarven Warriors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/144.jpg"
+    },
+    {
+      "id": "aa9d6484-84ce-4dfe-b512-a9168b970ec1",
+      "number": 145,
+      "name": "Dwarven Weaponsmith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/145.jpg"
+    },
+    {
+      "id": "6dc7bd26-4028-4d51-8335-1323b70f9464",
+      "number": 146,
+      "name": "Earth Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/146.jpg"
+    },
+    {
+      "id": "784cc686-e5a2-4835-8ff2-820461868ffa",
+      "number": 147,
+      "name": "Earthbind",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/147.jpg"
+    },
+    {
+      "id": "ce4c5db4-6532-417d-9c66-2eafda11f133",
+      "number": 148,
+      "name": "Earthquake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/148.jpg"
+    },
+    {
+      "id": "aa894222-04c9-4129-8d48-6ffdd329b1f0",
+      "number": 149,
+      "name": "Fire Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/149.jpg"
+    },
+    {
+      "id": "5f96e816-206b-4fd7-a7d7-2d90542cf30a",
+      "number": 150,
+      "name": "Fireball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/150.jpg"
+    },
+    {
+      "id": "9d10d962-4aa2-4663-bb3f-4b081d62e253",
+      "number": 151,
+      "name": "Firebreathing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/151.jpg"
+    },
+    {
+      "id": "82b52f07-c620-4ade-a428-b6c266dc133d",
+      "number": 152,
+      "name": "Flashfires",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/152.jpg"
+    },
+    {
+      "id": "0906c119-5a30-41e4-8c17-90bce4c68093",
+      "number": 153,
+      "name": "Fork",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/153.jpg"
+    },
+    {
+      "id": "9c885312-e24d-4ce9-b7f7-638104ef48ca",
+      "number": 154,
+      "name": "Goblin Balloon Brigade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/154.jpg"
+    },
+    {
+      "id": "37e230a6-1756-40da-af7b-53874696b141",
+      "number": 155,
+      "name": "Goblin King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/155.jpg"
+    },
+    {
+      "id": "e2067284-c6af-41d7-a4ac-d66a86d9346c",
+      "number": 156,
+      "name": "Granite Gargoyle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/156.jpg"
+    },
+    {
+      "id": "c2353776-6cc8-4cb3-9608-6ed4aa5bdd1b",
+      "number": 157,
+      "name": "Gray Ogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/157.jpg"
+    },
+    {
+      "id": "ccc3b385-f51c-45b3-afb1-321f892afc96",
+      "number": 158,
+      "name": "Hill Giant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/158.jpg"
+    },
+    {
+      "id": "54afb724-ae32-45f7-afdd-cb51966e53af",
+      "number": 159,
+      "name": "Hurloon Minotaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/159.jpg"
+    },
+    {
+      "id": "b7eea60b-5ff2-4d27-b9cd-c330485a8796",
+      "number": 160,
+      "name": "Keldon Warlord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/160.jpg"
+    },
+    {
+      "id": "c88e9802-4066-453e-b246-96b6245d21fe",
+      "number": 161,
+      "name": "Kird Ape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/161.jpg"
+    },
+    {
+      "id": "fc8f431d-b7eb-4848-99dd-a5f896248145",
+      "number": 162,
+      "name": "Lightning Bolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/162.jpg"
+    },
+    {
+      "id": "0ae0db84-bf72-4d67-a4cc-b32e1233a530",
+      "number": 163,
+      "name": "Magnetic Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/163.jpg"
+    },
+    {
+      "id": "8cf56b18-e71a-4fd2-8694-a9aaece41965",
+      "number": 164,
+      "name": "Mana Flare",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/164.jpg"
+    },
+    {
+      "id": "ed0de166-bd56-4557-b417-1229554cd193",
+      "number": 165,
+      "name": "Manabarbs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/165.jpg"
+    },
+    {
+      "id": "fa722c84-9257-4ed1-ace7-7e0953bc9ced",
+      "number": 166,
+      "name": "Mijae Djinn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/166.jpg"
+    },
+    {
+      "id": "affefdf8-a346-4e06-a727-67ce543ae8e6",
+      "number": 167,
+      "name": "Mons's Goblin Raiders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/167.jpg"
+    },
+    {
+      "id": "1656236e-761a-4d2b-9ef1-75c007e501bf",
+      "number": 168,
+      "name": "Orcish Artillery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/168.jpg"
+    },
+    {
+      "id": "e7b60714-e208-47f1-8e30-82e705f45601",
+      "number": 169,
+      "name": "Orcish Oriflamme",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/169.jpg"
+    },
+    {
+      "id": "94b734ca-70ea-425f-bf1d-e9b037047cfb",
+      "number": 170,
+      "name": "Power Surge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/170.jpg"
+    },
+    {
+      "id": "33887af0-680d-45a5-944f-a4480958094c",
+      "number": 171,
+      "name": "Red Elemental Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/171.jpg"
+    },
+    {
+      "id": "4a4aa139-842f-45b9-82ba-d184f0b24bc5",
+      "number": 172,
+      "name": "Roc of Kher Ridges",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/172.jpg"
+    },
+    {
+      "id": "ce2414c5-5956-4934-bed7-7c32ca3a9595",
+      "number": 173,
+      "name": "Rock Hydra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/173.jpg"
+    },
+    {
+      "id": "49dcda11-4200-4ee2-b353-2321282463be",
+      "number": 174,
+      "name": "Sedge Troll",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/174.jpg"
+    },
+    {
+      "id": "4176a761-7542-49f2-85c1-95e9ffa54ef3",
+      "number": 175,
+      "name": "Shatter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/175.jpg"
+    },
+    {
+      "id": "7b469eaa-21f4-44a2-a1e9-a44dad2b5099",
+      "number": 176,
+      "name": "Shatterstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/176.jpg"
+    },
+    {
+      "id": "b35b0fb6-2596-4da3-820e-df28172f209b",
+      "number": 177,
+      "name": "Shivan Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/177.jpg"
+    },
+    {
+      "id": "1875542d-8a51-48e2-a2f2-ccef96a7aa77",
+      "number": 178,
+      "name": "Smoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/178.jpg"
+    },
+    {
+      "id": "67b6c902-c631-4d48-93f1-487c18c66235",
+      "number": 179,
+      "name": "Stone Giant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/179.jpg"
+    },
+    {
+      "id": "c8b26b25-27a6-4e8b-ac4a-fd743f8aac1c",
+      "number": 180,
+      "name": "Stone Rain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/180.jpg"
+    },
+    {
+      "id": "e20cce7f-8f97-4f9f-b440-e45d6a1095eb",
+      "number": 181,
+      "name": "Tunnel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/181.jpg"
+    },
+    {
+      "id": "68c14c36-7ef6-476a-99dd-72f984117e32",
+      "number": 182,
+      "name": "Uthden Troll",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/182.jpg"
+    },
+    {
+      "id": "86418d1b-4956-48fd-a542-338f24c1c0a0",
+      "number": 183,
+      "name": "Wall of Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/183.jpg"
+    },
+    {
+      "id": "507dddd9-6576-482d-86c9-88564723b554",
+      "number": 184,
+      "name": "Wall of Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/184.jpg"
+    },
+    {
+      "id": "3f3c77ad-fce8-4506-90e1-7ef71552a71c",
+      "number": 185,
+      "name": "Wheel of Fortune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/185.jpg"
+    },
+    {
+      "id": "a20d7ce0-e57d-4403-b27a-e98e2210fed4",
+      "number": 186,
+      "name": "Aspect of Wolf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/186.jpg"
+    },
+    {
+      "id": "f98a2785-cb74-4ef9-abd0-d7a8125d73ca",
+      "number": 187,
+      "name": "Birds of Paradise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/187.jpg"
+    },
+    {
+      "id": "adf9bf49-6ec9-45dc-9d6f-0377260e2d01",
+      "number": 188,
+      "name": "Channel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/188.jpg"
+    },
+    {
+      "id": "c09b3bc2-d766-4ad2-9b8b-d37bfd0e8436",
+      "number": 189,
+      "name": "Cockatrice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/189.jpg"
+    },
+    {
+      "id": "e0c6bba3-0830-4287-9de6-2b36684378f1",
+      "number": 190,
+      "name": "Craw Wurm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/190.jpg"
+    },
+    {
+      "id": "3ae039bf-8e76-41fd-b02f-de2fa79dc788",
+      "number": 191,
+      "name": "Crumble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/191.jpg"
+    },
+    {
+      "id": "74ebf1c8-dade-4d09-8aba-7b7f7626ce87",
+      "number": 192,
+      "name": "Desert Twister",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/192.jpg"
+    },
+    {
+      "id": "b16f7c4d-5867-48cd-879f-d7c2b4161570",
+      "number": 193,
+      "name": "Elvish Archers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/193.jpg"
+    },
+    {
+      "id": "9ded52aa-67a2-4476-a278-1eea936b3248",
+      "number": 194,
+      "name": "Fastbond",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/194.jpg"
+    },
+    {
+      "id": "9592c31e-179e-43d3-b2b8-b83c0dbea922",
+      "number": 195,
+      "name": "Fog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/195.jpg"
+    },
+    {
+      "id": "6bdd1959-d9e5-4e9f-95e4-d7bb56989191",
+      "number": 196,
+      "name": "Force of Nature",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/196.jpg"
+    },
+    {
+      "id": "25ae9afd-7d97-4a24-8e22-fc9eaeeb9389",
+      "number": 197,
+      "name": "Fungusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/197.jpg"
+    },
+    {
+      "id": "6f89156a-94e3-4392-8a25-d7414cfc0f30",
+      "number": 198,
+      "name": "Gaea's Liege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/198.jpg"
+    },
+    {
+      "id": "8ee8c229-1915-493d-82e2-6da9e01bb867",
+      "number": 199,
+      "name": "Giant Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/199.jpg"
+    },
+    {
+      "id": "b2dea99d-bd42-4cec-bd09-cfa81b7bdcef",
+      "number": 200,
+      "name": "Giant Spider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/200.jpg"
+    },
+    {
+      "id": "1df4c9a2-8d26-4075-8ee1-b5b848ef5e31",
+      "number": 201,
+      "name": "Grizzly Bears",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/201.jpg"
+    },
+    {
+      "id": "cd63d353-6764-4094-92de-9fca1a3e553f",
+      "number": 202,
+      "name": "Hurricane",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/202.jpg"
+    },
+    {
+      "id": "2eed143f-450b-4465-afac-fc1751b85e2b",
+      "number": 203,
+      "name": "Instill Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/203.jpg"
+    },
+    {
+      "id": "f90e55c1-08e0-4b25-9d0d-2512584398cd",
+      "number": 204,
+      "name": "Ironroot Treefolk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/204.jpg"
+    },
+    {
+      "id": "c7b4d5d5-8558-4216-8f03-66ba557a6842",
+      "number": 205,
+      "name": "Kudzu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/205.jpg"
+    },
+    {
+      "id": "ccaf995c-4554-4711-b3bc-eaa009c53c45",
+      "number": 206,
+      "name": "Ley Druid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/206.jpg"
+    },
+    {
+      "id": "d8c6801e-3075-488d-a54e-20c846708021",
+      "number": 207,
+      "name": "Lifeforce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/207.jpg"
+    },
+    {
+      "id": "ce3e5829-6f95-48ef-ad1a-47a1beaf7705",
+      "number": 208,
+      "name": "Lifelace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/208.jpg"
+    },
+    {
+      "id": "d7ca8c1d-866f-4ffb-adcb-924aba8f59a9",
+      "number": 209,
+      "name": "Living Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/209.jpg"
+    },
+    {
+      "id": "670f236c-f4d7-419e-82cf-65da8c2f1e15",
+      "number": 210,
+      "name": "Living Lands",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/210.jpg"
+    },
+    {
+      "id": "9e100beb-535d-41fe-8e5c-4788871a2739",
+      "number": 211,
+      "name": "Llanowar Elves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/211.jpg"
+    },
+    {
+      "id": "7860fb3b-065d-4965-add5-55c7375e794e",
+      "number": 212,
+      "name": "Lure",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/212.jpg"
+    },
+    {
+      "id": "1a5fe13b-f719-446f-8651-9d5ee36abdb1",
+      "number": 213,
+      "name": "Regeneration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/213.jpg"
+    },
+    {
+      "id": "09b792b3-ed87-4360-a392-506e5f8140a1",
+      "number": 214,
+      "name": "Regrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/214.jpg"
+    },
+    {
+      "id": "2d0a7b28-63bb-4aeb-98de-5a795cef838a",
+      "number": 215,
+      "name": "Scryb Sprites",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/215.jpg"
+    },
+    {
+      "id": "0bb0349e-38b8-4750-b5c8-a831e6b20aea",
+      "number": 216,
+      "name": "Shanodin Dryads",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/216.jpg"
+    },
+    {
+      "id": "9d51d054-3c42-42d4-b2fe-d7197703cc6e",
+      "number": 217,
+      "name": "Stream of Life",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/217.jpg"
+    },
+    {
+      "id": "af571c75-6142-458a-8857-93164e27e5db",
+      "number": 218,
+      "name": "Thicket Basilisk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/218.jpg"
+    },
+    {
+      "id": "9e70db8a-1b25-45c1-861a-58a02ca5f878",
+      "number": 219,
+      "name": "Timber Wolves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/219.jpg"
+    },
+    {
+      "id": "4cbcf6db-52e5-4e7d-87af-b6980f25930b",
+      "number": 220,
+      "name": "Titania's Song",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/220.jpg"
+    },
+    {
+      "id": "ea8dcf7e-c4b7-4ad3-a636-b55570ffac0a",
+      "number": 221,
+      "name": "Tranquility",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/221.jpg"
+    },
+    {
+      "id": "2a25a785-ddd8-45e8-b10f-32d39f867ca7",
+      "number": 222,
+      "name": "Tsunami",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/222.jpg"
+    },
+    {
+      "id": "55fce7b5-3c42-4c75-aa62-d3be609172e1",
+      "number": 223,
+      "name": "Verduran Enchantress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/223.jpg"
+    },
+    {
+      "id": "104b4849-cfa0-438a-b01e-71995960aedf",
+      "number": 224,
+      "name": "Wall of Brambles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/224.jpg"
+    },
+    {
+      "id": "f1b483ba-ba51-4d8b-a455-a47c6be70ee8",
+      "number": 225,
+      "name": "Wall of Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/225.jpg"
+    },
+    {
+      "id": "6602b025-d795-4fa4-9094-f21b2ff1b5cf",
+      "number": 226,
+      "name": "Wall of Wood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/226.jpg"
+    },
+    {
+      "id": "077cdb3f-b70f-4310-bc5d-47a0ee35c701",
+      "number": 227,
+      "name": "Wanderlust",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/227.jpg"
+    },
+    {
+      "id": "55073560-e52c-4f03-a260-57cf084b3478",
+      "number": 228,
+      "name": "War Mammoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/228.jpg"
+    },
+    {
+      "id": "42e24b27-7172-4cc2-9731-7733fec2abb7",
+      "number": 229,
+      "name": "Web",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/229.jpg"
+    },
+    {
+      "id": "605fe667-8dee-4f62-a01c-0a3c44731c01",
+      "number": 230,
+      "name": "Wild Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/230.jpg"
+    },
+    {
+      "id": "81264242-bdac-4342-9420-16e7c2c84ee6",
+      "number": 231,
+      "name": "Aladdin's Lamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/231.jpg"
+    },
+    {
+      "id": "ce4296cb-50f7-4a31-8dd1-b4e1d647df87",
+      "number": 232,
+      "name": "Aladdin's Ring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/232.jpg"
+    },
+    {
+      "id": "3e226943-312b-4128-a9fd-c49e3a65a0f5",
+      "number": 233,
+      "name": "Ankh of Mishra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/233.jpg"
+    },
+    {
+      "id": "026dd2cb-d759-43d8-a542-a7a71bdeba98",
+      "number": 234,
+      "name": "Armageddon Clock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/234.jpg"
+    },
+    {
+      "id": "0b0595fe-3042-4fcd-9f8e-a0f601f858c4",
+      "number": 235,
+      "name": "Basalt Monolith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/235.jpg"
+    },
+    {
+      "id": "7d285b4e-ce28-4c0b-80bb-301430f03196",
+      "number": 236,
+      "name": "Black Vise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/236.jpg"
+    },
+    {
+      "id": "5436c877-9eec-410a-aec6-97d9f0a72af5",
+      "number": 237,
+      "name": "Bottle of Suleiman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/237.jpg"
+    },
+    {
+      "id": "7337d01c-fa94-477a-bac9-40682bbb84d7",
+      "number": 238,
+      "name": "Brass Man",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/238.jpg"
+    },
+    {
+      "id": "2b234903-d7bf-4136-891a-0d66f49c2477",
+      "number": 239,
+      "name": "Celestial Prism",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/239.jpg"
+    },
+    {
+      "id": "a3f1c52b-87d2-42fc-8fa0-4557aa00b7b0",
+      "number": 240,
+      "name": "Clockwork Beast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/240.jpg"
+    },
+    {
+      "id": "0a5453f5-065b-4134-b6f5-2f1cf460a9ac",
+      "number": 241,
+      "name": "Conservator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/241.jpg"
+    },
+    {
+      "id": "97eb21b6-6131-4650-9042-d6e22d8f7e2b",
+      "number": 242,
+      "name": "Crystal Rod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/242.jpg"
+    },
+    {
+      "id": "d9ec7ca0-82d9-489b-a0f7-2539b5c942c7",
+      "number": 243,
+      "name": "Dancing Scimitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/243.jpg"
+    },
+    {
+      "id": "3864813d-e6ae-48d0-8695-1119ac31dd1d",
+      "number": 244,
+      "name": "Dingus Egg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/244.jpg"
+    },
+    {
+      "id": "e26c608e-773c-476a-a282-41a362a3659f",
+      "number": 245,
+      "name": "Disrupting Scepter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/245.jpg"
+    },
+    {
+      "id": "3458b6d2-9c82-43b1-8344-50cf39885aec",
+      "number": 246,
+      "name": "Dragon Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/246.jpg"
+    },
+    {
+      "id": "c3db9b84-9842-446c-b47b-12195002e261",
+      "number": 247,
+      "name": "Ebony Horse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/247.jpg"
+    },
+    {
+      "id": "86e61a1f-5058-4387-84d9-bfe2607b1b92",
+      "number": 248,
+      "name": "Flying Carpet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/248.jpg"
+    },
+    {
+      "id": "419be5b4-bfff-4761-a3d7-6abcc3894476",
+      "number": 249,
+      "name": "Glasses of Urza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/249.jpg"
+    },
+    {
+      "id": "fabc7c01-3235-42f2-849c-930b642ad68b",
+      "number": 250,
+      "name": "Helm of Chatzuk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/250.jpg"
+    },
+    {
+      "id": "49726956-dccb-42bf-85d5-b2cb5acbeb04",
+      "number": 251,
+      "name": "Howling Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/251.jpg"
+    },
+    {
+      "id": "b3b6a04b-a44a-4fbe-9ce2-0c27a5d5e8cd",
+      "number": 252,
+      "name": "Iron Star",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/252.jpg"
+    },
+    {
+      "id": "f9fa5b11-0375-4378-932d-119fdad92c88",
+      "number": 253,
+      "name": "Ivory Cup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/253.jpg"
+    },
+    {
+      "id": "a7cde778-6ab7-42e9-ae85-e83a4a584466",
+      "number": 254,
+      "name": "Ivory Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/254.jpg"
+    },
+    {
+      "id": "c0cc30cb-4417-4705-9313-3aef50963820",
+      "number": 255,
+      "name": "Jade Monolith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/255.jpg"
+    },
+    {
+      "id": "af9988fd-72a0-42dc-9f10-85edd3133977",
+      "number": 256,
+      "name": "Jandor's Ring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/256.jpg"
+    },
+    {
+      "id": "cfa99cbd-cce8-4c6e-87c1-c2ccfef87d08",
+      "number": 257,
+      "name": "Jandor's Saddlebags",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/257.jpg"
+    },
+    {
+      "id": "cef51bff-22c3-45ff-8cd2-6e8649a15a26",
+      "number": 258,
+      "name": "Jayemdae Tome",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/258.jpg"
+    },
+    {
+      "id": "82845f1e-a114-4d4f-8b6d-29e37fe1e925",
+      "number": 259,
+      "name": "Juggernaut",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/259.jpg"
+    },
+    {
+      "id": "66233963-7b57-414b-8e8a-1e1ab2453bd2",
+      "number": 260,
+      "name": "Kormus Bell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/260.jpg"
+    },
+    {
+      "id": "ded66cfb-d1fa-4dbb-af19-8eeba6fbf86d",
+      "number": 261,
+      "name": "Library of Leng",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/261.jpg"
+    },
+    {
+      "id": "0cd81355-8e02-4103-8707-d502ccb4fee8",
+      "number": 262,
+      "name": "Living Wall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/262.jpg"
+    },
+    {
+      "id": "141a75c4-fd96-4e27-a48f-c2040c1c0e77",
+      "number": 263,
+      "name": "Mana Vault",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/263.jpg"
+    },
+    {
+      "id": "a71da253-1d40-4833-92a7-df8dd90e66e4",
+      "number": 264,
+      "name": "Meekstone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/264.jpg"
+    },
+    {
+      "id": "b658d487-19a7-4fb6-ae0f-09c2b8b95a7e",
+      "number": 265,
+      "name": "Millstone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/265.jpg"
+    },
+    {
+      "id": "1ca4b735-d52b-4e4a-b3f8-f5a5136c128d",
+      "number": 266,
+      "name": "Mishra's War Machine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/266.jpg"
+    },
+    {
+      "id": "60c0ff39-ad65-4687-8486-24559c39e6c1",
+      "number": 267,
+      "name": "Nevinyrral's Disk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/267.jpg"
+    },
+    {
+      "id": "fd8617ce-36a9-4748-81e2-f44957f4205d",
+      "number": 268,
+      "name": "Obsianus Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/268.jpg"
+    },
+    {
+      "id": "7e88740e-f2ba-4fb7-ac2a-2e6313b7745f",
+      "number": 269,
+      "name": "Onulet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/269.jpg"
+    },
+    {
+      "id": "db2ef311-cda3-4f70-821d-e9fb03c85dc9",
+      "number": 270,
+      "name": "Ornithopter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/270.jpg"
+    },
+    {
+      "id": "dc5d2082-7a51-4761-b81c-830defd5269f",
+      "number": 271,
+      "name": "Primal Clay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/271.jpg"
+    },
+    {
+      "id": "551c2217-fdf5-465f-8522-1b88c111be7d",
+      "number": 272,
+      "name": "Rocket Launcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/272.jpg"
+    },
+    {
+      "id": "e572a0e1-a4a9-4811-847f-c06fa6413384",
+      "number": 273,
+      "name": "Rod of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/273.jpg"
+    },
+    {
+      "id": "9138d11a-d55f-4c46-bb27-7e8e15a44e8c",
+      "number": 274,
+      "name": "Sol Ring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/274.jpg"
+    },
+    {
+      "id": "f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb",
+      "number": 275,
+      "name": "Soul Net",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/275.jpg"
+    },
+    {
+      "id": "b6992067-fc9a-4fc4-9a7a-c99251ffbef0",
+      "number": 276,
+      "name": "Sunglasses of Urza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/276.jpg"
+    },
+    {
+      "id": "dc052e94-1574-4e79-9b1b-288180901dea",
+      "number": 277,
+      "name": "The Hive",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/277.jpg"
+    },
+    {
+      "id": "20b05627-2486-486d-8e03-2db59f8876c3",
+      "number": 278,
+      "name": "The Rack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/278.jpg"
+    },
+    {
+      "id": "ea3d5fb3-b7bf-428b-81f4-a71fdff80b86",
+      "number": 279,
+      "name": "Throne of Bone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/279.jpg"
+    },
+    {
+      "id": "e6ce50ee-2c4d-4137-82f3-e61bbc7ed8ca",
+      "number": 280,
+      "name": "Winter Orb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/280.jpg"
+    },
+    {
+      "id": "b476fe47-ada6-433b-a628-b1e8b96dd2c2",
+      "number": 281,
+      "name": "Wooden Sphere",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/281.jpg"
+    },
+    {
+      "id": "377cee38-e769-47b0-abd5-0f528600f36a",
+      "number": 282,
+      "name": "Badlands",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/282.jpg"
+    },
+    {
+      "id": "e83d49c1-7d84-43f9-8548-5697603fefc0",
+      "number": 283,
+      "name": "Bayou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/283.jpg"
+    },
+    {
+      "id": "2ff721e2-b12a-4cd1-b846-fccd61c6b69b",
+      "number": 284,
+      "name": "Plateau",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/284.jpg"
+    },
+    {
+      "id": "a6714aba-7576-41b8-9f6b-5303f5b69689",
+      "number": 285,
+      "name": "Savannah",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/285.jpg"
+    },
+    {
+      "id": "649aa116-4bb5-4974-b8dc-38a8c627717a",
+      "number": 286,
+      "name": "Scrubland",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/286.jpg"
+    },
+    {
+      "id": "79cc2242-6064-4c90-a46b-0e59144bc04a",
+      "number": 287,
+      "name": "Taiga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/287.jpg"
+    },
+    {
+      "id": "fd105eda-aff6-4b01-a892-e9502346caee",
+      "number": 288,
+      "name": "Tropical Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/288.jpg"
+    },
+    {
+      "id": "49fdfb01-560a-4996-afc2-879c8d10e042",
+      "number": 289,
+      "name": "Tundra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/289.jpg"
+    },
+    {
+      "id": "068bb15a-fc2d-42a2-859b-837b946d23c0",
+      "number": 290,
+      "name": "Underground Sea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/290.jpg"
+    },
+    {
+      "id": "f73ea932-5aba-4847-bb13-4cc0eb5dc726",
+      "number": 291,
+      "name": "Volcanic Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/291.jpg"
+    },
+    {
+      "id": "fc776814-bc15-421e-990f-6de7b5f6873f",
+      "number": 292,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/292.jpg"
+    },
+    {
+      "id": "621c7296-a1d1-49da-a1f1-dd62758ad7f7",
+      "number": 293,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/293.jpg"
+    },
+    {
+      "id": "e7847fb1-bb6b-414f-9639-8be5b6f09917",
+      "number": 294,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/294.jpg"
+    },
+    {
+      "id": "8b8d9fae-a2a8-425a-8b82-34aa8e3eef06",
+      "number": 295,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/295.jpg"
+    },
+    {
+      "id": "0aea8148-43a7-45dc-84b1-8636cdb50412",
+      "number": 296,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/296.jpg"
+    },
+    {
+      "id": "e24d0c78-4df5-4cc9-8b9e-65b969c5babd",
+      "number": 297,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/297.jpg"
+    },
+    {
+      "id": "51477c65-1fc6-4a0c-986f-d51d4e36bc1a",
+      "number": 298,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/298.jpg"
+    },
+    {
+      "id": "0b35ed4a-c1b1-4cf7-8eab-95a85ce75e92",
+      "number": 299,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/299.jpg"
+    },
+    {
+      "id": "91f15da4-396e-4704-926f-cda3b3f532e0",
+      "number": 300,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/300.jpg"
+    },
+    {
+      "id": "bf11766b-2614-433d-a3b3-e49b31769c98",
+      "number": 301,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/301.jpg"
+    },
+    {
+      "id": "0d446f70-cdbf-4ac3-81db-6fe77e064dd0",
+      "number": 302,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/302.jpg"
+    },
+    {
+      "id": "0cc818c8-32b7-4f15-9db5-0aacb92296b1",
+      "number": 303,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/303.jpg"
+    },
+    {
+      "id": "450d2a6a-0576-44c3-ba66-3a64f5e65fcf",
+      "number": 304,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/304.jpg"
+    },
+    {
+      "id": "bd712cf8-d5aa-439f-8030-db612bf6d0b1",
+      "number": 305,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/305.jpg"
+    },
+    {
+      "id": "8dc0660e-6fe0-48b9-aba0-0e7a72ea4afd",
+      "number": 306,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Summer%20Magic%20%20Edgar/images/306.jpg"
+    }
+  ]
+}
