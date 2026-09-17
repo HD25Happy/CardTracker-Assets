@@ -1,0 +1,607 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Antiquities",
+  "totalCards": 100,
+  "cards": [
+    {
+      "id": "ce83a3cb-467d-44f6-a051-4855c8cf52a6",
+      "number": 1,
+      "name": "Argivian Archaeologist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/1.jpg"
+    },
+    {
+      "id": "5f604338-5ee4-4c47-ad5a-5c805c96c8de",
+      "number": 2,
+      "name": "Argivian Blacksmith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/2.jpg"
+    },
+    {
+      "id": "b3a5101a-ec66-4658-950c-9ad49c29b836",
+      "number": 3,
+      "name": "Artifact Ward",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/3.jpg"
+    },
+    {
+      "id": "22ebd5a3-fef8-4097-b038-89a6cb38227d",
+      "number": 4,
+      "name": "Circle of Protection: Artifacts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/4.jpg"
+    },
+    {
+      "id": "12ab9836-bc90-4d92-a86d-b8e1b7671aa7",
+      "number": 5,
+      "name": "Damping Field",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/5.jpg"
+    },
+    {
+      "id": "bde037b9-4947-4ff7-8ea4-e9f1a7e4ab88",
+      "number": 6,
+      "name": "Martyrs of Korlis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/6.jpg"
+    },
+    {
+      "id": "da7ed8ba-3886-4779-a9b3-6892a7ed3527",
+      "number": 7,
+      "name": "Reverse Polarity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/7.jpg"
+    },
+    {
+      "id": "4be2aa3b-207b-4d21-abfb-6788520c7676",
+      "number": 8,
+      "name": "Drafna's Restoration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/8.jpg"
+    },
+    {
+      "id": "bd1f624b-e8f2-462f-838a-7cb9e8fda988",
+      "number": 9,
+      "name": "Energy Flux",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/9.jpg"
+    },
+    {
+      "id": "f32373dd-06d8-45d1-8777-3b1411bcb30a",
+      "number": 10,
+      "name": "Hurkyl's Recall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/10.jpg"
+    },
+    {
+      "id": "e48bc89e-6da5-43da-b4e0-60d5f850199c",
+      "number": 11,
+      "name": "Power Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/11.jpg"
+    },
+    {
+      "id": "1aa2d27b-cc25-4baa-86f4-4db45b30e2a4",
+      "number": 12,
+      "name": "Reconstruction",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/12.jpg"
+    },
+    {
+      "id": "b4ff60ce-073c-46b8-807c-8b40467b960c",
+      "number": 13,
+      "name": "Sage of Lat-Nam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/13.jpg"
+    },
+    {
+      "id": "6eab6765-eba3-4844-81ca-ae37a6e903df",
+      "number": 14,
+      "name": "Transmute Artifact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/14.jpg"
+    },
+    {
+      "id": "587d6ac8-fad8-49e0-862e-636e06628ff9",
+      "number": 15,
+      "name": "Artifact Possession",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/15.jpg"
+    },
+    {
+      "id": "1f372950-6693-4838-80ef-8fd9aa3e0349",
+      "number": 16,
+      "name": "Gate to Phyrexia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/16.jpg"
+    },
+    {
+      "id": "a2f6ef2f-a3a2-4e1f-b7eb-59abc8414114",
+      "number": 17,
+      "name": "Haunting Wind",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/17.jpg"
+    },
+    {
+      "id": "21a985a9-5612-4844-982e-fd1aa6249770",
+      "number": 18,
+      "name": "Phyrexian Gremlins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/18.jpg"
+    },
+    {
+      "id": "c9fd4054-42fc-4f95-a6f7-369a5da43dd5",
+      "number": 19,
+      "name": "Priest of Yawgmoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/19.jpg"
+    },
+    {
+      "id": "5149ffff-d38f-458e-bcfa-a4b6b332a0b4",
+      "number": 20,
+      "name": "Xenic Poltergeist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/20.jpg"
+    },
+    {
+      "id": "04bbd231-0d5f-4cbf-92a7-10d2c5c4b82c",
+      "number": 21,
+      "name": "Yawgmoth Demon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/21.jpg"
+    },
+    {
+      "id": "1506d99d-7b2e-4101-84a5-c950dadb263a",
+      "number": 22,
+      "name": "Artifact Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/22.jpg"
+    },
+    {
+      "id": "2249fc40-4412-48fd-800a-7ea3678aee3f",
+      "number": 23,
+      "name": "Atog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/23.jpg"
+    },
+    {
+      "id": "ffd7eb90-ae95-49df-898a-9510187bce1c",
+      "number": 24,
+      "name": "Detonate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/24.jpg"
+    },
+    {
+      "id": "0848d94a-2704-460f-986b-b192dd6d26b7",
+      "number": 25,
+      "name": "Dwarven Weaponsmith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/25.jpg"
+    },
+    {
+      "id": "6669d96e-9a7b-4427-a477-f4e76831f593",
+      "number": 26,
+      "name": "Goblin Artisans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/26.jpg"
+    },
+    {
+      "id": "5e34fc6b-5f00-4a22-9ee2-afc1caf99961",
+      "number": 27,
+      "name": "Orcish Mechanics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/27.jpg"
+    },
+    {
+      "id": "0987461a-45c0-4956-8627-cd27a7e038d0",
+      "number": 28,
+      "name": "Shatterstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/28.jpg"
+    },
+    {
+      "id": "5712e87a-2381-4f5b-a853-6973841f9bf1",
+      "number": 29,
+      "name": "Argothian Pixies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/29.jpg"
+    },
+    {
+      "id": "8db8882e-4db6-4e3c-9e9e-8c71d557a071",
+      "number": 30,
+      "name": "Argothian Treefolk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/30.jpg"
+    },
+    {
+      "id": "f8a130dc-3b1f-4fae-8459-b26bb5647fec",
+      "number": 31,
+      "name": "Citanul Druid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/31.jpg"
+    },
+    {
+      "id": "d2101f86-8d3c-4ba8-ac42-bd3df0644280",
+      "number": 32,
+      "name": "Crumble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/32.jpg"
+    },
+    {
+      "id": "39d763bd-b0a9-46ba-bcd2-9304063446f2",
+      "number": 33,
+      "name": "Gaea's Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/33.jpg"
+    },
+    {
+      "id": "ae1d7b09-3a1f-410f-b330-04ae768b0455",
+      "number": 34,
+      "name": "Powerleech",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/34.jpg"
+    },
+    {
+      "id": "583a53af-2e2a-4f3f-8eab-bd874c6ed80a",
+      "number": 35,
+      "name": "Titania's Song",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/35.jpg"
+    },
+    {
+      "id": "b094f8dd-0184-41a2-9767-e848a6e4eac1",
+      "number": 36,
+      "name": "Amulet of Kroog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/36.jpg"
+    },
+    {
+      "id": "44a31889-6a8d-450c-a73d-381a7ff28bf9",
+      "number": 37,
+      "name": "Armageddon Clock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/37.jpg"
+    },
+    {
+      "id": "cdcccb0f-ce96-453b-9e82-41d87f52e58b",
+      "number": 38,
+      "name": "Ashnod's Altar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/38.jpg"
+    },
+    {
+      "id": "aeeec853-dd3f-4ac3-8b20-c07fada8888f",
+      "number": 39,
+      "name": "Ashnod's Battle Gear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/39.jpg"
+    },
+    {
+      "id": "2aa5b289-36ba-49b1-a5ac-f23bf71f8241",
+      "number": 40,
+      "name": "Ashnod's Transmogrant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/40.jpg"
+    },
+    {
+      "id": "f7a69e35-d209-41c0-aa3c-c78414617075",
+      "number": 41,
+      "name": "Battering Ram",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/41.jpg"
+    },
+    {
+      "id": "6fb10552-dd47-4f8a-ac7c-8c2b61e56736",
+      "number": 42,
+      "name": "Bronze Tablet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/42.jpg"
+    },
+    {
+      "id": "35a335bf-7358-460f-b7c9-1e8bc4300f64",
+      "number": 43,
+      "name": "Candelabra of Tawnos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/43.jpg"
+    },
+    {
+      "id": "64975352-8d35-4d02-94ac-fa0c6ee12409",
+      "number": 44,
+      "name": "Clay Statue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/44.jpg"
+    },
+    {
+      "id": "1dea8c2f-4aea-478d-aee7-cba1f74edd6c",
+      "number": 45,
+      "name": "Clockwork Avian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/45.jpg"
+    },
+    {
+      "id": "067c44e9-1b23-42fd-9acb-daafb62c32a2",
+      "number": 46,
+      "name": "Colossus of Sardia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/46.jpg"
+    },
+    {
+      "id": "6c6df9db-0a46-40a5-ae9d-59f47dae9056",
+      "number": 47,
+      "name": "Coral Helm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/47.jpg"
+    },
+    {
+      "id": "720d871d-1e7b-482e-bd1e-8ec79519fb86",
+      "number": 48,
+      "name": "Cursed Rack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/48.jpg"
+    },
+    {
+      "id": "07793a71-1106-4303-b620-e403bd378020",
+      "number": 49,
+      "name": "Dragon Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/49.jpg"
+    },
+    {
+      "id": "bb6af436-bcfd-4d47-a1aa-e84b587a725a",
+      "number": 50,
+      "name": "Feldon's Cane",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/50.jpg"
+    },
+    {
+      "id": "856be1dd-a20b-49c2-be9d-7db76c7efd8b",
+      "number": 51,
+      "name": "Golgothian Sylex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/51.jpg"
+    },
+    {
+      "id": "4c7a7348-c82e-453c-975c-e5365e152a3a",
+      "number": 52,
+      "name": "Grapeshot Catapult",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/52.jpg"
+    },
+    {
+      "id": "a5f23039-45ca-4c15-af50-bfd40ea26453",
+      "number": 53,
+      "name": "Ivory Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/53.jpg"
+    },
+    {
+      "id": "5a5b7c5a-ee63-4a1b-9a0f-fb0a309168df",
+      "number": 54,
+      "name": "Jalum Tome",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/54.jpg"
+    },
+    {
+      "id": "b28ba599-5299-4831-a118-1712ada10ef6",
+      "number": 55,
+      "name": "Mightstone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/55.jpg"
+    },
+    {
+      "id": "107646bc-2181-49f4-8821-1eaa46291855",
+      "number": 56,
+      "name": "Millstone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/56.jpg"
+    },
+    {
+      "id": "8f6b4652-a1d4-418f-a89b-6a977a920a9e",
+      "number": 57,
+      "name": "Mishra's War Machine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/57.jpg"
+    },
+    {
+      "id": "1ba61ccd-4429-4f7c-b9f3-30867878d88e",
+      "number": 58,
+      "name": "Obelisk of Undoing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/58.jpg"
+    },
+    {
+      "id": "d77fe8e2-8438-473e-ace5-01baddd2c4ed",
+      "number": 59,
+      "name": "Onulet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/59.jpg"
+    },
+    {
+      "id": "59cc9bdb-7cf2-4795-bac7-ffff605c9eb0",
+      "number": 60,
+      "name": "Ornithopter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/60.jpg"
+    },
+    {
+      "id": "ab9d0e3f-cf7c-41f8-bcd7-bb08ea8cc2f8",
+      "number": 61,
+      "name": "Primal Clay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/61.jpg"
+    },
+    {
+      "id": "0fd7c711-3ff4-4691-914f-242e6737066c",
+      "number": 62,
+      "name": "Rakalite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/62.jpg"
+    },
+    {
+      "id": "d5bb2093-78a8-4a6c-abe7-9a5afc181ec5",
+      "number": 63,
+      "name": "Rocket Launcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/63.jpg"
+    },
+    {
+      "id": "cc278af4-b60d-41b7-b9d7-36c8aefca1a7",
+      "number": 64,
+      "name": "Shapeshifter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/64.jpg"
+    },
+    {
+      "id": "a6bf858d-bba9-4a16-9045-55384b1de633",
+      "number": 65,
+      "name": "Staff of Zegon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/65.jpg"
+    },
+    {
+      "id": "a64d4f93-0c04-4078-aec0-7e9de92f260f",
+      "number": 66,
+      "name": "Su-Chi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/66.jpg"
+    },
+    {
+      "id": "6d7a2718-301f-4191-b348-0c44c7c07d43",
+      "number": 67,
+      "name": "Tablet of Epityr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/67.jpg"
+    },
+    {
+      "id": "c27bc1de-8246-4dc8-af51-ec21def9e226",
+      "number": 68,
+      "name": "Tawnos's Coffin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/68.jpg"
+    },
+    {
+      "id": "978f09dd-121a-4da5-ba16-5c03fbdce084",
+      "number": 69,
+      "name": "Tawnos's Wand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/69.jpg"
+    },
+    {
+      "id": "3035cead-a501-4204-9154-5fd648577d32",
+      "number": 70,
+      "name": "Tawnos's Weaponry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/70.jpg"
+    },
+    {
+      "id": "23eb19f9-2e8f-4bf0-9bf8-868e6da70e2d",
+      "number": 71,
+      "name": "Tetravus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/71.jpg"
+    },
+    {
+      "id": "ec0686ba-1277-4412-a397-7a6227808311",
+      "number": 72,
+      "name": "The Rack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/72.jpg"
+    },
+    {
+      "id": "a79c99e1-722a-44b6-8fa3-2be3f0c193d8",
+      "number": 73,
+      "name": "Triskelion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/73.jpg"
+    },
+    {
+      "id": "448e1811-fb16-4390-ac22-b7066a4a019c",
+      "number": 74,
+      "name": "Urza's Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/74.jpg"
+    },
+    {
+      "id": "f3728537-86d3-42be-9046-90bba1bfafc1",
+      "number": 75,
+      "name": "Urza's Chalice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/75.jpg"
+    },
+    {
+      "id": "438f0c61-a61d-4a9e-b21f-4e86420c7913",
+      "number": 76,
+      "name": "Urza's Miter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/76.jpg"
+    },
+    {
+      "id": "b1dda179-c49a-4995-ba5a-db93ac43dbe7",
+      "number": 77,
+      "name": "Wall of Spears",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/77.jpg"
+    },
+    {
+      "id": "46adf48f-99d2-440e-9129-794584c1ea21",
+      "number": 78,
+      "name": "Weakstone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/78.jpg"
+    },
+    {
+      "id": "27cf53e3-76f6-4831-800e-1259394d779d",
+      "number": 79,
+      "name": "Yotian Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/79.jpg"
+    },
+    {
+      "id": "a696c5b6-f216-454d-8029-74e84bbd1428",
+      "number": 0,
+      "name": "Mishra's Factory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/80a.jpg"
+    },
+    {
+      "id": "4047df9c-335c-4c1a-968d-00f40e2e7386",
+      "number": 0,
+      "name": "Mishra's Factory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/80b.jpg"
+    },
+    {
+      "id": "c44669b2-bf9a-41c3-91c7-d845b0061fbf",
+      "number": 0,
+      "name": "Mishra's Factory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/80c.jpg"
+    },
+    {
+      "id": "ac09a506-427f-4636-bcfd-b40f8d511905",
+      "number": 0,
+      "name": "Mishra's Factory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/80d.jpg"
+    },
+    {
+      "id": "135de5c7-6ac9-4b68-8f1a-97f120a4b125",
+      "number": 81,
+      "name": "Mishra's Workshop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/81.jpg"
+    },
+    {
+      "id": "e7880157-7f27-4f1b-9cdc-ab36a6252376",
+      "number": 0,
+      "name": "Strip Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/82a.jpg"
+    },
+    {
+      "id": "a48bd745-5e9f-4807-97b0-29222a5b838d",
+      "number": 0,
+      "name": "Strip Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/82b.jpg"
+    },
+    {
+      "id": "917e98db-a0c4-4836-9e4b-3fda142eedf6",
+      "number": 0,
+      "name": "Strip Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/82c.jpg"
+    },
+    {
+      "id": "e0f6a92f-edd8-4cb6-be91-f3ec229b20a6",
+      "number": 0,
+      "name": "Strip Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/82d.jpg"
+    },
+    {
+      "id": "ddf85792-470b-4b42-99ac-9cb43a575523",
+      "number": 0,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/83a.jpg"
+    },
+    {
+      "id": "27886da1-9161-4bed-81b5-06da21a25f91",
+      "number": 0,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/83b.jpg"
+    },
+    {
+      "id": "da68a5c0-84fe-4a8f-93b2-790eca3cc95c",
+      "number": 0,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/83c.jpg"
+    },
+    {
+      "id": "cd8617d2-a0e9-4fb4-85da-2c7e385be3f6",
+      "number": 0,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/83d.jpg"
+    },
+    {
+      "id": "94896e0b-859c-47e4-bf27-35ed37b841e0",
+      "number": 0,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/84a.jpg"
+    },
+    {
+      "id": "e237d921-6d84-402e-b5e3-6bbdb3028f57",
+      "number": 0,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/84b.jpg"
+    },
+    {
+      "id": "5cc02459-83ae-4b6c-85a1-26eeaf7a2ee7",
+      "number": 0,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/84c.jpg"
+    },
+    {
+      "id": "b0bbe643-3e07-4541-a2e6-45c63a5133cf",
+      "number": 0,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/84d.jpg"
+    },
+    {
+      "id": "8ed85655-fc59-4a57-bcf9-75e1899dff78",
+      "number": 0,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/85a.jpg"
+    },
+    {
+      "id": "6aba1f0f-73b0-4898-8d07-43322e43d74e",
+      "number": 0,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/85b.jpg"
+    },
+    {
+      "id": "4a03554a-0ee7-4106-b3e4-4bc51f48032d",
+      "number": 0,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/85c.jpg"
+    },
+    {
+      "id": "cc78f2e5-c02b-4f58-8510-660ca27d9a71",
+      "number": 0,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Antiquities/images/85d.jpg"
+    }
+  ]
+}
