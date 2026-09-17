@@ -1,0 +1,649 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Emerald",
+  "totalCards": 107,
+  "cards": [
+    {
+      "id": "ex9-1",
+      "number": 1,
+      "name": "Blaziken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/1.png"
+    },
+    {
+      "id": "ex9-2",
+      "number": 2,
+      "name": "Deoxys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/2.png"
+    },
+    {
+      "id": "ex9-3",
+      "number": 3,
+      "name": "Exploud",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/3.png"
+    },
+    {
+      "id": "ex9-4",
+      "number": 4,
+      "name": "Gardevoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/4.png"
+    },
+    {
+      "id": "ex9-5",
+      "number": 5,
+      "name": "Groudon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/5.png"
+    },
+    {
+      "id": "ex9-6",
+      "number": 6,
+      "name": "Kyogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/6.png"
+    },
+    {
+      "id": "ex9-7",
+      "number": 7,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/7.png"
+    },
+    {
+      "id": "ex9-8",
+      "number": 8,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/8.png"
+    },
+    {
+      "id": "ex9-9",
+      "number": 9,
+      "name": "Rayquaza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/9.png"
+    },
+    {
+      "id": "ex9-10",
+      "number": 10,
+      "name": "Sceptile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/10.png"
+    },
+    {
+      "id": "ex9-11",
+      "number": 11,
+      "name": "Swampert",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/11.png"
+    },
+    {
+      "id": "ex9-12",
+      "number": 12,
+      "name": "Chimecho",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/12.png"
+    },
+    {
+      "id": "ex9-13",
+      "number": 13,
+      "name": "Glalie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/13.png"
+    },
+    {
+      "id": "ex9-14",
+      "number": 14,
+      "name": "Groudon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/14.png"
+    },
+    {
+      "id": "ex9-15",
+      "number": 15,
+      "name": "Kyogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/15.png"
+    },
+    {
+      "id": "ex9-16",
+      "number": 16,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/16.png"
+    },
+    {
+      "id": "ex9-17",
+      "number": 17,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/17.png"
+    },
+    {
+      "id": "ex9-18",
+      "number": 18,
+      "name": "Relicanth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/18.png"
+    },
+    {
+      "id": "ex9-19",
+      "number": 19,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/19.png"
+    },
+    {
+      "id": "ex9-20",
+      "number": 20,
+      "name": "Seviper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/20.png"
+    },
+    {
+      "id": "ex9-21",
+      "number": 21,
+      "name": "Zangoose",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/21.png"
+    },
+    {
+      "id": "ex9-22",
+      "number": 22,
+      "name": "Breloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/22.png"
+    },
+    {
+      "id": "ex9-23",
+      "number": 23,
+      "name": "Camerupt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/23.png"
+    },
+    {
+      "id": "ex9-24",
+      "number": 24,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/24.png"
+    },
+    {
+      "id": "ex9-25",
+      "number": 25,
+      "name": "Combusken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/25.png"
+    },
+    {
+      "id": "ex9-26",
+      "number": 26,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/26.png"
+    },
+    {
+      "id": "ex9-27",
+      "number": 27,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/27.png"
+    },
+    {
+      "id": "ex9-28",
+      "number": 28,
+      "name": "Grovyle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/28.png"
+    },
+    {
+      "id": "ex9-29",
+      "number": 29,
+      "name": "Grumpig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/29.png"
+    },
+    {
+      "id": "ex9-30",
+      "number": 30,
+      "name": "Grumpig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/30.png"
+    },
+    {
+      "id": "ex9-31",
+      "number": 31,
+      "name": "Hariyama",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/31.png"
+    },
+    {
+      "id": "ex9-32",
+      "number": 32,
+      "name": "Illumise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/32.png"
+    },
+    {
+      "id": "ex9-33",
+      "number": 33,
+      "name": "Kirlia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/33.png"
+    },
+    {
+      "id": "ex9-34",
+      "number": 34,
+      "name": "Linoone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/34.png"
+    },
+    {
+      "id": "ex9-35",
+      "number": 35,
+      "name": "Loudred",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/35.png"
+    },
+    {
+      "id": "ex9-36",
+      "number": 36,
+      "name": "Marshtomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/36.png"
+    },
+    {
+      "id": "ex9-37",
+      "number": 37,
+      "name": "Minun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/37.png"
+    },
+    {
+      "id": "ex9-38",
+      "number": 38,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/38.png"
+    },
+    {
+      "id": "ex9-39",
+      "number": 39,
+      "name": "Plusle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/39.png"
+    },
+    {
+      "id": "ex9-40",
+      "number": 40,
+      "name": "Swalot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/40.png"
+    },
+    {
+      "id": "ex9-41",
+      "number": 41,
+      "name": "Swellow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/41.png"
+    },
+    {
+      "id": "ex9-42",
+      "number": 42,
+      "name": "Volbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/42.png"
+    },
+    {
+      "id": "ex9-43",
+      "number": 43,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/43.png"
+    },
+    {
+      "id": "ex9-44",
+      "number": 44,
+      "name": "Cacnea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/44.png"
+    },
+    {
+      "id": "ex9-45",
+      "number": 45,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/45.png"
+    },
+    {
+      "id": "ex9-46",
+      "number": 46,
+      "name": "Duskull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/46.png"
+    },
+    {
+      "id": "ex9-47",
+      "number": 47,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/47.png"
+    },
+    {
+      "id": "ex9-48",
+      "number": 48,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/48.png"
+    },
+    {
+      "id": "ex9-49",
+      "number": 49,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/49.png"
+    },
+    {
+      "id": "ex9-50",
+      "number": 50,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/50.png"
+    },
+    {
+      "id": "ex9-51",
+      "number": 51,
+      "name": "Gulpin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/51.png"
+    },
+    {
+      "id": "ex9-52",
+      "number": 52,
+      "name": "Larvitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/52.png"
+    },
+    {
+      "id": "ex9-53",
+      "number": 53,
+      "name": "Luvdisc",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/53.png"
+    },
+    {
+      "id": "ex9-54",
+      "number": 54,
+      "name": "Makuhita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/54.png"
+    },
+    {
+      "id": "ex9-55",
+      "number": 55,
+      "name": "Meditite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/55.png"
+    },
+    {
+      "id": "ex9-56",
+      "number": 56,
+      "name": "Mudkip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/56.png"
+    },
+    {
+      "id": "ex9-57",
+      "number": 57,
+      "name": "Numel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/57.png"
+    },
+    {
+      "id": "ex9-58",
+      "number": 58,
+      "name": "Numel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/58.png"
+    },
+    {
+      "id": "ex9-59",
+      "number": 59,
+      "name": "Pichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/59.png"
+    },
+    {
+      "id": "ex9-60",
+      "number": 60,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/60.png"
+    },
+    {
+      "id": "ex9-61",
+      "number": 61,
+      "name": "Ralts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/61.png"
+    },
+    {
+      "id": "ex9-62",
+      "number": 62,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/62.png"
+    },
+    {
+      "id": "ex9-63",
+      "number": 63,
+      "name": "Shroomish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/63.png"
+    },
+    {
+      "id": "ex9-64",
+      "number": 64,
+      "name": "Snorunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/64.png"
+    },
+    {
+      "id": "ex9-65",
+      "number": 65,
+      "name": "Spoink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/65.png"
+    },
+    {
+      "id": "ex9-66",
+      "number": 66,
+      "name": "Spoink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/66.png"
+    },
+    {
+      "id": "ex9-67",
+      "number": 67,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/67.png"
+    },
+    {
+      "id": "ex9-68",
+      "number": 68,
+      "name": "Taillow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/68.png"
+    },
+    {
+      "id": "ex9-69",
+      "number": 69,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/69.png"
+    },
+    {
+      "id": "ex9-70",
+      "number": 70,
+      "name": "Treecko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/70.png"
+    },
+    {
+      "id": "ex9-71",
+      "number": 71,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/71.png"
+    },
+    {
+      "id": "ex9-72",
+      "number": 72,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/72.png"
+    },
+    {
+      "id": "ex9-73",
+      "number": 73,
+      "name": "Whismur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/73.png"
+    },
+    {
+      "id": "ex9-74",
+      "number": 74,
+      "name": "Zigzagoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/74.png"
+    },
+    {
+      "id": "ex9-75",
+      "number": 75,
+      "name": "Battle Frontier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/75.png"
+    },
+    {
+      "id": "ex9-76",
+      "number": 76,
+      "name": "Double Full Heal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/76.png"
+    },
+    {
+      "id": "ex9-77",
+      "number": 77,
+      "name": "Lanette's Net Search",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/77.png"
+    },
+    {
+      "id": "ex9-78",
+      "number": 78,
+      "name": "Lum Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/78.png"
+    },
+    {
+      "id": "ex9-79",
+      "number": 79,
+      "name": "Mr. Stone's Project",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/79.png"
+    },
+    {
+      "id": "ex9-80",
+      "number": 80,
+      "name": "Oran Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/80.png"
+    },
+    {
+      "id": "ex9-81",
+      "number": 81,
+      "name": "PokéNav",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/81.png"
+    },
+    {
+      "id": "ex9-82",
+      "number": 82,
+      "name": "Professor Birch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/82.png"
+    },
+    {
+      "id": "ex9-83",
+      "number": 83,
+      "name": "Rare Candy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/83.png"
+    },
+    {
+      "id": "ex9-84",
+      "number": 84,
+      "name": "Scott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/84.png"
+    },
+    {
+      "id": "ex9-85",
+      "number": 85,
+      "name": "Wally's Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/85.png"
+    },
+    {
+      "id": "ex9-86",
+      "number": 86,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/86.png"
+    },
+    {
+      "id": "ex9-87",
+      "number": 87,
+      "name": "Double Rainbow Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/87.png"
+    },
+    {
+      "id": "ex9-88",
+      "number": 88,
+      "name": "Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/88.png"
+    },
+    {
+      "id": "ex9-89",
+      "number": 89,
+      "name": "Multi Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/89.png"
+    },
+    {
+      "id": "ex9-90",
+      "number": 90,
+      "name": "Altaria ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/90.png"
+    },
+    {
+      "id": "ex9-91",
+      "number": 91,
+      "name": "Cacturne ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/91.png"
+    },
+    {
+      "id": "ex9-92",
+      "number": 92,
+      "name": "Camerupt ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/92.png"
+    },
+    {
+      "id": "ex9-93",
+      "number": 93,
+      "name": "Deoxys ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/93.png"
+    },
+    {
+      "id": "ex9-94",
+      "number": 94,
+      "name": "Dusclops ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/94.png"
+    },
+    {
+      "id": "ex9-95",
+      "number": 95,
+      "name": "Medicham ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/95.png"
+    },
+    {
+      "id": "ex9-96",
+      "number": 96,
+      "name": "Milotic ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/96.png"
+    },
+    {
+      "id": "ex9-97",
+      "number": 97,
+      "name": "Raichu ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/97.png"
+    },
+    {
+      "id": "ex9-98",
+      "number": 98,
+      "name": "Regice ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/98.png"
+    },
+    {
+      "id": "ex9-99",
+      "number": 99,
+      "name": "Regirock ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/99.png"
+    },
+    {
+      "id": "ex9-100",
+      "number": 100,
+      "name": "Registeel ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/100.png"
+    },
+    {
+      "id": "ex9-101",
+      "number": 101,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/101.png"
+    },
+    {
+      "id": "ex9-102",
+      "number": 102,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/102.png"
+    },
+    {
+      "id": "ex9-103",
+      "number": 103,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/103.png"
+    },
+    {
+      "id": "ex9-104",
+      "number": 104,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/104.png"
+    },
+    {
+      "id": "ex9-105",
+      "number": 105,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/105.png"
+    },
+    {
+      "id": "ex9-106",
+      "number": 106,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/106.png"
+    },
+    {
+      "id": "ex9-107",
+      "number": 107,
+      "name": "Farfetch'd",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerald/images/107.png"
+    }
+  ]
+}

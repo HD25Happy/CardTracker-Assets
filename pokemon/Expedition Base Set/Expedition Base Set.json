@@ -1,0 +1,997 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Expedition Base Set",
+  "totalCards": 165,
+  "cards": [
+    {
+      "id": "ecard1-1",
+      "number": 1,
+      "name": "Alakazam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/1.png"
+    },
+    {
+      "id": "ecard1-2",
+      "number": 2,
+      "name": "Ampharos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/2.png"
+    },
+    {
+      "id": "ecard1-3",
+      "number": 3,
+      "name": "Arbok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/3.png"
+    },
+    {
+      "id": "ecard1-4",
+      "number": 4,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/4.png"
+    },
+    {
+      "id": "ecard1-5",
+      "number": 5,
+      "name": "Butterfree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/5.png"
+    },
+    {
+      "id": "ecard1-6",
+      "number": 6,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/6.png"
+    },
+    {
+      "id": "ecard1-7",
+      "number": 7,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/7.png"
+    },
+    {
+      "id": "ecard1-8",
+      "number": 8,
+      "name": "Cloyster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/8.png"
+    },
+    {
+      "id": "ecard1-9",
+      "number": 9,
+      "name": "Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/9.png"
+    },
+    {
+      "id": "ecard1-10",
+      "number": 10,
+      "name": "Dugtrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/10.png"
+    },
+    {
+      "id": "ecard1-11",
+      "number": 11,
+      "name": "Fearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/11.png"
+    },
+    {
+      "id": "ecard1-12",
+      "number": 12,
+      "name": "Feraligatr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/12.png"
+    },
+    {
+      "id": "ecard1-13",
+      "number": 13,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/13.png"
+    },
+    {
+      "id": "ecard1-14",
+      "number": 14,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/14.png"
+    },
+    {
+      "id": "ecard1-15",
+      "number": 15,
+      "name": "Kingler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/15.png"
+    },
+    {
+      "id": "ecard1-16",
+      "number": 16,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/16.png"
+    },
+    {
+      "id": "ecard1-17",
+      "number": 17,
+      "name": "Magby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/17.png"
+    },
+    {
+      "id": "ecard1-18",
+      "number": 18,
+      "name": "Meganium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/18.png"
+    },
+    {
+      "id": "ecard1-19",
+      "number": 19,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/19.png"
+    },
+    {
+      "id": "ecard1-20",
+      "number": 20,
+      "name": "Mewtwo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/20.png"
+    },
+    {
+      "id": "ecard1-21",
+      "number": 21,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/21.png"
+    },
+    {
+      "id": "ecard1-22",
+      "number": 22,
+      "name": "Pichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/22.png"
+    },
+    {
+      "id": "ecard1-23",
+      "number": 23,
+      "name": "Pidgeot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/23.png"
+    },
+    {
+      "id": "ecard1-24",
+      "number": 24,
+      "name": "Poliwrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/24.png"
+    },
+    {
+      "id": "ecard1-25",
+      "number": 25,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/25.png"
+    },
+    {
+      "id": "ecard1-26",
+      "number": 26,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/26.png"
+    },
+    {
+      "id": "ecard1-27",
+      "number": 27,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/27.png"
+    },
+    {
+      "id": "ecard1-28",
+      "number": 28,
+      "name": "Typhlosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/28.png"
+    },
+    {
+      "id": "ecard1-29",
+      "number": 29,
+      "name": "Tyranitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/29.png"
+    },
+    {
+      "id": "ecard1-30",
+      "number": 30,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/30.png"
+    },
+    {
+      "id": "ecard1-31",
+      "number": 31,
+      "name": "Vileplume",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/31.png"
+    },
+    {
+      "id": "ecard1-32",
+      "number": 32,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/32.png"
+    },
+    {
+      "id": "ecard1-33",
+      "number": 33,
+      "name": "Alakazam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/33.png"
+    },
+    {
+      "id": "ecard1-34",
+      "number": 34,
+      "name": "Ampharos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/34.png"
+    },
+    {
+      "id": "ecard1-35",
+      "number": 35,
+      "name": "Arbok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/35.png"
+    },
+    {
+      "id": "ecard1-36",
+      "number": 36,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/36.png"
+    },
+    {
+      "id": "ecard1-37",
+      "number": 37,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/37.png"
+    },
+    {
+      "id": "ecard1-38",
+      "number": 38,
+      "name": "Butterfree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/38.png"
+    },
+    {
+      "id": "ecard1-39",
+      "number": 39,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/39.png"
+    },
+    {
+      "id": "ecard1-40",
+      "number": 40,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/40.png"
+    },
+    {
+      "id": "ecard1-41",
+      "number": 41,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/41.png"
+    },
+    {
+      "id": "ecard1-42",
+      "number": 42,
+      "name": "Cloyster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/42.png"
+    },
+    {
+      "id": "ecard1-43",
+      "number": 43,
+      "name": "Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/43.png"
+    },
+    {
+      "id": "ecard1-44",
+      "number": 44,
+      "name": "Dugtrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/44.png"
+    },
+    {
+      "id": "ecard1-45",
+      "number": 45,
+      "name": "Fearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/45.png"
+    },
+    {
+      "id": "ecard1-46",
+      "number": 46,
+      "name": "Feraligatr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/46.png"
+    },
+    {
+      "id": "ecard1-47",
+      "number": 47,
+      "name": "Feraligatr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/47.png"
+    },
+    {
+      "id": "ecard1-48",
+      "number": 48,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/48.png"
+    },
+    {
+      "id": "ecard1-49",
+      "number": 49,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/49.png"
+    },
+    {
+      "id": "ecard1-50",
+      "number": 50,
+      "name": "Kingler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/50.png"
+    },
+    {
+      "id": "ecard1-51",
+      "number": 51,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/51.png"
+    },
+    {
+      "id": "ecard1-52",
+      "number": 52,
+      "name": "Magby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/52.png"
+    },
+    {
+      "id": "ecard1-53",
+      "number": 53,
+      "name": "Meganium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/53.png"
+    },
+    {
+      "id": "ecard1-54",
+      "number": 54,
+      "name": "Meganium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/54.png"
+    },
+    {
+      "id": "ecard1-55",
+      "number": 55,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/55.png"
+    },
+    {
+      "id": "ecard1-56",
+      "number": 56,
+      "name": "Mewtwo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/56.png"
+    },
+    {
+      "id": "ecard1-57",
+      "number": 57,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/57.png"
+    },
+    {
+      "id": "ecard1-58",
+      "number": 58,
+      "name": "Pichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/58.png"
+    },
+    {
+      "id": "ecard1-59",
+      "number": 59,
+      "name": "Pidgeot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/59.png"
+    },
+    {
+      "id": "ecard1-60",
+      "number": 60,
+      "name": "Poliwrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/60.png"
+    },
+    {
+      "id": "ecard1-61",
+      "number": 61,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/61.png"
+    },
+    {
+      "id": "ecard1-62",
+      "number": 62,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/62.png"
+    },
+    {
+      "id": "ecard1-63",
+      "number": 63,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/63.png"
+    },
+    {
+      "id": "ecard1-64",
+      "number": 64,
+      "name": "Typhlosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/64.png"
+    },
+    {
+      "id": "ecard1-65",
+      "number": 65,
+      "name": "Typhlosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/65.png"
+    },
+    {
+      "id": "ecard1-66",
+      "number": 66,
+      "name": "Tyranitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/66.png"
+    },
+    {
+      "id": "ecard1-67",
+      "number": 67,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/67.png"
+    },
+    {
+      "id": "ecard1-68",
+      "number": 68,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/68.png"
+    },
+    {
+      "id": "ecard1-69",
+      "number": 69,
+      "name": "Vileplume",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/69.png"
+    },
+    {
+      "id": "ecard1-70",
+      "number": 70,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/70.png"
+    },
+    {
+      "id": "ecard1-71",
+      "number": 71,
+      "name": "Bayleef",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/71.png"
+    },
+    {
+      "id": "ecard1-72",
+      "number": 72,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/72.png"
+    },
+    {
+      "id": "ecard1-73",
+      "number": 73,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/73.png"
+    },
+    {
+      "id": "ecard1-74",
+      "number": 74,
+      "name": "Croconaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/74.png"
+    },
+    {
+      "id": "ecard1-75",
+      "number": 75,
+      "name": "Dragonair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/75.png"
+    },
+    {
+      "id": "ecard1-76",
+      "number": 76,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/76.png"
+    },
+    {
+      "id": "ecard1-77",
+      "number": 77,
+      "name": "Flaaffy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/77.png"
+    },
+    {
+      "id": "ecard1-78",
+      "number": 78,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/78.png"
+    },
+    {
+      "id": "ecard1-79",
+      "number": 79,
+      "name": "Graveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/79.png"
+    },
+    {
+      "id": "ecard1-80",
+      "number": 80,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/80.png"
+    },
+    {
+      "id": "ecard1-81",
+      "number": 81,
+      "name": "Hitmonlee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/81.png"
+    },
+    {
+      "id": "ecard1-82",
+      "number": 82,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/82.png"
+    },
+    {
+      "id": "ecard1-83",
+      "number": 83,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/83.png"
+    },
+    {
+      "id": "ecard1-84",
+      "number": 84,
+      "name": "Kadabra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/84.png"
+    },
+    {
+      "id": "ecard1-85",
+      "number": 85,
+      "name": "Machoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/85.png"
+    },
+    {
+      "id": "ecard1-86",
+      "number": 86,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/86.png"
+    },
+    {
+      "id": "ecard1-87",
+      "number": 87,
+      "name": "Metapod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/87.png"
+    },
+    {
+      "id": "ecard1-88",
+      "number": 88,
+      "name": "Pidgeotto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/88.png"
+    },
+    {
+      "id": "ecard1-89",
+      "number": 89,
+      "name": "Poliwhirl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/89.png"
+    },
+    {
+      "id": "ecard1-90",
+      "number": 90,
+      "name": "Pupitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/90.png"
+    },
+    {
+      "id": "ecard1-91",
+      "number": 91,
+      "name": "Quilava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/91.png"
+    },
+    {
+      "id": "ecard1-92",
+      "number": 92,
+      "name": "Wartortle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/92.png"
+    },
+    {
+      "id": "ecard1-93",
+      "number": 93,
+      "name": "Abra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/93.png"
+    },
+    {
+      "id": "ecard1-94",
+      "number": 94,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/94.png"
+    },
+    {
+      "id": "ecard1-95",
+      "number": 95,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/95.png"
+    },
+    {
+      "id": "ecard1-96",
+      "number": 96,
+      "name": "Caterpie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/96.png"
+    },
+    {
+      "id": "ecard1-97",
+      "number": 97,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/97.png"
+    },
+    {
+      "id": "ecard1-98",
+      "number": 98,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/98.png"
+    },
+    {
+      "id": "ecard1-99",
+      "number": 99,
+      "name": "Chikorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/99.png"
+    },
+    {
+      "id": "ecard1-100",
+      "number": 100,
+      "name": "Chikorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/100.png"
+    },
+    {
+      "id": "ecard1-101",
+      "number": 101,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/101.png"
+    },
+    {
+      "id": "ecard1-102",
+      "number": 102,
+      "name": "Corsola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/102.png"
+    },
+    {
+      "id": "ecard1-103",
+      "number": 103,
+      "name": "Cubone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/103.png"
+    },
+    {
+      "id": "ecard1-104",
+      "number": 104,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/104.png"
+    },
+    {
+      "id": "ecard1-105",
+      "number": 105,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/105.png"
+    },
+    {
+      "id": "ecard1-106",
+      "number": 106,
+      "name": "Diglett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/106.png"
+    },
+    {
+      "id": "ecard1-107",
+      "number": 107,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/107.png"
+    },
+    {
+      "id": "ecard1-108",
+      "number": 108,
+      "name": "Ekans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/108.png"
+    },
+    {
+      "id": "ecard1-109",
+      "number": 109,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/109.png"
+    },
+    {
+      "id": "ecard1-110",
+      "number": 110,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/110.png"
+    },
+    {
+      "id": "ecard1-111",
+      "number": 111,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/111.png"
+    },
+    {
+      "id": "ecard1-112",
+      "number": 112,
+      "name": "Hoppip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/112.png"
+    },
+    {
+      "id": "ecard1-113",
+      "number": 113,
+      "name": "Houndour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/113.png"
+    },
+    {
+      "id": "ecard1-114",
+      "number": 114,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/114.png"
+    },
+    {
+      "id": "ecard1-115",
+      "number": 115,
+      "name": "Krabby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/115.png"
+    },
+    {
+      "id": "ecard1-116",
+      "number": 116,
+      "name": "Larvitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/116.png"
+    },
+    {
+      "id": "ecard1-117",
+      "number": 117,
+      "name": "Machop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/117.png"
+    },
+    {
+      "id": "ecard1-118",
+      "number": 118,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/118.png"
+    },
+    {
+      "id": "ecard1-119",
+      "number": 119,
+      "name": "Mareep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/119.png"
+    },
+    {
+      "id": "ecard1-120",
+      "number": 120,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/120.png"
+    },
+    {
+      "id": "ecard1-121",
+      "number": 121,
+      "name": "Meowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/121.png"
+    },
+    {
+      "id": "ecard1-122",
+      "number": 122,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/122.png"
+    },
+    {
+      "id": "ecard1-123",
+      "number": 123,
+      "name": "Pidgey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/123.png"
+    },
+    {
+      "id": "ecard1-124",
+      "number": 124,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/124.png"
+    },
+    {
+      "id": "ecard1-125",
+      "number": 125,
+      "name": "Poliwag",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/125.png"
+    },
+    {
+      "id": "ecard1-126",
+      "number": 126,
+      "name": "Ponyta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/126.png"
+    },
+    {
+      "id": "ecard1-127",
+      "number": 127,
+      "name": "Qwilfish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/127.png"
+    },
+    {
+      "id": "ecard1-128",
+      "number": 128,
+      "name": "Rattata",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/128.png"
+    },
+    {
+      "id": "ecard1-129",
+      "number": 129,
+      "name": "Shellder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/129.png"
+    },
+    {
+      "id": "ecard1-130",
+      "number": 130,
+      "name": "Spearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/130.png"
+    },
+    {
+      "id": "ecard1-131",
+      "number": 131,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/131.png"
+    },
+    {
+      "id": "ecard1-132",
+      "number": 132,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/132.png"
+    },
+    {
+      "id": "ecard1-133",
+      "number": 133,
+      "name": "Tauros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/133.png"
+    },
+    {
+      "id": "ecard1-134",
+      "number": 134,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/134.png"
+    },
+    {
+      "id": "ecard1-135",
+      "number": 135,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/135.png"
+    },
+    {
+      "id": "ecard1-136",
+      "number": 136,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/136.png"
+    },
+    {
+      "id": "ecard1-137",
+      "number": 137,
+      "name": "Bill's Maintenance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/137.png"
+    },
+    {
+      "id": "ecard1-138",
+      "number": 138,
+      "name": "Copycat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/138.png"
+    },
+    {
+      "id": "ecard1-139",
+      "number": 139,
+      "name": "Dual Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/139.png"
+    },
+    {
+      "id": "ecard1-140",
+      "number": 140,
+      "name": "Energy Removal 2",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/140.png"
+    },
+    {
+      "id": "ecard1-141",
+      "number": 141,
+      "name": "Energy Restore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/141.png"
+    },
+    {
+      "id": "ecard1-142",
+      "number": 142,
+      "name": "Mary's Impulse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/142.png"
+    },
+    {
+      "id": "ecard1-143",
+      "number": 143,
+      "name": "Master Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/143.png"
+    },
+    {
+      "id": "ecard1-144",
+      "number": 144,
+      "name": "Multi Technical Machine 01",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/144.png"
+    },
+    {
+      "id": "ecard1-145",
+      "number": 145,
+      "name": "Pokémon Nurse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/145.png"
+    },
+    {
+      "id": "ecard1-146",
+      "number": 146,
+      "name": "Pokémon Reversal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/146.png"
+    },
+    {
+      "id": "ecard1-147",
+      "number": 147,
+      "name": "Power Charge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/147.png"
+    },
+    {
+      "id": "ecard1-148",
+      "number": 148,
+      "name": "Professor Elm's Training Method",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/148.png"
+    },
+    {
+      "id": "ecard1-149",
+      "number": 149,
+      "name": "Professor Oak's Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/149.png"
+    },
+    {
+      "id": "ecard1-150",
+      "number": 150,
+      "name": "Strength Charm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/150.png"
+    },
+    {
+      "id": "ecard1-151",
+      "number": 151,
+      "name": "Super Scoop Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/151.png"
+    },
+    {
+      "id": "ecard1-152",
+      "number": 152,
+      "name": "Warp Point",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/152.png"
+    },
+    {
+      "id": "ecard1-153",
+      "number": 153,
+      "name": "Energy Search",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/153.png"
+    },
+    {
+      "id": "ecard1-154",
+      "number": 154,
+      "name": "Full Heal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/154.png"
+    },
+    {
+      "id": "ecard1-155",
+      "number": 155,
+      "name": "Moo-Moo Milk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/155.png"
+    },
+    {
+      "id": "ecard1-156",
+      "number": 156,
+      "name": "Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/156.png"
+    },
+    {
+      "id": "ecard1-157",
+      "number": 157,
+      "name": "Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/157.png"
+    },
+    {
+      "id": "ecard1-158",
+      "number": 158,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/158.png"
+    },
+    {
+      "id": "ecard1-159",
+      "number": 159,
+      "name": "Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/159.png"
+    },
+    {
+      "id": "ecard1-160",
+      "number": 160,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/160.png"
+    },
+    {
+      "id": "ecard1-161",
+      "number": 161,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/161.png"
+    },
+    {
+      "id": "ecard1-162",
+      "number": 162,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/162.png"
+    },
+    {
+      "id": "ecard1-163",
+      "number": 163,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/163.png"
+    },
+    {
+      "id": "ecard1-164",
+      "number": 164,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/164.png"
+    },
+    {
+      "id": "ecard1-165",
+      "number": 165,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Expedition%20Base%20Set/images/165.png"
+    }
+  ]
+}

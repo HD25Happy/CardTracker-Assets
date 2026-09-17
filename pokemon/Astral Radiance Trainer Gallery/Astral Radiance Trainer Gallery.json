@@ -1,6 +1,188 @@
 ﻿{
   "game": "Pokemon",
   "setName": "Astral Radiance Trainer Gallery",
-  "totalCards": 0,
-  "cards": []
+  "totalCards": 30,
+  "availableImages": 30,
+  "cards": [
+    {
+      "id": "swsh10tg-TG01",
+      "number": 0,
+      "name": "Abomasnow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG01.png"
+    },
+    {
+      "id": "swsh10tg-TG02",
+      "number": 0,
+      "name": "Flapple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG02.png"
+    },
+    {
+      "id": "swsh10tg-TG03",
+      "number": 0,
+      "name": "Kingdra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG03.png"
+    },
+    {
+      "id": "swsh10tg-TG04",
+      "number": 0,
+      "name": "Frosmoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG04.png"
+    },
+    {
+      "id": "swsh10tg-TG05",
+      "number": 0,
+      "name": "Gardevoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG05.png"
+    },
+    {
+      "id": "swsh10tg-TG06",
+      "number": 0,
+      "name": "Wyrdeer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG06.png"
+    },
+    {
+      "id": "swsh10tg-TG07",
+      "number": 0,
+      "name": "Falinks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG07.png"
+    },
+    {
+      "id": "swsh10tg-TG08",
+      "number": 0,
+      "name": "Kleavor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG08.png"
+    },
+    {
+      "id": "swsh10tg-TG09",
+      "number": 0,
+      "name": "Mightyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG09.png"
+    },
+    {
+      "id": "swsh10tg-TG10",
+      "number": 0,
+      "name": "Galarian Obstagoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG10.png"
+    },
+    {
+      "id": "swsh10tg-TG11",
+      "number": 0,
+      "name": "Bronzong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG11.png"
+    },
+    {
+      "id": "swsh10tg-TG12",
+      "number": 0,
+      "name": "Hoothoot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG12.png"
+    },
+    {
+      "id": "swsh10tg-TG13",
+      "number": 0,
+      "name": "Starmie V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG13.png"
+    },
+    {
+      "id": "swsh10tg-TG14",
+      "number": 0,
+      "name": "Ice Rider Calyrex V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG14.png"
+    },
+    {
+      "id": "swsh10tg-TG15",
+      "number": 0,
+      "name": "Ice Rider Calyrex VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG15.png"
+    },
+    {
+      "id": "swsh10tg-TG16",
+      "number": 0,
+      "name": "Galarian Articuno V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG16.png"
+    },
+    {
+      "id": "swsh10tg-TG17",
+      "number": 0,
+      "name": "Shadow Rider Calyrex V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG17.png"
+    },
+    {
+      "id": "swsh10tg-TG18",
+      "number": 0,
+      "name": "Shadow Rider Calyrex VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG18.png"
+    },
+    {
+      "id": "swsh10tg-TG19",
+      "number": 0,
+      "name": "Galarian Zapdos V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG19.png"
+    },
+    {
+      "id": "swsh10tg-TG20",
+      "number": 0,
+      "name": "Galarian Moltres V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG20.png"
+    },
+    {
+      "id": "swsh10tg-TG21",
+      "number": 0,
+      "name": "Zacian V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG21.png"
+    },
+    {
+      "id": "swsh10tg-TG22",
+      "number": 0,
+      "name": "Zamazenta V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG22.png"
+    },
+    {
+      "id": "swsh10tg-TG23",
+      "number": 0,
+      "name": "Garchomp V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG23.png"
+    },
+    {
+      "id": "swsh10tg-TG24",
+      "number": 0,
+      "name": "Allister",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG24.png"
+    },
+    {
+      "id": "swsh10tg-TG25",
+      "number": 0,
+      "name": "Bea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG25.png"
+    },
+    {
+      "id": "swsh10tg-TG26",
+      "number": 0,
+      "name": "Melony",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG26.png"
+    },
+    {
+      "id": "swsh10tg-TG27",
+      "number": 0,
+      "name": "Milo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG27.png"
+    },
+    {
+      "id": "swsh10tg-TG28",
+      "number": 0,
+      "name": "Piers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG28.png"
+    },
+    {
+      "id": "swsh10tg-TG29",
+      "number": 0,
+      "name": "Ice Rider Calyrex VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG29.png"
+    },
+    {
+      "id": "swsh10tg-TG30",
+      "number": 0,
+      "name": "Shadow Rider Calyrex VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Astral%20Radiance%20Trainer%20Gallery/images/TG30.png"
+    }
+  ]
 }

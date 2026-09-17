@@ -1,0 +1,655 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Deoxys",
+  "totalCards": 108,
+  "cards": [
+    {
+      "id": "ex8-1",
+      "number": 1,
+      "name": "Altaria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/1.png"
+    },
+    {
+      "id": "ex8-2",
+      "number": 2,
+      "name": "Beautifly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/2.png"
+    },
+    {
+      "id": "ex8-3",
+      "number": 3,
+      "name": "Breloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/3.png"
+    },
+    {
+      "id": "ex8-4",
+      "number": 4,
+      "name": "Camerupt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/4.png"
+    },
+    {
+      "id": "ex8-5",
+      "number": 5,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/5.png"
+    },
+    {
+      "id": "ex8-6",
+      "number": 6,
+      "name": "Crawdaunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/6.png"
+    },
+    {
+      "id": "ex8-7",
+      "number": 7,
+      "name": "Dusclops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/7.png"
+    },
+    {
+      "id": "ex8-8",
+      "number": 8,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/8.png"
+    },
+    {
+      "id": "ex8-9",
+      "number": 9,
+      "name": "Jirachi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/9.png"
+    },
+    {
+      "id": "ex8-10",
+      "number": 10,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/10.png"
+    },
+    {
+      "id": "ex8-11",
+      "number": 11,
+      "name": "Metagross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/11.png"
+    },
+    {
+      "id": "ex8-12",
+      "number": 12,
+      "name": "Mightyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/12.png"
+    },
+    {
+      "id": "ex8-13",
+      "number": 13,
+      "name": "Ninjask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/13.png"
+    },
+    {
+      "id": "ex8-14",
+      "number": 14,
+      "name": "Shedinja",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/14.png"
+    },
+    {
+      "id": "ex8-15",
+      "number": 15,
+      "name": "Slaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/15.png"
+    },
+    {
+      "id": "ex8-16",
+      "number": 16,
+      "name": "Deoxys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/16.png"
+    },
+    {
+      "id": "ex8-17",
+      "number": 17,
+      "name": "Deoxys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/17.png"
+    },
+    {
+      "id": "ex8-18",
+      "number": 18,
+      "name": "Deoxys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/18.png"
+    },
+    {
+      "id": "ex8-19",
+      "number": 19,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/19.png"
+    },
+    {
+      "id": "ex8-20",
+      "number": 20,
+      "name": "Magcargo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/20.png"
+    },
+    {
+      "id": "ex8-21",
+      "number": 21,
+      "name": "Pelipper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/21.png"
+    },
+    {
+      "id": "ex8-22",
+      "number": 22,
+      "name": "Rayquaza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/22.png"
+    },
+    {
+      "id": "ex8-23",
+      "number": 23,
+      "name": "Sableye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/23.png"
+    },
+    {
+      "id": "ex8-24",
+      "number": 24,
+      "name": "Seaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/24.png"
+    },
+    {
+      "id": "ex8-25",
+      "number": 25,
+      "name": "Shiftry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/25.png"
+    },
+    {
+      "id": "ex8-26",
+      "number": 26,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/26.png"
+    },
+    {
+      "id": "ex8-27",
+      "number": 27,
+      "name": "Tropius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/27.png"
+    },
+    {
+      "id": "ex8-28",
+      "number": 28,
+      "name": "Whiscash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/28.png"
+    },
+    {
+      "id": "ex8-29",
+      "number": 29,
+      "name": "Xatu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/29.png"
+    },
+    {
+      "id": "ex8-30",
+      "number": 30,
+      "name": "Donphan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/30.png"
+    },
+    {
+      "id": "ex8-31",
+      "number": 31,
+      "name": "Golbat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/31.png"
+    },
+    {
+      "id": "ex8-32",
+      "number": 32,
+      "name": "Grumpig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/32.png"
+    },
+    {
+      "id": "ex8-33",
+      "number": 33,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/33.png"
+    },
+    {
+      "id": "ex8-34",
+      "number": 34,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/34.png"
+    },
+    {
+      "id": "ex8-35",
+      "number": 35,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/35.png"
+    },
+    {
+      "id": "ex8-36",
+      "number": 36,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/36.png"
+    },
+    {
+      "id": "ex8-37",
+      "number": 37,
+      "name": "Magcargo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/37.png"
+    },
+    {
+      "id": "ex8-38",
+      "number": 38,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/38.png"
+    },
+    {
+      "id": "ex8-39",
+      "number": 39,
+      "name": "Masquerain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/39.png"
+    },
+    {
+      "id": "ex8-40",
+      "number": 40,
+      "name": "Metang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/40.png"
+    },
+    {
+      "id": "ex8-41",
+      "number": 41,
+      "name": "Minun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/41.png"
+    },
+    {
+      "id": "ex8-42",
+      "number": 42,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/42.png"
+    },
+    {
+      "id": "ex8-43",
+      "number": 43,
+      "name": "Nuzleaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/43.png"
+    },
+    {
+      "id": "ex8-44",
+      "number": 44,
+      "name": "Plusle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/44.png"
+    },
+    {
+      "id": "ex8-45",
+      "number": 45,
+      "name": "Shelgon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/45.png"
+    },
+    {
+      "id": "ex8-46",
+      "number": 46,
+      "name": "Silcoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/46.png"
+    },
+    {
+      "id": "ex8-47",
+      "number": 47,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/47.png"
+    },
+    {
+      "id": "ex8-48",
+      "number": 48,
+      "name": "Starmie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/48.png"
+    },
+    {
+      "id": "ex8-49",
+      "number": 49,
+      "name": "Swellow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/49.png"
+    },
+    {
+      "id": "ex8-50",
+      "number": 50,
+      "name": "Vigoroth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/50.png"
+    },
+    {
+      "id": "ex8-51",
+      "number": 51,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/51.png"
+    },
+    {
+      "id": "ex8-52",
+      "number": 52,
+      "name": "Bagon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/52.png"
+    },
+    {
+      "id": "ex8-53",
+      "number": 53,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/53.png"
+    },
+    {
+      "id": "ex8-54",
+      "number": 54,
+      "name": "Barboach",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/54.png"
+    },
+    {
+      "id": "ex8-55",
+      "number": 55,
+      "name": "Beldum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/55.png"
+    },
+    {
+      "id": "ex8-56",
+      "number": 56,
+      "name": "Carvanha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/56.png"
+    },
+    {
+      "id": "ex8-57",
+      "number": 57,
+      "name": "Corphish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/57.png"
+    },
+    {
+      "id": "ex8-58",
+      "number": 58,
+      "name": "Duskull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/58.png"
+    },
+    {
+      "id": "ex8-59",
+      "number": 59,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/59.png"
+    },
+    {
+      "id": "ex8-60",
+      "number": 60,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/60.png"
+    },
+    {
+      "id": "ex8-61",
+      "number": 61,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/61.png"
+    },
+    {
+      "id": "ex8-62",
+      "number": 62,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/62.png"
+    },
+    {
+      "id": "ex8-63",
+      "number": 63,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/63.png"
+    },
+    {
+      "id": "ex8-64",
+      "number": 64,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/64.png"
+    },
+    {
+      "id": "ex8-65",
+      "number": 65,
+      "name": "Makuhita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/65.png"
+    },
+    {
+      "id": "ex8-66",
+      "number": 66,
+      "name": "Natu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/66.png"
+    },
+    {
+      "id": "ex8-67",
+      "number": 67,
+      "name": "Nincada",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/67.png"
+    },
+    {
+      "id": "ex8-68",
+      "number": 68,
+      "name": "Numel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/68.png"
+    },
+    {
+      "id": "ex8-69",
+      "number": 69,
+      "name": "Phanpy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/69.png"
+    },
+    {
+      "id": "ex8-70",
+      "number": 70,
+      "name": "Poochyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/70.png"
+    },
+    {
+      "id": "ex8-71",
+      "number": 71,
+      "name": "Seedot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/71.png"
+    },
+    {
+      "id": "ex8-72",
+      "number": 72,
+      "name": "Shroomish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/72.png"
+    },
+    {
+      "id": "ex8-73",
+      "number": 73,
+      "name": "Slakoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/73.png"
+    },
+    {
+      "id": "ex8-74",
+      "number": 74,
+      "name": "Slugma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/74.png"
+    },
+    {
+      "id": "ex8-75",
+      "number": 75,
+      "name": "Slugma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/75.png"
+    },
+    {
+      "id": "ex8-76",
+      "number": 76,
+      "name": "Spoink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/76.png"
+    },
+    {
+      "id": "ex8-77",
+      "number": 77,
+      "name": "Staryu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/77.png"
+    },
+    {
+      "id": "ex8-78",
+      "number": 78,
+      "name": "Surskit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/78.png"
+    },
+    {
+      "id": "ex8-79",
+      "number": 79,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/79.png"
+    },
+    {
+      "id": "ex8-80",
+      "number": 80,
+      "name": "Taillow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/80.png"
+    },
+    {
+      "id": "ex8-81",
+      "number": 81,
+      "name": "Wingull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/81.png"
+    },
+    {
+      "id": "ex8-82",
+      "number": 82,
+      "name": "Wurmple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/82.png"
+    },
+    {
+      "id": "ex8-83",
+      "number": 83,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/83.png"
+    },
+    {
+      "id": "ex8-84",
+      "number": 84,
+      "name": "Balloon Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/84.png"
+    },
+    {
+      "id": "ex8-85",
+      "number": 85,
+      "name": "Crystal Shard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/85.png"
+    },
+    {
+      "id": "ex8-86",
+      "number": 86,
+      "name": "Energy Charge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/86.png"
+    },
+    {
+      "id": "ex8-87",
+      "number": 87,
+      "name": "Lady Outing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/87.png"
+    },
+    {
+      "id": "ex8-88",
+      "number": 88,
+      "name": "Master Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/88.png"
+    },
+    {
+      "id": "ex8-89",
+      "number": 89,
+      "name": "Meteor Falls",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/89.png"
+    },
+    {
+      "id": "ex8-90",
+      "number": 90,
+      "name": "Professor Cozmo's Discovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/90.png"
+    },
+    {
+      "id": "ex8-91",
+      "number": 91,
+      "name": "Space Center",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/91.png"
+    },
+    {
+      "id": "ex8-92",
+      "number": 92,
+      "name": "Strength Charm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/92.png"
+    },
+    {
+      "id": "ex8-93",
+      "number": 93,
+      "name": "Boost Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/93.png"
+    },
+    {
+      "id": "ex8-94",
+      "number": 94,
+      "name": "Heal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/94.png"
+    },
+    {
+      "id": "ex8-95",
+      "number": 95,
+      "name": "Scramble Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/95.png"
+    },
+    {
+      "id": "ex8-96",
+      "number": 96,
+      "name": "Crobat ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/96.png"
+    },
+    {
+      "id": "ex8-97",
+      "number": 97,
+      "name": "Deoxys ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/97.png"
+    },
+    {
+      "id": "ex8-98",
+      "number": 98,
+      "name": "Deoxys ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/98.png"
+    },
+    {
+      "id": "ex8-99",
+      "number": 99,
+      "name": "Deoxys ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/99.png"
+    },
+    {
+      "id": "ex8-100",
+      "number": 100,
+      "name": "Hariyama ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/100.png"
+    },
+    {
+      "id": "ex8-101",
+      "number": 101,
+      "name": "Manectric ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/101.png"
+    },
+    {
+      "id": "ex8-102",
+      "number": 102,
+      "name": "Rayquaza ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/102.png"
+    },
+    {
+      "id": "ex8-103",
+      "number": 103,
+      "name": "Salamence ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/103.png"
+    },
+    {
+      "id": "ex8-104",
+      "number": 104,
+      "name": "Sharpedo ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/104.png"
+    },
+    {
+      "id": "ex8-105",
+      "number": 105,
+      "name": "Latias ☆",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/105.png"
+    },
+    {
+      "id": "ex8-106",
+      "number": 106,
+      "name": "Latios ☆",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/106.png"
+    },
+    {
+      "id": "ex8-107",
+      "number": 107,
+      "name": "Rayquaza ☆",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/107.png"
+    },
+    {
+      "id": "ex8-108",
+      "number": 108,
+      "name": "Rocket's Raikou ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Deoxys/images/108.png"
+    }
+  ]
+}

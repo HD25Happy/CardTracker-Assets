@@ -1,0 +1,626 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Crimson Blaze",
+  "totalCards": 103,
+  "availableImages": 103,
+  "cards": [
+    {
+      "id": "B1a-001",
+      "number": 1,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/001.png"
+    },
+    {
+      "id": "B1a-002",
+      "number": 2,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/002.png"
+    },
+    {
+      "id": "B1a-003",
+      "number": 3,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/003.png"
+    },
+    {
+      "id": "B1a-004",
+      "number": 4,
+      "name": "Mega Venusaur ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/004.png"
+    },
+    {
+      "id": "B1a-005",
+      "number": 5,
+      "name": "Spinarak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/005.png"
+    },
+    {
+      "id": "B1a-006",
+      "number": 6,
+      "name": "Ariados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/006.png"
+    },
+    {
+      "id": "B1a-007",
+      "number": 7,
+      "name": "Sunkern",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/007.png"
+    },
+    {
+      "id": "B1a-008",
+      "number": 8,
+      "name": "Sunflora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/008.png"
+    },
+    {
+      "id": "B1a-009",
+      "number": 9,
+      "name": "Burmy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/009.png"
+    },
+    {
+      "id": "B1a-010",
+      "number": 10,
+      "name": "Mothim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/010.png"
+    },
+    {
+      "id": "B1a-011",
+      "number": 11,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/011.png"
+    },
+    {
+      "id": "B1a-012",
+      "number": 12,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/012.png"
+    },
+    {
+      "id": "B1a-013",
+      "number": 13,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/013.png"
+    },
+    {
+      "id": "B1a-014",
+      "number": 14,
+      "name": "Mega Charizard Y ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/014.png"
+    },
+    {
+      "id": "B1a-015",
+      "number": 15,
+      "name": "Houndour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/015.png"
+    },
+    {
+      "id": "B1a-016",
+      "number": 16,
+      "name": "Houndoom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/016.png"
+    },
+    {
+      "id": "B1a-017",
+      "number": 17,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/017.png"
+    },
+    {
+      "id": "B1a-018",
+      "number": 18,
+      "name": "Wartortle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/018.png"
+    },
+    {
+      "id": "B1a-019",
+      "number": 19,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/019.png"
+    },
+    {
+      "id": "B1a-020",
+      "number": 20,
+      "name": "Mega Blastoise ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/020.png"
+    },
+    {
+      "id": "B1a-021",
+      "number": 21,
+      "name": "Basculin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/021.png"
+    },
+    {
+      "id": "B1a-022",
+      "number": 22,
+      "name": "Clauncher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/022.png"
+    },
+    {
+      "id": "B1a-023",
+      "number": 23,
+      "name": "Clawitzer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/023.png"
+    },
+    {
+      "id": "B1a-024",
+      "number": 24,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/024.png"
+    },
+    {
+      "id": "B1a-025",
+      "number": 25,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/025.png"
+    },
+    {
+      "id": "B1a-026",
+      "number": 26,
+      "name": "Magnezone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/026.png"
+    },
+    {
+      "id": "B1a-027",
+      "number": 27,
+      "name": "Emolga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/027.png"
+    },
+    {
+      "id": "B1a-028",
+      "number": 28,
+      "name": "Helioptile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/028.png"
+    },
+    {
+      "id": "B1a-029",
+      "number": 29,
+      "name": "Heliolisk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/029.png"
+    },
+    {
+      "id": "B1a-030",
+      "number": 30,
+      "name": "Misdreavus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/030.png"
+    },
+    {
+      "id": "B1a-031",
+      "number": 31,
+      "name": "Mismagius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/031.png"
+    },
+    {
+      "id": "B1a-032",
+      "number": 32,
+      "name": "Solosis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/032.png"
+    },
+    {
+      "id": "B1a-033",
+      "number": 33,
+      "name": "Duosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/033.png"
+    },
+    {
+      "id": "B1a-034",
+      "number": 34,
+      "name": "Reuniclus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/034.png"
+    },
+    {
+      "id": "B1a-035",
+      "number": 35,
+      "name": "Spritzee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/035.png"
+    },
+    {
+      "id": "B1a-036",
+      "number": 36,
+      "name": "Aromatisse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/036.png"
+    },
+    {
+      "id": "B1a-037",
+      "number": 37,
+      "name": "Xerneas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/037.png"
+    },
+    {
+      "id": "B1a-038",
+      "number": 38,
+      "name": "Onix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/038.png"
+    },
+    {
+      "id": "B1a-039",
+      "number": 39,
+      "name": "Makuhita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/039.png"
+    },
+    {
+      "id": "B1a-040",
+      "number": 40,
+      "name": "Hariyama",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/040.png"
+    },
+    {
+      "id": "B1a-041",
+      "number": 41,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/041.png"
+    },
+    {
+      "id": "B1a-042",
+      "number": 42,
+      "name": "Mega Lopunny ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/042.png"
+    },
+    {
+      "id": "B1a-043",
+      "number": 43,
+      "name": "Mienfoo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/043.png"
+    },
+    {
+      "id": "B1a-044",
+      "number": 44,
+      "name": "Mienshao",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/044.png"
+    },
+    {
+      "id": "B1a-045",
+      "number": 45,
+      "name": "Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/045.png"
+    },
+    {
+      "id": "B1a-046",
+      "number": 46,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/046.png"
+    },
+    {
+      "id": "B1a-047",
+      "number": 47,
+      "name": "Purrloin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/047.png"
+    },
+    {
+      "id": "B1a-048",
+      "number": 48,
+      "name": "Liepard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/048.png"
+    },
+    {
+      "id": "B1a-049",
+      "number": 49,
+      "name": "Trubbish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/049.png"
+    },
+    {
+      "id": "B1a-050",
+      "number": 50,
+      "name": "Garbodor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/050.png"
+    },
+    {
+      "id": "B1a-051",
+      "number": 51,
+      "name": "Steelix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/051.png"
+    },
+    {
+      "id": "B1a-052",
+      "number": 52,
+      "name": "Mega Steelix ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/052.png"
+    },
+    {
+      "id": "B1a-053",
+      "number": 53,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/053.png"
+    },
+    {
+      "id": "B1a-054",
+      "number": 54,
+      "name": "Genesect",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/054.png"
+    },
+    {
+      "id": "B1a-055",
+      "number": 55,
+      "name": "Ditto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/055.png"
+    },
+    {
+      "id": "B1a-056",
+      "number": 56,
+      "name": "Porygon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/056.png"
+    },
+    {
+      "id": "B1a-057",
+      "number": 57,
+      "name": "Porygon2",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/057.png"
+    },
+    {
+      "id": "B1a-058",
+      "number": 58,
+      "name": "Porygon-Z",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/058.png"
+    },
+    {
+      "id": "B1a-059",
+      "number": 59,
+      "name": "Starly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/059.png"
+    },
+    {
+      "id": "B1a-060",
+      "number": 60,
+      "name": "Staravia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/060.png"
+    },
+    {
+      "id": "B1a-061",
+      "number": 61,
+      "name": "Staraptor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/061.png"
+    },
+    {
+      "id": "B1a-062",
+      "number": 62,
+      "name": "Buneary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/062.png"
+    },
+    {
+      "id": "B1a-063",
+      "number": 63,
+      "name": "Lopunny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/063.png"
+    },
+    {
+      "id": "B1a-064",
+      "number": 64,
+      "name": "Bouffalant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/064.png"
+    },
+    {
+      "id": "B1a-065",
+      "number": 65,
+      "name": "Furfrou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/065.png"
+    },
+    {
+      "id": "B1a-066",
+      "number": 66,
+      "name": "Clemont's Backpack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/066.png"
+    },
+    {
+      "id": "B1a-067",
+      "number": 67,
+      "name": "Quick-Grow Extract",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/067.png"
+    },
+    {
+      "id": "B1a-068",
+      "number": 68,
+      "name": "Clemont",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/068.png"
+    },
+    {
+      "id": "B1a-069",
+      "number": 69,
+      "name": "Serena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/069.png"
+    },
+    {
+      "id": "B1a-070",
+      "number": 70,
+      "name": "Ariados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/070.png"
+    },
+    {
+      "id": "B1a-071",
+      "number": 71,
+      "name": "Sunflora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/071.png"
+    },
+    {
+      "id": "B1a-072",
+      "number": 72,
+      "name": "Reuniclus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/072.png"
+    },
+    {
+      "id": "B1a-073",
+      "number": 73,
+      "name": "Xerneas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/073.png"
+    },
+    {
+      "id": "B1a-074",
+      "number": 74,
+      "name": "Trubbish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/074.png"
+    },
+    {
+      "id": "B1a-075",
+      "number": 75,
+      "name": "Buneary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/075.png"
+    },
+    {
+      "id": "B1a-076",
+      "number": 76,
+      "name": "Mega Venusaur ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/076.png"
+    },
+    {
+      "id": "B1a-077",
+      "number": 77,
+      "name": "Mega Charizard Y ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/077.png"
+    },
+    {
+      "id": "B1a-078",
+      "number": 78,
+      "name": "Mega Blastoise ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/078.png"
+    },
+    {
+      "id": "B1a-079",
+      "number": 79,
+      "name": "Mega Lopunny ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/079.png"
+    },
+    {
+      "id": "B1a-080",
+      "number": 80,
+      "name": "Mega Steelix ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/080.png"
+    },
+    {
+      "id": "B1a-081",
+      "number": 81,
+      "name": "Clemont",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/081.png"
+    },
+    {
+      "id": "B1a-082",
+      "number": 82,
+      "name": "Serena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/082.png"
+    },
+    {
+      "id": "B1a-083",
+      "number": 83,
+      "name": "Mega Venusaur ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/083.png"
+    },
+    {
+      "id": "B1a-084",
+      "number": 84,
+      "name": "Mega Blastoise ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/084.png"
+    },
+    {
+      "id": "B1a-085",
+      "number": 85,
+      "name": "Mega Lopunny ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/085.png"
+    },
+    {
+      "id": "B1a-086",
+      "number": 86,
+      "name": "Mega Steelix ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/086.png"
+    },
+    {
+      "id": "B1a-087",
+      "number": 87,
+      "name": "Mega Charizard Y ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/087.png"
+    },
+    {
+      "id": "B1a-088",
+      "number": 88,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/088.png"
+    },
+    {
+      "id": "B1a-089",
+      "number": 89,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/089.png"
+    },
+    {
+      "id": "B1a-090",
+      "number": 90,
+      "name": "Vileplume",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/090.png"
+    },
+    {
+      "id": "B1a-091",
+      "number": 91,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/091.png"
+    },
+    {
+      "id": "B1a-092",
+      "number": 92,
+      "name": "Shellder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/092.png"
+    },
+    {
+      "id": "B1a-093",
+      "number": 93,
+      "name": "Cloyster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/093.png"
+    },
+    {
+      "id": "B1a-094",
+      "number": 94,
+      "name": "Sandshrew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/094.png"
+    },
+    {
+      "id": "B1a-095",
+      "number": 95,
+      "name": "Sandslash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/095.png"
+    },
+    {
+      "id": "B1a-096",
+      "number": 96,
+      "name": "Type: Null",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/096.png"
+    },
+    {
+      "id": "B1a-097",
+      "number": 97,
+      "name": "Silvally",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/097.png"
+    },
+    {
+      "id": "B1a-098",
+      "number": 98,
+      "name": "Buzzwole ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/098.png"
+    },
+    {
+      "id": "B1a-099",
+      "number": 99,
+      "name": "Lunala ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/099.png"
+    },
+    {
+      "id": "B1a-100",
+      "number": 100,
+      "name": "Guzzlord ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/100.png"
+    },
+    {
+      "id": "B1a-101",
+      "number": 101,
+      "name": "Solgaleo ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/101.png"
+    },
+    {
+      "id": "B1a-102",
+      "number": 102,
+      "name": "Aegislash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/102.png"
+    },
+    {
+      "id": "B1a-103",
+      "number": 103,
+      "name": "Quick-Grow Extract",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Crimson%20Blaze/images/103.png"
+    }
+  ]
+}

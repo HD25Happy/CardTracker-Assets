@@ -1,0 +1,673 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Dark Explorers",
+  "totalCards": 111,
+  "cards": [
+    {
+      "id": "bw5-1",
+      "number": 1,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/1.png"
+    },
+    {
+      "id": "bw5-2",
+      "number": 2,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/2.png"
+    },
+    {
+      "id": "bw5-3",
+      "number": 3,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/3.png"
+    },
+    {
+      "id": "bw5-4",
+      "number": 4,
+      "name": "Scyther",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/4.png"
+    },
+    {
+      "id": "bw5-5",
+      "number": 5,
+      "name": "Carnivine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/5.png"
+    },
+    {
+      "id": "bw5-6",
+      "number": 6,
+      "name": "Leafeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/6.png"
+    },
+    {
+      "id": "bw5-7",
+      "number": 7,
+      "name": "Dwebble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/7.png"
+    },
+    {
+      "id": "bw5-8",
+      "number": 8,
+      "name": "Crustle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/8.png"
+    },
+    {
+      "id": "bw5-9",
+      "number": 9,
+      "name": "Karrablast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/9.png"
+    },
+    {
+      "id": "bw5-10",
+      "number": 10,
+      "name": "Shelmet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/10.png"
+    },
+    {
+      "id": "bw5-11",
+      "number": 11,
+      "name": "Accelgor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/11.png"
+    },
+    {
+      "id": "bw5-12",
+      "number": 12,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/12.png"
+    },
+    {
+      "id": "bw5-13",
+      "number": 13,
+      "name": "Entei-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/13.png"
+    },
+    {
+      "id": "bw5-14",
+      "number": 14,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/14.png"
+    },
+    {
+      "id": "bw5-15",
+      "number": 15,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/15.png"
+    },
+    {
+      "id": "bw5-16",
+      "number": 16,
+      "name": "Combusken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/16.png"
+    },
+    {
+      "id": "bw5-17",
+      "number": 17,
+      "name": "Blaziken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/17.png"
+    },
+    {
+      "id": "bw5-18",
+      "number": 18,
+      "name": "Torkoal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/18.png"
+    },
+    {
+      "id": "bw5-19",
+      "number": 19,
+      "name": "Heatmor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/19.png"
+    },
+    {
+      "id": "bw5-20",
+      "number": 20,
+      "name": "Larvesta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/20.png"
+    },
+    {
+      "id": "bw5-21",
+      "number": 21,
+      "name": "Larvesta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/21.png"
+    },
+    {
+      "id": "bw5-22",
+      "number": 22,
+      "name": "Volcarona",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/22.png"
+    },
+    {
+      "id": "bw5-23",
+      "number": 23,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/23.png"
+    },
+    {
+      "id": "bw5-24",
+      "number": 24,
+      "name": "Slowbro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/24.png"
+    },
+    {
+      "id": "bw5-25",
+      "number": 25,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/25.png"
+    },
+    {
+      "id": "bw5-26",
+      "number": 26,
+      "name": "Kyogre-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/26.png"
+    },
+    {
+      "id": "bw5-27",
+      "number": 27,
+      "name": "Piplup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/27.png"
+    },
+    {
+      "id": "bw5-28",
+      "number": 28,
+      "name": "Prinplup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/28.png"
+    },
+    {
+      "id": "bw5-29",
+      "number": 29,
+      "name": "Empoleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/29.png"
+    },
+    {
+      "id": "bw5-30",
+      "number": 30,
+      "name": "Glaceon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/30.png"
+    },
+    {
+      "id": "bw5-31",
+      "number": 31,
+      "name": "Tympole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/31.png"
+    },
+    {
+      "id": "bw5-32",
+      "number": 32,
+      "name": "Palpitoad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/32.png"
+    },
+    {
+      "id": "bw5-33",
+      "number": 33,
+      "name": "Vanillite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/33.png"
+    },
+    {
+      "id": "bw5-34",
+      "number": 34,
+      "name": "Vanillish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/34.png"
+    },
+    {
+      "id": "bw5-35",
+      "number": 35,
+      "name": "Ducklett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/35.png"
+    },
+    {
+      "id": "bw5-36",
+      "number": 36,
+      "name": "Swanna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/36.png"
+    },
+    {
+      "id": "bw5-37",
+      "number": 37,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/37.png"
+    },
+    {
+      "id": "bw5-38",
+      "number": 38,
+      "name": "Raikou-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/38.png"
+    },
+    {
+      "id": "bw5-39",
+      "number": 39,
+      "name": "Plusle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/39.png"
+    },
+    {
+      "id": "bw5-40",
+      "number": 40,
+      "name": "Minun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/40.png"
+    },
+    {
+      "id": "bw5-41",
+      "number": 41,
+      "name": "Joltik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/41.png"
+    },
+    {
+      "id": "bw5-42",
+      "number": 42,
+      "name": "Joltik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/42.png"
+    },
+    {
+      "id": "bw5-43",
+      "number": 43,
+      "name": "Galvantula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/43.png"
+    },
+    {
+      "id": "bw5-44",
+      "number": 44,
+      "name": "Tynamo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/44.png"
+    },
+    {
+      "id": "bw5-45",
+      "number": 45,
+      "name": "Tynamo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/45.png"
+    },
+    {
+      "id": "bw5-46",
+      "number": 46,
+      "name": "Eelektrik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/46.png"
+    },
+    {
+      "id": "bw5-47",
+      "number": 47,
+      "name": "Eelektross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/47.png"
+    },
+    {
+      "id": "bw5-48",
+      "number": 48,
+      "name": "Espeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/48.png"
+    },
+    {
+      "id": "bw5-49",
+      "number": 49,
+      "name": "Slowking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/49.png"
+    },
+    {
+      "id": "bw5-50",
+      "number": 50,
+      "name": "Woobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/50.png"
+    },
+    {
+      "id": "bw5-51",
+      "number": 51,
+      "name": "Yamask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/51.png"
+    },
+    {
+      "id": "bw5-52",
+      "number": 52,
+      "name": "Cofagrigus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/52.png"
+    },
+    {
+      "id": "bw5-53",
+      "number": 53,
+      "name": "Aerodactyl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/53.png"
+    },
+    {
+      "id": "bw5-54",
+      "number": 54,
+      "name": "Groudon-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/54.png"
+    },
+    {
+      "id": "bw5-55",
+      "number": 55,
+      "name": "Drilbur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/55.png"
+    },
+    {
+      "id": "bw5-56",
+      "number": 56,
+      "name": "Excadrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/56.png"
+    },
+    {
+      "id": "bw5-57",
+      "number": 57,
+      "name": "Excadrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/57.png"
+    },
+    {
+      "id": "bw5-58",
+      "number": 58,
+      "name": "Timburr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/58.png"
+    },
+    {
+      "id": "bw5-59",
+      "number": 59,
+      "name": "Gurdurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/59.png"
+    },
+    {
+      "id": "bw5-60",
+      "number": 60,
+      "name": "Umbreon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/60.png"
+    },
+    {
+      "id": "bw5-61",
+      "number": 61,
+      "name": "Umbreon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/61.png"
+    },
+    {
+      "id": "bw5-62",
+      "number": 62,
+      "name": "Sableye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/62.png"
+    },
+    {
+      "id": "bw5-63",
+      "number": 63,
+      "name": "Darkrai-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/63.png"
+    },
+    {
+      "id": "bw5-64",
+      "number": 64,
+      "name": "Sandile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/64.png"
+    },
+    {
+      "id": "bw5-65",
+      "number": 65,
+      "name": "Krokorok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/65.png"
+    },
+    {
+      "id": "bw5-66",
+      "number": 66,
+      "name": "Krookodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/66.png"
+    },
+    {
+      "id": "bw5-67",
+      "number": 67,
+      "name": "Scraggy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/67.png"
+    },
+    {
+      "id": "bw5-68",
+      "number": 68,
+      "name": "Scrafty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/68.png"
+    },
+    {
+      "id": "bw5-69",
+      "number": 69,
+      "name": "Zorua",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/69.png"
+    },
+    {
+      "id": "bw5-70",
+      "number": 70,
+      "name": "Zorua",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/70.png"
+    },
+    {
+      "id": "bw5-71",
+      "number": 71,
+      "name": "Zoroark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/71.png"
+    },
+    {
+      "id": "bw5-72",
+      "number": 72,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/72.png"
+    },
+    {
+      "id": "bw5-73",
+      "number": 73,
+      "name": "Vullaby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/73.png"
+    },
+    {
+      "id": "bw5-74",
+      "number": 74,
+      "name": "Escavalier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/74.png"
+    },
+    {
+      "id": "bw5-75",
+      "number": 75,
+      "name": "Klink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/75.png"
+    },
+    {
+      "id": "bw5-76",
+      "number": 76,
+      "name": "Klang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/76.png"
+    },
+    {
+      "id": "bw5-77",
+      "number": 77,
+      "name": "Klinklang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/77.png"
+    },
+    {
+      "id": "bw5-78",
+      "number": 78,
+      "name": "Pawniard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/78.png"
+    },
+    {
+      "id": "bw5-79",
+      "number": 79,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/79.png"
+    },
+    {
+      "id": "bw5-80",
+      "number": 80,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/80.png"
+    },
+    {
+      "id": "bw5-81",
+      "number": 81,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/81.png"
+    },
+    {
+      "id": "bw5-82",
+      "number": 82,
+      "name": "Blissey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/82.png"
+    },
+    {
+      "id": "bw5-83",
+      "number": 83,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/83.png"
+    },
+    {
+      "id": "bw5-84",
+      "number": 84,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/84.png"
+    },
+    {
+      "id": "bw5-85",
+      "number": 85,
+      "name": "Chatot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/85.png"
+    },
+    {
+      "id": "bw5-86",
+      "number": 86,
+      "name": "Lillipup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/86.png"
+    },
+    {
+      "id": "bw5-87",
+      "number": 87,
+      "name": "Herdier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/87.png"
+    },
+    {
+      "id": "bw5-88",
+      "number": 88,
+      "name": "Stoutland",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/88.png"
+    },
+    {
+      "id": "bw5-89",
+      "number": 89,
+      "name": "Haxorus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/89.png"
+    },
+    {
+      "id": "bw5-90",
+      "number": 90,
+      "name": "Tornadus-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/90.png"
+    },
+    {
+      "id": "bw5-91",
+      "number": 91,
+      "name": "Cheren",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/91.png"
+    },
+    {
+      "id": "bw5-92",
+      "number": 92,
+      "name": "Dark Claw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/92.png"
+    },
+    {
+      "id": "bw5-93",
+      "number": 93,
+      "name": "Dark Patch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/93.png"
+    },
+    {
+      "id": "bw5-94",
+      "number": 94,
+      "name": "Enhanced Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/94.png"
+    },
+    {
+      "id": "bw5-95",
+      "number": 95,
+      "name": "Hooligans Jim & Cas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/95.png"
+    },
+    {
+      "id": "bw5-96",
+      "number": 96,
+      "name": "N",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/96.png"
+    },
+    {
+      "id": "bw5-97",
+      "number": 97,
+      "name": "Old Amber Aerodactyl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/97.png"
+    },
+    {
+      "id": "bw5-98",
+      "number": 98,
+      "name": "Professor Juniper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/98.png"
+    },
+    {
+      "id": "bw5-99",
+      "number": 99,
+      "name": "Random Receiver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/99.png"
+    },
+    {
+      "id": "bw5-100",
+      "number": 100,
+      "name": "Rare Candy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/100.png"
+    },
+    {
+      "id": "bw5-101",
+      "number": 101,
+      "name": "Twist Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/101.png"
+    },
+    {
+      "id": "bw5-102",
+      "number": 102,
+      "name": "Ultra Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/102.png"
+    },
+    {
+      "id": "bw5-103",
+      "number": 103,
+      "name": "Entei-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/103.png"
+    },
+    {
+      "id": "bw5-104",
+      "number": 104,
+      "name": "Kyogre-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/104.png"
+    },
+    {
+      "id": "bw5-105",
+      "number": 105,
+      "name": "Raikou-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/105.png"
+    },
+    {
+      "id": "bw5-106",
+      "number": 106,
+      "name": "Groudon-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/106.png"
+    },
+    {
+      "id": "bw5-107",
+      "number": 107,
+      "name": "Darkrai-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/107.png"
+    },
+    {
+      "id": "bw5-108",
+      "number": 108,
+      "name": "Tornadus-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/108.png"
+    },
+    {
+      "id": "bw5-109",
+      "number": 109,
+      "name": "Gardevoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/109.png"
+    },
+    {
+      "id": "bw5-110",
+      "number": 110,
+      "name": "Archeops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/110.png"
+    },
+    {
+      "id": "bw5-111",
+      "number": 111,
+      "name": "Pokémon Catcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dark%20Explorers/images/111.png"
+    }
+  ]
+}
