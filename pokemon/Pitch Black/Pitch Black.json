@@ -1,0 +1,728 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Pitch Black",
+  "totalCards": 120,
+  "availableImages": 120,
+  "cards": [
+    {
+      "id": "me05-001",
+      "number": 1,
+      "name": "Tropius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/001.png"
+    },
+    {
+      "id": "me05-002",
+      "number": 2,
+      "name": "Grubbin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/002.png"
+    },
+    {
+      "id": "me05-003",
+      "number": 3,
+      "name": "Fomantis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/003.png"
+    },
+    {
+      "id": "me05-004",
+      "number": 4,
+      "name": "Lurantis ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/004.png"
+    },
+    {
+      "id": "me05-005",
+      "number": 5,
+      "name": "Poltchageist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/005.png"
+    },
+    {
+      "id": "me05-006",
+      "number": 6,
+      "name": "Sinistcha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/006.png"
+    },
+    {
+      "id": "me05-007",
+      "number": 7,
+      "name": "Heatran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/007.png"
+    },
+    {
+      "id": "me05-008",
+      "number": 8,
+      "name": "Mega Delphox ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/008.png"
+    },
+    {
+      "id": "me05-009",
+      "number": 9,
+      "name": "Sizzlipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/009.png"
+    },
+    {
+      "id": "me05-010",
+      "number": 10,
+      "name": "Centiskorch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/010.png"
+    },
+    {
+      "id": "me05-011",
+      "number": 11,
+      "name": "Charcadet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/011.png"
+    },
+    {
+      "id": "me05-012",
+      "number": 12,
+      "name": "Armarouge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/012.png"
+    },
+    {
+      "id": "me05-013",
+      "number": 13,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/013.png"
+    },
+    {
+      "id": "me05-014",
+      "number": 14,
+      "name": "Seaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/014.png"
+    },
+    {
+      "id": "me05-015",
+      "number": 15,
+      "name": "Wailmer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/015.png"
+    },
+    {
+      "id": "me05-016",
+      "number": 16,
+      "name": "Wailord ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/016.png"
+    },
+    {
+      "id": "me05-017",
+      "number": 17,
+      "name": "Relicanth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/017.png"
+    },
+    {
+      "id": "me05-018",
+      "number": 18,
+      "name": "Popplio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/018.png"
+    },
+    {
+      "id": "me05-019",
+      "number": 19,
+      "name": "Brionne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/019.png"
+    },
+    {
+      "id": "me05-020",
+      "number": 20,
+      "name": "Primarina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/020.png"
+    },
+    {
+      "id": "me05-021",
+      "number": 21,
+      "name": "Finizen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/021.png"
+    },
+    {
+      "id": "me05-022",
+      "number": 22,
+      "name": "Palafin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/022.png"
+    },
+    {
+      "id": "me05-023",
+      "number": 23,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/023.png"
+    },
+    {
+      "id": "me05-024",
+      "number": 24,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/024.png"
+    },
+    {
+      "id": "me05-025",
+      "number": 25,
+      "name": "Charjabug",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/025.png"
+    },
+    {
+      "id": "me05-026",
+      "number": 26,
+      "name": "Vikavolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/026.png"
+    },
+    {
+      "id": "me05-027",
+      "number": 27,
+      "name": "Mega Zeraora ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/027.png"
+    },
+    {
+      "id": "me05-028",
+      "number": 28,
+      "name": "Miraidon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/028.png"
+    },
+    {
+      "id": "me05-029",
+      "number": 29,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/029.png"
+    },
+    {
+      "id": "me05-030",
+      "number": 30,
+      "name": "Slowbro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/030.png"
+    },
+    {
+      "id": "me05-031",
+      "number": 31,
+      "name": "Mega Slowbro ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/031.png"
+    },
+    {
+      "id": "me05-032",
+      "number": 32,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/032.png"
+    },
+    {
+      "id": "me05-033",
+      "number": 33,
+      "name": "Shuppet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/033.png"
+    },
+    {
+      "id": "me05-034",
+      "number": 34,
+      "name": "Banette",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/034.png"
+    },
+    {
+      "id": "me05-035",
+      "number": 35,
+      "name": "Spiritomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/035.png"
+    },
+    {
+      "id": "me05-036",
+      "number": 36,
+      "name": "Litwick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/036.png"
+    },
+    {
+      "id": "me05-037",
+      "number": 37,
+      "name": "Lampent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/037.png"
+    },
+    {
+      "id": "me05-038",
+      "number": 38,
+      "name": "Mega Chandelure ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/038.png"
+    },
+    {
+      "id": "me05-039",
+      "number": 39,
+      "name": "Dhelmise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/039.png"
+    },
+    {
+      "id": "me05-040",
+      "number": 40,
+      "name": "Marshadow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/040.png"
+    },
+    {
+      "id": "me05-041",
+      "number": 41,
+      "name": "Annihilape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/041.png"
+    },
+    {
+      "id": "me05-042",
+      "number": 42,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/042.png"
+    },
+    {
+      "id": "me05-043",
+      "number": 43,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/043.png"
+    },
+    {
+      "id": "me05-044",
+      "number": 44,
+      "name": "Cranidos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/044.png"
+    },
+    {
+      "id": "me05-045",
+      "number": 45,
+      "name": "Rampardos ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/045.png"
+    },
+    {
+      "id": "me05-046",
+      "number": 46,
+      "name": "Drilbur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/046.png"
+    },
+    {
+      "id": "me05-047",
+      "number": 47,
+      "name": "Koraidon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/047.png"
+    },
+    {
+      "id": "me05-048",
+      "number": 48,
+      "name": "Mega Darkrai ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/048.png"
+    },
+    {
+      "id": "me05-049",
+      "number": 49,
+      "name": "Vullaby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/049.png"
+    },
+    {
+      "id": "me05-050",
+      "number": 50,
+      "name": "Mandibuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/050.png"
+    },
+    {
+      "id": "me05-051",
+      "number": 51,
+      "name": "Inkay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/051.png"
+    },
+    {
+      "id": "me05-052",
+      "number": 52,
+      "name": "Malamar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/052.png"
+    },
+    {
+      "id": "me05-053",
+      "number": 53,
+      "name": "Nickit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/053.png"
+    },
+    {
+      "id": "me05-054",
+      "number": 54,
+      "name": "Thievul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/054.png"
+    },
+    {
+      "id": "me05-055",
+      "number": 55,
+      "name": "Morpeko ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/055.png"
+    },
+    {
+      "id": "me05-056",
+      "number": 56,
+      "name": "Zarude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/056.png"
+    },
+    {
+      "id": "me05-057",
+      "number": 57,
+      "name": "Maschiff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/057.png"
+    },
+    {
+      "id": "me05-058",
+      "number": 58,
+      "name": "Mabosstiff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/058.png"
+    },
+    {
+      "id": "me05-059",
+      "number": 59,
+      "name": "Chi-Yu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/059.png"
+    },
+    {
+      "id": "me05-060",
+      "number": 60,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/060.png"
+    },
+    {
+      "id": "me05-061",
+      "number": 61,
+      "name": "Shieldon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/061.png"
+    },
+    {
+      "id": "me05-062",
+      "number": 62,
+      "name": "Bastiodon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/062.png"
+    },
+    {
+      "id": "me05-063",
+      "number": 63,
+      "name": "Bronzor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/063.png"
+    },
+    {
+      "id": "me05-064",
+      "number": 64,
+      "name": "Bronzong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/064.png"
+    },
+    {
+      "id": "me05-065",
+      "number": 65,
+      "name": "Mega Excadrill ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/065.png"
+    },
+    {
+      "id": "me05-066",
+      "number": 66,
+      "name": "Pikipek",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/066.png"
+    },
+    {
+      "id": "me05-067",
+      "number": 67,
+      "name": "Trumbeak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/067.png"
+    },
+    {
+      "id": "me05-068",
+      "number": 68,
+      "name": "Toucannon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/068.png"
+    },
+    {
+      "id": "me05-069",
+      "number": 69,
+      "name": "Type: Null",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/069.png"
+    },
+    {
+      "id": "me05-070",
+      "number": 70,
+      "name": "Silvally",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/070.png"
+    },
+    {
+      "id": "me05-071",
+      "number": 71,
+      "name": "Bombirdier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/071.png"
+    },
+    {
+      "id": "me05-072",
+      "number": 72,
+      "name": "Antique Armor Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/072.png"
+    },
+    {
+      "id": "me05-073",
+      "number": 73,
+      "name": "Antique Skull Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/073.png"
+    },
+    {
+      "id": "me05-074",
+      "number": 74,
+      "name": "Backtrack Badge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/074.png"
+    },
+    {
+      "id": "me05-075",
+      "number": 75,
+      "name": "Dark Bell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/075.png"
+    },
+    {
+      "id": "me05-076",
+      "number": 76,
+      "name": "Fossil Quarry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/076.png"
+    },
+    {
+      "id": "me05-077",
+      "number": 77,
+      "name": "Gladion's Final Battle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/077.png"
+    },
+    {
+      "id": "me05-078",
+      "number": 78,
+      "name": "Gwynn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/078.png"
+    },
+    {
+      "id": "me05-079",
+      "number": 79,
+      "name": "Jett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/079.png"
+    },
+    {
+      "id": "me05-080",
+      "number": 80,
+      "name": "Misty's Vitality",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/080.png"
+    },
+    {
+      "id": "me05-081",
+      "number": 81,
+      "name": "Rust Syndicate Grunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/081.png"
+    },
+    {
+      "id": "me05-082",
+      "number": 82,
+      "name": "Tremendous Bomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/082.png"
+    },
+    {
+      "id": "me05-083",
+      "number": 83,
+      "name": "Shadowy Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/083.png"
+    },
+    {
+      "id": "me05-084",
+      "number": 84,
+      "name": "Voltaic Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/084.png"
+    },
+    {
+      "id": "me05-085",
+      "number": 85,
+      "name": "Fomantis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/085.png"
+    },
+    {
+      "id": "me05-086",
+      "number": 86,
+      "name": "Armarouge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/086.png"
+    },
+    {
+      "id": "me05-087",
+      "number": 87,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/087.png"
+    },
+    {
+      "id": "me05-088",
+      "number": 88,
+      "name": "Primarina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/088.png"
+    },
+    {
+      "id": "me05-089",
+      "number": 89,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/089.png"
+    },
+    {
+      "id": "me05-090",
+      "number": 90,
+      "name": "Slowbro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/090.png"
+    },
+    {
+      "id": "me05-091",
+      "number": 91,
+      "name": "Dhelmise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/091.png"
+    },
+    {
+      "id": "me05-092",
+      "number": 92,
+      "name": "Thievul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/092.png"
+    },
+    {
+      "id": "me05-093",
+      "number": 93,
+      "name": "Bastiodon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/093.png"
+    },
+    {
+      "id": "me05-094",
+      "number": 94,
+      "name": "Toucannon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/094.png"
+    },
+    {
+      "id": "me05-095",
+      "number": 95,
+      "name": "Silvally",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/095.png"
+    },
+    {
+      "id": "me05-096",
+      "number": 96,
+      "name": "Lurantis ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/096.png"
+    },
+    {
+      "id": "me05-097",
+      "number": 97,
+      "name": "Wailord ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/097.png"
+    },
+    {
+      "id": "me05-098",
+      "number": 98,
+      "name": "Mega Zeraora ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/098.png"
+    },
+    {
+      "id": "me05-099",
+      "number": 99,
+      "name": "Mega Chandelure ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/099.png"
+    },
+    {
+      "id": "me05-100",
+      "number": 100,
+      "name": "Rampardos ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/100.png"
+    },
+    {
+      "id": "me05-101",
+      "number": 101,
+      "name": "Mega Darkrai ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/101.png"
+    },
+    {
+      "id": "me05-102",
+      "number": 102,
+      "name": "Morpeko ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/102.png"
+    },
+    {
+      "id": "me05-103",
+      "number": 103,
+      "name": "Mega Excadrill ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/103.png"
+    },
+    {
+      "id": "me05-104",
+      "number": 104,
+      "name": "Brave Bangle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/104.png"
+    },
+    {
+      "id": "me05-105",
+      "number": 105,
+      "name": "Crushing Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/105.png"
+    },
+    {
+      "id": "me05-106",
+      "number": 106,
+      "name": "Dark Bell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/106.png"
+    },
+    {
+      "id": "me05-107",
+      "number": 107,
+      "name": "Energy Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/107.png"
+    },
+    {
+      "id": "me05-108",
+      "number": 108,
+      "name": "Gladion's Final Battle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/108.png"
+    },
+    {
+      "id": "me05-109",
+      "number": 109,
+      "name": "Gwynn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/109.png"
+    },
+    {
+      "id": "me05-110",
+      "number": 110,
+      "name": "Iron Defender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/110.png"
+    },
+    {
+      "id": "me05-111",
+      "number": 111,
+      "name": "Misty's Vitality",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/111.png"
+    },
+    {
+      "id": "me05-112",
+      "number": 112,
+      "name": "Rust Syndicate Grunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/112.png"
+    },
+    {
+      "id": "me05-113",
+      "number": 113,
+      "name": "Tremendous Bomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/113.png"
+    },
+    {
+      "id": "me05-114",
+      "number": 114,
+      "name": "Mega Zeraora ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/114.png"
+    },
+    {
+      "id": "me05-115",
+      "number": 115,
+      "name": "Mega Chandelure ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/115.png"
+    },
+    {
+      "id": "me05-116",
+      "number": 116,
+      "name": "Mega Darkrai ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/116.png"
+    },
+    {
+      "id": "me05-117",
+      "number": 117,
+      "name": "Morpeko ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/117.png"
+    },
+    {
+      "id": "me05-118",
+      "number": 118,
+      "name": "Gladion's Final Battle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/118.png"
+    },
+    {
+      "id": "me05-119",
+      "number": 119,
+      "name": "Gwynn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/119.png"
+    },
+    {
+      "id": "me05-120",
+      "number": 120,
+      "name": "Mega Darkrai ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Pitch%20Black/images/120.png"
+    }
+  ]
+}

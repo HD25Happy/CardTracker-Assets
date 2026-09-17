@@ -1,0 +1,56 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Mega Evolution Energy",
+  "totalCards": 8,
+  "availableImages": 8,
+  "cards": [
+    {
+      "id": "mee-001",
+      "number": 1,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/001.png"
+    },
+    {
+      "id": "mee-002",
+      "number": 2,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/002.png"
+    },
+    {
+      "id": "mee-003",
+      "number": 3,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/003.png"
+    },
+    {
+      "id": "mee-004",
+      "number": 4,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/004.png"
+    },
+    {
+      "id": "mee-005",
+      "number": 5,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/005.png"
+    },
+    {
+      "id": "mee-006",
+      "number": 6,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/006.png"
+    },
+    {
+      "id": "mee-007",
+      "number": 7,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/007.png"
+    },
+    {
+      "id": "mee-008",
+      "number": 8,
+      "name": "Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mega%20Evolution%20Energy/images/008.png"
+    }
+  ]
+}

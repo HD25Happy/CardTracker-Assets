@@ -1,6 +1,158 @@
 ﻿{
   "game": "Pokemon",
   "setName": "McDonald's Collection 2021",
-  "totalCards": 0,
-  "cards": []
+  "totalCards": 25,
+  "availableImages": 25,
+  "cards": [
+    {
+      "id": "2021swsh-1",
+      "number": 1,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/1.png"
+    },
+    {
+      "id": "2021swsh-2",
+      "number": 2,
+      "name": "Chikorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/2.png"
+    },
+    {
+      "id": "2021swsh-3",
+      "number": 3,
+      "name": "Treecko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/3.png"
+    },
+    {
+      "id": "2021swsh-4",
+      "number": 4,
+      "name": "Turtwig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/4.png"
+    },
+    {
+      "id": "2021swsh-5",
+      "number": 5,
+      "name": "Snivy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/5.png"
+    },
+    {
+      "id": "2021swsh-6",
+      "number": 6,
+      "name": "Chespin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/6.png"
+    },
+    {
+      "id": "2021swsh-7",
+      "number": 7,
+      "name": "Rowlet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/7.png"
+    },
+    {
+      "id": "2021swsh-8",
+      "number": 8,
+      "name": "Grookey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/8.png"
+    },
+    {
+      "id": "2021swsh-9",
+      "number": 9,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/9.png"
+    },
+    {
+      "id": "2021swsh-10",
+      "number": 10,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/10.png"
+    },
+    {
+      "id": "2021swsh-11",
+      "number": 11,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/11.png"
+    },
+    {
+      "id": "2021swsh-12",
+      "number": 12,
+      "name": "Chimchar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/12.png"
+    },
+    {
+      "id": "2021swsh-13",
+      "number": 13,
+      "name": "Tepig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/13.png"
+    },
+    {
+      "id": "2021swsh-14",
+      "number": 14,
+      "name": "Fennekin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/14.png"
+    },
+    {
+      "id": "2021swsh-15",
+      "number": 15,
+      "name": "Litten",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/15.png"
+    },
+    {
+      "id": "2021swsh-16",
+      "number": 16,
+      "name": "Scorbunny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/16.png"
+    },
+    {
+      "id": "2021swsh-17",
+      "number": 17,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/17.png"
+    },
+    {
+      "id": "2021swsh-18",
+      "number": 18,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/18.png"
+    },
+    {
+      "id": "2021swsh-19",
+      "number": 19,
+      "name": "Mudkip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/19.png"
+    },
+    {
+      "id": "2021swsh-20",
+      "number": 20,
+      "name": "Piplup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/20.png"
+    },
+    {
+      "id": "2021swsh-21",
+      "number": 21,
+      "name": "Oshawott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/21.png"
+    },
+    {
+      "id": "2021swsh-22",
+      "number": 22,
+      "name": "Froakie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/22.png"
+    },
+    {
+      "id": "2021swsh-23",
+      "number": 23,
+      "name": "Popplio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/23.png"
+    },
+    {
+      "id": "2021swsh-24",
+      "number": 24,
+      "name": "Sobble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/24.png"
+    },
+    {
+      "id": "2021swsh-25",
+      "number": 25,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/McDonald%27s%20Collection%202021/images/25.png"
+    }
+  ]
 }

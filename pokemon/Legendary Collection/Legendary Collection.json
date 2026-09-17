@@ -1,0 +1,667 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Legendary Collection",
+  "totalCards": 110,
+  "cards": [
+    {
+      "id": "lc-1",
+      "number": 1,
+      "name": "Alakazam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/1.png"
+    },
+    {
+      "id": "lc-2",
+      "number": 2,
+      "name": "Articuno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/2.png"
+    },
+    {
+      "id": "lc-3",
+      "number": 3,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/3.png"
+    },
+    {
+      "id": "lc-4",
+      "number": 4,
+      "name": "Dark Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/4.png"
+    },
+    {
+      "id": "lc-5",
+      "number": 5,
+      "name": "Dark Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/5.png"
+    },
+    {
+      "id": "lc-6",
+      "number": 6,
+      "name": "Dark Persian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/6.png"
+    },
+    {
+      "id": "lc-7",
+      "number": 7,
+      "name": "Dark Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/7.png"
+    },
+    {
+      "id": "lc-8",
+      "number": 8,
+      "name": "Dark Slowbro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/8.png"
+    },
+    {
+      "id": "lc-9",
+      "number": 9,
+      "name": "Dark Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/9.png"
+    },
+    {
+      "id": "lc-10",
+      "number": 10,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/10.png"
+    },
+    {
+      "id": "lc-11",
+      "number": 11,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/11.png"
+    },
+    {
+      "id": "lc-12",
+      "number": 12,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/12.png"
+    },
+    {
+      "id": "lc-13",
+      "number": 13,
+      "name": "Hitmonlee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/13.png"
+    },
+    {
+      "id": "lc-14",
+      "number": 14,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/14.png"
+    },
+    {
+      "id": "lc-15",
+      "number": 15,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/15.png"
+    },
+    {
+      "id": "lc-16",
+      "number": 16,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/16.png"
+    },
+    {
+      "id": "lc-17",
+      "number": 17,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/17.png"
+    },
+    {
+      "id": "lc-18",
+      "number": 18,
+      "name": "Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/18.png"
+    },
+    {
+      "id": "lc-19",
+      "number": 19,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/19.png"
+    },
+    {
+      "id": "lc-20",
+      "number": 20,
+      "name": "Beedrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/20.png"
+    },
+    {
+      "id": "lc-21",
+      "number": 21,
+      "name": "Butterfree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/21.png"
+    },
+    {
+      "id": "lc-22",
+      "number": 22,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/22.png"
+    },
+    {
+      "id": "lc-23",
+      "number": 23,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/23.png"
+    },
+    {
+      "id": "lc-24",
+      "number": 24,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/24.png"
+    },
+    {
+      "id": "lc-25",
+      "number": 25,
+      "name": "Hypno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/25.png"
+    },
+    {
+      "id": "lc-26",
+      "number": 26,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/26.png"
+    },
+    {
+      "id": "lc-27",
+      "number": 27,
+      "name": "Kabutops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/27.png"
+    },
+    {
+      "id": "lc-28",
+      "number": 28,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/28.png"
+    },
+    {
+      "id": "lc-29",
+      "number": 29,
+      "name": "Mewtwo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/29.png"
+    },
+    {
+      "id": "lc-30",
+      "number": 30,
+      "name": "Moltres",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/30.png"
+    },
+    {
+      "id": "lc-31",
+      "number": 31,
+      "name": "Nidoking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/31.png"
+    },
+    {
+      "id": "lc-32",
+      "number": 32,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/32.png"
+    },
+    {
+      "id": "lc-33",
+      "number": 33,
+      "name": "Pidgeot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/33.png"
+    },
+    {
+      "id": "lc-34",
+      "number": 34,
+      "name": "Pidgeotto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/34.png"
+    },
+    {
+      "id": "lc-35",
+      "number": 35,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/35.png"
+    },
+    {
+      "id": "lc-36",
+      "number": 36,
+      "name": "Arcanine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/36.png"
+    },
+    {
+      "id": "lc-37",
+      "number": 37,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/37.png"
+    },
+    {
+      "id": "lc-38",
+      "number": 38,
+      "name": "Dark Dragonair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/38.png"
+    },
+    {
+      "id": "lc-39",
+      "number": 39,
+      "name": "Dark Wartortle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/39.png"
+    },
+    {
+      "id": "lc-40",
+      "number": 40,
+      "name": "Dewgong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/40.png"
+    },
+    {
+      "id": "lc-41",
+      "number": 41,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/41.png"
+    },
+    {
+      "id": "lc-42",
+      "number": 42,
+      "name": "Fearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/42.png"
+    },
+    {
+      "id": "lc-43",
+      "number": 43,
+      "name": "Golduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/43.png"
+    },
+    {
+      "id": "lc-44",
+      "number": 44,
+      "name": "Graveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/44.png"
+    },
+    {
+      "id": "lc-45",
+      "number": 45,
+      "name": "Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/45.png"
+    },
+    {
+      "id": "lc-46",
+      "number": 46,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/46.png"
+    },
+    {
+      "id": "lc-47",
+      "number": 47,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/47.png"
+    },
+    {
+      "id": "lc-48",
+      "number": 48,
+      "name": "Kabuto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/48.png"
+    },
+    {
+      "id": "lc-49",
+      "number": 49,
+      "name": "Kadabra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/49.png"
+    },
+    {
+      "id": "lc-50",
+      "number": 50,
+      "name": "Kakuna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/50.png"
+    },
+    {
+      "id": "lc-51",
+      "number": 51,
+      "name": "Machoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/51.png"
+    },
+    {
+      "id": "lc-52",
+      "number": 52,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/52.png"
+    },
+    {
+      "id": "lc-53",
+      "number": 53,
+      "name": "Meowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/53.png"
+    },
+    {
+      "id": "lc-54",
+      "number": 54,
+      "name": "Metapod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/54.png"
+    },
+    {
+      "id": "lc-55",
+      "number": 55,
+      "name": "Nidorina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/55.png"
+    },
+    {
+      "id": "lc-56",
+      "number": 56,
+      "name": "Nidorino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/56.png"
+    },
+    {
+      "id": "lc-57",
+      "number": 57,
+      "name": "Omanyte",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/57.png"
+    },
+    {
+      "id": "lc-58",
+      "number": 58,
+      "name": "Omastar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/58.png"
+    },
+    {
+      "id": "lc-59",
+      "number": 59,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/59.png"
+    },
+    {
+      "id": "lc-60",
+      "number": 60,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/60.png"
+    },
+    {
+      "id": "lc-61",
+      "number": 61,
+      "name": "Raticate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/61.png"
+    },
+    {
+      "id": "lc-62",
+      "number": 62,
+      "name": "Sandslash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/62.png"
+    },
+    {
+      "id": "lc-63",
+      "number": 63,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/63.png"
+    },
+    {
+      "id": "lc-64",
+      "number": 64,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/64.png"
+    },
+    {
+      "id": "lc-65",
+      "number": 65,
+      "name": "Tauros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/65.png"
+    },
+    {
+      "id": "lc-66",
+      "number": 66,
+      "name": "Tentacruel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/66.png"
+    },
+    {
+      "id": "lc-67",
+      "number": 67,
+      "name": "Abra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/67.png"
+    },
+    {
+      "id": "lc-68",
+      "number": 68,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/68.png"
+    },
+    {
+      "id": "lc-69",
+      "number": 69,
+      "name": "Caterpie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/69.png"
+    },
+    {
+      "id": "lc-70",
+      "number": 70,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/70.png"
+    },
+    {
+      "id": "lc-71",
+      "number": 71,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/71.png"
+    },
+    {
+      "id": "lc-72",
+      "number": 72,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/72.png"
+    },
+    {
+      "id": "lc-73",
+      "number": 73,
+      "name": "Drowzee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/73.png"
+    },
+    {
+      "id": "lc-74",
+      "number": 74,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/74.png"
+    },
+    {
+      "id": "lc-75",
+      "number": 75,
+      "name": "Exeggcute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/75.png"
+    },
+    {
+      "id": "lc-76",
+      "number": 76,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/76.png"
+    },
+    {
+      "id": "lc-77",
+      "number": 77,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/77.png"
+    },
+    {
+      "id": "lc-78",
+      "number": 78,
+      "name": "Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/78.png"
+    },
+    {
+      "id": "lc-79",
+      "number": 79,
+      "name": "Machop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/79.png"
+    },
+    {
+      "id": "lc-80",
+      "number": 80,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/80.png"
+    },
+    {
+      "id": "lc-81",
+      "number": 81,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/81.png"
+    },
+    {
+      "id": "lc-82",
+      "number": 82,
+      "name": "Nidoran ♀",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/82.png"
+    },
+    {
+      "id": "lc-83",
+      "number": 83,
+      "name": "Nidoran ♂",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/83.png"
+    },
+    {
+      "id": "lc-84",
+      "number": 84,
+      "name": "Onix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/84.png"
+    },
+    {
+      "id": "lc-85",
+      "number": 85,
+      "name": "Pidgey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/85.png"
+    },
+    {
+      "id": "lc-86",
+      "number": 86,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/86.png"
+    },
+    {
+      "id": "lc-87",
+      "number": 87,
+      "name": "Ponyta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/87.png"
+    },
+    {
+      "id": "lc-88",
+      "number": 88,
+      "name": "Psyduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/88.png"
+    },
+    {
+      "id": "lc-89",
+      "number": 89,
+      "name": "Rattata",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/89.png"
+    },
+    {
+      "id": "lc-90",
+      "number": 90,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/90.png"
+    },
+    {
+      "id": "lc-91",
+      "number": 91,
+      "name": "Sandshrew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/91.png"
+    },
+    {
+      "id": "lc-92",
+      "number": 92,
+      "name": "Seel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/92.png"
+    },
+    {
+      "id": "lc-93",
+      "number": 93,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/93.png"
+    },
+    {
+      "id": "lc-94",
+      "number": 94,
+      "name": "Spearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/94.png"
+    },
+    {
+      "id": "lc-95",
+      "number": 95,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/95.png"
+    },
+    {
+      "id": "lc-96",
+      "number": 96,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/96.png"
+    },
+    {
+      "id": "lc-97",
+      "number": 97,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/97.png"
+    },
+    {
+      "id": "lc-98",
+      "number": 98,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/98.png"
+    },
+    {
+      "id": "lc-99",
+      "number": 99,
+      "name": "Weedle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/99.png"
+    },
+    {
+      "id": "lc-100",
+      "number": 100,
+      "name": "Full Heal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/100.png"
+    },
+    {
+      "id": "lc-101",
+      "number": 101,
+      "name": "Potion Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/101.png"
+    },
+    {
+      "id": "lc-102",
+      "number": 102,
+      "name": "Pokémon Breeder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/102.png"
+    },
+    {
+      "id": "lc-103",
+      "number": 103,
+      "name": "Pokémon Trader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/103.png"
+    },
+    {
+      "id": "lc-104",
+      "number": 104,
+      "name": "Scoop Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/104.png"
+    },
+    {
+      "id": "lc-105",
+      "number": 105,
+      "name": "The Boss's Way",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/105.png"
+    },
+    {
+      "id": "lc-106",
+      "number": 106,
+      "name": "Challenge!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/106.png"
+    },
+    {
+      "id": "lc-107",
+      "number": 107,
+      "name": "Energy Retrieval",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/107.png"
+    },
+    {
+      "id": "lc-108",
+      "number": 108,
+      "name": "Bill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/108.png"
+    },
+    {
+      "id": "lc-109",
+      "number": 109,
+      "name": "Mysterious Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/109.png"
+    },
+    {
+      "id": "lc-110",
+      "number": 110,
+      "name": "Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legendary%20Collection/images/110.png"
+    }
+  ]
+}

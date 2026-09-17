@@ -1,0 +1,739 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Plasma Freeze",
+  "totalCards": 122,
+  "cards": [
+    {
+      "id": "bw9-1",
+      "number": 1,
+      "name": "Weedle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/1.png"
+    },
+    {
+      "id": "bw9-2",
+      "number": 2,
+      "name": "Kakuna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/2.png"
+    },
+    {
+      "id": "bw9-3",
+      "number": 3,
+      "name": "Beedrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/3.png"
+    },
+    {
+      "id": "bw9-4",
+      "number": 4,
+      "name": "Exeggcute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/4.png"
+    },
+    {
+      "id": "bw9-5",
+      "number": 5,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/5.png"
+    },
+    {
+      "id": "bw9-6",
+      "number": 6,
+      "name": "Treecko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/6.png"
+    },
+    {
+      "id": "bw9-7",
+      "number": 7,
+      "name": "Grovyle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/7.png"
+    },
+    {
+      "id": "bw9-8",
+      "number": 8,
+      "name": "Sceptile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/8.png"
+    },
+    {
+      "id": "bw9-9",
+      "number": 9,
+      "name": "Cacnea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/9.png"
+    },
+    {
+      "id": "bw9-10",
+      "number": 10,
+      "name": "Cacturne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/10.png"
+    },
+    {
+      "id": "bw9-11",
+      "number": 11,
+      "name": "Leafeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/11.png"
+    },
+    {
+      "id": "bw9-12",
+      "number": 12,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/12.png"
+    },
+    {
+      "id": "bw9-13",
+      "number": 13,
+      "name": "Heatran-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/13.png"
+    },
+    {
+      "id": "bw9-14",
+      "number": 14,
+      "name": "Litwick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/14.png"
+    },
+    {
+      "id": "bw9-15",
+      "number": 15,
+      "name": "Lampent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/15.png"
+    },
+    {
+      "id": "bw9-16",
+      "number": 16,
+      "name": "Chandelure",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/16.png"
+    },
+    {
+      "id": "bw9-17",
+      "number": 17,
+      "name": "Reshiram",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/17.png"
+    },
+    {
+      "id": "bw9-18",
+      "number": 18,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/18.png"
+    },
+    {
+      "id": "bw9-19",
+      "number": 19,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/19.png"
+    },
+    {
+      "id": "bw9-20",
+      "number": 20,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/20.png"
+    },
+    {
+      "id": "bw9-21",
+      "number": 21,
+      "name": "Wooper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/21.png"
+    },
+    {
+      "id": "bw9-22",
+      "number": 22,
+      "name": "Quagsire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/22.png"
+    },
+    {
+      "id": "bw9-23",
+      "number": 23,
+      "name": "Glaceon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/23.png"
+    },
+    {
+      "id": "bw9-24",
+      "number": 24,
+      "name": "Tympole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/24.png"
+    },
+    {
+      "id": "bw9-25",
+      "number": 25,
+      "name": "Palpitoad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/25.png"
+    },
+    {
+      "id": "bw9-26",
+      "number": 26,
+      "name": "Seismitoad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/26.png"
+    },
+    {
+      "id": "bw9-27",
+      "number": 27,
+      "name": "Vanillite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/27.png"
+    },
+    {
+      "id": "bw9-28",
+      "number": 28,
+      "name": "Vanillish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/28.png"
+    },
+    {
+      "id": "bw9-29",
+      "number": 29,
+      "name": "Vanilluxe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/29.png"
+    },
+    {
+      "id": "bw9-30",
+      "number": 30,
+      "name": "Cryogonal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/30.png"
+    },
+    {
+      "id": "bw9-31",
+      "number": 31,
+      "name": "Kyurem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/31.png"
+    },
+    {
+      "id": "bw9-32",
+      "number": 32,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/32.png"
+    },
+    {
+      "id": "bw9-33",
+      "number": 33,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/33.png"
+    },
+    {
+      "id": "bw9-34",
+      "number": 34,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/34.png"
+    },
+    {
+      "id": "bw9-35",
+      "number": 35,
+      "name": "Chinchou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/35.png"
+    },
+    {
+      "id": "bw9-36",
+      "number": 36,
+      "name": "Lanturn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/36.png"
+    },
+    {
+      "id": "bw9-37",
+      "number": 37,
+      "name": "Pachirisu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/37.png"
+    },
+    {
+      "id": "bw9-38",
+      "number": 38,
+      "name": "Thundurus-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/38.png"
+    },
+    {
+      "id": "bw9-39",
+      "number": 39,
+      "name": "Zekrom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/39.png"
+    },
+    {
+      "id": "bw9-40",
+      "number": 40,
+      "name": "Nidoran♀",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/40.png"
+    },
+    {
+      "id": "bw9-41",
+      "number": 41,
+      "name": "Nidorina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/41.png"
+    },
+    {
+      "id": "bw9-42",
+      "number": 42,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/42.png"
+    },
+    {
+      "id": "bw9-43",
+      "number": 43,
+      "name": "Nidoran♂",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/43.png"
+    },
+    {
+      "id": "bw9-44",
+      "number": 44,
+      "name": "Nidorino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/44.png"
+    },
+    {
+      "id": "bw9-45",
+      "number": 45,
+      "name": "Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/45.png"
+    },
+    {
+      "id": "bw9-46",
+      "number": 46,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/46.png"
+    },
+    {
+      "id": "bw9-47",
+      "number": 47,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/47.png"
+    },
+    {
+      "id": "bw9-48",
+      "number": 48,
+      "name": "Espeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/48.png"
+    },
+    {
+      "id": "bw9-49",
+      "number": 49,
+      "name": "Sableye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/49.png"
+    },
+    {
+      "id": "bw9-50",
+      "number": 50,
+      "name": "Beldum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/50.png"
+    },
+    {
+      "id": "bw9-51",
+      "number": 51,
+      "name": "Metang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/51.png"
+    },
+    {
+      "id": "bw9-52",
+      "number": 52,
+      "name": "Metagross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/52.png"
+    },
+    {
+      "id": "bw9-53",
+      "number": 53,
+      "name": "Deoxys-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/53.png"
+    },
+    {
+      "id": "bw9-54",
+      "number": 54,
+      "name": "Yamask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/54.png"
+    },
+    {
+      "id": "bw9-55",
+      "number": 55,
+      "name": "Yamask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/55.png"
+    },
+    {
+      "id": "bw9-56",
+      "number": 56,
+      "name": "Cofagrigus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/56.png"
+    },
+    {
+      "id": "bw9-57",
+      "number": 57,
+      "name": "Cofagrigus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/57.png"
+    },
+    {
+      "id": "bw9-58",
+      "number": 58,
+      "name": "Nidoking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/58.png"
+    },
+    {
+      "id": "bw9-59",
+      "number": 59,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/59.png"
+    },
+    {
+      "id": "bw9-60",
+      "number": 60,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/60.png"
+    },
+    {
+      "id": "bw9-61",
+      "number": 61,
+      "name": "Onix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/61.png"
+    },
+    {
+      "id": "bw9-62",
+      "number": 62,
+      "name": "Makuhita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/62.png"
+    },
+    {
+      "id": "bw9-63",
+      "number": 63,
+      "name": "Hariyama",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/63.png"
+    },
+    {
+      "id": "bw9-64",
+      "number": 64,
+      "name": "Umbreon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/64.png"
+    },
+    {
+      "id": "bw9-65",
+      "number": 65,
+      "name": "Sneasel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/65.png"
+    },
+    {
+      "id": "bw9-66",
+      "number": 66,
+      "name": "Weavile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/66.png"
+    },
+    {
+      "id": "bw9-67",
+      "number": 67,
+      "name": "Absol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/67.png"
+    },
+    {
+      "id": "bw9-68",
+      "number": 68,
+      "name": "Sandile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/68.png"
+    },
+    {
+      "id": "bw9-69",
+      "number": 69,
+      "name": "Krokorok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/69.png"
+    },
+    {
+      "id": "bw9-70",
+      "number": 70,
+      "name": "Krookodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/70.png"
+    },
+    {
+      "id": "bw9-71",
+      "number": 71,
+      "name": "Pawniard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/71.png"
+    },
+    {
+      "id": "bw9-72",
+      "number": 72,
+      "name": "Pawniard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/72.png"
+    },
+    {
+      "id": "bw9-73",
+      "number": 73,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/73.png"
+    },
+    {
+      "id": "bw9-74",
+      "number": 74,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/74.png"
+    },
+    {
+      "id": "bw9-75",
+      "number": 75,
+      "name": "Deino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/75.png"
+    },
+    {
+      "id": "bw9-76",
+      "number": 76,
+      "name": "Deino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/76.png"
+    },
+    {
+      "id": "bw9-77",
+      "number": 77,
+      "name": "Zweilous",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/77.png"
+    },
+    {
+      "id": "bw9-78",
+      "number": 78,
+      "name": "Hydreigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/78.png"
+    },
+    {
+      "id": "bw9-79",
+      "number": 79,
+      "name": "Steelix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/79.png"
+    },
+    {
+      "id": "bw9-80",
+      "number": 80,
+      "name": "Mawile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/80.png"
+    },
+    {
+      "id": "bw9-81",
+      "number": 81,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/81.png"
+    },
+    {
+      "id": "bw9-82",
+      "number": 82,
+      "name": "Dragonair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/82.png"
+    },
+    {
+      "id": "bw9-83",
+      "number": 83,
+      "name": "Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/83.png"
+    },
+    {
+      "id": "bw9-84",
+      "number": 84,
+      "name": "Kingdra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/84.png"
+    },
+    {
+      "id": "bw9-85",
+      "number": 85,
+      "name": "Latias-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/85.png"
+    },
+    {
+      "id": "bw9-86",
+      "number": 86,
+      "name": "Latios-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/86.png"
+    },
+    {
+      "id": "bw9-87",
+      "number": 87,
+      "name": "Rattata",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/87.png"
+    },
+    {
+      "id": "bw9-88",
+      "number": 88,
+      "name": "Raticate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/88.png"
+    },
+    {
+      "id": "bw9-89",
+      "number": 89,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/89.png"
+    },
+    {
+      "id": "bw9-90",
+      "number": 90,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/90.png"
+    },
+    {
+      "id": "bw9-91",
+      "number": 91,
+      "name": "Hoothoot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/91.png"
+    },
+    {
+      "id": "bw9-92",
+      "number": 92,
+      "name": "Noctowl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/92.png"
+    },
+    {
+      "id": "bw9-93",
+      "number": 93,
+      "name": "Miltank",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/93.png"
+    },
+    {
+      "id": "bw9-94",
+      "number": 94,
+      "name": "Kecleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/94.png"
+    },
+    {
+      "id": "bw9-95",
+      "number": 95,
+      "name": "Starly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/95.png"
+    },
+    {
+      "id": "bw9-96",
+      "number": 96,
+      "name": "Staravia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/96.png"
+    },
+    {
+      "id": "bw9-97",
+      "number": 97,
+      "name": "Staraptor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/97.png"
+    },
+    {
+      "id": "bw9-98",
+      "number": 98,
+      "name": "Tornadus-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/98.png"
+    },
+    {
+      "id": "bw9-99",
+      "number": 99,
+      "name": "Float Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/99.png"
+    },
+    {
+      "id": "bw9-100",
+      "number": 100,
+      "name": "Frozen City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/100.png"
+    },
+    {
+      "id": "bw9-101",
+      "number": 101,
+      "name": "Ghetsis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/101.png"
+    },
+    {
+      "id": "bw9-102",
+      "number": 102,
+      "name": "Shadow Triad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/102.png"
+    },
+    {
+      "id": "bw9-103",
+      "number": 103,
+      "name": "Superior Energy Retrieval",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/103.png"
+    },
+    {
+      "id": "bw9-104",
+      "number": 104,
+      "name": "Team Plasma Badge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/104.png"
+    },
+    {
+      "id": "bw9-105",
+      "number": 105,
+      "name": "Team Plasma Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/105.png"
+    },
+    {
+      "id": "bw9-106",
+      "number": 106,
+      "name": "Plasma Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/106.png"
+    },
+    {
+      "id": "bw9-107",
+      "number": 107,
+      "name": "Life Dew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/107.png"
+    },
+    {
+      "id": "bw9-108",
+      "number": 108,
+      "name": "Rock Guard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/108.png"
+    },
+    {
+      "id": "bw9-109",
+      "number": 109,
+      "name": "Heatran-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/109.png"
+    },
+    {
+      "id": "bw9-110",
+      "number": 110,
+      "name": "Thundurus-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/110.png"
+    },
+    {
+      "id": "bw9-111",
+      "number": 111,
+      "name": "Deoxys-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/111.png"
+    },
+    {
+      "id": "bw9-112",
+      "number": 112,
+      "name": "Latias-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/112.png"
+    },
+    {
+      "id": "bw9-113",
+      "number": 113,
+      "name": "Latios-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/113.png"
+    },
+    {
+      "id": "bw9-114",
+      "number": 114,
+      "name": "Tornadus-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/114.png"
+    },
+    {
+      "id": "bw9-115",
+      "number": 115,
+      "name": "Ghetsis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/115.png"
+    },
+    {
+      "id": "bw9-116",
+      "number": 116,
+      "name": "Professor Juniper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/116.png"
+    },
+    {
+      "id": "bw9-117",
+      "number": 117,
+      "name": "Empoleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/117.png"
+    },
+    {
+      "id": "bw9-118",
+      "number": 118,
+      "name": "Sigilyph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/118.png"
+    },
+    {
+      "id": "bw9-119",
+      "number": 119,
+      "name": "Garbodor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/119.png"
+    },
+    {
+      "id": "bw9-120",
+      "number": 120,
+      "name": "Garchomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/120.png"
+    },
+    {
+      "id": "bw9-121",
+      "number": 121,
+      "name": "Max Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/121.png"
+    },
+    {
+      "id": "bw9-122",
+      "number": 122,
+      "name": "Ultra Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Freeze/images/122.png"
+    }
+  ]
+}

@@ -1,0 +1,805 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Platinum",
+  "totalCards": 133,
+  "cards": [
+    {
+      "id": "pl1-1",
+      "number": 1,
+      "name": "Ampharos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/1.png"
+    },
+    {
+      "id": "pl1-2",
+      "number": 2,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/2.png"
+    },
+    {
+      "id": "pl1-3",
+      "number": 3,
+      "name": "Blaziken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/3.png"
+    },
+    {
+      "id": "pl1-4",
+      "number": 4,
+      "name": "Delcatty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/4.png"
+    },
+    {
+      "id": "pl1-5",
+      "number": 5,
+      "name": "Dialga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/5.png"
+    },
+    {
+      "id": "pl1-6",
+      "number": 6,
+      "name": "Dialga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/6.png"
+    },
+    {
+      "id": "pl1-7",
+      "number": 7,
+      "name": "Dialga G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/7.png"
+    },
+    {
+      "id": "pl1-8",
+      "number": 8,
+      "name": "Gardevoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/8.png"
+    },
+    {
+      "id": "pl1-9",
+      "number": 9,
+      "name": "Giratina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/9.png"
+    },
+    {
+      "id": "pl1-10",
+      "number": 10,
+      "name": "Giratina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/10.png"
+    },
+    {
+      "id": "pl1-11",
+      "number": 11,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/11.png"
+    },
+    {
+      "id": "pl1-12",
+      "number": 12,
+      "name": "Palkia G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/12.png"
+    },
+    {
+      "id": "pl1-13",
+      "number": 13,
+      "name": "Rampardos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/13.png"
+    },
+    {
+      "id": "pl1-14",
+      "number": 14,
+      "name": "Shaymin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/14.png"
+    },
+    {
+      "id": "pl1-15",
+      "number": 15,
+      "name": "Shaymin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/15.png"
+    },
+    {
+      "id": "pl1-16",
+      "number": 16,
+      "name": "Slaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/16.png"
+    },
+    {
+      "id": "pl1-17",
+      "number": 17,
+      "name": "Weavile G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/17.png"
+    },
+    {
+      "id": "pl1-18",
+      "number": 18,
+      "name": "Altaria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/18.png"
+    },
+    {
+      "id": "pl1-19",
+      "number": 19,
+      "name": "Banette",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/19.png"
+    },
+    {
+      "id": "pl1-20",
+      "number": 20,
+      "name": "Bastiodon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/20.png"
+    },
+    {
+      "id": "pl1-21",
+      "number": 21,
+      "name": "Beautifly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/21.png"
+    },
+    {
+      "id": "pl1-22",
+      "number": 22,
+      "name": "Blissey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/22.png"
+    },
+    {
+      "id": "pl1-23",
+      "number": 23,
+      "name": "Dialga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/23.png"
+    },
+    {
+      "id": "pl1-24",
+      "number": 24,
+      "name": "Dugtrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/24.png"
+    },
+    {
+      "id": "pl1-25",
+      "number": 25,
+      "name": "Dustox",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/25.png"
+    },
+    {
+      "id": "pl1-26",
+      "number": 26,
+      "name": "Empoleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/26.png"
+    },
+    {
+      "id": "pl1-27",
+      "number": 27,
+      "name": "Giratina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/27.png"
+    },
+    {
+      "id": "pl1-28",
+      "number": 28,
+      "name": "Giratina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/28.png"
+    },
+    {
+      "id": "pl1-29",
+      "number": 29,
+      "name": "Golduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/29.png"
+    },
+    {
+      "id": "pl1-30",
+      "number": 30,
+      "name": "Gyarados G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/30.png"
+    },
+    {
+      "id": "pl1-31",
+      "number": 31,
+      "name": "Infernape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/31.png"
+    },
+    {
+      "id": "pl1-32",
+      "number": 32,
+      "name": "Kricketune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/32.png"
+    },
+    {
+      "id": "pl1-33",
+      "number": 33,
+      "name": "Lickilicky",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/33.png"
+    },
+    {
+      "id": "pl1-34",
+      "number": 34,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/34.png"
+    },
+    {
+      "id": "pl1-35",
+      "number": 35,
+      "name": "Luvdisc",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/35.png"
+    },
+    {
+      "id": "pl1-36",
+      "number": 36,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/36.png"
+    },
+    {
+      "id": "pl1-37",
+      "number": 37,
+      "name": "Palkia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/37.png"
+    },
+    {
+      "id": "pl1-38",
+      "number": 38,
+      "name": "Shaymin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/38.png"
+    },
+    {
+      "id": "pl1-39",
+      "number": 39,
+      "name": "Torterra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/39.png"
+    },
+    {
+      "id": "pl1-40",
+      "number": 40,
+      "name": "Toxicroak G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/40.png"
+    },
+    {
+      "id": "pl1-41",
+      "number": 41,
+      "name": "Bronzong G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/41.png"
+    },
+    {
+      "id": "pl1-42",
+      "number": 42,
+      "name": "Cacturne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/42.png"
+    },
+    {
+      "id": "pl1-43",
+      "number": 43,
+      "name": "Carnivine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/43.png"
+    },
+    {
+      "id": "pl1-44",
+      "number": 44,
+      "name": "Cascoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/44.png"
+    },
+    {
+      "id": "pl1-45",
+      "number": 45,
+      "name": "Combusken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/45.png"
+    },
+    {
+      "id": "pl1-46",
+      "number": 46,
+      "name": "Cranidos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/46.png"
+    },
+    {
+      "id": "pl1-47",
+      "number": 47,
+      "name": "Crobat G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/47.png"
+    },
+    {
+      "id": "pl1-48",
+      "number": 48,
+      "name": "Flaaffy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/48.png"
+    },
+    {
+      "id": "pl1-49",
+      "number": 49,
+      "name": "Grotle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/49.png"
+    },
+    {
+      "id": "pl1-50",
+      "number": 50,
+      "name": "Houndoom G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/50.png"
+    },
+    {
+      "id": "pl1-51",
+      "number": 51,
+      "name": "Kirlia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/51.png"
+    },
+    {
+      "id": "pl1-52",
+      "number": 52,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/52.png"
+    },
+    {
+      "id": "pl1-53",
+      "number": 53,
+      "name": "Lucario",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/53.png"
+    },
+    {
+      "id": "pl1-54",
+      "number": 54,
+      "name": "Mightyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/54.png"
+    },
+    {
+      "id": "pl1-55",
+      "number": 55,
+      "name": "Mismagius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/55.png"
+    },
+    {
+      "id": "pl1-56",
+      "number": 56,
+      "name": "Monferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/56.png"
+    },
+    {
+      "id": "pl1-57",
+      "number": 57,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/57.png"
+    },
+    {
+      "id": "pl1-58",
+      "number": 58,
+      "name": "Octillery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/58.png"
+    },
+    {
+      "id": "pl1-59",
+      "number": 59,
+      "name": "Prinplup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/59.png"
+    },
+    {
+      "id": "pl1-60",
+      "number": 60,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/60.png"
+    },
+    {
+      "id": "pl1-61",
+      "number": 61,
+      "name": "Seviper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/61.png"
+    },
+    {
+      "id": "pl1-62",
+      "number": 62,
+      "name": "Shieldon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/62.png"
+    },
+    {
+      "id": "pl1-63",
+      "number": 63,
+      "name": "Silcoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/63.png"
+    },
+    {
+      "id": "pl1-64",
+      "number": 64,
+      "name": "Vigoroth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/64.png"
+    },
+    {
+      "id": "pl1-65",
+      "number": 65,
+      "name": "Wartortle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/65.png"
+    },
+    {
+      "id": "pl1-66",
+      "number": 66,
+      "name": "Zangoose",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/66.png"
+    },
+    {
+      "id": "pl1-67",
+      "number": 67,
+      "name": "Cacnea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/67.png"
+    },
+    {
+      "id": "pl1-68",
+      "number": 68,
+      "name": "Carnivine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/68.png"
+    },
+    {
+      "id": "pl1-69",
+      "number": 69,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/69.png"
+    },
+    {
+      "id": "pl1-70",
+      "number": 70,
+      "name": "Chimchar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/70.png"
+    },
+    {
+      "id": "pl1-71",
+      "number": 71,
+      "name": "Combee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/71.png"
+    },
+    {
+      "id": "pl1-72",
+      "number": 72,
+      "name": "Diglett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/72.png"
+    },
+    {
+      "id": "pl1-73",
+      "number": 73,
+      "name": "Dunsparce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/73.png"
+    },
+    {
+      "id": "pl1-74",
+      "number": 74,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/74.png"
+    },
+    {
+      "id": "pl1-75",
+      "number": 75,
+      "name": "Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/75.png"
+    },
+    {
+      "id": "pl1-76",
+      "number": 76,
+      "name": "Happiny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/76.png"
+    },
+    {
+      "id": "pl1-77",
+      "number": 77,
+      "name": "Honchkrow G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/77.png"
+    },
+    {
+      "id": "pl1-78",
+      "number": 78,
+      "name": "Kricketot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/78.png"
+    },
+    {
+      "id": "pl1-79",
+      "number": 79,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/79.png"
+    },
+    {
+      "id": "pl1-80",
+      "number": 80,
+      "name": "Lickitung",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/80.png"
+    },
+    {
+      "id": "pl1-81",
+      "number": 81,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/81.png"
+    },
+    {
+      "id": "pl1-82",
+      "number": 82,
+      "name": "Mareep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/82.png"
+    },
+    {
+      "id": "pl1-83",
+      "number": 83,
+      "name": "Misdreavus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/83.png"
+    },
+    {
+      "id": "pl1-84",
+      "number": 84,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/84.png"
+    },
+    {
+      "id": "pl1-85",
+      "number": 85,
+      "name": "Piplup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/85.png"
+    },
+    {
+      "id": "pl1-86",
+      "number": 86,
+      "name": "Poochyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/86.png"
+    },
+    {
+      "id": "pl1-87",
+      "number": 87,
+      "name": "Psyduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/87.png"
+    },
+    {
+      "id": "pl1-88",
+      "number": 88,
+      "name": "Purugly G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/88.png"
+    },
+    {
+      "id": "pl1-89",
+      "number": 89,
+      "name": "Ralts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/89.png"
+    },
+    {
+      "id": "pl1-90",
+      "number": 90,
+      "name": "Remoraid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/90.png"
+    },
+    {
+      "id": "pl1-91",
+      "number": 91,
+      "name": "Riolu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/91.png"
+    },
+    {
+      "id": "pl1-92",
+      "number": 92,
+      "name": "Shuppet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/92.png"
+    },
+    {
+      "id": "pl1-93",
+      "number": 93,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/93.png"
+    },
+    {
+      "id": "pl1-94",
+      "number": 94,
+      "name": "Skuntank G",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/94.png"
+    },
+    {
+      "id": "pl1-95",
+      "number": 95,
+      "name": "Slakoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/95.png"
+    },
+    {
+      "id": "pl1-96",
+      "number": 96,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/96.png"
+    },
+    {
+      "id": "pl1-97",
+      "number": 97,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/97.png"
+    },
+    {
+      "id": "pl1-98",
+      "number": 98,
+      "name": "Tauros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/98.png"
+    },
+    {
+      "id": "pl1-99",
+      "number": 99,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/99.png"
+    },
+    {
+      "id": "pl1-100",
+      "number": 100,
+      "name": "Torkoal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/100.png"
+    },
+    {
+      "id": "pl1-101",
+      "number": 101,
+      "name": "Turtwig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/101.png"
+    },
+    {
+      "id": "pl1-102",
+      "number": 102,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/102.png"
+    },
+    {
+      "id": "pl1-103",
+      "number": 103,
+      "name": "Wurmple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/103.png"
+    },
+    {
+      "id": "pl1-104",
+      "number": 104,
+      "name": "Broken Time-Space",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/104.png"
+    },
+    {
+      "id": "pl1-105",
+      "number": 105,
+      "name": "Cyrus's Conspiracy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/105.png"
+    },
+    {
+      "id": "pl1-106",
+      "number": 106,
+      "name": "Galactic HQ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/106.png"
+    },
+    {
+      "id": "pl1-107",
+      "number": 107,
+      "name": "Level Max",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/107.png"
+    },
+    {
+      "id": "pl1-108",
+      "number": 108,
+      "name": "Life Herb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/108.png"
+    },
+    {
+      "id": "pl1-109",
+      "number": 109,
+      "name": "Looker's Investigation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/109.png"
+    },
+    {
+      "id": "pl1-110",
+      "number": 110,
+      "name": "Memory Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/110.png"
+    },
+    {
+      "id": "pl1-111",
+      "number": 111,
+      "name": "Miasma Valley",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/111.png"
+    },
+    {
+      "id": "pl1-112",
+      "number": 112,
+      "name": "PlusPower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/112.png"
+    },
+    {
+      "id": "pl1-113",
+      "number": 113,
+      "name": "Poké Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/113.png"
+    },
+    {
+      "id": "pl1-114",
+      "number": 114,
+      "name": "Pokédex HANDY910is",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/114.png"
+    },
+    {
+      "id": "pl1-115",
+      "number": 115,
+      "name": "Pokémon Rescue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/115.png"
+    },
+    {
+      "id": "pl1-116",
+      "number": 116,
+      "name": "Team Galactic's Invention G-101 Energy Gain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/116.png"
+    },
+    {
+      "id": "pl1-117",
+      "number": 117,
+      "name": "Team Galactic's Invention G-103 Power Spray",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/117.png"
+    },
+    {
+      "id": "pl1-118",
+      "number": 118,
+      "name": "Team Galactic's Invention G-105 Poké Turn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/118.png"
+    },
+    {
+      "id": "pl1-119",
+      "number": 119,
+      "name": "Armor Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/119.png"
+    },
+    {
+      "id": "pl1-120",
+      "number": 120,
+      "name": "Skull Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/120.png"
+    },
+    {
+      "id": "pl1-121",
+      "number": 121,
+      "name": "Rainbow Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/121.png"
+    },
+    {
+      "id": "pl1-122",
+      "number": 122,
+      "name": "Dialga G LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/122.png"
+    },
+    {
+      "id": "pl1-123",
+      "number": 123,
+      "name": "Drapion LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/123.png"
+    },
+    {
+      "id": "pl1-124",
+      "number": 124,
+      "name": "Giratina LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/124.png"
+    },
+    {
+      "id": "pl1-125",
+      "number": 125,
+      "name": "Palkia G LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/125.png"
+    },
+    {
+      "id": "pl1-126",
+      "number": 126,
+      "name": "Shaymin LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/126.png"
+    },
+    {
+      "id": "pl1-127",
+      "number": 127,
+      "name": "Shaymin LV.X",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/127.png"
+    },
+    {
+      "id": "pl1-128",
+      "number": 128,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/128.png"
+    },
+    {
+      "id": "pl1-129",
+      "number": 129,
+      "name": "Hitmonchan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/129.png"
+    },
+    {
+      "id": "pl1-130",
+      "number": 130,
+      "name": "Scyther",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/130.png"
+    },
+    {
+      "id": "pl1-SH4",
+      "number": 0,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/SH4.png"
+    },
+    {
+      "id": "pl1-SH5",
+      "number": 0,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/SH5.png"
+    },
+    {
+      "id": "pl1-SH6",
+      "number": 0,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Platinum/images/SH6.png"
+    }
+  ]
+}

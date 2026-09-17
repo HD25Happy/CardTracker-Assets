@@ -1,0 +1,673 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Neo Genesis",
+  "totalCards": 111,
+  "cards": [
+    {
+      "id": "neo1-1",
+      "number": 1,
+      "name": "Ampharos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/1.png"
+    },
+    {
+      "id": "neo1-2",
+      "number": 2,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/2.png"
+    },
+    {
+      "id": "neo1-3",
+      "number": 3,
+      "name": "Bellossom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/3.png"
+    },
+    {
+      "id": "neo1-4",
+      "number": 4,
+      "name": "Feraligatr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/4.png"
+    },
+    {
+      "id": "neo1-5",
+      "number": 5,
+      "name": "Feraligatr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/5.png"
+    },
+    {
+      "id": "neo1-6",
+      "number": 6,
+      "name": "Heracross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/6.png"
+    },
+    {
+      "id": "neo1-7",
+      "number": 7,
+      "name": "Jumpluff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/7.png"
+    },
+    {
+      "id": "neo1-8",
+      "number": 8,
+      "name": "Kingdra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/8.png"
+    },
+    {
+      "id": "neo1-9",
+      "number": 9,
+      "name": "Lugia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/9.png"
+    },
+    {
+      "id": "neo1-10",
+      "number": 10,
+      "name": "Meganium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/10.png"
+    },
+    {
+      "id": "neo1-11",
+      "number": 11,
+      "name": "Meganium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/11.png"
+    },
+    {
+      "id": "neo1-12",
+      "number": 12,
+      "name": "Pichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/12.png"
+    },
+    {
+      "id": "neo1-13",
+      "number": 13,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/13.png"
+    },
+    {
+      "id": "neo1-14",
+      "number": 14,
+      "name": "Slowking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/14.png"
+    },
+    {
+      "id": "neo1-15",
+      "number": 15,
+      "name": "Steelix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/15.png"
+    },
+    {
+      "id": "neo1-16",
+      "number": 16,
+      "name": "Togetic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/16.png"
+    },
+    {
+      "id": "neo1-17",
+      "number": 17,
+      "name": "Typhlosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/17.png"
+    },
+    {
+      "id": "neo1-18",
+      "number": 18,
+      "name": "Typhlosion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/18.png"
+    },
+    {
+      "id": "neo1-19",
+      "number": 19,
+      "name": "Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/19.png"
+    },
+    {
+      "id": "neo1-20",
+      "number": 20,
+      "name": "Cleffa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/20.png"
+    },
+    {
+      "id": "neo1-21",
+      "number": 21,
+      "name": "Donphan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/21.png"
+    },
+    {
+      "id": "neo1-22",
+      "number": 22,
+      "name": "Elekid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/22.png"
+    },
+    {
+      "id": "neo1-23",
+      "number": 23,
+      "name": "Magby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/23.png"
+    },
+    {
+      "id": "neo1-24",
+      "number": 24,
+      "name": "Murkrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/24.png"
+    },
+    {
+      "id": "neo1-25",
+      "number": 25,
+      "name": "Sneasel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/25.png"
+    },
+    {
+      "id": "neo1-26",
+      "number": 26,
+      "name": "Aipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/26.png"
+    },
+    {
+      "id": "neo1-27",
+      "number": 27,
+      "name": "Ariados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/27.png"
+    },
+    {
+      "id": "neo1-28",
+      "number": 28,
+      "name": "Bayleef",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/28.png"
+    },
+    {
+      "id": "neo1-29",
+      "number": 29,
+      "name": "Bayleef",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/29.png"
+    },
+    {
+      "id": "neo1-30",
+      "number": 30,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/30.png"
+    },
+    {
+      "id": "neo1-31",
+      "number": 31,
+      "name": "Croconaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/31.png"
+    },
+    {
+      "id": "neo1-32",
+      "number": 32,
+      "name": "Croconaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/32.png"
+    },
+    {
+      "id": "neo1-33",
+      "number": 33,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/33.png"
+    },
+    {
+      "id": "neo1-34",
+      "number": 34,
+      "name": "Flaaffy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/34.png"
+    },
+    {
+      "id": "neo1-35",
+      "number": 35,
+      "name": "Furret",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/35.png"
+    },
+    {
+      "id": "neo1-36",
+      "number": 36,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/36.png"
+    },
+    {
+      "id": "neo1-37",
+      "number": 37,
+      "name": "Granbull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/37.png"
+    },
+    {
+      "id": "neo1-38",
+      "number": 38,
+      "name": "Lanturn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/38.png"
+    },
+    {
+      "id": "neo1-39",
+      "number": 39,
+      "name": "Ledian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/39.png"
+    },
+    {
+      "id": "neo1-40",
+      "number": 40,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/40.png"
+    },
+    {
+      "id": "neo1-41",
+      "number": 41,
+      "name": "Miltank",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/41.png"
+    },
+    {
+      "id": "neo1-42",
+      "number": 42,
+      "name": "Noctowl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/42.png"
+    },
+    {
+      "id": "neo1-43",
+      "number": 43,
+      "name": "Phanpy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/43.png"
+    },
+    {
+      "id": "neo1-44",
+      "number": 44,
+      "name": "Piloswine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/44.png"
+    },
+    {
+      "id": "neo1-45",
+      "number": 45,
+      "name": "Quagsire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/45.png"
+    },
+    {
+      "id": "neo1-46",
+      "number": 46,
+      "name": "Quilava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/46.png"
+    },
+    {
+      "id": "neo1-47",
+      "number": 47,
+      "name": "Quilava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/47.png"
+    },
+    {
+      "id": "neo1-48",
+      "number": 48,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/48.png"
+    },
+    {
+      "id": "neo1-49",
+      "number": 49,
+      "name": "Skiploom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/49.png"
+    },
+    {
+      "id": "neo1-50",
+      "number": 50,
+      "name": "Sunflora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/50.png"
+    },
+    {
+      "id": "neo1-51",
+      "number": 51,
+      "name": "Togepi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/51.png"
+    },
+    {
+      "id": "neo1-52",
+      "number": 52,
+      "name": "Xatu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/52.png"
+    },
+    {
+      "id": "neo1-53",
+      "number": 53,
+      "name": "Chikorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/53.png"
+    },
+    {
+      "id": "neo1-54",
+      "number": 54,
+      "name": "Chikorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/54.png"
+    },
+    {
+      "id": "neo1-55",
+      "number": 55,
+      "name": "Chinchou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/55.png"
+    },
+    {
+      "id": "neo1-56",
+      "number": 56,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/56.png"
+    },
+    {
+      "id": "neo1-57",
+      "number": 57,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/57.png"
+    },
+    {
+      "id": "neo1-58",
+      "number": 58,
+      "name": "Girafarig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/58.png"
+    },
+    {
+      "id": "neo1-59",
+      "number": 59,
+      "name": "Gligar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/59.png"
+    },
+    {
+      "id": "neo1-60",
+      "number": 60,
+      "name": "Hoothoot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/60.png"
+    },
+    {
+      "id": "neo1-61",
+      "number": 61,
+      "name": "Hoppip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/61.png"
+    },
+    {
+      "id": "neo1-62",
+      "number": 62,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/62.png"
+    },
+    {
+      "id": "neo1-63",
+      "number": 63,
+      "name": "Ledyba",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/63.png"
+    },
+    {
+      "id": "neo1-64",
+      "number": 64,
+      "name": "Mantine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/64.png"
+    },
+    {
+      "id": "neo1-65",
+      "number": 65,
+      "name": "Mareep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/65.png"
+    },
+    {
+      "id": "neo1-66",
+      "number": 66,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/66.png"
+    },
+    {
+      "id": "neo1-67",
+      "number": 67,
+      "name": "Natu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/67.png"
+    },
+    {
+      "id": "neo1-68",
+      "number": 68,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/68.png"
+    },
+    {
+      "id": "neo1-69",
+      "number": 69,
+      "name": "Onix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/69.png"
+    },
+    {
+      "id": "neo1-70",
+      "number": 70,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/70.png"
+    },
+    {
+      "id": "neo1-71",
+      "number": 71,
+      "name": "Sentret",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/71.png"
+    },
+    {
+      "id": "neo1-72",
+      "number": 72,
+      "name": "Shuckle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/72.png"
+    },
+    {
+      "id": "neo1-73",
+      "number": 73,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/73.png"
+    },
+    {
+      "id": "neo1-74",
+      "number": 74,
+      "name": "Snubbull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/74.png"
+    },
+    {
+      "id": "neo1-75",
+      "number": 75,
+      "name": "Spinarak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/75.png"
+    },
+    {
+      "id": "neo1-76",
+      "number": 76,
+      "name": "Stantler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/76.png"
+    },
+    {
+      "id": "neo1-77",
+      "number": 77,
+      "name": "Sudowoodo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/77.png"
+    },
+    {
+      "id": "neo1-78",
+      "number": 78,
+      "name": "Sunkern",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/78.png"
+    },
+    {
+      "id": "neo1-79",
+      "number": 79,
+      "name": "Swinub",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/79.png"
+    },
+    {
+      "id": "neo1-80",
+      "number": 80,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/80.png"
+    },
+    {
+      "id": "neo1-81",
+      "number": 81,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/81.png"
+    },
+    {
+      "id": "neo1-82",
+      "number": 82,
+      "name": "Wooper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/82.png"
+    },
+    {
+      "id": "neo1-83",
+      "number": 83,
+      "name": "Arcade Game",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/83.png"
+    },
+    {
+      "id": "neo1-84",
+      "number": 84,
+      "name": "Ecogym",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/84.png"
+    },
+    {
+      "id": "neo1-85",
+      "number": 85,
+      "name": "Energy Charge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/85.png"
+    },
+    {
+      "id": "neo1-86",
+      "number": 86,
+      "name": "Focus Band",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/86.png"
+    },
+    {
+      "id": "neo1-87",
+      "number": 87,
+      "name": "Mary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/87.png"
+    },
+    {
+      "id": "neo1-88",
+      "number": 88,
+      "name": "PokéGear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/88.png"
+    },
+    {
+      "id": "neo1-89",
+      "number": 89,
+      "name": "Super Energy Retrieval",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/89.png"
+    },
+    {
+      "id": "neo1-90",
+      "number": 90,
+      "name": "Time Capsule",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/90.png"
+    },
+    {
+      "id": "neo1-91",
+      "number": 91,
+      "name": "Bill's Teleporter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/91.png"
+    },
+    {
+      "id": "neo1-92",
+      "number": 92,
+      "name": "Card-Flip Game",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/92.png"
+    },
+    {
+      "id": "neo1-93",
+      "number": 93,
+      "name": "Gold Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/93.png"
+    },
+    {
+      "id": "neo1-94",
+      "number": 94,
+      "name": "Miracle Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/94.png"
+    },
+    {
+      "id": "neo1-95",
+      "number": 95,
+      "name": "New Pokédex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/95.png"
+    },
+    {
+      "id": "neo1-96",
+      "number": 96,
+      "name": "Professor Elm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/96.png"
+    },
+    {
+      "id": "neo1-97",
+      "number": 97,
+      "name": "Sprout Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/97.png"
+    },
+    {
+      "id": "neo1-98",
+      "number": 98,
+      "name": "Super Scoop Up",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/98.png"
+    },
+    {
+      "id": "neo1-99",
+      "number": 99,
+      "name": "Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/99.png"
+    },
+    {
+      "id": "neo1-100",
+      "number": 100,
+      "name": "Double Gust",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/100.png"
+    },
+    {
+      "id": "neo1-101",
+      "number": 101,
+      "name": "Moo-Moo Milk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/101.png"
+    },
+    {
+      "id": "neo1-102",
+      "number": 102,
+      "name": "Pokémon March",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/102.png"
+    },
+    {
+      "id": "neo1-103",
+      "number": 103,
+      "name": "Super Rod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/103.png"
+    },
+    {
+      "id": "neo1-104",
+      "number": 104,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/104.png"
+    },
+    {
+      "id": "neo1-105",
+      "number": 105,
+      "name": "Recycle Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/105.png"
+    },
+    {
+      "id": "neo1-106",
+      "number": 106,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/106.png"
+    },
+    {
+      "id": "neo1-107",
+      "number": 107,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/107.png"
+    },
+    {
+      "id": "neo1-108",
+      "number": 108,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/108.png"
+    },
+    {
+      "id": "neo1-109",
+      "number": 109,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/109.png"
+    },
+    {
+      "id": "neo1-110",
+      "number": 110,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/110.png"
+    },
+    {
+      "id": "neo1-111",
+      "number": 111,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Neo%20Genesis/images/111.png"
+    }
+  ]
+}

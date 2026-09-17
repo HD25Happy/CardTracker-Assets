@@ -1,6 +1,14 @@
 ﻿{
   "game": "Pokemon",
   "setName": "Miscellaneous Promos",
-  "totalCards": 0,
-  "cards": []
+  "totalCards": 1,
+  "availableImages": 1,
+  "cards": [
+    {
+      "id": "miscp-001",
+      "number": 1,
+      "name": "Ancient Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Miscellaneous%20Promos/images/001.png"
+    }
+  ]
 }
