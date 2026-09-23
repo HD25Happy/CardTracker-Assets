@@ -1,0 +1,535 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Unglued",
+  "totalCards": 88,
+  "cards": [
+    {
+      "id": "93b690ef-9fcb-42be-bbee-6aad516534a5",
+      "number": 1,
+      "name": "Charm School",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/1.jpg"
+    },
+    {
+      "id": "d01a114f-3349-4a62-bfad-0dc33b78a53f",
+      "number": 2,
+      "name": "The Cheese Stands Alone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/2.jpg"
+    },
+    {
+      "id": "ebbdbd92-ec36-4fe9-b75d-13f55574db5e",
+      "number": 3,
+      "name": "Double Dip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/3.jpg"
+    },
+    {
+      "id": "2757b582-d995-45f9-9482-0792b0f0784d",
+      "number": 4,
+      "name": "Get a Life",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/4.jpg"
+    },
+    {
+      "id": "5979237f-ff41-4e87-b2e4-d09b81eca2dc",
+      "number": 5,
+      "name": "I'm Rubber, You're Glue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/5.jpg"
+    },
+    {
+      "id": "bd53daa7-9130-4187-9e53-1075c6ab67d0",
+      "number": 6,
+      "name": "Knight of the Hokey Pokey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/6.jpg"
+    },
+    {
+      "id": "b39db7a3-028e-4c01-8ff9-64d2a1397379",
+      "number": 7,
+      "name": "Lexivore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/7.jpg"
+    },
+    {
+      "id": "14fb0d87-b086-4546-8f7f-786cb0b7b2f5",
+      "number": 8,
+      "name": "Look at Me, I'm the DCI",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/8.jpg"
+    },
+    {
+      "id": "cfd1edbc-ea37-42c4-8fb9-deac011372b5",
+      "number": 9,
+      "name": "Mesa Chicken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/9.jpg"
+    },
+    {
+      "id": "747ff5d4-69cd-447e-a18d-edcf583d0539",
+      "number": 10,
+      "name": "Miss Demeanor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/10.jpg"
+    },
+    {
+      "id": "ba42881b-9275-4b54-a17f-dec87d21a270",
+      "number": 11,
+      "name": "Once More with Feeling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/11.jpg"
+    },
+    {
+      "id": "79624ebe-7110-486d-82ff-b64c662dc6de",
+      "number": 12,
+      "name": "Prismatic Wardrobe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/12.jpg"
+    },
+    {
+      "id": "97cfc18c-ed01-4016-86a2-162d7bc1bf33",
+      "number": 13,
+      "name": "Sex Appeal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/13.jpg"
+    },
+    {
+      "id": "43417d07-725e-4c3d-99d2-bbbfbdeee770",
+      "number": 14,
+      "name": "Bureaucracy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/14.jpg"
+    },
+    {
+      "id": "e24d4fba-cf12-4ad3-bca3-6824dbc639af",
+      "number": 15,
+      "name": "Censorship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/15.jpg"
+    },
+    {
+      "id": "cc70457a-34dc-48a1-8643-4a78c1e6f2d3",
+      "number": 16,
+      "name": "Checks and Balances",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/16.jpg"
+    },
+    {
+      "id": "3fcefcab-8988-47e8-89bb-9b76f14c9d8b",
+      "number": 17,
+      "name": "Chicken à la King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/17.jpg"
+    },
+    {
+      "id": "349ba052-10f7-4612-91b7-a1528c188ec3",
+      "number": 18,
+      "name": "Clambassadors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/18.jpg"
+    },
+    {
+      "id": "b57e1b62-df2b-48dc-9cb1-d86c9d3ab986",
+      "number": 19,
+      "name": "Clam-I-Am",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/19.jpg"
+    },
+    {
+      "id": "1c2953cd-1b7e-41aa-959f-fb7ba2964bfb",
+      "number": 20,
+      "name": "Clam Session",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/20.jpg"
+    },
+    {
+      "id": "9ad6b646-a2b2-4817-856c-580a5953d87e",
+      "number": 21,
+      "name": "Common Courtesy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/21.jpg"
+    },
+    {
+      "id": "1285c125-e145-4565-a029-352ac6adf688",
+      "number": 22,
+      "name": "Denied!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/22.jpg"
+    },
+    {
+      "id": "71941f1f-b41e-4ec9-a7c6-61eccaa47b0e",
+      "number": 23,
+      "name": "Double Take",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/23.jpg"
+    },
+    {
+      "id": "2303a4e0-b8eb-4e8b-bc62-507eee52e7bc",
+      "number": 24,
+      "name": "Fowl Play",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/24.jpg"
+    },
+    {
+      "id": "630efac8-3033-4c2d-9127-b3b2f78bb136",
+      "number": 25,
+      "name": "Free-for-All",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/25.jpg"
+    },
+    {
+      "id": "60dfba09-9e75-4fb9-a163-40e3149f7785",
+      "number": 26,
+      "name": "Psychic Network",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/26.jpg"
+    },
+    {
+      "id": "14606012-d57b-4fe7-908b-b5cfc272994b",
+      "number": 27,
+      "name": "Sorry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/27.jpg"
+    },
+    {
+      "id": "a9f9c279-e382-4feb-9575-196e7cf5d7dc",
+      "number": 28,
+      "name": "B.F.M. (Big Furry Monster)",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/28.jpg"
+    },
+    {
+      "id": "d15c6375-2e4e-47f7-88e1-d90794e7f724",
+      "number": 29,
+      "name": "B.F.M. (Big Furry Monster)",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/29.jpg"
+    },
+    {
+      "id": "cdb3998e-b4a1-4dd1-8e12-24579ec8938b",
+      "number": 30,
+      "name": "Deadhead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/30.jpg"
+    },
+    {
+      "id": "e8f90e34-3736-42ed-aade-e31247b3472d",
+      "number": 31,
+      "name": "Double Cross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/31.jpg"
+    },
+    {
+      "id": "08ae92f5-4219-4194-b152-c2b2653aef3f",
+      "number": 32,
+      "name": "Handcuffs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/32.jpg"
+    },
+    {
+      "id": "99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9",
+      "number": 33,
+      "name": "Infernal Spawn of Evil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/33.jpg"
+    },
+    {
+      "id": "a135b61b-eb8c-44d7-8227-bd268c3ca463",
+      "number": 34,
+      "name": "Jumbo Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/34.jpg"
+    },
+    {
+      "id": "05213eec-322f-4bc7-b607-217290447f40",
+      "number": 35,
+      "name": "Organ Harvest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/35.jpg"
+    },
+    {
+      "id": "dd26c2a6-7b08-4de6-afbf-e34d321995ab",
+      "number": 36,
+      "name": "Ow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/36.jpg"
+    },
+    {
+      "id": "c6bec883-a2e0-49a5-8cdd-2755c0963a2d",
+      "number": 37,
+      "name": "Poultrygeist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/37.jpg"
+    },
+    {
+      "id": "b7105d13-798e-472b-bb00-d419886e9cc7",
+      "number": 38,
+      "name": "Temp of the Damned",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/38.jpg"
+    },
+    {
+      "id": "b2b915b6-4436-4007-a014-415694117c7e",
+      "number": 39,
+      "name": "Volrath's Motion Sensor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/39.jpg"
+    },
+    {
+      "id": "17ed4800-dc0f-4681-9ae6-74bd0018e8dc",
+      "number": 40,
+      "name": "Burning Cinder Fury of Crimson Chaos Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/40.jpg"
+    },
+    {
+      "id": "640ac565-331b-47e2-b2af-a8a94a96488a",
+      "number": 41,
+      "name": "Chicken Egg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/41.jpg"
+    },
+    {
+      "id": "ed8b3def-30ee-4dd2-9a25-ecf7d5663f96",
+      "number": 42,
+      "name": "Double Deal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/42.jpg"
+    },
+    {
+      "id": "dc880e76-1e92-4af1-b89f-b5a2b60b86f0",
+      "number": 43,
+      "name": "Goblin Bookie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/43.jpg"
+    },
+    {
+      "id": "00325992-ec1c-469a-8df0-ffb9a197d221",
+      "number": 44,
+      "name": "Goblin Bowling Team",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/44.jpg"
+    },
+    {
+      "id": "23bc822d-a028-4162-bf23-6ff4b9f43688",
+      "number": 45,
+      "name": "Goblin Tutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/45.jpg"
+    },
+    {
+      "id": "d957abcb-ba56-42b4-9316-f30ac821ecf9",
+      "number": 46,
+      "name": "Hurloon Wrangler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/46.jpg"
+    },
+    {
+      "id": "9b5d0ead-7798-49a2-8106-418db1d4fd69",
+      "number": 47,
+      "name": "Jalum Grifter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/47.jpg"
+    },
+    {
+      "id": "e978fdf7-2243-49d0-b265-a3287f19b17d",
+      "number": 48,
+      "name": "Krazy Kow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/48.jpg"
+    },
+    {
+      "id": "3ef5452d-b5cb-4772-a5ac-1b4c976e03a5",
+      "number": 49,
+      "name": "Landfill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/49.jpg"
+    },
+    {
+      "id": "ea993e57-b72f-48f8-9132-0693f2e78ce4",
+      "number": 50,
+      "name": "Ricochet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/50.jpg"
+    },
+    {
+      "id": "ea73a7ef-e9da-4d5b-aa4d-a953cbacd6c2",
+      "number": 51,
+      "name": "Spark Fiend",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/51.jpg"
+    },
+    {
+      "id": "a2996a63-9fb6-4455-906d-13f917a8bb29",
+      "number": 52,
+      "name": "Strategy, Schmategy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/52.jpg"
+    },
+    {
+      "id": "616abc97-4276-4e96-bbe8-e47ba7cac075",
+      "number": 53,
+      "name": "The Ultimate Nightmare of Wizards of the Coast® Customer Service",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/53.jpg"
+    },
+    {
+      "id": "059fc73f-7a00-4014-9e92-75765798cf2d",
+      "number": 54,
+      "name": "Cardboard Carapace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/54.jpg"
+    },
+    {
+      "id": "e35c66e0-0ca8-447f-b8d9-b03ce7ffaf7f",
+      "number": 55,
+      "name": "Double Play",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/55.jpg"
+    },
+    {
+      "id": "922663f0-f444-4364-a706-eb6b91ac36ef",
+      "number": 56,
+      "name": "Elvish Impersonators",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/56.jpg"
+    },
+    {
+      "id": "1ce65cbd-e2cf-4fbf-8424-287cd87c97f1",
+      "number": 57,
+      "name": "Flock of Rabid Sheep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/57.jpg"
+    },
+    {
+      "id": "e59e6414-62ac-427e-8e37-690ed401b4dd",
+      "number": 58,
+      "name": "Free-Range Chicken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/58.jpg"
+    },
+    {
+      "id": "aea8ab0f-6898-4312-9989-915d6357515f",
+      "number": 59,
+      "name": "Gerrymandering",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/59.jpg"
+    },
+    {
+      "id": "17c18690-cf8c-4006-a981-6258d18ba538",
+      "number": 60,
+      "name": "Ghazbán Ogress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/60.jpg"
+    },
+    {
+      "id": "2905accf-ea94-48fa-8dbe-b4a7dd57a277",
+      "number": 61,
+      "name": "Growth Spurt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/61.jpg"
+    },
+    {
+      "id": "d9b05428-d9f3-42ec-bef4-286f1ad06901",
+      "number": 62,
+      "name": "Gus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/62.jpg"
+    },
+    {
+      "id": "3a17ecb8-cf64-420a-9038-609bfdb4c669",
+      "number": 63,
+      "name": "Hungry Hungry Heifer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/63.jpg"
+    },
+    {
+      "id": "573cf5e6-35ee-4eb6-990a-524ba7335797",
+      "number": 64,
+      "name": "Incoming!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/64.jpg"
+    },
+    {
+      "id": "a91f28e0-867a-4713-955d-582201af63ae",
+      "number": 65,
+      "name": "Mine, Mine, Mine!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/65.jpg"
+    },
+    {
+      "id": "987ddd67-305a-4c95-9f1a-17eeeb058aaa",
+      "number": 66,
+      "name": "Squirrel Farm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/66.jpg"
+    },
+    {
+      "id": "b8369211-e7e1-45e1-a142-274f4236e230",
+      "number": 67,
+      "name": "Team Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/67.jpg"
+    },
+    {
+      "id": "e43ce658-12be-4eb2-b679-0aefea348de2",
+      "number": 68,
+      "name": "Timmy, Power Gamer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/68.jpg"
+    },
+    {
+      "id": "d420010f-5389-4aa2-a5f8-d9631249679a",
+      "number": 69,
+      "name": "Ashnod's Coupon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/69.jpg"
+    },
+    {
+      "id": "4c85d097-e87b-41ee-93c6-0e54ec41b174",
+      "number": 70,
+      "name": "Blacker Lotus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/70.jpg"
+    },
+    {
+      "id": "21943fe2-3eeb-441a-a3ae-99866c6e76bd",
+      "number": 71,
+      "name": "Bronze Calendar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/71.jpg"
+    },
+    {
+      "id": "a5cee00a-5ab5-43c3-8017-db20d37e69c4",
+      "number": 72,
+      "name": "Chaos Confetti",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/72.jpg"
+    },
+    {
+      "id": "4dfacc30-0acc-4b2d-bc7b-6ff72afc1077",
+      "number": 73,
+      "name": "Clay Pigeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/73.jpg"
+    },
+    {
+      "id": "1cdb8678-3c0c-4ee3-aeff-52a4db4e09c4",
+      "number": 74,
+      "name": "Giant Fan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/74.jpg"
+    },
+    {
+      "id": "1834ac92-8b4e-4442-a834-acd580e1ef99",
+      "number": 75,
+      "name": "Jack-in-the-Mox",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/75.jpg"
+    },
+    {
+      "id": "6e68f012-307f-4ffb-909e-1284fb39e64f",
+      "number": 76,
+      "name": "Jester's Sombrero",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/76.jpg"
+    },
+    {
+      "id": "2abf208d-5fe6-4030-a19d-7505832dab3b",
+      "number": 77,
+      "name": "Mirror Mirror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/77.jpg"
+    },
+    {
+      "id": "6d1cb9ab-512e-4bb1-8d77-37a0b2d3e7f8",
+      "number": 78,
+      "name": "Paper Tiger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/78.jpg"
+    },
+    {
+      "id": "5ba96c2a-9ccf-4b28-8af5-f8c221fc6823",
+      "number": 79,
+      "name": "Rock Lobster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/79.jpg"
+    },
+    {
+      "id": "c7b3502d-5519-4254-b946-226edc3bd7e4",
+      "number": 80,
+      "name": "Scissors Lizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/80.jpg"
+    },
+    {
+      "id": "777d1435-bde3-46f7-a35d-2a663e05fb97",
+      "number": 81,
+      "name": "Spatula of the Ages",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/81.jpg"
+    },
+    {
+      "id": "f386c088-fa37-4134-96bb-9fb784719101",
+      "number": 82,
+      "name": "Urza's Contact Lenses",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/82.jpg"
+    },
+    {
+      "id": "8bfe56d0-c15f-4a68-a0b8-911e13b1bc9a",
+      "number": 83,
+      "name": "Urza's Science Fair Project",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/83.jpg"
+    },
+    {
+      "id": "cb382733-ff3d-43e2-9b1e-efa2f7c28173",
+      "number": 84,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/84.jpg"
+    },
+    {
+      "id": "547f89f2-30a0-493a-914e-6251d2574099",
+      "number": 85,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/85.jpg"
+    },
+    {
+      "id": "69384f97-3333-4aa7-bc4f-928ba49a2c80",
+      "number": 86,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/86.jpg"
+    },
+    {
+      "id": "8e3c2e1a-181e-4275-ad09-51c9de039d32",
+      "number": 87,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/87.jpg"
+    },
+    {
+      "id": "b3ed8a17-ce32-4100-8ffc-fb8af1c35142",
+      "number": 88,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Unglued%20%28ugl%29/images/88.jpg"
+    }
+  ]
+}

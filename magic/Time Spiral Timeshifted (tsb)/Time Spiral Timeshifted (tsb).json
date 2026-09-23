@@ -1,0 +1,733 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Time Spiral Timeshifted",
+  "totalCards": 121,
+  "cards": [
+    {
+      "id": "96c9646b-9223-4d4f-a7d0-fc6208cac8b8",
+      "number": 1,
+      "name": "Akroma, Angel of Wrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/1.jpg"
+    },
+    {
+      "id": "8a63fab4-8e9d-4972-9e3d-51ce8575535b",
+      "number": 2,
+      "name": "Auratog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/2.jpg"
+    },
+    {
+      "id": "251880e9-a472-4f33-9988-4871d31aa1d9",
+      "number": 3,
+      "name": "Celestial Dawn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/3.jpg"
+    },
+    {
+      "id": "ded79afb-2a65-49e8-81c3-757e5d4c2203",
+      "number": 4,
+      "name": "Consecrate Land",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/4.jpg"
+    },
+    {
+      "id": "a37acadc-0e58-4f44-93f4-dd465b9ee06f",
+      "number": 5,
+      "name": "Defiant Vanguard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/5.jpg"
+    },
+    {
+      "id": "b7be41f0-7391-49dd-b63c-2e8db9430f07",
+      "number": 6,
+      "name": "Disenchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/6.jpg"
+    },
+    {
+      "id": "57a966e3-c9ba-4105-a36b-54ca70ba9b77",
+      "number": 7,
+      "name": "Enduring Renewal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/7.jpg"
+    },
+    {
+      "id": "54e01152-944b-47dc-838e-753925ac64e2",
+      "number": 8,
+      "name": "Essence Sliver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/8.jpg"
+    },
+    {
+      "id": "b07d20d7-4fdc-4104-9a9f-5fd2d3aa7b66",
+      "number": 9,
+      "name": "Honorable Passage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/9.jpg"
+    },
+    {
+      "id": "a3f86f74-316a-4885-bf5e-103ffa20bf4d",
+      "number": 10,
+      "name": "Icatian Javelineers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/10.jpg"
+    },
+    {
+      "id": "c6ae847c-9b88-4e34-930f-2f4fd28423f7",
+      "number": 11,
+      "name": "Moorish Cavalry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/11.jpg"
+    },
+    {
+      "id": "d99f982f-7288-49b6-90d7-279dee9379e5",
+      "number": 12,
+      "name": "Resurrection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/12.jpg"
+    },
+    {
+      "id": "c76e4cc6-6e69-4787-9425-7a35e06c0b69",
+      "number": 13,
+      "name": "Sacred Mesa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/13.jpg"
+    },
+    {
+      "id": "50a65efb-bb4b-44b6-9017-853adedd88fa",
+      "number": 14,
+      "name": "Soltari Priest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/14.jpg"
+    },
+    {
+      "id": "96c9c4d1-dd43-4156-b25f-0e707b6c4b23",
+      "number": 15,
+      "name": "Squire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/15.jpg"
+    },
+    {
+      "id": "ea65e470-4892-4b2b-b187-2296c7a8d46a",
+      "number": 16,
+      "name": "Valor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/16.jpg"
+    },
+    {
+      "id": "980ada04-1fb2-4aa8-b342-8934767587e0",
+      "number": 17,
+      "name": "Witch Hunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/17.jpg"
+    },
+    {
+      "id": "5c5915df-383c-4bab-9e44-e1e9ec69476f",
+      "number": 18,
+      "name": "Zhalfirin Commander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/18.jpg"
+    },
+    {
+      "id": "ac2e32d0-f172-4934-9d73-1bc2ab86586e",
+      "number": 19,
+      "name": "Dandân",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/19.jpg"
+    },
+    {
+      "id": "0656ed76-4c8e-4094-8edd-9b49780cadf7",
+      "number": 20,
+      "name": "Flying Men",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/20.jpg"
+    },
+    {
+      "id": "be564d7a-7359-497d-a423-aedfb99747a7",
+      "number": 21,
+      "name": "Ghost Ship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/21.jpg"
+    },
+    {
+      "id": "2dab7498-c574-4ea6-8dee-e3e0991af018",
+      "number": 22,
+      "name": "Giant Oyster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/22.jpg"
+    },
+    {
+      "id": "bc482c8f-5645-4cf9-8e90-090c77f9dc64",
+      "number": 23,
+      "name": "Leviathan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/23.jpg"
+    },
+    {
+      "id": "a9407b60-8921-4531-bdbe-9a82aaa38d28",
+      "number": 24,
+      "name": "Lord of Atlantis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/24.jpg"
+    },
+    {
+      "id": "6a906b9b-5e7c-4300-98e4-5eec242c1306",
+      "number": 25,
+      "name": "Merfolk Assassin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/25.jpg"
+    },
+    {
+      "id": "b74feed4-840b-4f10-9861-7a6885ce7907",
+      "number": 26,
+      "name": "Mistform Ultimus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/26.jpg"
+    },
+    {
+      "id": "5573470a-7192-4f1e-aafd-517c494875a8",
+      "number": 27,
+      "name": "Ovinomancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/27.jpg"
+    },
+    {
+      "id": "4f91724c-0e3b-4289-9af6-9de489d811eb",
+      "number": 28,
+      "name": "Pirate Ship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/28.jpg"
+    },
+    {
+      "id": "86458037-3e4a-4dc7-b77b-1c6bc34e8119",
+      "number": 29,
+      "name": "Prodigal Sorcerer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/29.jpg"
+    },
+    {
+      "id": "befb1728-4af3-420a-a51e-7fa95d2e7a00",
+      "number": 30,
+      "name": "Psionic Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/30.jpg"
+    },
+    {
+      "id": "6a6372ec-1ae2-4806-bb31-78f9ea6259df",
+      "number": 31,
+      "name": "Sindbad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/31.jpg"
+    },
+    {
+      "id": "865e5cdd-566c-4bed-a392-583b71ec2718",
+      "number": 32,
+      "name": "Stormscape Familiar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/32.jpg"
+    },
+    {
+      "id": "2a157ce2-db13-4c49-95e0-f823bc9b6f97",
+      "number": 33,
+      "name": "Unstable Mutation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/33.jpg"
+    },
+    {
+      "id": "b26d5fc8-c148-4383-a1b9-f80da4d875aa",
+      "number": 34,
+      "name": "Voidmage Prodigy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/34.jpg"
+    },
+    {
+      "id": "e16e4f85-9611-4d5f-a7d9-4a5961dd7182",
+      "number": 35,
+      "name": "Whispers of the Muse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/35.jpg"
+    },
+    {
+      "id": "25f2a1d8-8b47-4278-afe1-3f3ede60fed9",
+      "number": 36,
+      "name": "Willbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/36.jpg"
+    },
+    {
+      "id": "60b36a09-4ff7-4ac2-9e64-d547399b3a0b",
+      "number": 37,
+      "name": "Avatar of Woe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/37.jpg"
+    },
+    {
+      "id": "58fbbc7f-1d6e-4a6c-b5df-33bc275ee514",
+      "number": 38,
+      "name": "Bad Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/38.jpg"
+    },
+    {
+      "id": "8bbdb402-0e22-4f83-987a-9d0268a82f10",
+      "number": 39,
+      "name": "Conspiracy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/39.jpg"
+    },
+    {
+      "id": "584834fb-b7b6-40eb-9fec-8df17172ce5f",
+      "number": 40,
+      "name": "Darkness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/40.jpg"
+    },
+    {
+      "id": "4a0e40d4-6ecb-4151-be39-7d7c2a6a922e",
+      "number": 41,
+      "name": "Dauthi Slayer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/41.jpg"
+    },
+    {
+      "id": "4dc4d500-a8af-452b-8d6c-200035905104",
+      "number": 42,
+      "name": "Evil Eye of Orms-by-Gore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/42.jpg"
+    },
+    {
+      "id": "e3284411-fefa-4614-9c49-f3d6189f1c4f",
+      "number": 43,
+      "name": "Faceless Butcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/43.jpg"
+    },
+    {
+      "id": "6fc44e66-7ff8-4fcd-9f98-e53707590d67",
+      "number": 44,
+      "name": "Funeral Charm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/44.jpg"
+    },
+    {
+      "id": "647b0f86-8ec1-4506-9a31-a8495232094e",
+      "number": 45,
+      "name": "Sengir Autocrat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/45.jpg"
+    },
+    {
+      "id": "960c2137-f2de-46c6-9b63-bbb208d3cfa8",
+      "number": 46,
+      "name": "Shadow Guildmage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/46.jpg"
+    },
+    {
+      "id": "5c0848dc-dd4c-48d0-a22f-bd1fba070b21",
+      "number": 47,
+      "name": "Soul Collector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/47.jpg"
+    },
+    {
+      "id": "fd0b4aea-1e01-4afe-8054-77c5cc7935d6",
+      "number": 48,
+      "name": "Stupor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/48.jpg"
+    },
+    {
+      "id": "450800c5-28e0-4eeb-9164-db9fdebc595f",
+      "number": 49,
+      "name": "Swamp Mosquito",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/49.jpg"
+    },
+    {
+      "id": "64e63700-1521-49fa-9756-02342a11e200",
+      "number": 50,
+      "name": "Twisted Abomination",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/50.jpg"
+    },
+    {
+      "id": "9bf85d06-9efe-488d-9af0-fb945b346524",
+      "number": 51,
+      "name": "Uncle Istvan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/51.jpg"
+    },
+    {
+      "id": "07328ef1-665c-4526-bd75-2b17aba38b4a",
+      "number": 52,
+      "name": "Undead Warchief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/52.jpg"
+    },
+    {
+      "id": "e99bb258-7b05-4c70-8a67-d7a5709a60ff",
+      "number": 53,
+      "name": "Undertaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/53.jpg"
+    },
+    {
+      "id": "29190989-77af-44af-a757-2a3b63fe9e77",
+      "number": 54,
+      "name": "Withered Wretch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/54.jpg"
+    },
+    {
+      "id": "abb19b6b-4142-4b93-85ca-3f2d8b23b4e1",
+      "number": 55,
+      "name": "Avalanche Riders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/55.jpg"
+    },
+    {
+      "id": "1f358395-df58-474e-92cf-c80d42801f21",
+      "number": 56,
+      "name": "Browbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/56.jpg"
+    },
+    {
+      "id": "e57cacc4-5c15-4607-8bdf-efd45077b2bd",
+      "number": 57,
+      "name": "Desolation Giant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/57.jpg"
+    },
+    {
+      "id": "a83420d1-c51a-4fb7-8f1d-b376a0083d95",
+      "number": 58,
+      "name": "Disintegrate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/58.jpg"
+    },
+    {
+      "id": "25b12a09-cddb-4f84-9804-cb1224a38fb7",
+      "number": 59,
+      "name": "Dragon Whelp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/59.jpg"
+    },
+    {
+      "id": "8ed645ea-e4cb-4bd1-8aaf-5f8411bf225c",
+      "number": 60,
+      "name": "Dragonstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/60.jpg"
+    },
+    {
+      "id": "bcf16fb0-f60f-4b96-b5a6-2a42ae01e8cb",
+      "number": 61,
+      "name": "Eron the Relentless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/61.jpg"
+    },
+    {
+      "id": "92e79260-f9c1-4aae-826c-61de12178a34",
+      "number": 62,
+      "name": "Fiery Temper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/62.jpg"
+    },
+    {
+      "id": "53948505-1057-4d68-aa6f-291dfa63d475",
+      "number": 63,
+      "name": "Fire Whip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/63.jpg"
+    },
+    {
+      "id": "24dc6db4-671e-4d7d-ba11-89194ce0b2ad",
+      "number": 64,
+      "name": "Goblin Snowman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/64.jpg"
+    },
+    {
+      "id": "ef0a0cce-0f9f-4d47-9fc4-8c6a64f83404",
+      "number": 65,
+      "name": "Kobold Taskmaster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/65.jpg"
+    },
+    {
+      "id": "31f074bb-5ff6-4ce7-a186-1782d940c4a9",
+      "number": 66,
+      "name": "Orcish Librarian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/66.jpg"
+    },
+    {
+      "id": "e8961e50-dc20-40f9-86ca-968ba28ad0cc",
+      "number": 67,
+      "name": "Orgg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/67.jpg"
+    },
+    {
+      "id": "c54cc43c-8c06-4c23-8021-94689eeb4ad4",
+      "number": 68,
+      "name": "Pandemonium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/68.jpg"
+    },
+    {
+      "id": "a78fd825-1c68-4f6e-9d8d-31ab470f634a",
+      "number": 69,
+      "name": "Suq'Ata Lancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/69.jpg"
+    },
+    {
+      "id": "08576686-05a9-405a-983a-404c1d400981",
+      "number": 70,
+      "name": "Tribal Flames",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/70.jpg"
+    },
+    {
+      "id": "18bd9ec1-4784-4b8d-bdeb-8df4b91c954f",
+      "number": 71,
+      "name": "Uthden Troll",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/71.jpg"
+    },
+    {
+      "id": "9ad0f2cb-79da-4d8f-8010-39973c126b95",
+      "number": 72,
+      "name": "Wildfire Emissary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/72.jpg"
+    },
+    {
+      "id": "04c9f48d-2213-4f95-8eac-b23bd2d95e34",
+      "number": 73,
+      "name": "Avoid Fate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/73.jpg"
+    },
+    {
+      "id": "ebff1b5d-b948-48fa-9fa7-690b13ab5d71",
+      "number": 74,
+      "name": "Call of the Herd",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/74.jpg"
+    },
+    {
+      "id": "4efcc6db-66bd-42c1-9a74-fd474f784232",
+      "number": 75,
+      "name": "Cockatrice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/75.jpg"
+    },
+    {
+      "id": "81c5ee8f-a060-486c-a7f1-7bd600f6911a",
+      "number": 76,
+      "name": "Craw Giant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/76.jpg"
+    },
+    {
+      "id": "2f5ded38-db2d-490c-9521-200da0386232",
+      "number": 77,
+      "name": "Gaea's Blessing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/77.jpg"
+    },
+    {
+      "id": "3ade8d4a-6a47-4a01-9a0f-ff866055fd49",
+      "number": 78,
+      "name": "Gaea's Liege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/78.jpg"
+    },
+    {
+      "id": "8627bdbb-0ee3-4f4e-9016-ca0d33d27d40",
+      "number": 79,
+      "name": "Hail Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/79.jpg"
+    },
+    {
+      "id": "795f6b3d-823f-414f-acd8-1c59a100fdd7",
+      "number": 80,
+      "name": "Hunting Moa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/80.jpg"
+    },
+    {
+      "id": "01084157-60e5-4693-bbec-be60b0b4e04f",
+      "number": 81,
+      "name": "Jolrael, Empress of Beasts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/81.jpg"
+    },
+    {
+      "id": "9c5ac459-ebb7-44ec-bb6e-412c5ab04b75",
+      "number": 82,
+      "name": "Krosan Cloudscraper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/82.jpg"
+    },
+    {
+      "id": "352c45b0-a20a-427c-8f2e-f461983ce968",
+      "number": 83,
+      "name": "Scragnoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/83.jpg"
+    },
+    {
+      "id": "759522b6-264c-4a02-ad0a-e767e20f0ab1",
+      "number": 84,
+      "name": "Spike Feeder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/84.jpg"
+    },
+    {
+      "id": "d98e413b-35bb-424f-9ae9-3319cf433785",
+      "number": 85,
+      "name": "Spitting Slug",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/85.jpg"
+    },
+    {
+      "id": "6d4d2d63-3552-4e9c-8862-84a3ca3456d7",
+      "number": 86,
+      "name": "Thallid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/86.jpg"
+    },
+    {
+      "id": "5d71335d-cf06-4769-a1ce-f7d103703818",
+      "number": 87,
+      "name": "Thornscape Battlemage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/87.jpg"
+    },
+    {
+      "id": "ef6b08e0-6e5f-40e5-8c2a-c10c6e5beddc",
+      "number": 88,
+      "name": "Verdeloth the Ancient",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/88.jpg"
+    },
+    {
+      "id": "da80cb2d-2385-4a1a-9c93-c623102e9c50",
+      "number": 89,
+      "name": "Wall of Roots",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/89.jpg"
+    },
+    {
+      "id": "9f1772bc-3330-4a10-9524-5bdcbd50c871",
+      "number": 90,
+      "name": "Whirling Dervish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/90.jpg"
+    },
+    {
+      "id": "446824f7-dc42-42da-8bd5-6c37f3358d65",
+      "number": 91,
+      "name": "Coalition Victory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/91.jpg"
+    },
+    {
+      "id": "47668293-586b-4f9d-b1ab-c4fbde4ee944",
+      "number": 92,
+      "name": "Fiery Justice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/92.jpg"
+    },
+    {
+      "id": "004af467-815a-47c0-a974-1ae49ca3a1a8",
+      "number": 93,
+      "name": "Jasmine Boreal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/93.jpg"
+    },
+    {
+      "id": "322d5ba3-41cc-4e60-9d0a-074f48a71ea3",
+      "number": 94,
+      "name": "Lightning Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/94.jpg"
+    },
+    {
+      "id": "63f7cf94-78f6-4f30-ab24-8b90231520f1",
+      "number": 95,
+      "name": "Merieke Ri Berit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/95.jpg"
+    },
+    {
+      "id": "ec2a7910-61b5-42a0-900c-b06e520e20c4",
+      "number": 96,
+      "name": "Mystic Enforcer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/96.jpg"
+    },
+    {
+      "id": "5f5c59dd-e3e7-4179-b10b-d066e870eafb",
+      "number": 97,
+      "name": "Mystic Snake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/97.jpg"
+    },
+    {
+      "id": "78407de3-b97e-4e30-beea-ef268dda3042",
+      "number": 98,
+      "name": "Nicol Bolas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/98.jpg"
+    },
+    {
+      "id": "07016217-c1ba-4e34-85a7-298247b91440",
+      "number": 99,
+      "name": "Shadowmage Infiltrator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/99.jpg"
+    },
+    {
+      "id": "4c56d4b5-08fb-4547-91e2-6e5f8fae408d",
+      "number": 100,
+      "name": "Sol'kanar the Swamp King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/100.jpg"
+    },
+    {
+      "id": "ffe9f6f4-a94e-41bb-8025-25e1a1347b88",
+      "number": 101,
+      "name": "Spined Sliver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/101.jpg"
+    },
+    {
+      "id": "45f03556-cef5-438d-a1d8-66c297502622",
+      "number": 102,
+      "name": "Stormbind",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/102.jpg"
+    },
+    {
+      "id": "37566afe-d383-4aa1-a9e4-c4bdf91a06d3",
+      "number": 103,
+      "name": "Teferi's Moat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/103.jpg"
+    },
+    {
+      "id": "d4226842-4a97-46ae-9d16-c42b75ab8936",
+      "number": 104,
+      "name": "Vhati il-Dal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/104.jpg"
+    },
+    {
+      "id": "35be3cbb-88e8-4f4d-90bb-3ee302f3b12e",
+      "number": 105,
+      "name": "Void",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/105.jpg"
+    },
+    {
+      "id": "4a9f1e99-9de8-45cb-b035-4f920477e2e5",
+      "number": 106,
+      "name": "Assault // Battery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/106.jpg"
+    },
+    {
+      "id": "d02b645e-ba2c-44a0-889e-c1b46d2cd925",
+      "number": 107,
+      "name": "Claws of Gix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/107.jpg"
+    },
+    {
+      "id": "c562b66f-d661-4535-b9da-e1c35a650324",
+      "number": 108,
+      "name": "Dodecapod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/108.jpg"
+    },
+    {
+      "id": "726ce95b-bc4d-4c34-a8e1-b4c6c28accc9",
+      "number": 109,
+      "name": "Feldon's Cane",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/109.jpg"
+    },
+    {
+      "id": "1d8c8ecc-7637-424a-bae2-ed3b8678f97d",
+      "number": 110,
+      "name": "Grinning Totem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/110.jpg"
+    },
+    {
+      "id": "91df30da-731d-4612-822a-1e94154ae665",
+      "number": 111,
+      "name": "Mindless Automaton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/111.jpg"
+    },
+    {
+      "id": "ad1ec1f0-220a-4a5c-812d-367bd391e7e5",
+      "number": 112,
+      "name": "Mirari",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/112.jpg"
+    },
+    {
+      "id": "696d1e25-5c25-4522-b085-90d49fe23a18",
+      "number": 113,
+      "name": "The Rack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/113.jpg"
+    },
+    {
+      "id": "a2a31bc7-cb98-4199-b0dc-3f496e9f9dca",
+      "number": 114,
+      "name": "Serrated Arrows",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/114.jpg"
+    },
+    {
+      "id": "901c4e55-d578-4c20-95fe-26985145de57",
+      "number": 115,
+      "name": "Tormod's Crypt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/115.jpg"
+    },
+    {
+      "id": "3c26771c-a1ec-4055-8df4-d5b49bfe5b1e",
+      "number": 116,
+      "name": "War Barge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/116.jpg"
+    },
+    {
+      "id": "e5b7afa9-e07a-4a84-a41f-7a8bc5c1d274",
+      "number": 117,
+      "name": "Arena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/117.jpg"
+    },
+    {
+      "id": "fb89de70-d0e6-49ec-8aa9-1d31d3df1646",
+      "number": 118,
+      "name": "Desert",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/118.jpg"
+    },
+    {
+      "id": "26794aa3-7532-4611-a591-51a51e5f9189",
+      "number": 119,
+      "name": "Gemstone Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/119.jpg"
+    },
+    {
+      "id": "32fd7a5c-2881-4d37-9eea-5f7e44dea812",
+      "number": 120,
+      "name": "Pendelhaven",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/120.jpg"
+    },
+    {
+      "id": "d130205f-53e3-4c04-967c-4808d7945880",
+      "number": 121,
+      "name": "Safe Haven",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Time%20Spiral%20Timeshifted%20%28tsb%29/images/121.jpg"
+    }
+  ]
+}
