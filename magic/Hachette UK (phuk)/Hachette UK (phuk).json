@@ -1,0 +1,367 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Hachette UK",
+  "totalCards": 60,
+  "cards": [
+    {
+      "id": "974a571e-aea1-4e80-8e83-e6d9c6ef201b",
+      "number": 1,
+      "name": "Marrow-Gnawer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/1.jpg"
+    },
+    {
+      "id": "06a11bfc-9acb-4ed8-9a3c-923307eee0c5",
+      "number": 2,
+      "name": "Swarm of Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/2.jpg"
+    },
+    {
+      "id": "3ce3de8a-de37-4ae4-89a0-8cad68885609",
+      "number": 3,
+      "name": "Nocturnal Raid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/3.jpg"
+    },
+    {
+      "id": "8de16ba1-c1c5-4388-ad3b-a8dbb39af300",
+      "number": 4,
+      "name": "Skullsnatcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/4.jpg"
+    },
+    {
+      "id": "b3c1898d-76b6-438e-a7c3-3bb89ade1d30",
+      "number": 5,
+      "name": "Chittering Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/5.jpg"
+    },
+    {
+      "id": "6ec1bbdb-66a6-40f0-b70e-279d763e8746",
+      "number": 6,
+      "name": "Crippling Fatigue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/6.jpg"
+    },
+    {
+      "id": "d5b7723a-8230-4052-9ae1-4bfa46a1bd61",
+      "number": 7,
+      "name": "Dirty Wererat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/7.jpg"
+    },
+    {
+      "id": "f5de8d80-8695-4393-ae59-9b7a3ad738f3",
+      "number": 8,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/8.jpg"
+    },
+    {
+      "id": "555d2f6a-1360-4462-8554-0b1055c2cf89",
+      "number": 9,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/9.jpg"
+    },
+    {
+      "id": "ca9e8297-e9c4-4210-a34e-ec90dcab20dc",
+      "number": 10,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/10.jpg"
+    },
+    {
+      "id": "ca921179-f6ca-43f2-bd15-2250adc0c622",
+      "number": 11,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/11.jpg"
+    },
+    {
+      "id": "83c8d00d-6745-47a4-8447-330c81c3c8c1",
+      "number": 12,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/12.jpg"
+    },
+    {
+      "id": "e716076d-22b3-4614-b8f0-80ba0501913d",
+      "number": 13,
+      "name": "Infernal Contract",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/13.jpg"
+    },
+    {
+      "id": "67d6d416-9526-41ee-9406-98d9452ea96d",
+      "number": 14,
+      "name": "Swarm of Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/14.jpg"
+    },
+    {
+      "id": "ea18b372-2324-4d9c-a38e-fb35c599dd42",
+      "number": 15,
+      "name": "Sever Soul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/15.jpg"
+    },
+    {
+      "id": "b5b2605d-66e8-4e68-beee-d2eddae62175",
+      "number": 16,
+      "name": "Sever Soul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/16.jpg"
+    },
+    {
+      "id": "5cfd3cca-ae40-44be-b641-9b65363abfb7",
+      "number": 17,
+      "name": "Nezumi Cutthroat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/17.jpg"
+    },
+    {
+      "id": "208cebc5-692c-41b8-ae6d-c245c6981023",
+      "number": 18,
+      "name": "Dirge of Dread",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/18.jpg"
+    },
+    {
+      "id": "c42bbe41-bb0d-4c47-b33f-f10c6db39a5a",
+      "number": 19,
+      "name": "Chittering Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/19.jpg"
+    },
+    {
+      "id": "5af5abdb-32b6-4952-a4f4-0b2f12ea909a",
+      "number": 20,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/20.jpg"
+    },
+    {
+      "id": "b8f73f42-e3bb-4f4c-8000-f9c5e3751575",
+      "number": 21,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/21.jpg"
+    },
+    {
+      "id": "8ae8b805-3e41-4592-9c24-0530e28d8d96",
+      "number": 22,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/22.jpg"
+    },
+    {
+      "id": "91bc47eb-2807-4b5c-acde-a73115f49001",
+      "number": 23,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/23.jpg"
+    },
+    {
+      "id": "7cb6c2ca-879b-4b9b-8dd8-b29613143d7d",
+      "number": 24,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/24.jpg"
+    },
+    {
+      "id": "80df21ef-20e3-48ab-8324-6a9068533781",
+      "number": 25,
+      "name": "Patron of the Nezumi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/25.jpg"
+    },
+    {
+      "id": "97d048c2-7456-4d68-b2f9-19d91d5e68d7",
+      "number": 26,
+      "name": "Suppress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/26.jpg"
+    },
+    {
+      "id": "b26d02a0-f2fa-4ef8-8d1d-be5aca7a8db8",
+      "number": 27,
+      "name": "Swarm of Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/27.jpg"
+    },
+    {
+      "id": "6c925e34-4a60-4081-9517-b5ea262fe8ae",
+      "number": 28,
+      "name": "Crypt Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/28.jpg"
+    },
+    {
+      "id": "0095c374-5edf-41c2-b597-f6e18b348170",
+      "number": 29,
+      "name": "Nezumi Cutthroat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/29.jpg"
+    },
+    {
+      "id": "cb4dfa82-9f4e-4aec-8232-2ca19d7ae5f8",
+      "number": 30,
+      "name": "Crippling Fatigue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/30.jpg"
+    },
+    {
+      "id": "3507696a-cce3-44c2-9d66-84d525228938",
+      "number": 31,
+      "name": "Dirty Wererat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/31.jpg"
+    },
+    {
+      "id": "ccac7da6-f5a4-4aa7-8395-b5de626181b6",
+      "number": 32,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/32.jpg"
+    },
+    {
+      "id": "d4e6a5af-62b3-491c-8816-20ed34465275",
+      "number": 33,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/33.jpg"
+    },
+    {
+      "id": "a8942578-ce12-4446-94bc-ab1a14c94675",
+      "number": 34,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/34.jpg"
+    },
+    {
+      "id": "812ea477-952a-4ccd-a577-6ee4e46ae9bc",
+      "number": 35,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/35.jpg"
+    },
+    {
+      "id": "2b9a9fe0-b8b9-4eb1-bc45-2802ca949747",
+      "number": 36,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/36.jpg"
+    },
+    {
+      "id": "56a6a409-b898-4951-8930-ce4506a86741",
+      "number": 37,
+      "name": "Gravestorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/37.jpg"
+    },
+    {
+      "id": "2a253b6f-d5b8-4667-855d-c7213c595d5f",
+      "number": 38,
+      "name": "Nezumi Graverobber // Nighteyes the Desecrator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/38.jpg"
+    },
+    {
+      "id": "8b2e46cf-c8d7-416e-a0a5-31cf7d72659c",
+      "number": 39,
+      "name": "Nezumi Graverobber // Nighteyes the Desecrator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/39.jpg"
+    },
+    {
+      "id": "c54f6ac3-5822-4920-9cc3-38fe8c8a1f78",
+      "number": 40,
+      "name": "Carrion Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/40.jpg"
+    },
+    {
+      "id": "bc42576e-7501-40d7-9e21-78078850d952",
+      "number": 41,
+      "name": "Carrion Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/41.jpg"
+    },
+    {
+      "id": "4b8c62da-b6cf-453f-ac74-232caae3f8eb",
+      "number": 42,
+      "name": "Skullsnatcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/42.jpg"
+    },
+    {
+      "id": "68d2ae6a-359c-4a47-905a-84a377d486dd",
+      "number": 43,
+      "name": "Skullsnatcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/43.jpg"
+    },
+    {
+      "id": "3cbfdc8f-397f-4fba-9333-a6999c5eb687",
+      "number": 44,
+      "name": "Rats' Feast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/44.jpg"
+    },
+    {
+      "id": "3c081de6-16b3-4a03-ac0c-b1d967c3d516",
+      "number": 45,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/45.jpg"
+    },
+    {
+      "id": "e9693c4c-897d-46b0-9730-b2e656498751",
+      "number": 46,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/46.jpg"
+    },
+    {
+      "id": "16ebe270-422b-4f9d-8c46-bef94e1e5b4f",
+      "number": 47,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/47.jpg"
+    },
+    {
+      "id": "36ec637b-00b6-478d-b1b1-782ee47c6809",
+      "number": 48,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/48.jpg"
+    },
+    {
+      "id": "33d618cf-37f1-463a-840a-4f9e07ebd3d7",
+      "number": 49,
+      "name": "Larceny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/49.jpg"
+    },
+    {
+      "id": "77dc102f-1d0c-4144-b741-eb0df3d7c11e",
+      "number": 50,
+      "name": "Nezumi Bone-Reader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/50.jpg"
+    },
+    {
+      "id": "476177f6-bd50-406f-a04f-644b46c215a3",
+      "number": 51,
+      "name": "Diabolic Tutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/51.jpg"
+    },
+    {
+      "id": "cd063fe1-1160-436d-b883-5f2ddefd8dc3",
+      "number": 52,
+      "name": "Betrayal of Flesh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/52.jpg"
+    },
+    {
+      "id": "ed8aaa9c-a156-423f-9f7f-ac3c2017326b",
+      "number": 53,
+      "name": "Carrion Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/53.jpg"
+    },
+    {
+      "id": "5162306a-47f9-4725-bc6f-4610d2416a56",
+      "number": 54,
+      "name": "Chittering Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/54.jpg"
+    },
+    {
+      "id": "9fc02a94-bc32-4e55-82c9-f9bbf6368790",
+      "number": 55,
+      "name": "Rats' Feast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/55.jpg"
+    },
+    {
+      "id": "a6c0270a-3b2b-4f62-b7c3-9abe900f33d8",
+      "number": 56,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/56.jpg"
+    },
+    {
+      "id": "46c2785e-2957-4423-b860-79676d97baad",
+      "number": 57,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/57.jpg"
+    },
+    {
+      "id": "9ce167ea-78bc-4666-bd33-b6f1194dd944",
+      "number": 58,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/58.jpg"
+    },
+    {
+      "id": "6b4506ee-762e-4ed7-aa78-d4a1a68a1ec0",
+      "number": 59,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/59.jpg"
+    },
+    {
+      "id": "ea6cb47e-0963-4616-965b-6f18bd331030",
+      "number": 60,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Hachette%20UK%20%28phuk%29/images/60.jpg"
+    }
+  ]
+}
