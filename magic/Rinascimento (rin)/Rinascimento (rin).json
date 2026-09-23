@@ -1,0 +1,421 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Rinascimento",
+  "totalCards": 69,
+  "cards": [
+    {
+      "id": "66259d00-52f3-45d6-af95-7a1d2233edfb",
+      "number": 1,
+      "name": "Abu Ja'far",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/1.jpg"
+    },
+    {
+      "id": "87f890cf-1ee2-49aa-b650-51c69df51e62",
+      "number": 5,
+      "name": "Circle of Protection: Artifacts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/5.jpg"
+    },
+    {
+      "id": "211635a6-ce21-409c-a5f7-7e7e39fbbd99",
+      "number": 10,
+      "name": "Repentant Blacksmith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/10.jpg"
+    },
+    {
+      "id": "0c1f31c9-64d0-4a0b-9804-c4a3e6398639",
+      "number": 14,
+      "name": "War Elephant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/14.jpg"
+    },
+    {
+      "id": "7715d930-6d75-4b28-9e83-ebd0a1d792b8",
+      "number": 25,
+      "name": "Dandân",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/25.jpg"
+    },
+    {
+      "id": "a73933f7-6b81-471c-824e-657a86031393",
+      "number": 26,
+      "name": "Fishliver Oil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/26.jpg"
+    },
+    {
+      "id": "78ecdc6d-52e7-4a41-be96-623c11e314ea",
+      "number": 27,
+      "name": "Giant Tortoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/27.jpg"
+    },
+    {
+      "id": "332f5612-b51c-4bb4-a76d-70148f730fc3",
+      "number": 31,
+      "name": "Sindbad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/31.jpg"
+    },
+    {
+      "id": "bdf047a9-cbac-4057-af5d-01324e2bc926",
+      "number": 35,
+      "name": "Twiddle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/35.jpg"
+    },
+    {
+      "id": "47145a44-35ce-411e-86c2-438daff534b3",
+      "number": 50,
+      "name": "Cuombajj Witches",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/50.jpg"
+    },
+    {
+      "id": "feba4ad9-3d6d-4676-862a-c2cc9ad35350",
+      "number": 53,
+      "name": "Hasran Ogress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/53.jpg"
+    },
+    {
+      "id": "9f5ef111-fa5a-4b10-872e-d74728b62f1f",
+      "number": 55,
+      "name": "Junún Efreet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/55.jpg"
+    },
+    {
+      "id": "69918c6d-519d-49d5-8abb-9fa397db8e0a",
+      "number": 60,
+      "name": "Xenic Poltergeist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/60.jpg"
+    },
+    {
+      "id": "eb274109-9402-4ce5-90d5-d71189970b92",
+      "number": 61,
+      "name": "Yawgmoth Demon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/61.jpg"
+    },
+    {
+      "id": "a17cef18-0a3b-4f41-a467-cddb659ab076",
+      "number": 70,
+      "name": "Aladdin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/70.jpg"
+    },
+    {
+      "id": "5e2bcd90-1d34-4ef6-a5eb-e0e790ca44e0",
+      "number": 71,
+      "name": "Ali Baba",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/71.jpg"
+    },
+    {
+      "id": "ad8dfe2f-ca4e-463d-ad04-44f11aa3d933",
+      "number": 72,
+      "name": "Bird Maiden",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/72.jpg"
+    },
+    {
+      "id": "b01c0d5a-25e3-4e5a-baea-2dd3a3693118",
+      "number": 77,
+      "name": "Detonate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/77.jpg"
+    },
+    {
+      "id": "f6cf2517-a7fa-4444-bfa7-abe5941c50bb",
+      "number": 79,
+      "name": "Goblin Artisans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/79.jpg"
+    },
+    {
+      "id": "dfd87dd3-4505-4a51-8972-dd9457789f6f",
+      "number": 81,
+      "name": "Hurr Jackal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/81.jpg"
+    },
+    {
+      "id": "840da7c6-3494-41c6-9d12-3207b586303c",
+      "number": 82,
+      "name": "Ironclaw Orcs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/82.jpg"
+    },
+    {
+      "id": "7b464e4a-8cc9-4c6a-9692-eb7d202617a5",
+      "number": 99,
+      "name": "Amulet of Kroog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/99.jpg"
+    },
+    {
+      "id": "5173186b-ab9b-4d58-b645-5c26bcd7dfdd",
+      "number": 100,
+      "name": "Argothian Pixies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/100.jpg"
+    },
+    {
+      "id": "99ea166b-01f3-44f2-8e93-da829ea8b5ed",
+      "number": 101,
+      "name": "Ashnod's Altar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/101.jpg"
+    },
+    {
+      "id": "2d71186c-812c-4148-8fb6-7f5f309ba905",
+      "number": 102,
+      "name": "Ashnod's Battle Gear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/102.jpg"
+    },
+    {
+      "id": "f790fd2d-a325-43a5-a46a-86e3b91ec8db",
+      "number": 103,
+      "name": "Ashnod's Transmogrant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/103.jpg"
+    },
+    {
+      "id": "f4e309c1-8b0d-400a-a289-4752a996773b",
+      "number": 105,
+      "name": "Battering Ram",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/105.jpg"
+    },
+    {
+      "id": "565d6e4f-57a2-465a-a9ce-9a55c2b118ad",
+      "number": 106,
+      "name": "Bronze Tablet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/106.jpg"
+    },
+    {
+      "id": "3f8d4232-0fde-4e69-823f-5fdf60d8ad96",
+      "number": 109,
+      "name": "Clay Statue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/109.jpg"
+    },
+    {
+      "id": "e4c7eb6b-98d2-4b3c-b93d-0317e593a94e",
+      "number": 110,
+      "name": "Clockwork Avian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/110.jpg"
+    },
+    {
+      "id": "c4b384c8-1aad-4b17-a7e6-e8e616f2542b",
+      "number": 111,
+      "name": "Colossus of Sardia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/111.jpg"
+    },
+    {
+      "id": "7bab6468-32d4-4b0f-87fe-dcc644d0fe98",
+      "number": 113,
+      "name": "Coral Helm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/113.jpg"
+    },
+    {
+      "id": "cac00b69-e889-4f1a-b9cd-f0670bf7e60c",
+      "number": 114,
+      "name": "Cursed Rack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/114.jpg"
+    },
+    {
+      "id": "45b467e2-9cb7-4fb4-9ecc-e68bea2df130",
+      "number": 116,
+      "name": "Cyclone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/116.jpg"
+    },
+    {
+      "id": "8129cda8-ed12-44f2-b110-aab04ab7bea3",
+      "number": 118,
+      "name": "Erhnam Djinn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/118.jpg"
+    },
+    {
+      "id": "435acd51-6996-495a-9246-54f590e0471f",
+      "number": 119,
+      "name": "Feldon's Cane",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/119.jpg"
+    },
+    {
+      "id": "da50d893-1d0e-4ba2-9de1-1db2b6fd1c33",
+      "number": 121,
+      "name": "Ghazbán Ogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/121.jpg"
+    },
+    {
+      "id": "2b6a8ad3-103d-4d53-b8b7-3fc8ec0ad972",
+      "number": 125,
+      "name": "Grapeshot Catapult",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/125.jpg"
+    },
+    {
+      "id": "e6c5e1a0-1ac9-415a-befa-a1bfe8825bb0",
+      "number": 127,
+      "name": "Jalum Tome",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/127.jpg"
+    },
+    {
+      "id": "6778733f-b5c2-4803-8f7b-8ff95cc7d8b8",
+      "number": 128,
+      "name": "Jeweled Bird",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/128.jpg"
+    },
+    {
+      "id": "56360456-1bb7-4461-98a0-b63c30caf28b",
+      "number": 130,
+      "name": "Metamorphosis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/130.jpg"
+    },
+    {
+      "id": "4fa4e9f0-6520-473e-837f-5669f0ca98ff",
+      "number": 132,
+      "name": "Nafs Asp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/132.jpg"
+    },
+    {
+      "id": "ab4e3d43-563d-4566-95e5-43adc38f14d1",
+      "number": 134,
+      "name": "Obelisk of Undoing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/134.jpg"
+    },
+    {
+      "id": "57d25355-b699-4dd4-8241-9543f659182e",
+      "number": 135,
+      "name": "Rakalite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/135.jpg"
+    },
+    {
+      "id": "1bc0400e-af61-4922-ba7d-7b9a99688262",
+      "number": 137,
+      "name": "Sandstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/137.jpg"
+    },
+    {
+      "id": "8d3974c2-cdb4-4d5d-868c-a2f0aaf381c4",
+      "number": 138,
+      "name": "Shapeshifter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/138.jpg"
+    },
+    {
+      "id": "0d34ad74-fe2c-4b17-be9a-cb63b60b7acb",
+      "number": 139,
+      "name": "Tawnos's Wand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/139.jpg"
+    },
+    {
+      "id": "65a87d70-f6f1-41ea-a406-65c2c42b8a1c",
+      "number": 140,
+      "name": "Tawnos's Weaponry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/140.jpg"
+    },
+    {
+      "id": "b40cb42c-a8d1-4fab-a78e-8f544d867936",
+      "number": 141,
+      "name": "Tetravus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/141.jpg"
+    },
+    {
+      "id": "4264a36f-480e-49df-b00c-29aafd15ee41",
+      "number": 142,
+      "name": "Triskelion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/142.jpg"
+    },
+    {
+      "id": "01f12395-cef5-4d85-9d68-4ae1f3613fb4",
+      "number": 144,
+      "name": "Urza's Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/144.jpg"
+    },
+    {
+      "id": "98d2a851-c48f-4012-a871-76d616404e34",
+      "number": 148,
+      "name": "Wall of Spears",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/148.jpg"
+    },
+    {
+      "id": "d00c5f98-9a7d-41e2-9f76-faedca958153",
+      "number": 150,
+      "name": "Yotian Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/150.jpg"
+    },
+    {
+      "id": "ea5dc646-fb05-4d2d-92db-5c2d7931dcc3",
+      "number": 171,
+      "name": "City of Brass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/171.jpg"
+    },
+    {
+      "id": "747eb1be-7303-4ecb-bc93-81761a2f0c5c",
+      "number": 172,
+      "name": "Mishra's Factory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/172.jpg"
+    },
+    {
+      "id": "6dad7659-aea2-466c-80a7-58b36d86048b",
+      "number": 173,
+      "name": "Oasis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/173.jpg"
+    },
+    {
+      "id": "0c5060cb-b9ec-482d-a321-533c67805758",
+      "number": 174,
+      "name": "Strip Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/174.jpg"
+    },
+    {
+      "id": "f0b8934e-9ff0-4c3e-987e-9c4fb1445b77",
+      "number": 175,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/175.jpg"
+    },
+    {
+      "id": "d2de2721-7f82-4cef-bca7-ac04dbb3779c",
+      "number": 176,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/176.jpg"
+    },
+    {
+      "id": "5c07c384-8ce9-4be0-a739-699a294fcf47",
+      "number": 177,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/177.jpg"
+    },
+    {
+      "id": "e17d4495-efce-40e3-aa94-27d45b4ce636",
+      "number": 178,
+      "name": "Urza's Mine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/178.jpg"
+    },
+    {
+      "id": "00fe59e8-d1ab-4f74-a7f4-a8feca3705ee",
+      "number": 179,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/179.jpg"
+    },
+    {
+      "id": "3c933622-1db9-48ce-9d76-fa1bca42d615",
+      "number": 180,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/180.jpg"
+    },
+    {
+      "id": "e3d0ec69-69ba-4185-b268-5f6890ada0d6",
+      "number": 181,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/181.jpg"
+    },
+    {
+      "id": "4a86d6b5-946e-41e4-9c78-edec3f5bb981",
+      "number": 182,
+      "name": "Urza's Power Plant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/182.jpg"
+    },
+    {
+      "id": "a0240c3c-7219-4d5d-ac85-c369e4b180eb",
+      "number": 183,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/183.jpg"
+    },
+    {
+      "id": "f6ecf34e-7642-43d4-855b-36e125e4c69e",
+      "number": 184,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/184.jpg"
+    },
+    {
+      "id": "139f0169-80b1-4c9b-9e0f-370cedd0022c",
+      "number": 185,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/185.jpg"
+    },
+    {
+      "id": "dc2c039e-fbf9-4e45-874d-b0ab0d923e52",
+      "number": 186,
+      "name": "Urza's Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Rinascimento%20%28rin%29/images/186.jpg"
+    }
+  ]
+}

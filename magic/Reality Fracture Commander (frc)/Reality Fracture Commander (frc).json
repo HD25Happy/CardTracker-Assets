@@ -1,0 +1,625 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Reality Fracture Commander",
+  "totalCards": 103,
+  "cards": [
+    {
+      "id": "55cd03d9-2535-4cf3-a8b2-1418e1190f4a",
+      "number": 1,
+      "name": "Jace, Multiverse Architect",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/1.jpg"
+    },
+    {
+      "id": "e969d1f3-9595-498b-81cb-6cf4df2cad5d",
+      "number": 2,
+      "name": "Nissa, Leyline Tamer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/2.jpg"
+    },
+    {
+      "id": "727511d8-be1a-4c2e-92f6-5cc9d67a2b0c",
+      "number": 3,
+      "name": "Omnath, Locus of the Void",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/3.jpg"
+    },
+    {
+      "id": "b0db02cb-d029-46d5-9df2-dee980047758",
+      "number": 4,
+      "name": "Dack Fayden, Helping Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/4.jpg"
+    },
+    {
+      "id": "a022d35a-9d24-4818-9ff3-a522cfcb178e",
+      "number": 5,
+      "name": "Ob Nixilis, the Ascended",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/5.jpg"
+    },
+    {
+      "id": "fb4a1f07-4c1f-4d08-af5d-17f1bb77f9e5",
+      "number": 6,
+      "name": "Teferi's Reproach",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/6.jpg"
+    },
+    {
+      "id": "ff65f46b-0f82-49b8-93b9-7ac0243ce941",
+      "number": 7,
+      "name": "Avacyn, Angel of Horror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/7.jpg"
+    },
+    {
+      "id": "1874c58d-00ce-4973-a318-50ce21d1a675",
+      "number": 8,
+      "name": "Jhoira, Weatherlight Corsair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/8.jpg"
+    },
+    {
+      "id": "0de6353b-5c19-40f7-951a-2b600db21846",
+      "number": 9,
+      "name": "Venser, Fervent Forger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/9.jpg"
+    },
+    {
+      "id": "0ad0e168-ac5c-4e1b-83f2-0488067a58d7",
+      "number": 10,
+      "name": "Niv-Mizzet, Ghost Counsel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/10.jpg"
+    },
+    {
+      "id": "0d52b0fd-60a4-4e90-bc4a-3200493779d3",
+      "number": 11,
+      "name": "Tamiyo, Upriser Crowned",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/11.jpg"
+    },
+    {
+      "id": "d9e9d9a8-86c2-4e58-b818-466247725259",
+      "number": 12,
+      "name": "The Ur-Sphinx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/12.jpg"
+    },
+    {
+      "id": "0c33024e-9473-4d5b-8433-9898380282c4",
+      "number": 13,
+      "name": "Darksteel Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/13.jpg"
+    },
+    {
+      "id": "f4ff6bf9-89a9-4c2a-84a2-d4ceb7168adf",
+      "number": 14,
+      "name": "Ginger, Queen of Sweets",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/14.jpg"
+    },
+    {
+      "id": "60d05210-c2b1-4248-a470-e0f8123d33f8",
+      "number": 15,
+      "name": "Memnarch, the Warden",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/15.jpg"
+    },
+    {
+      "id": "0cb04417-063e-45f7-86d3-7648111d04d7",
+      "number": 16,
+      "name": "Turbulent Crater",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/16.jpg"
+    },
+    {
+      "id": "92039341-152a-4797-a3df-e89e8d5145d3",
+      "number": 17,
+      "name": "Turbulent Shore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/17.jpg"
+    },
+    {
+      "id": "8d86f7f8-492d-4e19-8b61-39084c6299ac",
+      "number": 18,
+      "name": "Turbulent Wetlands",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/18.jpg"
+    },
+    {
+      "id": "2b5ac7bd-3788-4c8b-b945-c1105986807a",
+      "number": 19,
+      "name": "Akroma, Angel of Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/19.jpg"
+    },
+    {
+      "id": "c6b6117c-faab-4bbb-b851-07bd8061ef03",
+      "number": 20,
+      "name": "Arcane Signet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/20.jpg"
+    },
+    {
+      "id": "8ee443cc-e17a-493b-9c93-1f9e141a30e4",
+      "number": 21,
+      "name": "Sol Ring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/21.jpg"
+    },
+    {
+      "id": "1ac6cb62-45da-4e9a-84c6-09e6eacf0664",
+      "number": 22,
+      "name": "Command Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/22.jpg"
+    },
+    {
+      "id": "cbc4281a-b70d-4f96-b309-38e986484829",
+      "number": 23,
+      "name": "Reflecting Pool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/23.jpg"
+    },
+    {
+      "id": "a91d9163-c1f2-4eae-acab-5dabbc71d7d4",
+      "number": 24,
+      "name": "Elspeth, Sun's Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/24.jpg"
+    },
+    {
+      "id": "3ffe82a4-584e-4ebd-9551-a745bed01e26",
+      "number": 25,
+      "name": "Flawless Maneuver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/25.jpg"
+    },
+    {
+      "id": "a60834b0-38ab-40c9-9fd9-db3a23b13076",
+      "number": 26,
+      "name": "Grand Crescendo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/26.jpg"
+    },
+    {
+      "id": "e5b16141-d185-4be2-97c1-5b0ef5483728",
+      "number": 27,
+      "name": "Lingering Souls",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/27.jpg"
+    },
+    {
+      "id": "5c4d0ad9-4d57-4e5c-b478-059220f5b1dd",
+      "number": 28,
+      "name": "Martial Coup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/28.jpg"
+    },
+    {
+      "id": "152d9e61-40f4-489a-b94d-af17a3674441",
+      "number": 29,
+      "name": "Overlord of the Mistmoors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/29.jpg"
+    },
+    {
+      "id": "22e08a78-55b7-46b0-bd1a-a51548fc1861",
+      "number": 30,
+      "name": "Path to Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/30.jpg"
+    },
+    {
+      "id": "83a01121-e5cd-45ba-97c2-7bd7d50158e6",
+      "number": 31,
+      "name": "Secure the Wastes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/31.jpg"
+    },
+    {
+      "id": "0a69b668-7b7c-4da9-af49-e8cbc13797cc",
+      "number": 32,
+      "name": "Serra's Emissary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/32.jpg"
+    },
+    {
+      "id": "e2652c4d-38a7-4014-94bb-7efd277de992",
+      "number": 33,
+      "name": "Skrelv's Hive",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/33.jpg"
+    },
+    {
+      "id": "f9321060-c1bf-4190-aaf6-253d6df64237",
+      "number": 34,
+      "name": "Staff of the Storyteller",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/34.jpg"
+    },
+    {
+      "id": "d42b9f9e-2df2-491e-b6ac-3b2bac8a8d8e",
+      "number": 35,
+      "name": "Stroke of Midnight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/35.jpg"
+    },
+    {
+      "id": "a560b9a7-4c00-4c0c-b63d-774d3f6b9aa9",
+      "number": 36,
+      "name": "Sunfall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/36.jpg"
+    },
+    {
+      "id": "f7e12477-d59f-442b-a678-1be746d0b7be",
+      "number": 37,
+      "name": "Swords to Plowshares",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/37.jpg"
+    },
+    {
+      "id": "ae7a778c-f4a7-447f-90f0-146997e03398",
+      "number": 38,
+      "name": "White Sun's Twilight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/38.jpg"
+    },
+    {
+      "id": "ec7d6864-7b6b-4f74-8474-9b9ec96b1d33",
+      "number": 39,
+      "name": "Brainstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/39.jpg"
+    },
+    {
+      "id": "2dc20172-4cf0-4ada-a4f3-4ef951cb8207",
+      "number": 40,
+      "name": "Brainsurge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/40.jpg"
+    },
+    {
+      "id": "eb1a25c5-1918-40f3-b54f-5d31cf6b4eb2",
+      "number": 41,
+      "name": "Fact or Fiction",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/41.jpg"
+    },
+    {
+      "id": "b29db023-28d0-411d-864a-8f1e22ae1f74",
+      "number": 42,
+      "name": "Mass Polymorph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/42.jpg"
+    },
+    {
+      "id": "e5fcfaff-2fd0-46d8-b863-ad25558c9e95",
+      "number": 43,
+      "name": "Occult Epiphany",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/43.jpg"
+    },
+    {
+      "id": "605ca3c0-7c9a-4bc1-9795-82aeb6f552ee",
+      "number": 44,
+      "name": "Shark Typhoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/44.jpg"
+    },
+    {
+      "id": "78ab1d69-da01-424b-9d09-ef985aef4cbd",
+      "number": 45,
+      "name": "Synthetic Destiny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/45.jpg"
+    },
+    {
+      "id": "137b69ad-3296-49f1-bddf-24818a03830f",
+      "number": 46,
+      "name": "Archfiend of Despair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/46.jpg"
+    },
+    {
+      "id": "95ff951b-a098-409c-86c8-373b6c9f8331",
+      "number": 47,
+      "name": "Archon of Cruelty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/47.jpg"
+    },
+    {
+      "id": "9bbfad2d-a3b5-4119-aea4-0793b7a9da88",
+      "number": 48,
+      "name": "Dreadhorde Invasion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/48.jpg"
+    },
+    {
+      "id": "1e82aa17-1eac-49e8-8a63-50357e564997",
+      "number": 49,
+      "name": "Cursed Mirror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/49.jpg"
+    },
+    {
+      "id": "2c09f45f-54a5-47b5-afd7-9ac7c05438e7",
+      "number": 50,
+      "name": "Despark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/50.jpg"
+    },
+    {
+      "id": "e1de5fb8-7206-44a6-b827-5c6a21c25296",
+      "number": 51,
+      "name": "Whirlwind of Thought",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/51.jpg"
+    },
+    {
+      "id": "235f5564-0928-411f-ade8-53838890f720",
+      "number": 52,
+      "name": "Windcrag Siege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/52.jpg"
+    },
+    {
+      "id": "af690536-b0bc-4d85-8bb8-f6856b9f927b",
+      "number": 53,
+      "name": "Azorius Signet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/53.jpg"
+    },
+    {
+      "id": "424c40b0-49d8-4a6f-a0ef-545738224ec9",
+      "number": 54,
+      "name": "Chromatic Lantern",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/54.jpg"
+    },
+    {
+      "id": "f91b18ef-ac8a-4d4c-9586-b101681d33e2",
+      "number": 55,
+      "name": "Currency Converter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/55.jpg"
+    },
+    {
+      "id": "0862060d-3198-4eeb-af8c-efeb27f42a99",
+      "number": 56,
+      "name": "Dimir Signet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/56.jpg"
+    },
+    {
+      "id": "bc99f300-29c0-44e7-9560-7bbd1dda7556",
+      "number": 57,
+      "name": "Fellwar Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/57.jpg"
+    },
+    {
+      "id": "d5e141ad-5cb8-416b-9acf-bce1baeb6b6b",
+      "number": 58,
+      "name": "Izzet Signet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/58.jpg"
+    },
+    {
+      "id": "e6fcedb4-4152-47c3-a97e-34f4483ff94d",
+      "number": 59,
+      "name": "Proteus Staff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/59.jpg"
+    },
+    {
+      "id": "a263e71d-953f-4648-b326-33133cfa7e00",
+      "number": 60,
+      "name": "Rakdos Signet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/60.jpg"
+    },
+    {
+      "id": "d4ba86c8-8052-4c9e-a0d0-ac6ad0b2679c",
+      "number": 61,
+      "name": "Talisman of Creativity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/61.jpg"
+    },
+    {
+      "id": "78d5366f-eb6d-4ec1-880b-111872863766",
+      "number": 62,
+      "name": "Talisman of Dominance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/62.jpg"
+    },
+    {
+      "id": "36bd614f-ab3b-4ad1-ab5c-a7ca0a641f32",
+      "number": 63,
+      "name": "Talisman of Indulgence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/63.jpg"
+    },
+    {
+      "id": "454ed9c8-3ec1-4b65-bf3f-29a186742aed",
+      "number": 64,
+      "name": "Talisman of Progress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/64.jpg"
+    },
+    {
+      "id": "ef7d3676-b1db-4329-9201-18f8a6c54ea6",
+      "number": 65,
+      "name": "Battlefield Forge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/65.jpg"
+    },
+    {
+      "id": "ca814c7c-9908-4727-b556-3f85bfd653ca",
+      "number": 66,
+      "name": "Caves of Koilos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/66.jpg"
+    },
+    {
+      "id": "cd112d5c-102f-45a6-b26c-f80cc97d4df2",
+      "number": 67,
+      "name": "Clifftop Retreat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/67.jpg"
+    },
+    {
+      "id": "f9274fad-3f30-454a-8d61-d487165090d7",
+      "number": 68,
+      "name": "Contaminated Landscape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/68.jpg"
+    },
+    {
+      "id": "4acb0f92-74be-40e8-b70e-61c4aaaeb47b",
+      "number": 69,
+      "name": "Drowned Catacomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/69.jpg"
+    },
+    {
+      "id": "cc14b1ee-5def-42df-8ef6-0d91dba39e3a",
+      "number": 70,
+      "name": "Exotic Orchard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/70.jpg"
+    },
+    {
+      "id": "76edd22f-808e-4a7c-b941-13c0f5e30418",
+      "number": 71,
+      "name": "Fabled Passage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/71.jpg"
+    },
+    {
+      "id": "ae07ff9f-d5a8-4220-b08f-fe8fad5adcb7",
+      "number": 72,
+      "name": "Fetid Heath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/72.jpg"
+    },
+    {
+      "id": "3c726a60-8de7-4d5e-8ad5-8405e6ac36b5",
+      "number": 73,
+      "name": "Glacial Fortress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/73.jpg"
+    },
+    {
+      "id": "b3169b9a-f5e3-402e-883a-08274d0c7b12",
+      "number": 74,
+      "name": "Isolated Chapel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/74.jpg"
+    },
+    {
+      "id": "15ca0b68-33a1-4d25-b622-d3f5ba05b0a5",
+      "number": 75,
+      "name": "Kher Keep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/75.jpg"
+    },
+    {
+      "id": "fa32d90e-1153-42ab-b8ff-0eb82698692c",
+      "number": 76,
+      "name": "Mystic Gate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/76.jpg"
+    },
+    {
+      "id": "c047dedc-43bc-4a7c-bca4-182283c89069",
+      "number": 77,
+      "name": "Path of Ancestry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/77.jpg"
+    },
+    {
+      "id": "fec4ca25-ef4c-4500-9bec-60d29c060b83",
+      "number": 78,
+      "name": "Perilous Landscape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/78.jpg"
+    },
+    {
+      "id": "a93c2e0b-3fca-476e-ae5b-a331ccacae19",
+      "number": 79,
+      "name": "Prairie Stream",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/79.jpg"
+    },
+    {
+      "id": "f8cd6aae-a1cb-43b1-aca9-09fe2778969f",
+      "number": 80,
+      "name": "Radiant Summit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/80.jpg"
+    },
+    {
+      "id": "109900a9-6dcb-4f89-b84c-0ce0a0175e8f",
+      "number": 81,
+      "name": "Restless Anchorage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/81.jpg"
+    },
+    {
+      "id": "30ecfd44-8dd4-4ae3-9076-14799f8a9a14",
+      "number": 82,
+      "name": "Restless Spire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/82.jpg"
+    },
+    {
+      "id": "9fb3938c-9ecf-46cc-865a-0091455419f9",
+      "number": 83,
+      "name": "Shivan Reef",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/83.jpg"
+    },
+    {
+      "id": "2b20fa73-c6de-49c1-b3d0-6ebd543a00d0",
+      "number": 84,
+      "name": "Sulfur Falls",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/84.jpg"
+    },
+    {
+      "id": "be340a1c-f1e7-446e-ae91-86ecb884479c",
+      "number": 85,
+      "name": "Sulfurous Springs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/85.jpg"
+    },
+    {
+      "id": "b8652a52-d9f6-42ad-9746-6827845b540e",
+      "number": 86,
+      "name": "Sunken Ruins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/86.jpg"
+    },
+    {
+      "id": "e8b05f37-815f-4854-bf82-ca544ca67532",
+      "number": 87,
+      "name": "Underground River",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/87.jpg"
+    },
+    {
+      "id": "6183342b-7dce-49e1-a1c3-bdadbeeabbd3",
+      "number": 88,
+      "name": "Omnath, Locus of the Void",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/88.jpg"
+    },
+    {
+      "id": "77a1ef5a-9ebf-4e23-97c6-39ff744c84da",
+      "number": 89,
+      "name": "Dack Fayden, Helping Hand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/89.jpg"
+    },
+    {
+      "id": "c889f089-423b-4b36-b1ca-8ccc7485d144",
+      "number": 90,
+      "name": "Ob Nixilis, the Ascended",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/90.jpg"
+    },
+    {
+      "id": "1a03bb37-70fe-4d70-880e-d6214bb250d6",
+      "number": 91,
+      "name": "Teferi's Reproach",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/91.jpg"
+    },
+    {
+      "id": "4fc478a2-7cf8-4946-a631-51bd4f1823e6",
+      "number": 92,
+      "name": "Avacyn, Angel of Horror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/92.jpg"
+    },
+    {
+      "id": "116dc6fb-cfa4-4bc6-b897-95dd0ee0a642",
+      "number": 93,
+      "name": "Jhoira, Weatherlight Corsair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/93.jpg"
+    },
+    {
+      "id": "78f81f7d-6c79-4912-a830-43479321a900",
+      "number": 94,
+      "name": "Venser, Fervent Forger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/94.jpg"
+    },
+    {
+      "id": "c4888f71-4fe8-4ddf-8dfd-89845dc20a29",
+      "number": 95,
+      "name": "Niv-Mizzet, Ghost Counsel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/95.jpg"
+    },
+    {
+      "id": "c50640c8-4878-47f3-ae16-30a8c62f08be",
+      "number": 96,
+      "name": "Tamiyo, Upriser Crowned",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/96.jpg"
+    },
+    {
+      "id": "2395b07a-d237-4e48-9723-b9a50e9fffc2",
+      "number": 97,
+      "name": "The Ur-Sphinx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/97.jpg"
+    },
+    {
+      "id": "efc002a4-a1ab-466c-a24f-e6f5e5f5bdb4",
+      "number": 98,
+      "name": "Darksteel Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/98.jpg"
+    },
+    {
+      "id": "321e0ec3-e2d7-4bd8-98df-8fec88e365c0",
+      "number": 99,
+      "name": "Ginger, Queen of Sweets",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/99.jpg"
+    },
+    {
+      "id": "264ff4ea-8dd3-4a57-9829-8f127956b108",
+      "number": 100,
+      "name": "Memnarch, the Warden",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/100.jpg"
+    },
+    {
+      "id": "4c0dedc9-6675-44e7-b8b1-73928300d44e",
+      "number": 101,
+      "name": "Turbulent Crater",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/101.jpg"
+    },
+    {
+      "id": "68353281-ebcc-4dcb-853c-f4d128c992d2",
+      "number": 102,
+      "name": "Turbulent Shore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/102.jpg"
+    },
+    {
+      "id": "0da94a82-cd65-478d-a3f7-e54ae6ca7e9b",
+      "number": 103,
+      "name": "Turbulent Wetlands",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Reality%20Fracture%20Commander%20%28frc%29/images/103.jpg"
+    }
+  ]
+}
