@@ -1,0 +1,626 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Triumphant",
+  "totalCards": 103,
+  "availableImages": 103,
+  "cards": [
+    {
+      "id": "hgss4-1",
+      "number": 1,
+      "name": "Aggron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/1.png"
+    },
+    {
+      "id": "hgss4-2",
+      "number": 2,
+      "name": "Altaria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/2.png"
+    },
+    {
+      "id": "hgss4-3",
+      "number": 3,
+      "name": "Celebi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/3.png"
+    },
+    {
+      "id": "hgss4-4",
+      "number": 4,
+      "name": "Drapion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/4.png"
+    },
+    {
+      "id": "hgss4-5",
+      "number": 5,
+      "name": "Mamoswine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/5.png"
+    },
+    {
+      "id": "hgss4-6",
+      "number": 6,
+      "name": "Nidoking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/6.png"
+    },
+    {
+      "id": "hgss4-7",
+      "number": 7,
+      "name": "Porygon-Z",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/7.png"
+    },
+    {
+      "id": "hgss4-8",
+      "number": 8,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/8.png"
+    },
+    {
+      "id": "hgss4-9",
+      "number": 9,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/9.png"
+    },
+    {
+      "id": "hgss4-10",
+      "number": 10,
+      "name": "Spiritomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/10.png"
+    },
+    {
+      "id": "hgss4-11",
+      "number": 11,
+      "name": "Venomoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/11.png"
+    },
+    {
+      "id": "hgss4-12",
+      "number": 12,
+      "name": "Victreebel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/12.png"
+    },
+    {
+      "id": "hgss4-13",
+      "number": 13,
+      "name": "Ambipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/13.png"
+    },
+    {
+      "id": "hgss4-14",
+      "number": 14,
+      "name": "Banette",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/14.png"
+    },
+    {
+      "id": "hgss4-15",
+      "number": 15,
+      "name": "Bronzong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/15.png"
+    },
+    {
+      "id": "hgss4-16",
+      "number": 16,
+      "name": "Carnivine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/16.png"
+    },
+    {
+      "id": "hgss4-17",
+      "number": 17,
+      "name": "Ditto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/17.png"
+    },
+    {
+      "id": "hgss4-18",
+      "number": 18,
+      "name": "Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/18.png"
+    },
+    {
+      "id": "hgss4-19",
+      "number": 19,
+      "name": "Dugtrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/19.png"
+    },
+    {
+      "id": "hgss4-20",
+      "number": 20,
+      "name": "Electivire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/20.png"
+    },
+    {
+      "id": "hgss4-21",
+      "number": 21,
+      "name": "Elekid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/21.png"
+    },
+    {
+      "id": "hgss4-22",
+      "number": 22,
+      "name": "Golduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/22.png"
+    },
+    {
+      "id": "hgss4-23",
+      "number": 23,
+      "name": "Grumpig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/23.png"
+    },
+    {
+      "id": "hgss4-24",
+      "number": 24,
+      "name": "Kricketune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/24.png"
+    },
+    {
+      "id": "hgss4-25",
+      "number": 25,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/25.png"
+    },
+    {
+      "id": "hgss4-26",
+      "number": 26,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/26.png"
+    },
+    {
+      "id": "hgss4-27",
+      "number": 27,
+      "name": "Magmortar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/27.png"
+    },
+    {
+      "id": "hgss4-28",
+      "number": 28,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/28.png"
+    },
+    {
+      "id": "hgss4-29",
+      "number": 29,
+      "name": "Pidgeot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/29.png"
+    },
+    {
+      "id": "hgss4-30",
+      "number": 30,
+      "name": "Sharpedo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/30.png"
+    },
+    {
+      "id": "hgss4-31",
+      "number": 31,
+      "name": "Wailord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/31.png"
+    },
+    {
+      "id": "hgss4-32",
+      "number": 32,
+      "name": "Dragonair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/32.png"
+    },
+    {
+      "id": "hgss4-33",
+      "number": 33,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/33.png"
+    },
+    {
+      "id": "hgss4-34",
+      "number": 34,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/34.png"
+    },
+    {
+      "id": "hgss4-35",
+      "number": 35,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/35.png"
+    },
+    {
+      "id": "hgss4-36",
+      "number": 36,
+      "name": "Kangaskhan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/36.png"
+    },
+    {
+      "id": "hgss4-37",
+      "number": 37,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/37.png"
+    },
+    {
+      "id": "hgss4-38",
+      "number": 38,
+      "name": "Lickilicky",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/38.png"
+    },
+    {
+      "id": "hgss4-39",
+      "number": 39,
+      "name": "Luvdisc",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/39.png"
+    },
+    {
+      "id": "hgss4-40",
+      "number": 40,
+      "name": "Machoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/40.png"
+    },
+    {
+      "id": "hgss4-41",
+      "number": 41,
+      "name": "Magby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/41.png"
+    },
+    {
+      "id": "hgss4-42",
+      "number": 42,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/42.png"
+    },
+    {
+      "id": "hgss4-43",
+      "number": 43,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/43.png"
+    },
+    {
+      "id": "hgss4-44",
+      "number": 44,
+      "name": "Marowak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/44.png"
+    },
+    {
+      "id": "hgss4-45",
+      "number": 45,
+      "name": "Nidorina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/45.png"
+    },
+    {
+      "id": "hgss4-46",
+      "number": 46,
+      "name": "Nidorino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/46.png"
+    },
+    {
+      "id": "hgss4-47",
+      "number": 47,
+      "name": "Pidgeotto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/47.png"
+    },
+    {
+      "id": "hgss4-48",
+      "number": 48,
+      "name": "Piloswine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/48.png"
+    },
+    {
+      "id": "hgss4-49",
+      "number": 49,
+      "name": "Porygon2",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/49.png"
+    },
+    {
+      "id": "hgss4-50",
+      "number": 50,
+      "name": "Tentacruel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/50.png"
+    },
+    {
+      "id": "hgss4-51",
+      "number": 51,
+      "name": "Unown",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/51.png"
+    },
+    {
+      "id": "hgss4-52",
+      "number": 52,
+      "name": "Wailmer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/52.png"
+    },
+    {
+      "id": "hgss4-53",
+      "number": 53,
+      "name": "Weepinbell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/53.png"
+    },
+    {
+      "id": "hgss4-54",
+      "number": 54,
+      "name": "Yanmega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/54.png"
+    },
+    {
+      "id": "hgss4-55",
+      "number": 55,
+      "name": "Aipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/55.png"
+    },
+    {
+      "id": "hgss4-56",
+      "number": 56,
+      "name": "Aron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/56.png"
+    },
+    {
+      "id": "hgss4-57",
+      "number": 57,
+      "name": "Bellsprout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/57.png"
+    },
+    {
+      "id": "hgss4-58",
+      "number": 58,
+      "name": "Bronzor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/58.png"
+    },
+    {
+      "id": "hgss4-59",
+      "number": 59,
+      "name": "Carvanha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/59.png"
+    },
+    {
+      "id": "hgss4-60",
+      "number": 60,
+      "name": "Cubone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/60.png"
+    },
+    {
+      "id": "hgss4-61",
+      "number": 61,
+      "name": "Diglett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/61.png"
+    },
+    {
+      "id": "hgss4-62",
+      "number": 62,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/62.png"
+    },
+    {
+      "id": "hgss4-63",
+      "number": 63,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/63.png"
+    },
+    {
+      "id": "hgss4-64",
+      "number": 64,
+      "name": "Illumise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/64.png"
+    },
+    {
+      "id": "hgss4-65",
+      "number": 65,
+      "name": "Kricketot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/65.png"
+    },
+    {
+      "id": "hgss4-66",
+      "number": 66,
+      "name": "Lickitung",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/66.png"
+    },
+    {
+      "id": "hgss4-67",
+      "number": 67,
+      "name": "Machop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/67.png"
+    },
+    {
+      "id": "hgss4-68",
+      "number": 68,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/68.png"
+    },
+    {
+      "id": "hgss4-69",
+      "number": 69,
+      "name": "Nidoran ♀",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/69.png"
+    },
+    {
+      "id": "hgss4-70",
+      "number": 70,
+      "name": "Nidoran ♂",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/70.png"
+    },
+    {
+      "id": "hgss4-71",
+      "number": 71,
+      "name": "Pidgey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/71.png"
+    },
+    {
+      "id": "hgss4-72",
+      "number": 72,
+      "name": "Ponyta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/72.png"
+    },
+    {
+      "id": "hgss4-73",
+      "number": 73,
+      "name": "Porygon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/73.png"
+    },
+    {
+      "id": "hgss4-74",
+      "number": 74,
+      "name": "Psyduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/74.png"
+    },
+    {
+      "id": "hgss4-75",
+      "number": 75,
+      "name": "Shuppet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/75.png"
+    },
+    {
+      "id": "hgss4-76",
+      "number": 76,
+      "name": "Skorupi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/76.png"
+    },
+    {
+      "id": "hgss4-77",
+      "number": 77,
+      "name": "Spoink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/77.png"
+    },
+    {
+      "id": "hgss4-78",
+      "number": 78,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/78.png"
+    },
+    {
+      "id": "hgss4-79",
+      "number": 79,
+      "name": "Swinub",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/79.png"
+    },
+    {
+      "id": "hgss4-80",
+      "number": 80,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/80.png"
+    },
+    {
+      "id": "hgss4-81",
+      "number": 81,
+      "name": "Venonat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/81.png"
+    },
+    {
+      "id": "hgss4-82",
+      "number": 82,
+      "name": "Volbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/82.png"
+    },
+    {
+      "id": "hgss4-83",
+      "number": 83,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/83.png"
+    },
+    {
+      "id": "hgss4-84",
+      "number": 84,
+      "name": "Yanma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/84.png"
+    },
+    {
+      "id": "hgss4-85",
+      "number": 85,
+      "name": "Black Belt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/85.png"
+    },
+    {
+      "id": "hgss4-86",
+      "number": 86,
+      "name": "Indigo Plateau",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/86.png"
+    },
+    {
+      "id": "hgss4-87",
+      "number": 87,
+      "name": "Junk Arm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/87.png"
+    },
+    {
+      "id": "hgss4-88",
+      "number": 88,
+      "name": "Seeker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/88.png"
+    },
+    {
+      "id": "hgss4-89",
+      "number": 89,
+      "name": "Twins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/89.png"
+    },
+    {
+      "id": "hgss4-90",
+      "number": 90,
+      "name": "Rescue Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/90.png"
+    },
+    {
+      "id": "hgss4-91",
+      "number": 91,
+      "name": "Absol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/91.png"
+    },
+    {
+      "id": "hgss4-92",
+      "number": 92,
+      "name": "Celebi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/92.png"
+    },
+    {
+      "id": "hgss4-93",
+      "number": 93,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/93.png"
+    },
+    {
+      "id": "hgss4-94",
+      "number": 94,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/94.png"
+    },
+    {
+      "id": "hgss4-95",
+      "number": 95,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/95.png"
+    },
+    {
+      "id": "hgss4-96",
+      "number": 96,
+      "name": "Magnezone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/96.png"
+    },
+    {
+      "id": "hgss4-97",
+      "number": 97,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/97.png"
+    },
+    {
+      "id": "hgss4-98",
+      "number": 98,
+      "name": "Yanmega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/98.png"
+    },
+    {
+      "id": "hgss4-99",
+      "number": 99,
+      "name": "Darkrai & Cresselia LEGEND",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/99.png"
+    },
+    {
+      "id": "hgss4-100",
+      "number": 100,
+      "name": "Darkrai & Cresselia LEGEND",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/100.png"
+    },
+    {
+      "id": "hgss4-101",
+      "number": 101,
+      "name": "Palkia & Dialga LEGEND",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/101.png"
+    },
+    {
+      "id": "hgss4-102",
+      "number": 102,
+      "name": "Palkia & Dialga LEGEND",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/102.png"
+    },
+    {
+      "id": "hgss4-FOUR",
+      "number": 0,
+      "name": "Alph Lithograph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Triumphant/images/FOUR.png"
+    }
+  ]
+}

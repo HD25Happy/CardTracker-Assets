@@ -1,0 +1,1088 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Prismatic Evolutions",
+  "totalCards": 180,
+  "availableImages": 180,
+  "cards": [
+    {
+      "id": "sv08.5-001",
+      "number": 1,
+      "name": "Exeggcute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/001.png"
+    },
+    {
+      "id": "sv08.5-002",
+      "number": 2,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/002.png"
+    },
+    {
+      "id": "sv08.5-003",
+      "number": 3,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/003.png"
+    },
+    {
+      "id": "sv08.5-004",
+      "number": 4,
+      "name": "Budew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/004.png"
+    },
+    {
+      "id": "sv08.5-005",
+      "number": 5,
+      "name": "Leafeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/005.png"
+    },
+    {
+      "id": "sv08.5-006",
+      "number": 6,
+      "name": "Leafeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/006.png"
+    },
+    {
+      "id": "sv08.5-007",
+      "number": 7,
+      "name": "Cottonee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/007.png"
+    },
+    {
+      "id": "sv08.5-008",
+      "number": 8,
+      "name": "Whimsicott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/008.png"
+    },
+    {
+      "id": "sv08.5-009",
+      "number": 9,
+      "name": "Applin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/009.png"
+    },
+    {
+      "id": "sv08.5-010",
+      "number": 10,
+      "name": "Dipplin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/010.png"
+    },
+    {
+      "id": "sv08.5-011",
+      "number": 11,
+      "name": "Hydrapple ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/011.png"
+    },
+    {
+      "id": "sv08.5-012",
+      "number": 12,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/012.png"
+    },
+    {
+      "id": "sv08.5-013",
+      "number": 13,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/013.png"
+    },
+    {
+      "id": "sv08.5-014",
+      "number": 14,
+      "name": "Flareon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/014.png"
+    },
+    {
+      "id": "sv08.5-015",
+      "number": 15,
+      "name": "Litleo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/015.png"
+    },
+    {
+      "id": "sv08.5-016",
+      "number": 16,
+      "name": "Pyroar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/016.png"
+    },
+    {
+      "id": "sv08.5-017",
+      "number": 17,
+      "name": "Hearthflame Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/017.png"
+    },
+    {
+      "id": "sv08.5-018",
+      "number": 18,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/018.png"
+    },
+    {
+      "id": "sv08.5-019",
+      "number": 19,
+      "name": "Slowking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/019.png"
+    },
+    {
+      "id": "sv08.5-020",
+      "number": 20,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/020.png"
+    },
+    {
+      "id": "sv08.5-021",
+      "number": 21,
+      "name": "Seaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/021.png"
+    },
+    {
+      "id": "sv08.5-022",
+      "number": 22,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/022.png"
+    },
+    {
+      "id": "sv08.5-023",
+      "number": 23,
+      "name": "Vaporeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/023.png"
+    },
+    {
+      "id": "sv08.5-024",
+      "number": 24,
+      "name": "Suicune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/024.png"
+    },
+    {
+      "id": "sv08.5-025",
+      "number": 25,
+      "name": "Glaceon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/025.png"
+    },
+    {
+      "id": "sv08.5-026",
+      "number": 26,
+      "name": "Glaceon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/026.png"
+    },
+    {
+      "id": "sv08.5-027",
+      "number": 27,
+      "name": "Wellspring Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/027.png"
+    },
+    {
+      "id": "sv08.5-028",
+      "number": 28,
+      "name": "Pikachu ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/028.png"
+    },
+    {
+      "id": "sv08.5-029",
+      "number": 29,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/029.png"
+    },
+    {
+      "id": "sv08.5-030",
+      "number": 30,
+      "name": "Jolteon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/030.png"
+    },
+    {
+      "id": "sv08.5-031",
+      "number": 31,
+      "name": "Iron Hands ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/031.png"
+    },
+    {
+      "id": "sv08.5-032",
+      "number": 32,
+      "name": "Iron Thorns ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/032.png"
+    },
+    {
+      "id": "sv08.5-033",
+      "number": 33,
+      "name": "Espeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/033.png"
+    },
+    {
+      "id": "sv08.5-034",
+      "number": 34,
+      "name": "Espeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/034.png"
+    },
+    {
+      "id": "sv08.5-035",
+      "number": 35,
+      "name": "Duskull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/035.png"
+    },
+    {
+      "id": "sv08.5-036",
+      "number": 36,
+      "name": "Dusclops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/036.png"
+    },
+    {
+      "id": "sv08.5-037",
+      "number": 37,
+      "name": "Dusknoir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/037.png"
+    },
+    {
+      "id": "sv08.5-038",
+      "number": 38,
+      "name": "Spritzee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/038.png"
+    },
+    {
+      "id": "sv08.5-039",
+      "number": 39,
+      "name": "Aromatisse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/039.png"
+    },
+    {
+      "id": "sv08.5-040",
+      "number": 40,
+      "name": "Sylveon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/040.png"
+    },
+    {
+      "id": "sv08.5-041",
+      "number": 41,
+      "name": "Sylveon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/041.png"
+    },
+    {
+      "id": "sv08.5-042",
+      "number": 42,
+      "name": "Scream Tail",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/042.png"
+    },
+    {
+      "id": "sv08.5-043",
+      "number": 43,
+      "name": "Flutter Mane",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/043.png"
+    },
+    {
+      "id": "sv08.5-044",
+      "number": 44,
+      "name": "Munkidori",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/044.png"
+    },
+    {
+      "id": "sv08.5-045",
+      "number": 45,
+      "name": "Fezandipiti",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/045.png"
+    },
+    {
+      "id": "sv08.5-046",
+      "number": 46,
+      "name": "Iron Boulder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/046.png"
+    },
+    {
+      "id": "sv08.5-047",
+      "number": 47,
+      "name": "Larvitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/047.png"
+    },
+    {
+      "id": "sv08.5-048",
+      "number": 48,
+      "name": "Pupitar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/048.png"
+    },
+    {
+      "id": "sv08.5-049",
+      "number": 49,
+      "name": "Groudon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/049.png"
+    },
+    {
+      "id": "sv08.5-050",
+      "number": 50,
+      "name": "Riolu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/050.png"
+    },
+    {
+      "id": "sv08.5-051",
+      "number": 51,
+      "name": "Lucario ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/051.png"
+    },
+    {
+      "id": "sv08.5-052",
+      "number": 52,
+      "name": "Hippopotas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/052.png"
+    },
+    {
+      "id": "sv08.5-053",
+      "number": 53,
+      "name": "Hippowdon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/053.png"
+    },
+    {
+      "id": "sv08.5-054",
+      "number": 54,
+      "name": "Bloodmoon Ursaluna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/054.png"
+    },
+    {
+      "id": "sv08.5-055",
+      "number": 55,
+      "name": "Great Tusk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/055.png"
+    },
+    {
+      "id": "sv08.5-056",
+      "number": 56,
+      "name": "Sandy Shocks ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/056.png"
+    },
+    {
+      "id": "sv08.5-057",
+      "number": 57,
+      "name": "Okidogi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/057.png"
+    },
+    {
+      "id": "sv08.5-058",
+      "number": 58,
+      "name": "Cornerstone Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/058.png"
+    },
+    {
+      "id": "sv08.5-059",
+      "number": 59,
+      "name": "Umbreon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/059.png"
+    },
+    {
+      "id": "sv08.5-060",
+      "number": 60,
+      "name": "Umbreon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/060.png"
+    },
+    {
+      "id": "sv08.5-061",
+      "number": 61,
+      "name": "Sneasel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/061.png"
+    },
+    {
+      "id": "sv08.5-062",
+      "number": 62,
+      "name": "Houndour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/062.png"
+    },
+    {
+      "id": "sv08.5-063",
+      "number": 63,
+      "name": "Houndoom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/063.png"
+    },
+    {
+      "id": "sv08.5-064",
+      "number": 64,
+      "name": "Tyranitar ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/064.png"
+    },
+    {
+      "id": "sv08.5-065",
+      "number": 65,
+      "name": "Roaring Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/065.png"
+    },
+    {
+      "id": "sv08.5-066",
+      "number": 66,
+      "name": "Bronzor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/066.png"
+    },
+    {
+      "id": "sv08.5-067",
+      "number": 67,
+      "name": "Bronzong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/067.png"
+    },
+    {
+      "id": "sv08.5-068",
+      "number": 68,
+      "name": "Heatran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/068.png"
+    },
+    {
+      "id": "sv08.5-069",
+      "number": 69,
+      "name": "Duraludon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/069.png"
+    },
+    {
+      "id": "sv08.5-070",
+      "number": 70,
+      "name": "Archaludon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/070.png"
+    },
+    {
+      "id": "sv08.5-071",
+      "number": 71,
+      "name": "Dreepy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/071.png"
+    },
+    {
+      "id": "sv08.5-072",
+      "number": 72,
+      "name": "Drakloak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/072.png"
+    },
+    {
+      "id": "sv08.5-073",
+      "number": 73,
+      "name": "Dragapult ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/073.png"
+    },
+    {
+      "id": "sv08.5-074",
+      "number": 74,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/074.png"
+    },
+    {
+      "id": "sv08.5-075",
+      "number": 75,
+      "name": "Eevee ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/075.png"
+    },
+    {
+      "id": "sv08.5-076",
+      "number": 76,
+      "name": "Snorlax ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/076.png"
+    },
+    {
+      "id": "sv08.5-077",
+      "number": 77,
+      "name": "Hoothoot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/077.png"
+    },
+    {
+      "id": "sv08.5-078",
+      "number": 78,
+      "name": "Noctowl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/078.png"
+    },
+    {
+      "id": "sv08.5-079",
+      "number": 79,
+      "name": "Dunsparce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/079.png"
+    },
+    {
+      "id": "sv08.5-080",
+      "number": 80,
+      "name": "Dudunsparce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/080.png"
+    },
+    {
+      "id": "sv08.5-081",
+      "number": 81,
+      "name": "Miltank",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/081.png"
+    },
+    {
+      "id": "sv08.5-082",
+      "number": 82,
+      "name": "Lugia ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/082.png"
+    },
+    {
+      "id": "sv08.5-083",
+      "number": 83,
+      "name": "Buneary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/083.png"
+    },
+    {
+      "id": "sv08.5-084",
+      "number": 84,
+      "name": "Lopunny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/084.png"
+    },
+    {
+      "id": "sv08.5-085",
+      "number": 85,
+      "name": "Fan Rotom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/085.png"
+    },
+    {
+      "id": "sv08.5-086",
+      "number": 86,
+      "name": "Regigigas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/086.png"
+    },
+    {
+      "id": "sv08.5-087",
+      "number": 87,
+      "name": "Shaymin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/087.png"
+    },
+    {
+      "id": "sv08.5-088",
+      "number": 88,
+      "name": "Furfrou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/088.png"
+    },
+    {
+      "id": "sv08.5-089",
+      "number": 89,
+      "name": "Hawlucha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/089.png"
+    },
+    {
+      "id": "sv08.5-090",
+      "number": 90,
+      "name": "Noibat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/090.png"
+    },
+    {
+      "id": "sv08.5-091",
+      "number": 91,
+      "name": "Noivern ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/091.png"
+    },
+    {
+      "id": "sv08.5-092",
+      "number": 92,
+      "name": "Terapagos ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/092.png"
+    },
+    {
+      "id": "sv08.5-093",
+      "number": 93,
+      "name": "Amarys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/093.png"
+    },
+    {
+      "id": "sv08.5-094",
+      "number": 94,
+      "name": "Area Zero Underdepths",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/094.png"
+    },
+    {
+      "id": "sv08.5-095",
+      "number": 95,
+      "name": "Binding Mochi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/095.png"
+    },
+    {
+      "id": "sv08.5-096",
+      "number": 96,
+      "name": "Black Belt's Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/096.png"
+    },
+    {
+      "id": "sv08.5-097",
+      "number": 97,
+      "name": "Black Belt's Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/097.png"
+    },
+    {
+      "id": "sv08.5-098",
+      "number": 98,
+      "name": "Black Belt's Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/098.png"
+    },
+    {
+      "id": "sv08.5-099",
+      "number": 99,
+      "name": "Black Belt's Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/099.png"
+    },
+    {
+      "id": "sv08.5-100",
+      "number": 100,
+      "name": "Briar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/100.png"
+    },
+    {
+      "id": "sv08.5-101",
+      "number": 101,
+      "name": "Buddy-Buddy Poffin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/101.png"
+    },
+    {
+      "id": "sv08.5-102",
+      "number": 102,
+      "name": "Bug Catching Set",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/102.png"
+    },
+    {
+      "id": "sv08.5-103",
+      "number": 103,
+      "name": "Carmine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/103.png"
+    },
+    {
+      "id": "sv08.5-104",
+      "number": 104,
+      "name": "Ciphermaniac's Codebreaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/104.png"
+    },
+    {
+      "id": "sv08.5-105",
+      "number": 105,
+      "name": "Crispin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/105.png"
+    },
+    {
+      "id": "sv08.5-106",
+      "number": 106,
+      "name": "Earthen Vessel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/106.png"
+    },
+    {
+      "id": "sv08.5-107",
+      "number": 107,
+      "name": "Explorer's Guidance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/107.png"
+    },
+    {
+      "id": "sv08.5-108",
+      "number": 108,
+      "name": "Festival Grounds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/108.png"
+    },
+    {
+      "id": "sv08.5-109",
+      "number": 109,
+      "name": "Friends in Paldea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/109.png"
+    },
+    {
+      "id": "sv08.5-110",
+      "number": 110,
+      "name": "Glass Trumpet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/110.png"
+    },
+    {
+      "id": "sv08.5-111",
+      "number": 111,
+      "name": "Haban Berry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/111.png"
+    },
+    {
+      "id": "sv08.5-112",
+      "number": 112,
+      "name": "Janine's Secret Art",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/112.png"
+    },
+    {
+      "id": "sv08.5-113",
+      "number": 113,
+      "name": "Kieran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/113.png"
+    },
+    {
+      "id": "sv08.5-114",
+      "number": 114,
+      "name": "Lacey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/114.png"
+    },
+    {
+      "id": "sv08.5-115",
+      "number": 115,
+      "name": "Larry's Skill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/115.png"
+    },
+    {
+      "id": "sv08.5-116",
+      "number": 116,
+      "name": "Max Rod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/116.png"
+    },
+    {
+      "id": "sv08.5-117",
+      "number": 117,
+      "name": "Maximum Belt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/117.png"
+    },
+    {
+      "id": "sv08.5-118",
+      "number": 118,
+      "name": "Ogre's Mask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/118.png"
+    },
+    {
+      "id": "sv08.5-119",
+      "number": 119,
+      "name": "Prime Catcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/119.png"
+    },
+    {
+      "id": "sv08.5-120",
+      "number": 120,
+      "name": "Professor Sada's Vitality",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/120.png"
+    },
+    {
+      "id": "sv08.5-121",
+      "number": 121,
+      "name": "Professor Turo's Scenario",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/121.png"
+    },
+    {
+      "id": "sv08.5-122",
+      "number": 122,
+      "name": "Professor's Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/122.png"
+    },
+    {
+      "id": "sv08.5-123",
+      "number": 123,
+      "name": "Professor's Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/123.png"
+    },
+    {
+      "id": "sv08.5-124",
+      "number": 124,
+      "name": "Professor's Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/124.png"
+    },
+    {
+      "id": "sv08.5-125",
+      "number": 125,
+      "name": "Professor's Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/125.png"
+    },
+    {
+      "id": "sv08.5-126",
+      "number": 126,
+      "name": "Rescue Board",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/126.png"
+    },
+    {
+      "id": "sv08.5-127",
+      "number": 127,
+      "name": "Roto-Stick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/127.png"
+    },
+    {
+      "id": "sv08.5-128",
+      "number": 128,
+      "name": "Scoop Up Cyclone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/128.png"
+    },
+    {
+      "id": "sv08.5-129",
+      "number": 129,
+      "name": "Sparkling Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/129.png"
+    },
+    {
+      "id": "sv08.5-130",
+      "number": 130,
+      "name": "Techno Radar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/130.png"
+    },
+    {
+      "id": "sv08.5-131",
+      "number": 131,
+      "name": "Treasure Tracker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/131.png"
+    },
+    {
+      "id": "sv08.5-132",
+      "number": 132,
+      "name": "Amarys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/132.png"
+    },
+    {
+      "id": "sv08.5-133",
+      "number": 133,
+      "name": "Atticus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/133.png"
+    },
+    {
+      "id": "sv08.5-134",
+      "number": 134,
+      "name": "Atticus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/134.png"
+    },
+    {
+      "id": "sv08.5-135",
+      "number": 135,
+      "name": "Brassius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/135.png"
+    },
+    {
+      "id": "sv08.5-136",
+      "number": 136,
+      "name": "Eri",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/136.png"
+    },
+    {
+      "id": "sv08.5-137",
+      "number": 137,
+      "name": "Friends in Paldea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/137.png"
+    },
+    {
+      "id": "sv08.5-138",
+      "number": 138,
+      "name": "Giacomo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/138.png"
+    },
+    {
+      "id": "sv08.5-139",
+      "number": 139,
+      "name": "Larry's Skill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/139.png"
+    },
+    {
+      "id": "sv08.5-140",
+      "number": 140,
+      "name": "Mela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/140.png"
+    },
+    {
+      "id": "sv08.5-141",
+      "number": 141,
+      "name": "Ortega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/141.png"
+    },
+    {
+      "id": "sv08.5-142",
+      "number": 142,
+      "name": "Raifort",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/142.png"
+    },
+    {
+      "id": "sv08.5-143",
+      "number": 143,
+      "name": "Tyme",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/143.png"
+    },
+    {
+      "id": "sv08.5-144",
+      "number": 144,
+      "name": "Leafeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/144.png"
+    },
+    {
+      "id": "sv08.5-145",
+      "number": 145,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/145.png"
+    },
+    {
+      "id": "sv08.5-146",
+      "number": 146,
+      "name": "Flareon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/146.png"
+    },
+    {
+      "id": "sv08.5-147",
+      "number": 147,
+      "name": "Ceruledge ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/147.png"
+    },
+    {
+      "id": "sv08.5-148",
+      "number": 148,
+      "name": "Hearthflame Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/148.png"
+    },
+    {
+      "id": "sv08.5-149",
+      "number": 149,
+      "name": "Vaporeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/149.png"
+    },
+    {
+      "id": "sv08.5-150",
+      "number": 150,
+      "name": "Glaceon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/150.png"
+    },
+    {
+      "id": "sv08.5-151",
+      "number": 151,
+      "name": "Palafin ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/151.png"
+    },
+    {
+      "id": "sv08.5-152",
+      "number": 152,
+      "name": "Wellspring Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/152.png"
+    },
+    {
+      "id": "sv08.5-153",
+      "number": 153,
+      "name": "Jolteon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/153.png"
+    },
+    {
+      "id": "sv08.5-154",
+      "number": 154,
+      "name": "Iron Hands ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/154.png"
+    },
+    {
+      "id": "sv08.5-155",
+      "number": 155,
+      "name": "Espeon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/155.png"
+    },
+    {
+      "id": "sv08.5-156",
+      "number": 156,
+      "name": "Sylveon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/156.png"
+    },
+    {
+      "id": "sv08.5-157",
+      "number": 157,
+      "name": "Iron Valiant ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/157.png"
+    },
+    {
+      "id": "sv08.5-158",
+      "number": 158,
+      "name": "Iron Crown ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/158.png"
+    },
+    {
+      "id": "sv08.5-159",
+      "number": 159,
+      "name": "Sandy Shocks ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/159.png"
+    },
+    {
+      "id": "sv08.5-160",
+      "number": 160,
+      "name": "Cornerstone Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/160.png"
+    },
+    {
+      "id": "sv08.5-161",
+      "number": 161,
+      "name": "Umbreon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/161.png"
+    },
+    {
+      "id": "sv08.5-162",
+      "number": 162,
+      "name": "Roaring Moon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/162.png"
+    },
+    {
+      "id": "sv08.5-163",
+      "number": 163,
+      "name": "Pecharunt ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/163.png"
+    },
+    {
+      "id": "sv08.5-164",
+      "number": 164,
+      "name": "Gholdengo ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/164.png"
+    },
+    {
+      "id": "sv08.5-165",
+      "number": 165,
+      "name": "Dragapult ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/165.png"
+    },
+    {
+      "id": "sv08.5-166",
+      "number": 166,
+      "name": "Raging Bolt ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/166.png"
+    },
+    {
+      "id": "sv08.5-167",
+      "number": 167,
+      "name": "Eevee ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/167.png"
+    },
+    {
+      "id": "sv08.5-168",
+      "number": 168,
+      "name": "Bloodmoon Ursaluna ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/168.png"
+    },
+    {
+      "id": "sv08.5-169",
+      "number": 169,
+      "name": "Terapagos ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/169.png"
+    },
+    {
+      "id": "sv08.5-170",
+      "number": 170,
+      "name": "Amarys",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/170.png"
+    },
+    {
+      "id": "sv08.5-171",
+      "number": 171,
+      "name": "Crispin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/171.png"
+    },
+    {
+      "id": "sv08.5-172",
+      "number": 172,
+      "name": "Drayton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/172.png"
+    },
+    {
+      "id": "sv08.5-173",
+      "number": 173,
+      "name": "Janine's Secret Art",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/173.png"
+    },
+    {
+      "id": "sv08.5-174",
+      "number": 174,
+      "name": "Kieran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/174.png"
+    },
+    {
+      "id": "sv08.5-175",
+      "number": 175,
+      "name": "Lacey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/175.png"
+    },
+    {
+      "id": "sv08.5-176",
+      "number": 176,
+      "name": "Iron Leaves ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/176.png"
+    },
+    {
+      "id": "sv08.5-177",
+      "number": 177,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/177.png"
+    },
+    {
+      "id": "sv08.5-178",
+      "number": 178,
+      "name": "Walking Wake ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/178.png"
+    },
+    {
+      "id": "sv08.5-179",
+      "number": 179,
+      "name": "Pikachu ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/179.png"
+    },
+    {
+      "id": "sv08.5-180",
+      "number": 180,
+      "name": "Terapagos ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Prismatic%20Evolutions/images/180.png"
+    }
+  ]
+}

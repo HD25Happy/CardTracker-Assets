@@ -1,0 +1,493 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duel Decks: Heroes vs. Monsters",
+  "totalCards": 81,
+  "cards": [
+    {
+      "id": "f7bdf6bd-472e-4109-9864-68a2df757775",
+      "number": 1,
+      "name": "Sun Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/1.jpg"
+    },
+    {
+      "id": "45acf61c-0cc6-4f74-8c81-5ea4b8282e2a",
+      "number": 2,
+      "name": "Somberwald Vigilante",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/2.jpg"
+    },
+    {
+      "id": "6add511b-1931-4e4e-9a4c-083bc5ff2bc2",
+      "number": 3,
+      "name": "Figure of Destiny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/3.jpg"
+    },
+    {
+      "id": "6ea1e03e-5f6d-4e52-9538-956963c2335c",
+      "number": 4,
+      "name": "Cavalry Pegasus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/4.jpg"
+    },
+    {
+      "id": "170240bb-73a7-4a22-aedc-4e2323299a4d",
+      "number": 5,
+      "name": "Fencing Ace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/5.jpg"
+    },
+    {
+      "id": "a8a8282b-bba6-4815-80fe-7a37a1fec3c1",
+      "number": 6,
+      "name": "Thraben Valiant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/6.jpg"
+    },
+    {
+      "id": "277bdef5-4887-42f5-b7c2-8c18f03db365",
+      "number": 7,
+      "name": "Stun Sniper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/7.jpg"
+    },
+    {
+      "id": "a42906c1-cf32-4c14-b08a-d800d1858d8f",
+      "number": 8,
+      "name": "Truefire Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/8.jpg"
+    },
+    {
+      "id": "9a7d0013-f631-4f88-b6b6-69813908e118",
+      "number": 9,
+      "name": "Auramancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/9.jpg"
+    },
+    {
+      "id": "28fd10fc-11de-4fd9-a8af-855f116d71d0",
+      "number": 10,
+      "name": "Freewind Equenaut",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/10.jpg"
+    },
+    {
+      "id": "70e5d609-c15e-4da1-b253-abd98e8bdfad",
+      "number": 11,
+      "name": "Anax and Cymede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/11.jpg"
+    },
+    {
+      "id": "2a907337-8096-4110-8b83-be7eba309dc9",
+      "number": 12,
+      "name": "Armory Guard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/12.jpg"
+    },
+    {
+      "id": "57693fce-6896-4cb5-a5ad-4d0d687335dd",
+      "number": 13,
+      "name": "Gustcloak Sentinel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/13.jpg"
+    },
+    {
+      "id": "549ca818-f7bf-47a8-9005-18ddabd3c360",
+      "number": 14,
+      "name": "Dawnstrike Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/14.jpg"
+    },
+    {
+      "id": "3c5c4763-c92d-4e88-82d4-2cc60de8c274",
+      "number": 15,
+      "name": "Nobilis of War",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/15.jpg"
+    },
+    {
+      "id": "a830c1bd-d479-4e9f-9f5a-fb693a6fc48d",
+      "number": 16,
+      "name": "Kamahl, Pit Fighter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/16.jpg"
+    },
+    {
+      "id": "23cb1217-029d-42af-bd38-971fbc26f92d",
+      "number": 17,
+      "name": "Condemn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/17.jpg"
+    },
+    {
+      "id": "10c77d2d-ca35-4021-9e29-95be41385fd4",
+      "number": 18,
+      "name": "Daily Regimen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/18.jpg"
+    },
+    {
+      "id": "457ea1f3-890c-4bff-9938-cd46252477f4",
+      "number": 19,
+      "name": "Pay No Heed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/19.jpg"
+    },
+    {
+      "id": "72583842-48c5-4fc9-b0bf-b4894bec871e",
+      "number": 20,
+      "name": "Righteousness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/20.jpg"
+    },
+    {
+      "id": "8b5b719d-9527-4df1-b51f-f1827952cab4",
+      "number": 21,
+      "name": "Stand Firm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/21.jpg"
+    },
+    {
+      "id": "b4f4726e-036c-40c1-ba03-d1bb0275c4c6",
+      "number": 22,
+      "name": "Magma Jet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/22.jpg"
+    },
+    {
+      "id": "16d4e46d-7aae-4fe5-9b0b-9a39e02e4883",
+      "number": 23,
+      "name": "Ordeal of Purphoros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/23.jpg"
+    },
+    {
+      "id": "a356536f-b37f-4316-8f73-054dd47b4355",
+      "number": 24,
+      "name": "Bonds of Faith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/24.jpg"
+    },
+    {
+      "id": "97b6c01c-2faa-4202-b234-928300e82ad6",
+      "number": 25,
+      "name": "Moment of Heroism",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/25.jpg"
+    },
+    {
+      "id": "279f3e95-63d7-4a40-82fe-6295b00b75a7",
+      "number": 26,
+      "name": "Undying Rage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/26.jpg"
+    },
+    {
+      "id": "cf3cfe58-a300-4f78-a057-6f7810aff70e",
+      "number": 27,
+      "name": "Battle Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/27.jpg"
+    },
+    {
+      "id": "deee22d6-43be-4ae9-9ae1-b28371b24031",
+      "number": 28,
+      "name": "Griffin Guide",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/28.jpg"
+    },
+    {
+      "id": "9121c0d0-de5a-4764-ae17-707ae8cc920c",
+      "number": 29,
+      "name": "Smite the Monstrous",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/29.jpg"
+    },
+    {
+      "id": "73bf62f3-2221-4d37-bd14-544fdb296f24",
+      "number": 30,
+      "name": "Miraculous Recovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/30.jpg"
+    },
+    {
+      "id": "42a33e3a-f1ee-4901-810d-59e8b9bf6be0",
+      "number": 31,
+      "name": "Winds of Rath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/31.jpg"
+    },
+    {
+      "id": "62c403ad-e550-4f5d-afd8-d8393731fa9c",
+      "number": 32,
+      "name": "Pyrokinesis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/32.jpg"
+    },
+    {
+      "id": "0db7dc6a-9f95-457f-9c3a-18a5d81a25ae",
+      "number": 33,
+      "name": "Boros Guildgate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/33.jpg"
+    },
+    {
+      "id": "da2d11af-62b7-4787-ae92-7435542e4bfd",
+      "number": 34,
+      "name": "New Benalia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/34.jpg"
+    },
+    {
+      "id": "b47ccd54-3bad-4926-8420-c88f9dfaf80e",
+      "number": 35,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/35.jpg"
+    },
+    {
+      "id": "bbc9fa2e-0ec9-4b70-b602-a7e669ed0031",
+      "number": 36,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/36.jpg"
+    },
+    {
+      "id": "6f630e29-5ffd-473c-b5a7-96a9a5e3551f",
+      "number": 37,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/37.jpg"
+    },
+    {
+      "id": "abe82e5e-7496-42a5-87df-880e153bccbc",
+      "number": 38,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/38.jpg"
+    },
+    {
+      "id": "904a9d1f-8e3e-4cbb-ab2b-99fe0abae01a",
+      "number": 39,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/39.jpg"
+    },
+    {
+      "id": "afd8bc4a-46a6-48af-9e17-712517e9d8a6",
+      "number": 40,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/40.jpg"
+    },
+    {
+      "id": "be26189e-1de6-4f69-b5f6-29ea7f5a7d9c",
+      "number": 41,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/41.jpg"
+    },
+    {
+      "id": "0fdbb6ae-7c37-44e5-aabb-f1f4de372b16",
+      "number": 42,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/42.jpg"
+    },
+    {
+      "id": "8b5a1182-c707-4024-9000-de57793fba0d",
+      "number": 43,
+      "name": "Polukranos, World Eater",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/43.jpg"
+    },
+    {
+      "id": "2b8cc73a-1598-497b-97f4-e42840085e10",
+      "number": 44,
+      "name": "Orcish Lumberjack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/44.jpg"
+    },
+    {
+      "id": "880ba2a5-2cca-406d-804b-3250c25027d3",
+      "number": 45,
+      "name": "Deadly Recluse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/45.jpg"
+    },
+    {
+      "id": "c044fe5f-b520-4d69-ad4b-e3e5af19d7a9",
+      "number": 46,
+      "name": "Kavu Predator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/46.jpg"
+    },
+    {
+      "id": "4c6a5405-2bc8-4439-a09a-2c4844ba3a35",
+      "number": 47,
+      "name": "Satyr Hedonist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/47.jpg"
+    },
+    {
+      "id": "c6ff7fb8-e2d8-4ab0-a1fe-e6d491c1d0c6",
+      "number": 48,
+      "name": "Zhur-Taa Druid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/48.jpg"
+    },
+    {
+      "id": "ef09e5fa-5a9d-42b8-8d95-36b169ac179f",
+      "number": 49,
+      "name": "Blood Ogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/49.jpg"
+    },
+    {
+      "id": "5a87f701-ef4c-47dd-beec-8ae871306ffe",
+      "number": 50,
+      "name": "Troll Ascetic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/50.jpg"
+    },
+    {
+      "id": "2e3a3e31-a400-4649-8c34-c7b7b98ca4e1",
+      "number": 51,
+      "name": "Crowned Ceratok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/51.jpg"
+    },
+    {
+      "id": "c82ce84a-250d-4acb-8138-1cfc927ee840",
+      "number": 52,
+      "name": "Gorehorn Minotaurs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/52.jpg"
+    },
+    {
+      "id": "4ba15588-01ae-431b-a846-f44df88ca134",
+      "number": 53,
+      "name": "Ghor-Clan Savage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/53.jpg"
+    },
+    {
+      "id": "a3b03ce9-a0fb-4b0c-b02d-e4f93ef87445",
+      "number": 54,
+      "name": "Deus of Calamity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/54.jpg"
+    },
+    {
+      "id": "95f5bf3f-3fa7-47db-981b-933cdb505398",
+      "number": 55,
+      "name": "Conquering Manticore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/55.jpg"
+    },
+    {
+      "id": "99a631d3-7d64-4a9f-9552-80a4a18d44dd",
+      "number": 56,
+      "name": "Crater Hellion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/56.jpg"
+    },
+    {
+      "id": "4460973c-190e-4ab2-9be2-8c64e5380505",
+      "number": 57,
+      "name": "Skarrgan Firebird",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/57.jpg"
+    },
+    {
+      "id": "f7a0b3c9-707c-45d2-9299-af84f24dc3a2",
+      "number": 58,
+      "name": "Valley Rannet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/58.jpg"
+    },
+    {
+      "id": "9be2b60c-f17f-4e96-921d-ef2e8f884399",
+      "number": 59,
+      "name": "Krosan Tusker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/59.jpg"
+    },
+    {
+      "id": "c9767e0b-1284-4c9e-9d0c-fb0d17c35044",
+      "number": 60,
+      "name": "Skarrgan Skybreaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/60.jpg"
+    },
+    {
+      "id": "84875873-46c5-4cd2-bd76-c5a9e7bfdb76",
+      "number": 61,
+      "name": "Shower of Sparks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/61.jpg"
+    },
+    {
+      "id": "7b9a2f51-e2f4-4329-bfd6-5339a02f4b7f",
+      "number": 62,
+      "name": "Prey Upon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/62.jpg"
+    },
+    {
+      "id": "c4783071-bbb5-4db6-a38a-5ef2305e19ac",
+      "number": 63,
+      "name": "Pyroclasm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/63.jpg"
+    },
+    {
+      "id": "e55897b3-c83c-469c-bf3b-2d387241e46c",
+      "number": 64,
+      "name": "Regrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/64.jpg"
+    },
+    {
+      "id": "070408ff-5f23-4972-a9cc-d5351fd995f7",
+      "number": 65,
+      "name": "Terrifying Presence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/65.jpg"
+    },
+    {
+      "id": "bc2eb53a-3d0f-4bb3-be36-f8024f2a1d4d",
+      "number": 66,
+      "name": "Destructive Revelry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/66.jpg"
+    },
+    {
+      "id": "d0712389-bc0c-4654-90e6-741387d84213",
+      "number": 67,
+      "name": "Dragon Blood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/67.jpg"
+    },
+    {
+      "id": "8fde462c-8146-4688-a78d-113fc4d42851",
+      "number": 68,
+      "name": "Volt Charge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/68.jpg"
+    },
+    {
+      "id": "76f8a300-44a8-4a70-93d1-64333c13f6f2",
+      "number": 69,
+      "name": "Beast Within",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/69.jpg"
+    },
+    {
+      "id": "4fddd715-5321-4eee-b743-d0697a8c8dd6",
+      "number": 70,
+      "name": "Fires of Yavimaya",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/70.jpg"
+    },
+    {
+      "id": "6882eb50-9a54-46e0-8b0a-8fb347f370a2",
+      "number": 71,
+      "name": "Kazandu Refuge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/71.jpg"
+    },
+    {
+      "id": "2b564606-8827-44c9-98ba-3ed0cccaac07",
+      "number": 72,
+      "name": "Llanowar Reborn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/72.jpg"
+    },
+    {
+      "id": "ff810389-6caa-4699-9d8a-0359a27a2008",
+      "number": 73,
+      "name": "Skarrg, the Rage Pits",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/73.jpg"
+    },
+    {
+      "id": "4bc26857-9cc2-4971-974e-c70dfac90856",
+      "number": 74,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/74.jpg"
+    },
+    {
+      "id": "887debac-305a-4713-9f23-f80072e7a39a",
+      "number": 75,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/75.jpg"
+    },
+    {
+      "id": "dd2ac135-2411-4753-ba4f-41c33de526db",
+      "number": 76,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/76.jpg"
+    },
+    {
+      "id": "fb9140ee-9f74-4f6f-b2e6-abef3faf7882",
+      "number": 77,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/77.jpg"
+    },
+    {
+      "id": "c1e70a49-ca99-416d-be0a-0a064da44b62",
+      "number": 78,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/78.jpg"
+    },
+    {
+      "id": "0cb7637e-785d-4716-ad06-9e786e037537",
+      "number": 79,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/79.jpg"
+    },
+    {
+      "id": "5832fffe-1f69-44b7-832b-58f064753141",
+      "number": 80,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/80.jpg"
+    },
+    {
+      "id": "f8a0a7be-a72e-4eeb-82f8-c0eeb0e94148",
+      "number": 81,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Heroes%20vs.%20Monsters%20%28ddl%29/images/81.jpg"
+    }
+  ]
+}

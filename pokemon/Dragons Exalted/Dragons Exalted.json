@@ -1,0 +1,776 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Dragons Exalted",
+  "totalCards": 128,
+  "availableImages": 128,
+  "cards": [
+    {
+      "id": "bw6-1",
+      "number": 1,
+      "name": "Hoppip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/1.png"
+    },
+    {
+      "id": "bw6-2",
+      "number": 2,
+      "name": "Skiploom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/2.png"
+    },
+    {
+      "id": "bw6-3",
+      "number": 3,
+      "name": "Jumpluff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/3.png"
+    },
+    {
+      "id": "bw6-4",
+      "number": 4,
+      "name": "Yanma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/4.png"
+    },
+    {
+      "id": "bw6-5",
+      "number": 5,
+      "name": "Yanmega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/5.png"
+    },
+    {
+      "id": "bw6-6",
+      "number": 6,
+      "name": "Wurmple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/6.png"
+    },
+    {
+      "id": "bw6-7",
+      "number": 7,
+      "name": "Silcoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/7.png"
+    },
+    {
+      "id": "bw6-8",
+      "number": 8,
+      "name": "Beautifly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/8.png"
+    },
+    {
+      "id": "bw6-9",
+      "number": 9,
+      "name": "Cascoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/9.png"
+    },
+    {
+      "id": "bw6-10",
+      "number": 10,
+      "name": "Nincada",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/10.png"
+    },
+    {
+      "id": "bw6-11",
+      "number": 11,
+      "name": "Ninjask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/11.png"
+    },
+    {
+      "id": "bw6-12",
+      "number": 12,
+      "name": "Roselia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/12.png"
+    },
+    {
+      "id": "bw6-13",
+      "number": 13,
+      "name": "Roselia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/13.png"
+    },
+    {
+      "id": "bw6-14",
+      "number": 14,
+      "name": "Roserade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/14.png"
+    },
+    {
+      "id": "bw6-15",
+      "number": 15,
+      "name": "Roserade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/15.png"
+    },
+    {
+      "id": "bw6-16",
+      "number": 16,
+      "name": "Maractus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/16.png"
+    },
+    {
+      "id": "bw6-17",
+      "number": 17,
+      "name": "Foongus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/17.png"
+    },
+    {
+      "id": "bw6-18",
+      "number": 18,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/18.png"
+    },
+    {
+      "id": "bw6-19",
+      "number": 19,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/19.png"
+    },
+    {
+      "id": "bw6-20",
+      "number": 20,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/20.png"
+    },
+    {
+      "id": "bw6-21",
+      "number": 21,
+      "name": "Magmortar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/21.png"
+    },
+    {
+      "id": "bw6-22",
+      "number": 22,
+      "name": "Ho-Oh-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/22.png"
+    },
+    {
+      "id": "bw6-23",
+      "number": 23,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/23.png"
+    },
+    {
+      "id": "bw6-24",
+      "number": 24,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/24.png"
+    },
+    {
+      "id": "bw6-25",
+      "number": 25,
+      "name": "Wailmer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/25.png"
+    },
+    {
+      "id": "bw6-26",
+      "number": 26,
+      "name": "Wailord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/26.png"
+    },
+    {
+      "id": "bw6-27",
+      "number": 27,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/27.png"
+    },
+    {
+      "id": "bw6-28",
+      "number": 28,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/28.png"
+    },
+    {
+      "id": "bw6-29",
+      "number": 29,
+      "name": "Spheal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/29.png"
+    },
+    {
+      "id": "bw6-30",
+      "number": 30,
+      "name": "Sealeo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/30.png"
+    },
+    {
+      "id": "bw6-31",
+      "number": 31,
+      "name": "Walrein",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/31.png"
+    },
+    {
+      "id": "bw6-32",
+      "number": 32,
+      "name": "Buizel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/32.png"
+    },
+    {
+      "id": "bw6-33",
+      "number": 33,
+      "name": "Floatzel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/33.png"
+    },
+    {
+      "id": "bw6-34",
+      "number": 34,
+      "name": "Tympole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/34.png"
+    },
+    {
+      "id": "bw6-35",
+      "number": 35,
+      "name": "Palpitoad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/35.png"
+    },
+    {
+      "id": "bw6-36",
+      "number": 36,
+      "name": "Seismitoad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/36.png"
+    },
+    {
+      "id": "bw6-37",
+      "number": 37,
+      "name": "Alomomola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/37.png"
+    },
+    {
+      "id": "bw6-38",
+      "number": 38,
+      "name": "Mareep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/38.png"
+    },
+    {
+      "id": "bw6-39",
+      "number": 39,
+      "name": "Flaaffy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/39.png"
+    },
+    {
+      "id": "bw6-40",
+      "number": 40,
+      "name": "Ampharos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/40.png"
+    },
+    {
+      "id": "bw6-41",
+      "number": 41,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/41.png"
+    },
+    {
+      "id": "bw6-42",
+      "number": 42,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/42.png"
+    },
+    {
+      "id": "bw6-43",
+      "number": 43,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/43.png"
+    },
+    {
+      "id": "bw6-44",
+      "number": 44,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/44.png"
+    },
+    {
+      "id": "bw6-45",
+      "number": 45,
+      "name": "Emolga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/45.png"
+    },
+    {
+      "id": "bw6-46",
+      "number": 46,
+      "name": "Mew-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/46.png"
+    },
+    {
+      "id": "bw6-47",
+      "number": 47,
+      "name": "Dustox",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/47.png"
+    },
+    {
+      "id": "bw6-48",
+      "number": 48,
+      "name": "Shedinja",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/48.png"
+    },
+    {
+      "id": "bw6-49",
+      "number": 49,
+      "name": "Drifloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/49.png"
+    },
+    {
+      "id": "bw6-50",
+      "number": 50,
+      "name": "Drifloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/50.png"
+    },
+    {
+      "id": "bw6-51",
+      "number": 51,
+      "name": "Drifblim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/51.png"
+    },
+    {
+      "id": "bw6-52",
+      "number": 52,
+      "name": "Sigilyph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/52.png"
+    },
+    {
+      "id": "bw6-53",
+      "number": 53,
+      "name": "Trubbish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/53.png"
+    },
+    {
+      "id": "bw6-54",
+      "number": 54,
+      "name": "Garbodor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/54.png"
+    },
+    {
+      "id": "bw6-55",
+      "number": 55,
+      "name": "Gothita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/55.png"
+    },
+    {
+      "id": "bw6-56",
+      "number": 56,
+      "name": "Gothorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/56.png"
+    },
+    {
+      "id": "bw6-57",
+      "number": 57,
+      "name": "Gothitelle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/57.png"
+    },
+    {
+      "id": "bw6-58",
+      "number": 58,
+      "name": "Golett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/58.png"
+    },
+    {
+      "id": "bw6-59",
+      "number": 59,
+      "name": "Golurk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/59.png"
+    },
+    {
+      "id": "bw6-60",
+      "number": 60,
+      "name": "Cubone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/60.png"
+    },
+    {
+      "id": "bw6-61",
+      "number": 61,
+      "name": "Marowak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/61.png"
+    },
+    {
+      "id": "bw6-62",
+      "number": 62,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/62.png"
+    },
+    {
+      "id": "bw6-63",
+      "number": 63,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/63.png"
+    },
+    {
+      "id": "bw6-64",
+      "number": 64,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/64.png"
+    },
+    {
+      "id": "bw6-65",
+      "number": 65,
+      "name": "Roggenrola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/65.png"
+    },
+    {
+      "id": "bw6-66",
+      "number": 66,
+      "name": "Boldore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/66.png"
+    },
+    {
+      "id": "bw6-67",
+      "number": 67,
+      "name": "Gigalith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/67.png"
+    },
+    {
+      "id": "bw6-68",
+      "number": 68,
+      "name": "Throh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/68.png"
+    },
+    {
+      "id": "bw6-69",
+      "number": 69,
+      "name": "Sawk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/69.png"
+    },
+    {
+      "id": "bw6-70",
+      "number": 70,
+      "name": "Stunfisk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/70.png"
+    },
+    {
+      "id": "bw6-71",
+      "number": 71,
+      "name": "Terrakion-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/71.png"
+    },
+    {
+      "id": "bw6-72",
+      "number": 72,
+      "name": "Murkrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/72.png"
+    },
+    {
+      "id": "bw6-73",
+      "number": 73,
+      "name": "Honchkrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/73.png"
+    },
+    {
+      "id": "bw6-74",
+      "number": 74,
+      "name": "Houndour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/74.png"
+    },
+    {
+      "id": "bw6-75",
+      "number": 75,
+      "name": "Houndoom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/75.png"
+    },
+    {
+      "id": "bw6-76",
+      "number": 76,
+      "name": "Stunky",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/76.png"
+    },
+    {
+      "id": "bw6-77",
+      "number": 77,
+      "name": "Skuntank",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/77.png"
+    },
+    {
+      "id": "bw6-78",
+      "number": 78,
+      "name": "Aron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/78.png"
+    },
+    {
+      "id": "bw6-79",
+      "number": 79,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/79.png"
+    },
+    {
+      "id": "bw6-80",
+      "number": 80,
+      "name": "Aggron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/80.png"
+    },
+    {
+      "id": "bw6-81",
+      "number": 81,
+      "name": "Registeel-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/81.png"
+    },
+    {
+      "id": "bw6-82",
+      "number": 82,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/82.png"
+    },
+    {
+      "id": "bw6-83",
+      "number": 83,
+      "name": "Durant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/83.png"
+    },
+    {
+      "id": "bw6-84",
+      "number": 84,
+      "name": "Altaria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/84.png"
+    },
+    {
+      "id": "bw6-85",
+      "number": 85,
+      "name": "Rayquaza-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/85.png"
+    },
+    {
+      "id": "bw6-86",
+      "number": 86,
+      "name": "Gible",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/86.png"
+    },
+    {
+      "id": "bw6-87",
+      "number": 87,
+      "name": "Gible",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/87.png"
+    },
+    {
+      "id": "bw6-88",
+      "number": 88,
+      "name": "Gabite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/88.png"
+    },
+    {
+      "id": "bw6-89",
+      "number": 89,
+      "name": "Gabite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/89.png"
+    },
+    {
+      "id": "bw6-90",
+      "number": 90,
+      "name": "Garchomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/90.png"
+    },
+    {
+      "id": "bw6-91",
+      "number": 91,
+      "name": "Garchomp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/91.png"
+    },
+    {
+      "id": "bw6-92",
+      "number": 92,
+      "name": "Giratina-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/92.png"
+    },
+    {
+      "id": "bw6-93",
+      "number": 93,
+      "name": "Deino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/93.png"
+    },
+    {
+      "id": "bw6-94",
+      "number": 94,
+      "name": "Deino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/94.png"
+    },
+    {
+      "id": "bw6-95",
+      "number": 95,
+      "name": "Zweilous",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/95.png"
+    },
+    {
+      "id": "bw6-96",
+      "number": 96,
+      "name": "Zweilous",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/96.png"
+    },
+    {
+      "id": "bw6-97",
+      "number": 97,
+      "name": "Hydreigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/97.png"
+    },
+    {
+      "id": "bw6-98",
+      "number": 98,
+      "name": "Hydreigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/98.png"
+    },
+    {
+      "id": "bw6-99",
+      "number": 99,
+      "name": "Aipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/99.png"
+    },
+    {
+      "id": "bw6-100",
+      "number": 100,
+      "name": "Ambipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/100.png"
+    },
+    {
+      "id": "bw6-101",
+      "number": 101,
+      "name": "Slakoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/101.png"
+    },
+    {
+      "id": "bw6-102",
+      "number": 102,
+      "name": "Vigoroth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/102.png"
+    },
+    {
+      "id": "bw6-103",
+      "number": 103,
+      "name": "Slaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/103.png"
+    },
+    {
+      "id": "bw6-104",
+      "number": 104,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/104.png"
+    },
+    {
+      "id": "bw6-105",
+      "number": 105,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/105.png"
+    },
+    {
+      "id": "bw6-106",
+      "number": 106,
+      "name": "Bidoof",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/106.png"
+    },
+    {
+      "id": "bw6-107",
+      "number": 107,
+      "name": "Bibarel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/107.png"
+    },
+    {
+      "id": "bw6-108",
+      "number": 108,
+      "name": "Audino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/108.png"
+    },
+    {
+      "id": "bw6-109",
+      "number": 109,
+      "name": "Minccino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/109.png"
+    },
+    {
+      "id": "bw6-110",
+      "number": 110,
+      "name": "Bouffalant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/110.png"
+    },
+    {
+      "id": "bw6-111",
+      "number": 111,
+      "name": "Rufflet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/111.png"
+    },
+    {
+      "id": "bw6-112",
+      "number": 112,
+      "name": "Braviary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/112.png"
+    },
+    {
+      "id": "bw6-113",
+      "number": 113,
+      "name": "Devolution Spray",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/113.png"
+    },
+    {
+      "id": "bw6-114",
+      "number": 114,
+      "name": "Giant Cape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/114.png"
+    },
+    {
+      "id": "bw6-115",
+      "number": 115,
+      "name": "Rescue Scarf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/115.png"
+    },
+    {
+      "id": "bw6-116",
+      "number": 116,
+      "name": "Tool Scrapper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/116.png"
+    },
+    {
+      "id": "bw6-117",
+      "number": 117,
+      "name": "Blend Energy Grass Fire Psychic Darkness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/117.png"
+    },
+    {
+      "id": "bw6-118",
+      "number": 118,
+      "name": "Blend Energy Water Lightning Fighting Metal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/118.png"
+    },
+    {
+      "id": "bw6-119",
+      "number": 119,
+      "name": "Ho-Oh-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/119.png"
+    },
+    {
+      "id": "bw6-120",
+      "number": 120,
+      "name": "Mew-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/120.png"
+    },
+    {
+      "id": "bw6-121",
+      "number": 121,
+      "name": "Terrakion-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/121.png"
+    },
+    {
+      "id": "bw6-122",
+      "number": 122,
+      "name": "Registeel-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/122.png"
+    },
+    {
+      "id": "bw6-123",
+      "number": 123,
+      "name": "Rayquaza-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/123.png"
+    },
+    {
+      "id": "bw6-124",
+      "number": 124,
+      "name": "Giratina-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/124.png"
+    },
+    {
+      "id": "bw6-125",
+      "number": 125,
+      "name": "Serperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/125.png"
+    },
+    {
+      "id": "bw6-126",
+      "number": 126,
+      "name": "Reuniclus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/126.png"
+    },
+    {
+      "id": "bw6-127",
+      "number": 127,
+      "name": "Krookodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/127.png"
+    },
+    {
+      "id": "bw6-128",
+      "number": 128,
+      "name": "Rayquaza",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragons%20Exalted/images/128.png"
+    }
+  ]
+}

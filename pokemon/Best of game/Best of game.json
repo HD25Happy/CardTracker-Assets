@@ -1,0 +1,62 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Best of game",
+  "totalCards": 9,
+  "availableImages": 9,
+  "cards": [
+    {
+      "id": "bog-1",
+      "number": 1,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/1.png"
+    },
+    {
+      "id": "bog-2",
+      "number": 2,
+      "name": "Hitmonchan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/2.png"
+    },
+    {
+      "id": "bog-3",
+      "number": 3,
+      "name": "Professor Elm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/3.png"
+    },
+    {
+      "id": "bog-4",
+      "number": 4,
+      "name": "Rocket’s Scizor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/4.png"
+    },
+    {
+      "id": "bog-5",
+      "number": 5,
+      "name": "Rocket’s Sneasel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/5.png"
+    },
+    {
+      "id": "bog-6",
+      "number": 6,
+      "name": "Dark Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/6.png"
+    },
+    {
+      "id": "bog-7",
+      "number": 7,
+      "name": "Dark Venusaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/7.png"
+    },
+    {
+      "id": "bog-8",
+      "number": 8,
+      "name": "Rocket’s Mewtwo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/8.png"
+    },
+    {
+      "id": "bog-9",
+      "number": 9,
+      "name": "Rocket’s Hitmonchan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Best%20of%20game/images/9.png"
+    }
+  ]
+}

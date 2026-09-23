@@ -1,0 +1,704 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Steam Siege",
+  "totalCards": 116,
+  "availableImages": 116,
+  "cards": [
+    {
+      "id": "xy11-1",
+      "number": 1,
+      "name": "Tangela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/1.png"
+    },
+    {
+      "id": "xy11-2",
+      "number": 2,
+      "name": "Tangrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/2.png"
+    },
+    {
+      "id": "xy11-3",
+      "number": 3,
+      "name": "Hoppip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/3.png"
+    },
+    {
+      "id": "xy11-4",
+      "number": 4,
+      "name": "Skiploom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/4.png"
+    },
+    {
+      "id": "xy11-5",
+      "number": 5,
+      "name": "Jumpluff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/5.png"
+    },
+    {
+      "id": "xy11-6",
+      "number": 6,
+      "name": "Yanma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/6.png"
+    },
+    {
+      "id": "xy11-7",
+      "number": 7,
+      "name": "Yanmega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/7.png"
+    },
+    {
+      "id": "xy11-8",
+      "number": 8,
+      "name": "Yanmega BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/8.png"
+    },
+    {
+      "id": "xy11-9",
+      "number": 9,
+      "name": "Seedot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/9.png"
+    },
+    {
+      "id": "xy11-10",
+      "number": 10,
+      "name": "Nuzleaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/10.png"
+    },
+    {
+      "id": "xy11-11",
+      "number": 11,
+      "name": "Shiftry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/11.png"
+    },
+    {
+      "id": "xy11-12",
+      "number": 12,
+      "name": "Foongus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/12.png"
+    },
+    {
+      "id": "xy11-13",
+      "number": 13,
+      "name": "Amoonguss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/13.png"
+    },
+    {
+      "id": "xy11-14",
+      "number": 14,
+      "name": "Larvesta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/14.png"
+    },
+    {
+      "id": "xy11-15",
+      "number": 15,
+      "name": "Volcarona",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/15.png"
+    },
+    {
+      "id": "xy11-16",
+      "number": 16,
+      "name": "Ponyta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/16.png"
+    },
+    {
+      "id": "xy11-17",
+      "number": 17,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/17.png"
+    },
+    {
+      "id": "xy11-18",
+      "number": 18,
+      "name": "Chimchar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/18.png"
+    },
+    {
+      "id": "xy11-19",
+      "number": 19,
+      "name": "Monferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/19.png"
+    },
+    {
+      "id": "xy11-20",
+      "number": 20,
+      "name": "Infernape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/20.png"
+    },
+    {
+      "id": "xy11-21",
+      "number": 21,
+      "name": "Talonflame BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/21.png"
+    },
+    {
+      "id": "xy11-22",
+      "number": 22,
+      "name": "Litleo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/22.png"
+    },
+    {
+      "id": "xy11-23",
+      "number": 23,
+      "name": "Pyroar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/23.png"
+    },
+    {
+      "id": "xy11-24",
+      "number": 24,
+      "name": "Pyroar BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/24.png"
+    },
+    {
+      "id": "xy11-25",
+      "number": 25,
+      "name": "Volcanion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/25.png"
+    },
+    {
+      "id": "xy11-26",
+      "number": 26,
+      "name": "Volcanion EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/26.png"
+    },
+    {
+      "id": "xy11-27",
+      "number": 27,
+      "name": "Mantine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/27.png"
+    },
+    {
+      "id": "xy11-28",
+      "number": 28,
+      "name": "Shellos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/28.png"
+    },
+    {
+      "id": "xy11-29",
+      "number": 29,
+      "name": "Gastrodon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/29.png"
+    },
+    {
+      "id": "xy11-30",
+      "number": 30,
+      "name": "Oshawott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/30.png"
+    },
+    {
+      "id": "xy11-31",
+      "number": 31,
+      "name": "Dewott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/31.png"
+    },
+    {
+      "id": "xy11-32",
+      "number": 32,
+      "name": "Samurott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/32.png"
+    },
+    {
+      "id": "xy11-33",
+      "number": 33,
+      "name": "Clauncher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/33.png"
+    },
+    {
+      "id": "xy11-34",
+      "number": 34,
+      "name": "Clawitzer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/34.png"
+    },
+    {
+      "id": "xy11-35",
+      "number": 35,
+      "name": "Clawitzer BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/35.png"
+    },
+    {
+      "id": "xy11-36",
+      "number": 36,
+      "name": "Bergmite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/36.png"
+    },
+    {
+      "id": "xy11-37",
+      "number": 37,
+      "name": "Avalugg",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/37.png"
+    },
+    {
+      "id": "xy11-38",
+      "number": 38,
+      "name": "Mareep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/38.png"
+    },
+    {
+      "id": "xy11-39",
+      "number": 39,
+      "name": "Flaaffy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/39.png"
+    },
+    {
+      "id": "xy11-40",
+      "number": 40,
+      "name": "Ampharos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/40.png"
+    },
+    {
+      "id": "xy11-41",
+      "number": 41,
+      "name": "Joltik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/41.png"
+    },
+    {
+      "id": "xy11-42",
+      "number": 42,
+      "name": "Galvantula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/42.png"
+    },
+    {
+      "id": "xy11-43",
+      "number": 43,
+      "name": "Nidoran♂",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/43.png"
+    },
+    {
+      "id": "xy11-44",
+      "number": 44,
+      "name": "Nidorino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/44.png"
+    },
+    {
+      "id": "xy11-45",
+      "number": 45,
+      "name": "Nidoking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/45.png"
+    },
+    {
+      "id": "xy11-46",
+      "number": 46,
+      "name": "Drifloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/46.png"
+    },
+    {
+      "id": "xy11-47",
+      "number": 47,
+      "name": "Drifblim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/47.png"
+    },
+    {
+      "id": "xy11-48",
+      "number": 48,
+      "name": "Litwick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/48.png"
+    },
+    {
+      "id": "xy11-49",
+      "number": 49,
+      "name": "Lampent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/49.png"
+    },
+    {
+      "id": "xy11-50",
+      "number": 50,
+      "name": "Chandelure",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/50.png"
+    },
+    {
+      "id": "xy11-51",
+      "number": 51,
+      "name": "Hoopa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/51.png"
+    },
+    {
+      "id": "xy11-52",
+      "number": 52,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/52.png"
+    },
+    {
+      "id": "xy11-53",
+      "number": 53,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/53.png"
+    },
+    {
+      "id": "xy11-54",
+      "number": 54,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/54.png"
+    },
+    {
+      "id": "xy11-55",
+      "number": 55,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/55.png"
+    },
+    {
+      "id": "xy11-56",
+      "number": 56,
+      "name": "Anorith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/56.png"
+    },
+    {
+      "id": "xy11-57",
+      "number": 57,
+      "name": "Armaldo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/57.png"
+    },
+    {
+      "id": "xy11-58",
+      "number": 58,
+      "name": "Croagunk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/58.png"
+    },
+    {
+      "id": "xy11-59",
+      "number": 59,
+      "name": "Toxicroak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/59.png"
+    },
+    {
+      "id": "xy11-60",
+      "number": 60,
+      "name": "Sneasel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/60.png"
+    },
+    {
+      "id": "xy11-61",
+      "number": 61,
+      "name": "Weavile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/61.png"
+    },
+    {
+      "id": "xy11-62",
+      "number": 62,
+      "name": "Spiritomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/62.png"
+    },
+    {
+      "id": "xy11-63",
+      "number": 63,
+      "name": "Pawniard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/63.png"
+    },
+    {
+      "id": "xy11-64",
+      "number": 64,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/64.png"
+    },
+    {
+      "id": "xy11-65",
+      "number": 65,
+      "name": "Yveltal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/65.png"
+    },
+    {
+      "id": "xy11-66",
+      "number": 66,
+      "name": "Yveltal BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/66.png"
+    },
+    {
+      "id": "xy11-67",
+      "number": 67,
+      "name": "Steelix EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/67.png"
+    },
+    {
+      "id": "xy11-68",
+      "number": 68,
+      "name": "M Steelix EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/68.png"
+    },
+    {
+      "id": "xy11-69",
+      "number": 69,
+      "name": "Shieldon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/69.png"
+    },
+    {
+      "id": "xy11-70",
+      "number": 70,
+      "name": "Bastiodon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/70.png"
+    },
+    {
+      "id": "xy11-71",
+      "number": 71,
+      "name": "Klink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/71.png"
+    },
+    {
+      "id": "xy11-72",
+      "number": 72,
+      "name": "Klang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/72.png"
+    },
+    {
+      "id": "xy11-73",
+      "number": 73,
+      "name": "Klinklang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/73.png"
+    },
+    {
+      "id": "xy11-74",
+      "number": 74,
+      "name": "Cobalion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/74.png"
+    },
+    {
+      "id": "xy11-75",
+      "number": 75,
+      "name": "Magearna EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/75.png"
+    },
+    {
+      "id": "xy11-76",
+      "number": 76,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/76.png"
+    },
+    {
+      "id": "xy11-77",
+      "number": 77,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/77.png"
+    },
+    {
+      "id": "xy11-78",
+      "number": 78,
+      "name": "Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/78.png"
+    },
+    {
+      "id": "xy11-79",
+      "number": 79,
+      "name": "M Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/79.png"
+    },
+    {
+      "id": "xy11-80",
+      "number": 80,
+      "name": "Klefki",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/80.png"
+    },
+    {
+      "id": "xy11-81",
+      "number": 81,
+      "name": "Xerneas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/81.png"
+    },
+    {
+      "id": "xy11-82",
+      "number": 82,
+      "name": "Xerneas BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/82.png"
+    },
+    {
+      "id": "xy11-83",
+      "number": 83,
+      "name": "Druddigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/83.png"
+    },
+    {
+      "id": "xy11-84",
+      "number": 84,
+      "name": "Deino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/84.png"
+    },
+    {
+      "id": "xy11-85",
+      "number": 85,
+      "name": "Zweilous",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/85.png"
+    },
+    {
+      "id": "xy11-86",
+      "number": 86,
+      "name": "Hydreigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/86.png"
+    },
+    {
+      "id": "xy11-87",
+      "number": 87,
+      "name": "Hydreigon BREAK",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/87.png"
+    },
+    {
+      "id": "xy11-88",
+      "number": 88,
+      "name": "Meowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/88.png"
+    },
+    {
+      "id": "xy11-89",
+      "number": 89,
+      "name": "Persian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/89.png"
+    },
+    {
+      "id": "xy11-90",
+      "number": 90,
+      "name": "Aipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/90.png"
+    },
+    {
+      "id": "xy11-91",
+      "number": 91,
+      "name": "Ambipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/91.png"
+    },
+    {
+      "id": "xy11-92",
+      "number": 92,
+      "name": "Rufflet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/92.png"
+    },
+    {
+      "id": "xy11-93",
+      "number": 93,
+      "name": "Braviary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/93.png"
+    },
+    {
+      "id": "xy11-94",
+      "number": 94,
+      "name": "Fletchling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/94.png"
+    },
+    {
+      "id": "xy11-95",
+      "number": 95,
+      "name": "Fletchinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/95.png"
+    },
+    {
+      "id": "xy11-96",
+      "number": 96,
+      "name": "Talonflame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/96.png"
+    },
+    {
+      "id": "xy11-97",
+      "number": 97,
+      "name": "Hawlucha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/97.png"
+    },
+    {
+      "id": "xy11-98",
+      "number": 98,
+      "name": "Armor Fossil Shieldon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/98.png"
+    },
+    {
+      "id": "xy11-99",
+      "number": 99,
+      "name": "Captivating Poké Puff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/99.png"
+    },
+    {
+      "id": "xy11-100",
+      "number": 100,
+      "name": "Claw Fossil Anorith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/100.png"
+    },
+    {
+      "id": "xy11-101",
+      "number": 101,
+      "name": "Gardevoir Spirit Link",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/101.png"
+    },
+    {
+      "id": "xy11-102",
+      "number": 102,
+      "name": "Greedy Dice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/102.png"
+    },
+    {
+      "id": "xy11-103",
+      "number": 103,
+      "name": "Ninja Boy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/103.png"
+    },
+    {
+      "id": "xy11-104",
+      "number": 104,
+      "name": "Pokémon Ranger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/104.png"
+    },
+    {
+      "id": "xy11-105",
+      "number": 105,
+      "name": "Special Charge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/105.png"
+    },
+    {
+      "id": "xy11-106",
+      "number": 106,
+      "name": "Steelix Spirit Link",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/106.png"
+    },
+    {
+      "id": "xy11-107",
+      "number": 107,
+      "name": "Volcanion EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/107.png"
+    },
+    {
+      "id": "xy11-108",
+      "number": 108,
+      "name": "Steelix EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/108.png"
+    },
+    {
+      "id": "xy11-109",
+      "number": 109,
+      "name": "M Steelix EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/109.png"
+    },
+    {
+      "id": "xy11-110",
+      "number": 110,
+      "name": "Magearna EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/110.png"
+    },
+    {
+      "id": "xy11-111",
+      "number": 111,
+      "name": "Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/111.png"
+    },
+    {
+      "id": "xy11-112",
+      "number": 112,
+      "name": "M Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/112.png"
+    },
+    {
+      "id": "xy11-113",
+      "number": 113,
+      "name": "Pokémon Ranger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/113.png"
+    },
+    {
+      "id": "xy11-114",
+      "number": 114,
+      "name": "Professor Sycamore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/114.png"
+    },
+    {
+      "id": "xy11-115",
+      "number": 115,
+      "name": "Volcanion EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/115.png"
+    },
+    {
+      "id": "xy11-116",
+      "number": 116,
+      "name": "Gardevoir EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Steam%20Siege/images/116.png"
+    }
+  ]
+}

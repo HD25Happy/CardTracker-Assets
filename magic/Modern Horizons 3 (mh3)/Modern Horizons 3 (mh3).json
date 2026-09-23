@@ -1,7 +1,7 @@
 ﻿{
   "game": "Magic: The Gathering",
   "setName": "Modern Horizons 3",
-  "totalCards": 528,
+  "totalCards": 524,
   "cards": [
     {
       "id": "72449552-aa2c-4ae3-846f-df523c5e6078",
@@ -178,12 +178,6 @@
       "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/29.jpg"
     },
     {
-      "id": "23690b14-8e3e-4aff-bf5e-dd002dcc0bed",
-      "number": 0,
-      "name": "A-Guide of Souls",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/A-29.jpg"
-    },
-    {
       "id": "20a85b6d-fb2b-4359-9dd6-081d8722e580",
       "number": 30,
       "name": "Hexgold Slith",
@@ -236,12 +230,6 @@
       "number": 38,
       "name": "Ocelot Pride",
       "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/38.jpg"
-    },
-    {
-      "id": "648ae09d-f867-49d1-a694-ff9d63800041",
-      "number": 0,
-      "name": "A-Ocelot Pride",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/A-38.jpg"
     },
     {
       "id": "28aef7c8-58b3-463c-91d3-2d1ff8a815ee",
@@ -748,12 +736,6 @@
       "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/122.jpg"
     },
     {
-      "id": "a0a12717-a9c0-43c7-b6be-02fd435c0053",
-      "number": 0,
-      "name": "A-Galvanic Discharge",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/A-122.jpg"
-    },
-    {
       "id": "2adea3ee-138f-455b-a001-586883c44758",
       "number": 123,
       "name": "Ghostfire Slice",
@@ -1052,6 +1034,24 @@
       "number": 172,
       "name": "Temperamental Oozewagg",
       "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/172.jpg"
+    },
+    {
+      "id": "9c249aa6-c65c-4572-8e2e-c3899638ecce",
+      "number": 173,
+      "name": "Territory Culler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/173.jpg"
+    },
+    {
+      "id": "328b02ca-d8eb-401d-9c41-93f8eb909312",
+      "number": 174,
+      "name": "Thief of Existence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/174.jpg"
+    },
+    {
+      "id": "812af562-853a-48a3-b428-ad891c54be5c",
+      "number": 175,
+      "name": "Trickster's Elk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/175.jpg"
     },
     {
       "id": "23c19f67-834c-4709-9038-7916ac0921eb",
@@ -2078,30 +2078,6 @@
       "number": 346,
       "name": "Jet Medallion",
       "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/346.jpg"
-    },
-    {
-      "id": "18bce47b-ba52-4a6c-a0ed-f533489a077c",
-      "number": 347,
-      "name": "Pearl Medallion",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/347.jpg"
-    },
-    {
-      "id": "3935034b-611f-4ce7-9bba-14c3b31eb597",
-      "number": 348,
-      "name": "Ruby Medallion",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/348.jpg"
-    },
-    {
-      "id": "4ec271e4-1813-4ee7-bfd5-5a0c39d2d25d",
-      "number": 349,
-      "name": "Sapphire Medallion",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/349.jpg"
-    },
-    {
-      "id": "472905ac-1eb9-4951-8180-b8c35fbab3d7",
-      "number": 350,
-      "name": "Archway of Innovation",
-      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Modern%20Horizons%203%20%28mh3%29/images/350.jpg"
     },
     {
       "id": "18bce47b-ba52-4a6c-a0ed-f533489a077c",

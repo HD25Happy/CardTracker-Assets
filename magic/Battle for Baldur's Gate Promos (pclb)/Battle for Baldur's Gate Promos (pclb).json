@@ -1,0 +1,631 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Battle for Baldur's Gate Promos",
+  "totalCards": 104,
+  "cards": [
+    {
+      "id": "a684ee9d-8a40-418d-8e6e-012e9c9d5de5",
+      "number": 0,
+      "name": "Ancient Gold Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/3s.jpg"
+    },
+    {
+      "id": "a1f4081a-6200-4baf-964a-9c2219cb5497",
+      "number": 0,
+      "name": "Archivist of Oghma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/4s.jpg"
+    },
+    {
+      "id": "45444db1-25c2-46e0-ad57-dcab603efc04",
+      "number": 0,
+      "name": "Ascend from Avernus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/5s.jpg"
+    },
+    {
+      "id": "eae141d6-f4a7-4223-ae4f-217415be559a",
+      "number": 0,
+      "name": "Battle Angels of Tyr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/9p.jpg"
+    },
+    {
+      "id": "a99a4eff-7745-4f8f-ab13-49ab8173c8e4",
+      "number": 0,
+      "name": "Battle Angels of Tyr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/9s.jpg"
+    },
+    {
+      "id": "7d3e55d2-a433-4775-b80f-fb05a1ad9852",
+      "number": 0,
+      "name": "Horn of Valhalla // Ysgard's Call",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/26s.jpg"
+    },
+    {
+      "id": "0dd2dac2-00a9-456e-8217-3ab8d7eff26d",
+      "number": 0,
+      "name": "Lae'zel, Vlaakith's Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/29s.jpg"
+    },
+    {
+      "id": "1ba515c5-b512-4e35-9ce2-33fcb76204b1",
+      "number": 0,
+      "name": "Lae'zel's Acrobatics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/30s.jpg"
+    },
+    {
+      "id": "8c0dced7-cc8e-45d2-955f-9e4e90f67d8d",
+      "number": 0,
+      "name": "Legion Loyalty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/31s.jpg"
+    },
+    {
+      "id": "26fa2364-13f1-4bfc-a48c-81e1917770d4",
+      "number": 0,
+      "name": "Noble Heritage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/35s.jpg"
+    },
+    {
+      "id": "368a8492-1d87-429e-abcd-3a87c6f0160e",
+      "number": 0,
+      "name": "Sculpted Sunburst",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/42s.jpg"
+    },
+    {
+      "id": "95ec8866-8374-4b17-93db-f3cf9f01fec3",
+      "number": 0,
+      "name": "White Plume Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/49s.jpg"
+    },
+    {
+      "id": "02d4ee28-62ef-442e-af80-30dc978e413c",
+      "number": 0,
+      "name": "Windshaper Planetar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/50s.jpg"
+    },
+    {
+      "id": "6e990e4e-9987-4ed2-b0a2-39cacfc94152",
+      "number": 0,
+      "name": "Ancient Silver Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/56s.jpg"
+    },
+    {
+      "id": "2b347ecf-d032-4d6c-9b4b-6e33c08a0722",
+      "number": 0,
+      "name": "Displacer Kitten",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/63p.jpg"
+    },
+    {
+      "id": "25fe7b73-7e7c-436f-aae1-21bab34efefe",
+      "number": 0,
+      "name": "Displacer Kitten",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/63s.jpg"
+    },
+    {
+      "id": "546cce9d-4e2a-4a7f-85e4-908f0ee164d3",
+      "number": 0,
+      "name": "Elminster's Simulacrum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/68s.jpg"
+    },
+    {
+      "id": "e9cabfb2-f0b8-43ef-9319-df33b1fde2ac",
+      "number": 0,
+      "name": "Font of Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/71s.jpg"
+    },
+    {
+      "id": "633f39a7-0e3a-43eb-942d-3822a8c01ad5",
+      "number": 0,
+      "name": "Gale, Waterdeep Prodigy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/72s.jpg"
+    },
+    {
+      "id": "d733ce6d-ab4a-4966-aeab-c613bb528409",
+      "number": 0,
+      "name": "Gale's Redirection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/73s.jpg"
+    },
+    {
+      "id": "02b5d22a-e928-42a0-a688-8994fcd358b0",
+      "number": 0,
+      "name": "Illithid Harvester // Plant Tadpoles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/76s.jpg"
+    },
+    {
+      "id": "e75c36b1-5e57-4b72-b167-fc7b50ad2936",
+      "number": 0,
+      "name": "Kindred Discovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/81s.jpg"
+    },
+    {
+      "id": "7ddf263b-b686-4de1-8a19-b4df049edb43",
+      "number": 0,
+      "name": "Robe of the Archmagi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/91s.jpg"
+    },
+    {
+      "id": "106abe4c-8b42-45b5-a87f-ea023d5c00ca",
+      "number": 0,
+      "name": "Shameless Charlatan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/96s.jpg"
+    },
+    {
+      "id": "6f9de8d1-03f9-491b-8871-d297a0543de9",
+      "number": 0,
+      "name": "Tomb of Horrors Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/100s.jpg"
+    },
+    {
+      "id": "0bee7ac7-5a66-4ced-ad3a-4b19e3256c3b",
+      "number": 0,
+      "name": "Volo, Itinerant Scholar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/103s.jpg"
+    },
+    {
+      "id": "0fb093f0-3b6f-438f-9ff3-373430140794",
+      "number": 0,
+      "name": "Wizards of Thay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/105s.jpg"
+    },
+    {
+      "id": "328ed5e2-66ca-4c44-b834-70dc4880c535",
+      "number": 0,
+      "name": "Altar of Bhaal // Bone Offering",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/109s.jpg"
+    },
+    {
+      "id": "536f7d4d-701b-4358-8a26-da1463a509aa",
+      "number": 0,
+      "name": "Ancient Brass Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/111s.jpg"
+    },
+    {
+      "id": "cb7b099b-9b0f-4897-8665-bc55e437a5eb",
+      "number": 0,
+      "name": "Astarion's Thirst",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/114s.jpg"
+    },
+    {
+      "id": "dec899f3-c145-4452-b0c1-6dcb3960c25f",
+      "number": 0,
+      "name": "Blood Money",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/116s.jpg"
+    },
+    {
+      "id": "76cf9228-de22-4625-ac6c-2e71f8041289",
+      "number": 0,
+      "name": "Call to the Void",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/118s.jpg"
+    },
+    {
+      "id": "7ed84097-1710-4789-bf65-9793a2fd6ecf",
+      "number": 0,
+      "name": "Cultist of the Absolute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/123s.jpg"
+    },
+    {
+      "id": "17fa8573-b0a7-404e-aa3e-838bf11531f8",
+      "number": 0,
+      "name": "Elder Brain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/125s.jpg"
+    },
+    {
+      "id": "ce9385f6-f00f-448b-8c32-a85397280b6c",
+      "number": 0,
+      "name": "Eldritch Pact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/126s.jpg"
+    },
+    {
+      "id": "c36156ba-9e15-4da5-bfbf-0a092478d3af",
+      "number": 0,
+      "name": "Intellect Devourer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/132s.jpg"
+    },
+    {
+      "id": "6a05b07e-8e4f-44f8-8f6a-7f4333cc6539",
+      "number": 0,
+      "name": "Pact Weapon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/139s.jpg"
+    },
+    {
+      "id": "47a6569e-ab96-4c84-8985-57769be3cc35",
+      "number": 0,
+      "name": "Ravenloft Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/142s.jpg"
+    },
+    {
+      "id": "d8f57cd7-0cda-4bc9-ae4a-f01a24d4dc08",
+      "number": 0,
+      "name": "Shadowheart, Dark Justiciar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/146s.jpg"
+    },
+    {
+      "id": "fe6bb58b-9c57-4e43-90b8-b0a6f8a38006",
+      "number": 0,
+      "name": "Ancient Copper Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/161s.jpg"
+    },
+    {
+      "id": "ab97e063-1e9d-4a3f-9907-9e380dbeabee",
+      "number": 0,
+      "name": "Balor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/162p.jpg"
+    },
+    {
+      "id": "bdb8eae2-4f8f-4ed5-b61f-2a98c050aafe",
+      "number": 0,
+      "name": "Balor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/162s.jpg"
+    },
+    {
+      "id": "45fd73bc-edd9-4629-aa8a-8a2999949c70",
+      "number": 0,
+      "name": "Caves of Chaos Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/167p.jpg"
+    },
+    {
+      "id": "e909fe36-e95c-4094-9029-a292a8fcf73a",
+      "number": 0,
+      "name": "Caves of Chaos Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/167s.jpg"
+    },
+    {
+      "id": "a4bfa93a-e9b4-4881-a1e3-ebdc9d500dd8",
+      "number": 0,
+      "name": "Descent into Avernus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/169s.jpg"
+    },
+    {
+      "id": "bfd9f3d3-d42f-45bd-a2b3-6390ca089f6f",
+      "number": 0,
+      "name": "Elturel Survivors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/172s.jpg"
+    },
+    {
+      "id": "5d732069-5c97-4bd3-a290-e7bd44fbacb1",
+      "number": 0,
+      "name": "Firbolg Flutist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/174s.jpg"
+    },
+    {
+      "id": "9262cffc-e5ff-4460-a3c2-3196327c5f33",
+      "number": 0,
+      "name": "Karlach, Fury of Avernus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/186s.jpg"
+    },
+    {
+      "id": "14881c52-2623-4af7-95e3-7a33fe06ae47",
+      "number": 0,
+      "name": "Popular Entertainer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/192s.jpg"
+    },
+    {
+      "id": "624b2e32-72e7-40ce-9617-e04c318a835e",
+      "number": 0,
+      "name": "Storm King's Thunder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/196s.jpg"
+    },
+    {
+      "id": "05d1b195-1142-4a9a-92a5-fda8c25c1e21",
+      "number": 0,
+      "name": "Wand of Wonder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/204s.jpg"
+    },
+    {
+      "id": "08b83d2e-6484-4482-bac3-f8588f796ea9",
+      "number": 0,
+      "name": "Wrathful Red Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/207s.jpg"
+    },
+    {
+      "id": "8844f9f1-37b7-407c-9772-3b971855807b",
+      "number": 0,
+      "name": "Wyll, Blade of Frontiers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/208s.jpg"
+    },
+    {
+      "id": "dc438064-d606-4854-b0d9-33dfccc86be7",
+      "number": 0,
+      "name": "Wyll's Reversal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/209s.jpg"
+    },
+    {
+      "id": "699d3077-e2a7-4228-9bd3-646d5e725b6d",
+      "number": 0,
+      "name": "Ancient Bronze Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/214s.jpg"
+    },
+    {
+      "id": "85610d70-6db6-448a-9c78-34a78710e2ae",
+      "number": 0,
+      "name": "Barroom Brawl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/217s.jpg"
+    },
+    {
+      "id": "bc95d1bc-68f2-4a43-8545-cdd8b7ae8d18",
+      "number": 0,
+      "name": "Bramble Sovereign",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/218s.jpg"
+    },
+    {
+      "id": "87cad41f-bb38-4f5c-89df-42be69709b2e",
+      "number": 0,
+      "name": "Earthquake Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/228s.jpg"
+    },
+    {
+      "id": "77c6d1e8-fdac-46a2-ab2b-dd474009e54a",
+      "number": 0,
+      "name": "Jaheira, Friend of the Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/237s.jpg"
+    },
+    {
+      "id": "b387a940-daa3-4ba5-b897-3fdc2855d02a",
+      "number": 0,
+      "name": "Jaheira's Respite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/238s.jpg"
+    },
+    {
+      "id": "2ec3dd36-06b1-4886-81fb-6d3532ebf932",
+      "number": 0,
+      "name": "Majestic Genesis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/240s.jpg"
+    },
+    {
+      "id": "9b78aff6-02c8-491b-929d-c7318d31d39b",
+      "number": 0,
+      "name": "Monster Manual // Zoological Study",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/242s.jpg"
+    },
+    {
+      "id": "44d0cc1e-c248-404d-a68b-ce449acb4ff8",
+      "number": 0,
+      "name": "Owlbear Cub",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/246s.jpg"
+    },
+    {
+      "id": "e6ad5feb-a0b2-44e1-a7a3-ae5f1bf95b58",
+      "number": 0,
+      "name": "Raised by Giants",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/250s.jpg"
+    },
+    {
+      "id": "fc55c2f5-1c40-431c-9b4c-e2ea4a15487d",
+      "number": 0,
+      "name": "Traverse the Outlands",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/258s.jpg"
+    },
+    {
+      "id": "d68382cd-da62-4c85-a5b3-3594a3302280",
+      "number": 0,
+      "name": "Undermountain Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/260s.jpg"
+    },
+    {
+      "id": "23edce49-0b6c-4780-aeff-28d70bd53b51",
+      "number": 0,
+      "name": "Alaundo the Seer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/264s.jpg"
+    },
+    {
+      "id": "b49eb8e7-35b8-498c-9291-dc6dd9266124",
+      "number": 0,
+      "name": "Astarion, the Decadent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/265s.jpg"
+    },
+    {
+      "id": "ac69410a-14ee-4a53-ab60-fd19838a3dc7",
+      "number": 0,
+      "name": "Baba Lysaga, Night Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/266s.jpg"
+    },
+    {
+      "id": "8427e319-1aae-4788-86c3-46c7b1e7ba7c",
+      "number": 0,
+      "name": "Bane, Lord of Darkness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/267s.jpg"
+    },
+    {
+      "id": "6e266763-3af6-48f0-83a8-ab346d37f565",
+      "number": 0,
+      "name": "Bhaal, Lord of Murder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/268s.jpg"
+    },
+    {
+      "id": "bcef4b8e-ca94-4ea4-8770-a10cc5603c6a",
+      "number": 0,
+      "name": "The Council of Four",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/271s.jpg"
+    },
+    {
+      "id": "7f878e32-c959-4baa-9801-e93b0a76dc67",
+      "number": 0,
+      "name": "Duke Ulder Ravengard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/272s.jpg"
+    },
+    {
+      "id": "9cc449a3-a57b-45ed-895b-4e7d8a32e713",
+      "number": 0,
+      "name": "Dynaheir, Invoker Adept",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/273s.jpg"
+    },
+    {
+      "id": "387997e8-6f08-4c90-8ae6-3d54dd493f42",
+      "number": 0,
+      "name": "Elminster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/274s.jpg"
+    },
+    {
+      "id": "64835cb9-ec93-4b1d-8c6b-4be6ceb8a71c",
+      "number": 0,
+      "name": "Gluntch, the Bestower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/275s.jpg"
+    },
+    {
+      "id": "c79ab0b7-63e3-4c45-a067-f3a483d0546a",
+      "number": 0,
+      "name": "Gorion, Wise Mentor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/276s.jpg"
+    },
+    {
+      "id": "771378d4-68d7-4752-b2c2-b7a998c49dbc",
+      "number": 0,
+      "name": "Jan Jansen, Chaos Crafter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/277s.jpg"
+    },
+    {
+      "id": "cb3c3b1a-2f26-4f0d-8c8c-75da5dad6fa0",
+      "number": 0,
+      "name": "Jon Irenicus, Shattered One",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/278s.jpg"
+    },
+    {
+      "id": "29734859-4e37-453e-a81b-4d3f55a21538",
+      "number": 0,
+      "name": "Mazzy, Truesword Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/283s.jpg"
+    },
+    {
+      "id": "01a6649f-ccd9-4a7c-9226-512029c9f7d9",
+      "number": 0,
+      "name": "Miirym, Sentinel Wyrm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/284s.jpg"
+    },
+    {
+      "id": "25ea10b4-e6e9-43ba-8e26-71076cb24ab1",
+      "number": 0,
+      "name": "Minsc & Boo, Timeless Heroes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/285p.jpg"
+    },
+    {
+      "id": "e2d692c7-99cd-4602-8925-e2ac833d416b",
+      "number": 0,
+      "name": "Minsc & Boo, Timeless Heroes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/285s.jpg"
+    },
+    {
+      "id": "83952c99-d1d5-4833-aa07-9796899be8ad",
+      "number": 0,
+      "name": "Myrkul, Lord of Bones",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/287s.jpg"
+    },
+    {
+      "id": "a4f62bc1-963f-4358-b5f9-1a59c5a7aa3e",
+      "number": 0,
+      "name": "Neera, Wild Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/288s.jpg"
+    },
+    {
+      "id": "a326f4ad-03df-4155-9b12-60528ebbefee",
+      "number": 0,
+      "name": "Nine-Fingers Keene",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/289s.jpg"
+    },
+    {
+      "id": "16c0bb8f-2549-45ab-bc2e-e45a4954d911",
+      "number": 0,
+      "name": "Raggadragga, Goreguts Boss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/291s.jpg"
+    },
+    {
+      "id": "2a196419-83f9-4286-9e3d-93f0518e281d",
+      "number": 0,
+      "name": "Raphael, Fiendish Savior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/292s.jpg"
+    },
+    {
+      "id": "15351c9b-b891-41b8-87eb-bebbd32c3670",
+      "number": 0,
+      "name": "Tasha, the Witch Queen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/294s.jpg"
+    },
+    {
+      "id": "44ad5058-e01a-4453-951a-a8c7752265bf",
+      "number": 0,
+      "name": "Zevlor, Elturel Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/296s.jpg"
+    },
+    {
+      "id": "e645b9bb-db35-4fdf-aa7a-8ae217ec78e0",
+      "number": 0,
+      "name": "Basilisk Collar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/300s.jpg"
+    },
+    {
+      "id": "fd0157f5-bde8-4932-aaee-f0e2b19ba4f1",
+      "number": 0,
+      "name": "Blade of Selves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/301s.jpg"
+    },
+    {
+      "id": "e491a854-50bb-4d54-8fbf-05138a95ac7a",
+      "number": 0,
+      "name": "Fraying Line",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/314s.jpg"
+    },
+    {
+      "id": "c017a4c1-9085-4849-8595-8d6af44808ce",
+      "number": 0,
+      "name": "Mighty Servant of Leuk-o",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/324s.jpg"
+    },
+    {
+      "id": "6937c7be-9ebd-4407-99c3-4f3ddaa4436d",
+      "number": 0,
+      "name": "Mirror of Life Trapping",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/326s.jpg"
+    },
+    {
+      "id": "8804e78b-57ec-47ab-b02e-461e0b7b3c24",
+      "number": 0,
+      "name": "Nautiloid Ship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/328s.jpg"
+    },
+    {
+      "id": "58848bfe-9206-4fdc-8140-7dc7236594a3",
+      "number": 0,
+      "name": "Vexing Puzzlebox",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/343s.jpg"
+    },
+    {
+      "id": "bcbed9d0-622d-4307-8c2b-39a7c7dfaa42",
+      "number": 0,
+      "name": "Baldur's Gate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/345s.jpg"
+    },
+    {
+      "id": "a061af8e-d1e9-478b-a1d8-c88e3ce061f0",
+      "number": 0,
+      "name": "Bountiful Promenade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/348s.jpg"
+    },
+    {
+      "id": "570e2736-cee6-4141-ad23-4853caa40c53",
+      "number": 0,
+      "name": "Luxury Suite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/355s.jpg"
+    },
+    {
+      "id": "a5264ca3-755d-4219-a15c-4985fb2a76f1",
+      "number": 0,
+      "name": "Morphic Pool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/357s.jpg"
+    },
+    {
+      "id": "124f2b48-ee22-4fc9-9493-b05474aabd8a",
+      "number": 0,
+      "name": "Reflecting Pool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/358s.jpg"
+    },
+    {
+      "id": "dd552175-2942-4c9e-ae87-743fac1ef706",
+      "number": 0,
+      "name": "Sea of Clouds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/360s.jpg"
+    },
+    {
+      "id": "0a2b3911-40f2-4a05-9eb7-57a29a35109d",
+      "number": 0,
+      "name": "Spire Garden",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Battle%20for%20Baldur%27s%20Gate%20Promos%20%28pclb%29/images/361s.jpg"
+    }
+  ]
+}

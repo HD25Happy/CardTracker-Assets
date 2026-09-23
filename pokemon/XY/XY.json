@@ -1,0 +1,884 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "XY",
+  "totalCards": 146,
+  "availableImages": 146,
+  "cards": [
+    {
+      "id": "xy1-1",
+      "number": 1,
+      "name": "Venusaur EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/1.png"
+    },
+    {
+      "id": "xy1-2",
+      "number": 2,
+      "name": "M Venusaur EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/2.png"
+    },
+    {
+      "id": "xy1-3",
+      "number": 3,
+      "name": "Weedle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/3.png"
+    },
+    {
+      "id": "xy1-4",
+      "number": 4,
+      "name": "Kakuna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/4.png"
+    },
+    {
+      "id": "xy1-5",
+      "number": 5,
+      "name": "Beedrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/5.png"
+    },
+    {
+      "id": "xy1-6",
+      "number": 6,
+      "name": "Ledyba",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/6.png"
+    },
+    {
+      "id": "xy1-7",
+      "number": 7,
+      "name": "Ledian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/7.png"
+    },
+    {
+      "id": "xy1-8",
+      "number": 8,
+      "name": "Volbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/8.png"
+    },
+    {
+      "id": "xy1-9",
+      "number": 9,
+      "name": "Illumise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/9.png"
+    },
+    {
+      "id": "xy1-10",
+      "number": 10,
+      "name": "Pansage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/10.png"
+    },
+    {
+      "id": "xy1-11",
+      "number": 11,
+      "name": "Simisage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/11.png"
+    },
+    {
+      "id": "xy1-12",
+      "number": 12,
+      "name": "Chespin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/12.png"
+    },
+    {
+      "id": "xy1-13",
+      "number": 13,
+      "name": "Quilladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/13.png"
+    },
+    {
+      "id": "xy1-14",
+      "number": 14,
+      "name": "Chesnaught",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/14.png"
+    },
+    {
+      "id": "xy1-15",
+      "number": 15,
+      "name": "Scatterbug",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/15.png"
+    },
+    {
+      "id": "xy1-16",
+      "number": 16,
+      "name": "Spewpa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/16.png"
+    },
+    {
+      "id": "xy1-17",
+      "number": 17,
+      "name": "Vivillon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/17.png"
+    },
+    {
+      "id": "xy1-18",
+      "number": 18,
+      "name": "Skiddo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/18.png"
+    },
+    {
+      "id": "xy1-19",
+      "number": 19,
+      "name": "Gogoat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/19.png"
+    },
+    {
+      "id": "xy1-20",
+      "number": 20,
+      "name": "Slugma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/20.png"
+    },
+    {
+      "id": "xy1-21",
+      "number": 21,
+      "name": "Magcargo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/21.png"
+    },
+    {
+      "id": "xy1-22",
+      "number": 22,
+      "name": "Pansear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/22.png"
+    },
+    {
+      "id": "xy1-23",
+      "number": 23,
+      "name": "Simisear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/23.png"
+    },
+    {
+      "id": "xy1-24",
+      "number": 24,
+      "name": "Fennekin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/24.png"
+    },
+    {
+      "id": "xy1-25",
+      "number": 25,
+      "name": "Braixen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/25.png"
+    },
+    {
+      "id": "xy1-26",
+      "number": 26,
+      "name": "Delphox",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/26.png"
+    },
+    {
+      "id": "xy1-27",
+      "number": 27,
+      "name": "Fletchinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/27.png"
+    },
+    {
+      "id": "xy1-28",
+      "number": 28,
+      "name": "Talonflame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/28.png"
+    },
+    {
+      "id": "xy1-29",
+      "number": 29,
+      "name": "Blastoise EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/29.png"
+    },
+    {
+      "id": "xy1-30",
+      "number": 30,
+      "name": "M Blastoise EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/30.png"
+    },
+    {
+      "id": "xy1-31",
+      "number": 31,
+      "name": "Shellder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/31.png"
+    },
+    {
+      "id": "xy1-32",
+      "number": 32,
+      "name": "Cloyster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/32.png"
+    },
+    {
+      "id": "xy1-33",
+      "number": 33,
+      "name": "Staryu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/33.png"
+    },
+    {
+      "id": "xy1-34",
+      "number": 34,
+      "name": "Starmie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/34.png"
+    },
+    {
+      "id": "xy1-35",
+      "number": 35,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/35.png"
+    },
+    {
+      "id": "xy1-36",
+      "number": 36,
+      "name": "Corsola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/36.png"
+    },
+    {
+      "id": "xy1-37",
+      "number": 37,
+      "name": "Panpour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/37.png"
+    },
+    {
+      "id": "xy1-38",
+      "number": 38,
+      "name": "Simipour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/38.png"
+    },
+    {
+      "id": "xy1-39",
+      "number": 39,
+      "name": "Froakie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/39.png"
+    },
+    {
+      "id": "xy1-40",
+      "number": 40,
+      "name": "Frogadier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/40.png"
+    },
+    {
+      "id": "xy1-41",
+      "number": 41,
+      "name": "Greninja",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/41.png"
+    },
+    {
+      "id": "xy1-42",
+      "number": 42,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/42.png"
+    },
+    {
+      "id": "xy1-43",
+      "number": 43,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/43.png"
+    },
+    {
+      "id": "xy1-44",
+      "number": 44,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/44.png"
+    },
+    {
+      "id": "xy1-45",
+      "number": 45,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/45.png"
+    },
+    {
+      "id": "xy1-46",
+      "number": 46,
+      "name": "Emolga EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/46.png"
+    },
+    {
+      "id": "xy1-47",
+      "number": 47,
+      "name": "Ekans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/47.png"
+    },
+    {
+      "id": "xy1-48",
+      "number": 48,
+      "name": "Arbok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/48.png"
+    },
+    {
+      "id": "xy1-49",
+      "number": 49,
+      "name": "Spoink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/49.png"
+    },
+    {
+      "id": "xy1-50",
+      "number": 50,
+      "name": "Grumpig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/50.png"
+    },
+    {
+      "id": "xy1-51",
+      "number": 51,
+      "name": "Venipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/51.png"
+    },
+    {
+      "id": "xy1-52",
+      "number": 52,
+      "name": "Whirlipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/52.png"
+    },
+    {
+      "id": "xy1-53",
+      "number": 53,
+      "name": "Scolipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/53.png"
+    },
+    {
+      "id": "xy1-54",
+      "number": 54,
+      "name": "Phantump",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/54.png"
+    },
+    {
+      "id": "xy1-55",
+      "number": 55,
+      "name": "Trevenant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/55.png"
+    },
+    {
+      "id": "xy1-56",
+      "number": 56,
+      "name": "Pumpkaboo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/56.png"
+    },
+    {
+      "id": "xy1-57",
+      "number": 57,
+      "name": "Gourgeist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/57.png"
+    },
+    {
+      "id": "xy1-58",
+      "number": 58,
+      "name": "Diglett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/58.png"
+    },
+    {
+      "id": "xy1-59",
+      "number": 59,
+      "name": "Dugtrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/59.png"
+    },
+    {
+      "id": "xy1-60",
+      "number": 60,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/60.png"
+    },
+    {
+      "id": "xy1-61",
+      "number": 61,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/61.png"
+    },
+    {
+      "id": "xy1-62",
+      "number": 62,
+      "name": "Rhyperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/62.png"
+    },
+    {
+      "id": "xy1-63",
+      "number": 63,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/63.png"
+    },
+    {
+      "id": "xy1-64",
+      "number": 64,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/64.png"
+    },
+    {
+      "id": "xy1-65",
+      "number": 65,
+      "name": "Timburr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/65.png"
+    },
+    {
+      "id": "xy1-66",
+      "number": 66,
+      "name": "Gurdurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/66.png"
+    },
+    {
+      "id": "xy1-67",
+      "number": 67,
+      "name": "Conkeldurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/67.png"
+    },
+    {
+      "id": "xy1-68",
+      "number": 68,
+      "name": "Sableye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/68.png"
+    },
+    {
+      "id": "xy1-69",
+      "number": 69,
+      "name": "Sandile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/69.png"
+    },
+    {
+      "id": "xy1-70",
+      "number": 70,
+      "name": "Krokorok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/70.png"
+    },
+    {
+      "id": "xy1-71",
+      "number": 71,
+      "name": "Krookodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/71.png"
+    },
+    {
+      "id": "xy1-72",
+      "number": 72,
+      "name": "Zorua",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/72.png"
+    },
+    {
+      "id": "xy1-73",
+      "number": 73,
+      "name": "Zoroark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/73.png"
+    },
+    {
+      "id": "xy1-74",
+      "number": 74,
+      "name": "Inkay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/74.png"
+    },
+    {
+      "id": "xy1-75",
+      "number": 75,
+      "name": "Inkay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/75.png"
+    },
+    {
+      "id": "xy1-76",
+      "number": 76,
+      "name": "Malamar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/76.png"
+    },
+    {
+      "id": "xy1-77",
+      "number": 77,
+      "name": "Malamar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/77.png"
+    },
+    {
+      "id": "xy1-78",
+      "number": 78,
+      "name": "Yveltal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/78.png"
+    },
+    {
+      "id": "xy1-79",
+      "number": 79,
+      "name": "Yveltal EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/79.png"
+    },
+    {
+      "id": "xy1-80",
+      "number": 80,
+      "name": "Skarmory EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/80.png"
+    },
+    {
+      "id": "xy1-81",
+      "number": 81,
+      "name": "Pawniard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/81.png"
+    },
+    {
+      "id": "xy1-82",
+      "number": 82,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/82.png"
+    },
+    {
+      "id": "xy1-83",
+      "number": 83,
+      "name": "Honedge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/83.png"
+    },
+    {
+      "id": "xy1-84",
+      "number": 84,
+      "name": "Doublade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/84.png"
+    },
+    {
+      "id": "xy1-85",
+      "number": 85,
+      "name": "Aegislash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/85.png"
+    },
+    {
+      "id": "xy1-86",
+      "number": 86,
+      "name": "Aegislash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/86.png"
+    },
+    {
+      "id": "xy1-87",
+      "number": 87,
+      "name": "Jigglypuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/87.png"
+    },
+    {
+      "id": "xy1-88",
+      "number": 88,
+      "name": "Jigglypuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/88.png"
+    },
+    {
+      "id": "xy1-89",
+      "number": 89,
+      "name": "Wigglytuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/89.png"
+    },
+    {
+      "id": "xy1-90",
+      "number": 90,
+      "name": "Wigglytuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/90.png"
+    },
+    {
+      "id": "xy1-91",
+      "number": 91,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/91.png"
+    },
+    {
+      "id": "xy1-92",
+      "number": 92,
+      "name": "Spritzee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/92.png"
+    },
+    {
+      "id": "xy1-93",
+      "number": 93,
+      "name": "Aromatisse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/93.png"
+    },
+    {
+      "id": "xy1-94",
+      "number": 94,
+      "name": "Swirlix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/94.png"
+    },
+    {
+      "id": "xy1-95",
+      "number": 95,
+      "name": "Slurpuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/95.png"
+    },
+    {
+      "id": "xy1-96",
+      "number": 96,
+      "name": "Xerneas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/96.png"
+    },
+    {
+      "id": "xy1-97",
+      "number": 97,
+      "name": "Xerneas EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/97.png"
+    },
+    {
+      "id": "xy1-98",
+      "number": 98,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/98.png"
+    },
+    {
+      "id": "xy1-99",
+      "number": 99,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/99.png"
+    },
+    {
+      "id": "xy1-100",
+      "number": 100,
+      "name": "Tauros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/100.png"
+    },
+    {
+      "id": "xy1-101",
+      "number": 101,
+      "name": "Dunsparce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/101.png"
+    },
+    {
+      "id": "xy1-102",
+      "number": 102,
+      "name": "Taillow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/102.png"
+    },
+    {
+      "id": "xy1-103",
+      "number": 103,
+      "name": "Swellow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/103.png"
+    },
+    {
+      "id": "xy1-104",
+      "number": 104,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/104.png"
+    },
+    {
+      "id": "xy1-105",
+      "number": 105,
+      "name": "Delcatty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/105.png"
+    },
+    {
+      "id": "xy1-106",
+      "number": 106,
+      "name": "Bidoof",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/106.png"
+    },
+    {
+      "id": "xy1-107",
+      "number": 107,
+      "name": "Bibarel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/107.png"
+    },
+    {
+      "id": "xy1-108",
+      "number": 108,
+      "name": "Lillipup",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/108.png"
+    },
+    {
+      "id": "xy1-109",
+      "number": 109,
+      "name": "Herdier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/109.png"
+    },
+    {
+      "id": "xy1-110",
+      "number": 110,
+      "name": "Stoutland",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/110.png"
+    },
+    {
+      "id": "xy1-111",
+      "number": 111,
+      "name": "Bunnelby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/111.png"
+    },
+    {
+      "id": "xy1-112",
+      "number": 112,
+      "name": "Diggersby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/112.png"
+    },
+    {
+      "id": "xy1-113",
+      "number": 113,
+      "name": "Fletchling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/113.png"
+    },
+    {
+      "id": "xy1-114",
+      "number": 114,
+      "name": "Furfrou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/114.png"
+    },
+    {
+      "id": "xy1-115",
+      "number": 115,
+      "name": "Cassius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/115.png"
+    },
+    {
+      "id": "xy1-116",
+      "number": 116,
+      "name": "Evosoda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/116.png"
+    },
+    {
+      "id": "xy1-117",
+      "number": 117,
+      "name": "Fairy Garden",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/117.png"
+    },
+    {
+      "id": "xy1-118",
+      "number": 118,
+      "name": "Great Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/118.png"
+    },
+    {
+      "id": "xy1-119",
+      "number": 119,
+      "name": "Hard Charm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/119.png"
+    },
+    {
+      "id": "xy1-120",
+      "number": 120,
+      "name": "Max Revive",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/120.png"
+    },
+    {
+      "id": "xy1-121",
+      "number": 121,
+      "name": "Muscle Band",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/121.png"
+    },
+    {
+      "id": "xy1-122",
+      "number": 122,
+      "name": "Professor Sycamore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/122.png"
+    },
+    {
+      "id": "xy1-123",
+      "number": 123,
+      "name": "Professor's Letter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/123.png"
+    },
+    {
+      "id": "xy1-124",
+      "number": 124,
+      "name": "Red Card",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/124.png"
+    },
+    {
+      "id": "xy1-125",
+      "number": 125,
+      "name": "Roller Skates",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/125.png"
+    },
+    {
+      "id": "xy1-126",
+      "number": 126,
+      "name": "Shadow Circle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/126.png"
+    },
+    {
+      "id": "xy1-127",
+      "number": 127,
+      "name": "Shauna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/127.png"
+    },
+    {
+      "id": "xy1-128",
+      "number": 128,
+      "name": "Super Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/128.png"
+    },
+    {
+      "id": "xy1-129",
+      "number": 129,
+      "name": "Team Flare Grunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/129.png"
+    },
+    {
+      "id": "xy1-130",
+      "number": 130,
+      "name": "Double Colorless Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/130.png"
+    },
+    {
+      "id": "xy1-131",
+      "number": 131,
+      "name": "Rainbow Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/131.png"
+    },
+    {
+      "id": "xy1-132",
+      "number": 132,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/132.png"
+    },
+    {
+      "id": "xy1-133",
+      "number": 133,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/133.png"
+    },
+    {
+      "id": "xy1-134",
+      "number": 134,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/134.png"
+    },
+    {
+      "id": "xy1-135",
+      "number": 135,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/135.png"
+    },
+    {
+      "id": "xy1-136",
+      "number": 136,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/136.png"
+    },
+    {
+      "id": "xy1-137",
+      "number": 137,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/137.png"
+    },
+    {
+      "id": "xy1-138",
+      "number": 138,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/138.png"
+    },
+    {
+      "id": "xy1-139",
+      "number": 139,
+      "name": "Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/139.png"
+    },
+    {
+      "id": "xy1-140",
+      "number": 140,
+      "name": "Fairy Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/140.png"
+    },
+    {
+      "id": "xy1-141",
+      "number": 141,
+      "name": "Venusaur EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/141.png"
+    },
+    {
+      "id": "xy1-142",
+      "number": 142,
+      "name": "Blastoise EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/142.png"
+    },
+    {
+      "id": "xy1-143",
+      "number": 143,
+      "name": "Emolga EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/143.png"
+    },
+    {
+      "id": "xy1-144",
+      "number": 144,
+      "name": "Yveltal EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/144.png"
+    },
+    {
+      "id": "xy1-145",
+      "number": 145,
+      "name": "Skarmory EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/145.png"
+    },
+    {
+      "id": "xy1-146",
+      "number": 146,
+      "name": "Xerneas EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/XY/images/146.png"
+    }
+  ]
+}

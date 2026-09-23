@@ -1,0 +1,212 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "My First Battle",
+  "totalCards": 34,
+  "availableImages": 34,
+  "cards": [
+    {
+      "id": "mfb-1",
+      "number": 1,
+      "name": "Bulbasaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/1.png"
+    },
+    {
+      "id": "mfb-2",
+      "number": 2,
+      "name": "Ivysaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/2.png"
+    },
+    {
+      "id": "mfb-3",
+      "number": 3,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/3.png"
+    },
+    {
+      "id": "mfb-4",
+      "number": 4,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/4.png"
+    },
+    {
+      "id": "mfb-5",
+      "number": 5,
+      "name": "Exeggcute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/5.png"
+    },
+    {
+      "id": "mfb-6",
+      "number": 6,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/6.png"
+    },
+    {
+      "id": "mfb-7",
+      "number": 7,
+      "name": "Scyther",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/7.png"
+    },
+    {
+      "id": "mfb-8",
+      "number": 8,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/8.png"
+    },
+    {
+      "id": "mfb-9",
+      "number": 9,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/9.png"
+    },
+    {
+      "id": "mfb-10",
+      "number": 10,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/10.png"
+    },
+    {
+      "id": "mfb-11",
+      "number": 11,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/11.png"
+    },
+    {
+      "id": "mfb-12",
+      "number": 12,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/12.png"
+    },
+    {
+      "id": "mfb-13",
+      "number": 13,
+      "name": "Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/13.png"
+    },
+    {
+      "id": "mfb-14",
+      "number": 14,
+      "name": "Arcanine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/14.png"
+    },
+    {
+      "id": "mfb-15",
+      "number": 15,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/15.png"
+    },
+    {
+      "id": "mfb-16",
+      "number": 16,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/16.png"
+    },
+    {
+      "id": "mfb-17",
+      "number": 17,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/17.png"
+    },
+    {
+      "id": "mfb-18",
+      "number": 18,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/18.png"
+    },
+    {
+      "id": "mfb-19",
+      "number": 19,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/19.png"
+    },
+    {
+      "id": "mfb-20",
+      "number": 20,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/20.png"
+    },
+    {
+      "id": "mfb-21",
+      "number": 21,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/21.png"
+    },
+    {
+      "id": "mfb-22",
+      "number": 22,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/22.png"
+    },
+    {
+      "id": "mfb-23",
+      "number": 23,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/23.png"
+    },
+    {
+      "id": "mfb-24",
+      "number": 24,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/24.png"
+    },
+    {
+      "id": "mfb-25",
+      "number": 25,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/25.png"
+    },
+    {
+      "id": "mfb-26",
+      "number": 26,
+      "name": "Wartortle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/26.png"
+    },
+    {
+      "id": "mfb-27",
+      "number": 27,
+      "name": "Poliwag",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/27.png"
+    },
+    {
+      "id": "mfb-28",
+      "number": 28,
+      "name": "Poliwhirl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/28.png"
+    },
+    {
+      "id": "mfb-29",
+      "number": 29,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/29.png"
+    },
+    {
+      "id": "mfb-30",
+      "number": 30,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/30.png"
+    },
+    {
+      "id": "mfb-31",
+      "number": 31,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/31.png"
+    },
+    {
+      "id": "mfb-32",
+      "number": 32,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/32.png"
+    },
+    {
+      "id": "mfb-33",
+      "number": 33,
+      "name": "Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/33.png"
+    },
+    {
+      "id": "mfb-34",
+      "number": 34,
+      "name": "Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/My%20First%20Battle/images/34.png"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Sandstorm",
+  "totalCards": 100,
+  "availableImages": 100,
+  "cards": [
+    {
+      "id": "ex2-1",
+      "number": 1,
+      "name": "Armaldo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/1.png"
+    },
+    {
+      "id": "ex2-2",
+      "number": 2,
+      "name": "Cacturne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/2.png"
+    },
+    {
+      "id": "ex2-3",
+      "number": 3,
+      "name": "Cradily",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/3.png"
+    },
+    {
+      "id": "ex2-4",
+      "number": 4,
+      "name": "Dusclops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/4.png"
+    },
+    {
+      "id": "ex2-5",
+      "number": 5,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/5.png"
+    },
+    {
+      "id": "ex2-6",
+      "number": 6,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/6.png"
+    },
+    {
+      "id": "ex2-7",
+      "number": 7,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/7.png"
+    },
+    {
+      "id": "ex2-8",
+      "number": 8,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/8.png"
+    },
+    {
+      "id": "ex2-9",
+      "number": 9,
+      "name": "Mawile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/9.png"
+    },
+    {
+      "id": "ex2-10",
+      "number": 10,
+      "name": "Sableye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/10.png"
+    },
+    {
+      "id": "ex2-11",
+      "number": 11,
+      "name": "Seviper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/11.png"
+    },
+    {
+      "id": "ex2-12",
+      "number": 12,
+      "name": "Shiftry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/12.png"
+    },
+    {
+      "id": "ex2-13",
+      "number": 13,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/13.png"
+    },
+    {
+      "id": "ex2-14",
+      "number": 14,
+      "name": "Zangoose",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/14.png"
+    },
+    {
+      "id": "ex2-15",
+      "number": 15,
+      "name": "Arcanine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/15.png"
+    },
+    {
+      "id": "ex2-16",
+      "number": 16,
+      "name": "Espeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/16.png"
+    },
+    {
+      "id": "ex2-17",
+      "number": 17,
+      "name": "Golduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/17.png"
+    },
+    {
+      "id": "ex2-18",
+      "number": 18,
+      "name": "Kecleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/18.png"
+    },
+    {
+      "id": "ex2-19",
+      "number": 19,
+      "name": "Omastar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/19.png"
+    },
+    {
+      "id": "ex2-20",
+      "number": 20,
+      "name": "Pichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/20.png"
+    },
+    {
+      "id": "ex2-21",
+      "number": 21,
+      "name": "Sandslash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/21.png"
+    },
+    {
+      "id": "ex2-22",
+      "number": 22,
+      "name": "Shiftry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/22.png"
+    },
+    {
+      "id": "ex2-23",
+      "number": 23,
+      "name": "Steelix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/23.png"
+    },
+    {
+      "id": "ex2-24",
+      "number": 24,
+      "name": "Umbreon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/24.png"
+    },
+    {
+      "id": "ex2-25",
+      "number": 25,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/25.png"
+    },
+    {
+      "id": "ex2-26",
+      "number": 26,
+      "name": "Wobbuffet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/26.png"
+    },
+    {
+      "id": "ex2-27",
+      "number": 27,
+      "name": "Anorith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/27.png"
+    },
+    {
+      "id": "ex2-28",
+      "number": 28,
+      "name": "Anorith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/28.png"
+    },
+    {
+      "id": "ex2-29",
+      "number": 29,
+      "name": "Arbok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/29.png"
+    },
+    {
+      "id": "ex2-30",
+      "number": 30,
+      "name": "Azumarill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/30.png"
+    },
+    {
+      "id": "ex2-31",
+      "number": 31,
+      "name": "Azurill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/31.png"
+    },
+    {
+      "id": "ex2-32",
+      "number": 32,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/32.png"
+    },
+    {
+      "id": "ex2-33",
+      "number": 33,
+      "name": "Breloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/33.png"
+    },
+    {
+      "id": "ex2-34",
+      "number": 34,
+      "name": "Delcatty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/34.png"
+    },
+    {
+      "id": "ex2-35",
+      "number": 35,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/35.png"
+    },
+    {
+      "id": "ex2-36",
+      "number": 36,
+      "name": "Elekid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/36.png"
+    },
+    {
+      "id": "ex2-37",
+      "number": 37,
+      "name": "Fearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/37.png"
+    },
+    {
+      "id": "ex2-38",
+      "number": 38,
+      "name": "Illumise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/38.png"
+    },
+    {
+      "id": "ex2-39",
+      "number": 39,
+      "name": "Kabuto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/39.png"
+    },
+    {
+      "id": "ex2-40",
+      "number": 40,
+      "name": "Kirlia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/40.png"
+    },
+    {
+      "id": "ex2-41",
+      "number": 41,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/41.png"
+    },
+    {
+      "id": "ex2-42",
+      "number": 42,
+      "name": "Lileep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/42.png"
+    },
+    {
+      "id": "ex2-43",
+      "number": 43,
+      "name": "Lileep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/43.png"
+    },
+    {
+      "id": "ex2-44",
+      "number": 44,
+      "name": "Linoone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/44.png"
+    },
+    {
+      "id": "ex2-45",
+      "number": 45,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/45.png"
+    },
+    {
+      "id": "ex2-46",
+      "number": 46,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/46.png"
+    },
+    {
+      "id": "ex2-47",
+      "number": 47,
+      "name": "Murkrow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/47.png"
+    },
+    {
+      "id": "ex2-48",
+      "number": 48,
+      "name": "Nuzleaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/48.png"
+    },
+    {
+      "id": "ex2-49",
+      "number": 49,
+      "name": "Nuzleaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/49.png"
+    },
+    {
+      "id": "ex2-50",
+      "number": 50,
+      "name": "Pelipper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/50.png"
+    },
+    {
+      "id": "ex2-51",
+      "number": 51,
+      "name": "Quilava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/51.png"
+    },
+    {
+      "id": "ex2-52",
+      "number": 52,
+      "name": "Vigoroth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/52.png"
+    },
+    {
+      "id": "ex2-53",
+      "number": 53,
+      "name": "Volbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/53.png"
+    },
+    {
+      "id": "ex2-54",
+      "number": 54,
+      "name": "Wynaut",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/54.png"
+    },
+    {
+      "id": "ex2-55",
+      "number": 55,
+      "name": "Xatu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/55.png"
+    },
+    {
+      "id": "ex2-56",
+      "number": 56,
+      "name": "Aron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/56.png"
+    },
+    {
+      "id": "ex2-57",
+      "number": 57,
+      "name": "Cacnea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/57.png"
+    },
+    {
+      "id": "ex2-58",
+      "number": 58,
+      "name": "Cacnea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/58.png"
+    },
+    {
+      "id": "ex2-59",
+      "number": 59,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/59.png"
+    },
+    {
+      "id": "ex2-60",
+      "number": 60,
+      "name": "Dunsparce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/60.png"
+    },
+    {
+      "id": "ex2-61",
+      "number": 61,
+      "name": "Duskull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/61.png"
+    },
+    {
+      "id": "ex2-62",
+      "number": 62,
+      "name": "Duskull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/62.png"
+    },
+    {
+      "id": "ex2-63",
+      "number": 63,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/63.png"
+    },
+    {
+      "id": "ex2-64",
+      "number": 64,
+      "name": "Ekans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/64.png"
+    },
+    {
+      "id": "ex2-65",
+      "number": 65,
+      "name": "Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/65.png"
+    },
+    {
+      "id": "ex2-66",
+      "number": 66,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/66.png"
+    },
+    {
+      "id": "ex2-67",
+      "number": 67,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/67.png"
+    },
+    {
+      "id": "ex2-68",
+      "number": 68,
+      "name": "Marill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/68.png"
+    },
+    {
+      "id": "ex2-69",
+      "number": 69,
+      "name": "Natu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/69.png"
+    },
+    {
+      "id": "ex2-70",
+      "number": 70,
+      "name": "Omanyte",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/70.png"
+    },
+    {
+      "id": "ex2-71",
+      "number": 71,
+      "name": "Onix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/71.png"
+    },
+    {
+      "id": "ex2-72",
+      "number": 72,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/72.png"
+    },
+    {
+      "id": "ex2-73",
+      "number": 73,
+      "name": "Psyduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/73.png"
+    },
+    {
+      "id": "ex2-74",
+      "number": 74,
+      "name": "Ralts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/74.png"
+    },
+    {
+      "id": "ex2-75",
+      "number": 75,
+      "name": "Sandshrew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/75.png"
+    },
+    {
+      "id": "ex2-76",
+      "number": 76,
+      "name": "Seedot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/76.png"
+    },
+    {
+      "id": "ex2-77",
+      "number": 77,
+      "name": "Seedot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/77.png"
+    },
+    {
+      "id": "ex2-78",
+      "number": 78,
+      "name": "Shroomish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/78.png"
+    },
+    {
+      "id": "ex2-79",
+      "number": 79,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/79.png"
+    },
+    {
+      "id": "ex2-80",
+      "number": 80,
+      "name": "Slakoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/80.png"
+    },
+    {
+      "id": "ex2-81",
+      "number": 81,
+      "name": "Spearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/81.png"
+    },
+    {
+      "id": "ex2-82",
+      "number": 82,
+      "name": "Trapinch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/82.png"
+    },
+    {
+      "id": "ex2-83",
+      "number": 83,
+      "name": "Wailmer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/83.png"
+    },
+    {
+      "id": "ex2-84",
+      "number": 84,
+      "name": "Wingull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/84.png"
+    },
+    {
+      "id": "ex2-85",
+      "number": 85,
+      "name": "Zigzagoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/85.png"
+    },
+    {
+      "id": "ex2-86",
+      "number": 86,
+      "name": "Double Full Heal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/86.png"
+    },
+    {
+      "id": "ex2-87",
+      "number": 87,
+      "name": "Lanette's Net Search",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/87.png"
+    },
+    {
+      "id": "ex2-88",
+      "number": 88,
+      "name": "Rare Candy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/88.png"
+    },
+    {
+      "id": "ex2-89",
+      "number": 89,
+      "name": "Wally's Training",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/89.png"
+    },
+    {
+      "id": "ex2-90",
+      "number": 90,
+      "name": "Claw Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/90.png"
+    },
+    {
+      "id": "ex2-91",
+      "number": 91,
+      "name": "Mysterious Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/91.png"
+    },
+    {
+      "id": "ex2-92",
+      "number": 92,
+      "name": "Root Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/92.png"
+    },
+    {
+      "id": "ex2-93",
+      "number": 93,
+      "name": "Multi Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/93.png"
+    },
+    {
+      "id": "ex2-94",
+      "number": 94,
+      "name": "Aerodactyl ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/94.png"
+    },
+    {
+      "id": "ex2-95",
+      "number": 95,
+      "name": "Aggron ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/95.png"
+    },
+    {
+      "id": "ex2-96",
+      "number": 96,
+      "name": "Gardevoir ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/96.png"
+    },
+    {
+      "id": "ex2-97",
+      "number": 97,
+      "name": "Kabutops ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/97.png"
+    },
+    {
+      "id": "ex2-98",
+      "number": 98,
+      "name": "Raichu ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/98.png"
+    },
+    {
+      "id": "ex2-99",
+      "number": 99,
+      "name": "Typhlosion ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/99.png"
+    },
+    {
+      "id": "ex2-100",
+      "number": 100,
+      "name": "Wailord ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Sandstorm/images/100.png"
+    }
+  ]
+}

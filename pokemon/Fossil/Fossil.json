@@ -1,0 +1,380 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Fossil",
+  "totalCards": 62,
+  "availableImages": 62,
+  "cards": [
+    {
+      "id": "base3-1",
+      "number": 1,
+      "name": "Aerodactyl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/1.png"
+    },
+    {
+      "id": "base3-2",
+      "number": 2,
+      "name": "Articuno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/2.png"
+    },
+    {
+      "id": "base3-3",
+      "number": 3,
+      "name": "Ditto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/3.png"
+    },
+    {
+      "id": "base3-4",
+      "number": 4,
+      "name": "Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/4.png"
+    },
+    {
+      "id": "base3-5",
+      "number": 5,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/5.png"
+    },
+    {
+      "id": "base3-6",
+      "number": 6,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/6.png"
+    },
+    {
+      "id": "base3-7",
+      "number": 7,
+      "name": "Hitmonlee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/7.png"
+    },
+    {
+      "id": "base3-8",
+      "number": 8,
+      "name": "Hypno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/8.png"
+    },
+    {
+      "id": "base3-9",
+      "number": 9,
+      "name": "Kabutops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/9.png"
+    },
+    {
+      "id": "base3-10",
+      "number": 10,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/10.png"
+    },
+    {
+      "id": "base3-11",
+      "number": 11,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/11.png"
+    },
+    {
+      "id": "base3-12",
+      "number": 12,
+      "name": "Moltres",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/12.png"
+    },
+    {
+      "id": "base3-13",
+      "number": 13,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/13.png"
+    },
+    {
+      "id": "base3-14",
+      "number": 14,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/14.png"
+    },
+    {
+      "id": "base3-15",
+      "number": 15,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/15.png"
+    },
+    {
+      "id": "base3-16",
+      "number": 16,
+      "name": "Aerodactyl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/16.png"
+    },
+    {
+      "id": "base3-17",
+      "number": 17,
+      "name": "Articuno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/17.png"
+    },
+    {
+      "id": "base3-18",
+      "number": 18,
+      "name": "Ditto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/18.png"
+    },
+    {
+      "id": "base3-19",
+      "number": 19,
+      "name": "Dragonite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/19.png"
+    },
+    {
+      "id": "base3-20",
+      "number": 20,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/20.png"
+    },
+    {
+      "id": "base3-21",
+      "number": 21,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/21.png"
+    },
+    {
+      "id": "base3-22",
+      "number": 22,
+      "name": "Hitmonlee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/22.png"
+    },
+    {
+      "id": "base3-23",
+      "number": 23,
+      "name": "Hypno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/23.png"
+    },
+    {
+      "id": "base3-24",
+      "number": 24,
+      "name": "Kabutops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/24.png"
+    },
+    {
+      "id": "base3-25",
+      "number": 25,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/25.png"
+    },
+    {
+      "id": "base3-26",
+      "number": 26,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/26.png"
+    },
+    {
+      "id": "base3-27",
+      "number": 27,
+      "name": "Moltres",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/27.png"
+    },
+    {
+      "id": "base3-28",
+      "number": 28,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/28.png"
+    },
+    {
+      "id": "base3-29",
+      "number": 29,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/29.png"
+    },
+    {
+      "id": "base3-30",
+      "number": 30,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/30.png"
+    },
+    {
+      "id": "base3-31",
+      "number": 31,
+      "name": "Arbok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/31.png"
+    },
+    {
+      "id": "base3-32",
+      "number": 32,
+      "name": "Cloyster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/32.png"
+    },
+    {
+      "id": "base3-33",
+      "number": 33,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/33.png"
+    },
+    {
+      "id": "base3-34",
+      "number": 34,
+      "name": "Golbat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/34.png"
+    },
+    {
+      "id": "base3-35",
+      "number": 35,
+      "name": "Golduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/35.png"
+    },
+    {
+      "id": "base3-36",
+      "number": 36,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/36.png"
+    },
+    {
+      "id": "base3-37",
+      "number": 37,
+      "name": "Graveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/37.png"
+    },
+    {
+      "id": "base3-38",
+      "number": 38,
+      "name": "Kingler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/38.png"
+    },
+    {
+      "id": "base3-39",
+      "number": 39,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/39.png"
+    },
+    {
+      "id": "base3-40",
+      "number": 40,
+      "name": "Omastar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/40.png"
+    },
+    {
+      "id": "base3-41",
+      "number": 41,
+      "name": "Sandslash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/41.png"
+    },
+    {
+      "id": "base3-42",
+      "number": 42,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/42.png"
+    },
+    {
+      "id": "base3-43",
+      "number": 43,
+      "name": "Slowbro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/43.png"
+    },
+    {
+      "id": "base3-44",
+      "number": 44,
+      "name": "Tentacruel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/44.png"
+    },
+    {
+      "id": "base3-45",
+      "number": 45,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/45.png"
+    },
+    {
+      "id": "base3-46",
+      "number": 46,
+      "name": "Ekans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/46.png"
+    },
+    {
+      "id": "base3-47",
+      "number": 47,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/47.png"
+    },
+    {
+      "id": "base3-48",
+      "number": 48,
+      "name": "Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/48.png"
+    },
+    {
+      "id": "base3-49",
+      "number": 49,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/49.png"
+    },
+    {
+      "id": "base3-50",
+      "number": 50,
+      "name": "Kabuto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/50.png"
+    },
+    {
+      "id": "base3-51",
+      "number": 51,
+      "name": "Krabby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/51.png"
+    },
+    {
+      "id": "base3-52",
+      "number": 52,
+      "name": "Omanyte",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/52.png"
+    },
+    {
+      "id": "base3-53",
+      "number": 53,
+      "name": "Psyduck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/53.png"
+    },
+    {
+      "id": "base3-54",
+      "number": 54,
+      "name": "Shellder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/54.png"
+    },
+    {
+      "id": "base3-55",
+      "number": 55,
+      "name": "Slowpoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/55.png"
+    },
+    {
+      "id": "base3-56",
+      "number": 56,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/56.png"
+    },
+    {
+      "id": "base3-57",
+      "number": 57,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/57.png"
+    },
+    {
+      "id": "base3-58",
+      "number": 58,
+      "name": "Mr. Fuji",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/58.png"
+    },
+    {
+      "id": "base3-59",
+      "number": 59,
+      "name": "Energy Search",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/59.png"
+    },
+    {
+      "id": "base3-60",
+      "number": 60,
+      "name": "Gambler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/60.png"
+    },
+    {
+      "id": "base3-61",
+      "number": 61,
+      "name": "Recycle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/61.png"
+    },
+    {
+      "id": "base3-62",
+      "number": 62,
+      "name": "Mysterious Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Fossil/images/62.png"
+    }
+  ]
+}

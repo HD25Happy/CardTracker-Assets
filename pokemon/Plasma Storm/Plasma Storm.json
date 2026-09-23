@@ -1,0 +1,836 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Plasma Storm",
+  "totalCards": 138,
+  "availableImages": 138,
+  "cards": [
+    {
+      "id": "bw8-1",
+      "number": 1,
+      "name": "Turtwig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/1.png"
+    },
+    {
+      "id": "bw8-2",
+      "number": 2,
+      "name": "Grotle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/2.png"
+    },
+    {
+      "id": "bw8-3",
+      "number": 3,
+      "name": "Torterra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/3.png"
+    },
+    {
+      "id": "bw8-4",
+      "number": 4,
+      "name": "Combee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/4.png"
+    },
+    {
+      "id": "bw8-5",
+      "number": 5,
+      "name": "Vespiquen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/5.png"
+    },
+    {
+      "id": "bw8-6",
+      "number": 6,
+      "name": "Cherubi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/6.png"
+    },
+    {
+      "id": "bw8-7",
+      "number": 7,
+      "name": "Cherrim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/7.png"
+    },
+    {
+      "id": "bw8-8",
+      "number": 8,
+      "name": "Sewaddle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/8.png"
+    },
+    {
+      "id": "bw8-9",
+      "number": 9,
+      "name": "Swadloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/9.png"
+    },
+    {
+      "id": "bw8-10",
+      "number": 10,
+      "name": "Leavanny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/10.png"
+    },
+    {
+      "id": "bw8-11",
+      "number": 11,
+      "name": "Maractus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/11.png"
+    },
+    {
+      "id": "bw8-12",
+      "number": 12,
+      "name": "Foongus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/12.png"
+    },
+    {
+      "id": "bw8-13",
+      "number": 13,
+      "name": "Amoonguss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/13.png"
+    },
+    {
+      "id": "bw8-14",
+      "number": 14,
+      "name": "Moltres-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/14.png"
+    },
+    {
+      "id": "bw8-15",
+      "number": 15,
+      "name": "Chimchar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/15.png"
+    },
+    {
+      "id": "bw8-16",
+      "number": 16,
+      "name": "Monferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/16.png"
+    },
+    {
+      "id": "bw8-17",
+      "number": 17,
+      "name": "Infernape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/17.png"
+    },
+    {
+      "id": "bw8-18",
+      "number": 18,
+      "name": "Victini-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/18.png"
+    },
+    {
+      "id": "bw8-19",
+      "number": 19,
+      "name": "Pansear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/19.png"
+    },
+    {
+      "id": "bw8-20",
+      "number": 20,
+      "name": "Simisear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/20.png"
+    },
+    {
+      "id": "bw8-21",
+      "number": 21,
+      "name": "Litwick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/21.png"
+    },
+    {
+      "id": "bw8-22",
+      "number": 22,
+      "name": "Lampent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/22.png"
+    },
+    {
+      "id": "bw8-23",
+      "number": 23,
+      "name": "Heatmor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/23.png"
+    },
+    {
+      "id": "bw8-24",
+      "number": 24,
+      "name": "Squirtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/24.png"
+    },
+    {
+      "id": "bw8-25",
+      "number": 25,
+      "name": "Articuno-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/25.png"
+    },
+    {
+      "id": "bw8-26",
+      "number": 26,
+      "name": "Swinub",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/26.png"
+    },
+    {
+      "id": "bw8-27",
+      "number": 27,
+      "name": "Piloswine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/27.png"
+    },
+    {
+      "id": "bw8-28",
+      "number": 28,
+      "name": "Mamoswine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/28.png"
+    },
+    {
+      "id": "bw8-29",
+      "number": 29,
+      "name": "Lotad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/29.png"
+    },
+    {
+      "id": "bw8-30",
+      "number": 30,
+      "name": "Lombre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/30.png"
+    },
+    {
+      "id": "bw8-31",
+      "number": 31,
+      "name": "Ludicolo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/31.png"
+    },
+    {
+      "id": "bw8-32",
+      "number": 32,
+      "name": "Carvanha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/32.png"
+    },
+    {
+      "id": "bw8-33",
+      "number": 33,
+      "name": "Sharpedo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/33.png"
+    },
+    {
+      "id": "bw8-34",
+      "number": 34,
+      "name": "Manaphy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/34.png"
+    },
+    {
+      "id": "bw8-35",
+      "number": 35,
+      "name": "Vanillite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/35.png"
+    },
+    {
+      "id": "bw8-36",
+      "number": 36,
+      "name": "Vanillish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/36.png"
+    },
+    {
+      "id": "bw8-37",
+      "number": 37,
+      "name": "Vanilluxe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/37.png"
+    },
+    {
+      "id": "bw8-38",
+      "number": 38,
+      "name": "Frillish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/38.png"
+    },
+    {
+      "id": "bw8-39",
+      "number": 39,
+      "name": "Jellicent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/39.png"
+    },
+    {
+      "id": "bw8-40",
+      "number": 40,
+      "name": "Cubchoo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/40.png"
+    },
+    {
+      "id": "bw8-41",
+      "number": 41,
+      "name": "Beartic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/41.png"
+    },
+    {
+      "id": "bw8-42",
+      "number": 42,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/42.png"
+    },
+    {
+      "id": "bw8-43",
+      "number": 43,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/43.png"
+    },
+    {
+      "id": "bw8-44",
+      "number": 44,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/44.png"
+    },
+    {
+      "id": "bw8-45",
+      "number": 45,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/45.png"
+    },
+    {
+      "id": "bw8-46",
+      "number": 46,
+      "name": "Magnezone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/46.png"
+    },
+    {
+      "id": "bw8-47",
+      "number": 47,
+      "name": "Magnezone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/47.png"
+    },
+    {
+      "id": "bw8-48",
+      "number": 48,
+      "name": "Zapdos-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/48.png"
+    },
+    {
+      "id": "bw8-49",
+      "number": 49,
+      "name": "Rotom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/49.png"
+    },
+    {
+      "id": "bw8-50",
+      "number": 50,
+      "name": "Joltik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/50.png"
+    },
+    {
+      "id": "bw8-51",
+      "number": 51,
+      "name": "Galvantula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/51.png"
+    },
+    {
+      "id": "bw8-52",
+      "number": 52,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/52.png"
+    },
+    {
+      "id": "bw8-53",
+      "number": 53,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/53.png"
+    },
+    {
+      "id": "bw8-54",
+      "number": 54,
+      "name": "Golbat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/54.png"
+    },
+    {
+      "id": "bw8-55",
+      "number": 55,
+      "name": "Crobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/55.png"
+    },
+    {
+      "id": "bw8-56",
+      "number": 56,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/56.png"
+    },
+    {
+      "id": "bw8-57",
+      "number": 57,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/57.png"
+    },
+    {
+      "id": "bw8-58",
+      "number": 58,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/58.png"
+    },
+    {
+      "id": "bw8-59",
+      "number": 59,
+      "name": "Ralts",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/59.png"
+    },
+    {
+      "id": "bw8-60",
+      "number": 60,
+      "name": "Kirlia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/60.png"
+    },
+    {
+      "id": "bw8-61",
+      "number": 61,
+      "name": "Gallade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/61.png"
+    },
+    {
+      "id": "bw8-62",
+      "number": 62,
+      "name": "Giratina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/62.png"
+    },
+    {
+      "id": "bw8-63",
+      "number": 63,
+      "name": "Trubbish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/63.png"
+    },
+    {
+      "id": "bw8-64",
+      "number": 64,
+      "name": "Trubbish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/64.png"
+    },
+    {
+      "id": "bw8-65",
+      "number": 65,
+      "name": "Trubbish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/65.png"
+    },
+    {
+      "id": "bw8-66",
+      "number": 66,
+      "name": "Garbodor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/66.png"
+    },
+    {
+      "id": "bw8-67",
+      "number": 67,
+      "name": "Garbodor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/67.png"
+    },
+    {
+      "id": "bw8-68",
+      "number": 68,
+      "name": "Elgyem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/68.png"
+    },
+    {
+      "id": "bw8-69",
+      "number": 69,
+      "name": "Elgyem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/69.png"
+    },
+    {
+      "id": "bw8-70",
+      "number": 70,
+      "name": "Beheeyem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/70.png"
+    },
+    {
+      "id": "bw8-71",
+      "number": 71,
+      "name": "Phanpy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/71.png"
+    },
+    {
+      "id": "bw8-72",
+      "number": 72,
+      "name": "Donphan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/72.png"
+    },
+    {
+      "id": "bw8-73",
+      "number": 73,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/73.png"
+    },
+    {
+      "id": "bw8-74",
+      "number": 74,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/74.png"
+    },
+    {
+      "id": "bw8-75",
+      "number": 75,
+      "name": "Riolu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/75.png"
+    },
+    {
+      "id": "bw8-76",
+      "number": 76,
+      "name": "Riolu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/76.png"
+    },
+    {
+      "id": "bw8-77",
+      "number": 77,
+      "name": "Lucario",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/77.png"
+    },
+    {
+      "id": "bw8-78",
+      "number": 78,
+      "name": "Lucario",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/78.png"
+    },
+    {
+      "id": "bw8-79",
+      "number": 79,
+      "name": "Timburr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/79.png"
+    },
+    {
+      "id": "bw8-80",
+      "number": 80,
+      "name": "Gurdurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/80.png"
+    },
+    {
+      "id": "bw8-81",
+      "number": 81,
+      "name": "Conkeldurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/81.png"
+    },
+    {
+      "id": "bw8-82",
+      "number": 82,
+      "name": "Purrloin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/82.png"
+    },
+    {
+      "id": "bw8-83",
+      "number": 83,
+      "name": "Purrloin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/83.png"
+    },
+    {
+      "id": "bw8-84",
+      "number": 84,
+      "name": "Liepard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/84.png"
+    },
+    {
+      "id": "bw8-85",
+      "number": 85,
+      "name": "Scraggy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/85.png"
+    },
+    {
+      "id": "bw8-86",
+      "number": 86,
+      "name": "Scrafty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/86.png"
+    },
+    {
+      "id": "bw8-87",
+      "number": 87,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/87.png"
+    },
+    {
+      "id": "bw8-88",
+      "number": 88,
+      "name": "Klink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/88.png"
+    },
+    {
+      "id": "bw8-89",
+      "number": 89,
+      "name": "Klang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/89.png"
+    },
+    {
+      "id": "bw8-90",
+      "number": 90,
+      "name": "Klinklang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/90.png"
+    },
+    {
+      "id": "bw8-91",
+      "number": 91,
+      "name": "Durant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/91.png"
+    },
+    {
+      "id": "bw8-92",
+      "number": 92,
+      "name": "Durant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/92.png"
+    },
+    {
+      "id": "bw8-93",
+      "number": 93,
+      "name": "Cobalion-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/93.png"
+    },
+    {
+      "id": "bw8-94",
+      "number": 94,
+      "name": "Druddigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/94.png"
+    },
+    {
+      "id": "bw8-95",
+      "number": 95,
+      "name": "Black Kyurem-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/95.png"
+    },
+    {
+      "id": "bw8-96",
+      "number": 96,
+      "name": "White Kyurem-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/96.png"
+    },
+    {
+      "id": "bw8-97",
+      "number": 97,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/97.png"
+    },
+    {
+      "id": "bw8-98",
+      "number": 98,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/98.png"
+    },
+    {
+      "id": "bw8-99",
+      "number": 99,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/99.png"
+    },
+    {
+      "id": "bw8-100",
+      "number": 100,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/100.png"
+    },
+    {
+      "id": "bw8-101",
+      "number": 101,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/101.png"
+    },
+    {
+      "id": "bw8-102",
+      "number": 102,
+      "name": "Togepi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/102.png"
+    },
+    {
+      "id": "bw8-103",
+      "number": 103,
+      "name": "Togetic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/103.png"
+    },
+    {
+      "id": "bw8-104",
+      "number": 104,
+      "name": "Togekiss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/104.png"
+    },
+    {
+      "id": "bw8-105",
+      "number": 105,
+      "name": "Whismur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/105.png"
+    },
+    {
+      "id": "bw8-106",
+      "number": 106,
+      "name": "Loudred",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/106.png"
+    },
+    {
+      "id": "bw8-107",
+      "number": 107,
+      "name": "Exploud",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/107.png"
+    },
+    {
+      "id": "bw8-108",
+      "number": 108,
+      "name": "Lugia-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/108.png"
+    },
+    {
+      "id": "bw8-109",
+      "number": 109,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/109.png"
+    },
+    {
+      "id": "bw8-110",
+      "number": 110,
+      "name": "Patrat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/110.png"
+    },
+    {
+      "id": "bw8-111",
+      "number": 111,
+      "name": "Patrat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/111.png"
+    },
+    {
+      "id": "bw8-112",
+      "number": 112,
+      "name": "Watchog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/112.png"
+    },
+    {
+      "id": "bw8-113",
+      "number": 113,
+      "name": "Watchog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/113.png"
+    },
+    {
+      "id": "bw8-114",
+      "number": 114,
+      "name": "Bouffalant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/114.png"
+    },
+    {
+      "id": "bw8-115",
+      "number": 115,
+      "name": "Rufflet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/115.png"
+    },
+    {
+      "id": "bw8-116",
+      "number": 116,
+      "name": "Braviary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/116.png"
+    },
+    {
+      "id": "bw8-117",
+      "number": 117,
+      "name": "Bicycle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/117.png"
+    },
+    {
+      "id": "bw8-118",
+      "number": 118,
+      "name": "Colress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/118.png"
+    },
+    {
+      "id": "bw8-119",
+      "number": 119,
+      "name": "Colress Machine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/119.png"
+    },
+    {
+      "id": "bw8-120",
+      "number": 120,
+      "name": "Escape Rope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/120.png"
+    },
+    {
+      "id": "bw8-121",
+      "number": 121,
+      "name": "Ether",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/121.png"
+    },
+    {
+      "id": "bw8-122",
+      "number": 122,
+      "name": "Eviolite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/122.png"
+    },
+    {
+      "id": "bw8-123",
+      "number": 123,
+      "name": "Hypnotoxic Laser",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/123.png"
+    },
+    {
+      "id": "bw8-124",
+      "number": 124,
+      "name": "Plasma Frigate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/124.png"
+    },
+    {
+      "id": "bw8-125",
+      "number": 125,
+      "name": "Team Plasma Grunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/125.png"
+    },
+    {
+      "id": "bw8-126",
+      "number": 126,
+      "name": "Virbank City Gym",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/126.png"
+    },
+    {
+      "id": "bw8-127",
+      "number": 127,
+      "name": "Plasma Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/127.png"
+    },
+    {
+      "id": "bw8-128",
+      "number": 128,
+      "name": "Dowsing Machine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/128.png"
+    },
+    {
+      "id": "bw8-129",
+      "number": 129,
+      "name": "Scramble Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/129.png"
+    },
+    {
+      "id": "bw8-130",
+      "number": 130,
+      "name": "Victory Piece",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/130.png"
+    },
+    {
+      "id": "bw8-131",
+      "number": 131,
+      "name": "Victini-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/131.png"
+    },
+    {
+      "id": "bw8-132",
+      "number": 132,
+      "name": "Articuno-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/132.png"
+    },
+    {
+      "id": "bw8-133",
+      "number": 133,
+      "name": "Cobalion-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/133.png"
+    },
+    {
+      "id": "bw8-134",
+      "number": 134,
+      "name": "Lugia-EX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/134.png"
+    },
+    {
+      "id": "bw8-135",
+      "number": 135,
+      "name": "Colress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/135.png"
+    },
+    {
+      "id": "bw8-136",
+      "number": 136,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/136.png"
+    },
+    {
+      "id": "bw8-137",
+      "number": 137,
+      "name": "Blastoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/137.png"
+    },
+    {
+      "id": "bw8-138",
+      "number": 138,
+      "name": "Random Receiver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Plasma%20Storm/images/138.png"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Jungle",
+  "totalCards": 64,
+  "availableImages": 64,
+  "cards": [
+    {
+      "id": "base2-1",
+      "number": 1,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/1.png"
+    },
+    {
+      "id": "base2-2",
+      "number": 2,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/2.png"
+    },
+    {
+      "id": "base2-3",
+      "number": 3,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/3.png"
+    },
+    {
+      "id": "base2-4",
+      "number": 4,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/4.png"
+    },
+    {
+      "id": "base2-5",
+      "number": 5,
+      "name": "Kangaskhan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/5.png"
+    },
+    {
+      "id": "base2-6",
+      "number": 6,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/6.png"
+    },
+    {
+      "id": "base2-7",
+      "number": 7,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/7.png"
+    },
+    {
+      "id": "base2-8",
+      "number": 8,
+      "name": "Pidgeot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/8.png"
+    },
+    {
+      "id": "base2-9",
+      "number": 9,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/9.png"
+    },
+    {
+      "id": "base2-10",
+      "number": 10,
+      "name": "Scyther",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/10.png"
+    },
+    {
+      "id": "base2-11",
+      "number": 11,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/11.png"
+    },
+    {
+      "id": "base2-12",
+      "number": 12,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/12.png"
+    },
+    {
+      "id": "base2-13",
+      "number": 13,
+      "name": "Venomoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/13.png"
+    },
+    {
+      "id": "base2-14",
+      "number": 14,
+      "name": "Victreebel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/14.png"
+    },
+    {
+      "id": "base2-15",
+      "number": 15,
+      "name": "Vileplume",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/15.png"
+    },
+    {
+      "id": "base2-16",
+      "number": 16,
+      "name": "Wigglytuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/16.png"
+    },
+    {
+      "id": "base2-17",
+      "number": 17,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/17.png"
+    },
+    {
+      "id": "base2-18",
+      "number": 18,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/18.png"
+    },
+    {
+      "id": "base2-19",
+      "number": 19,
+      "name": "Flareon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/19.png"
+    },
+    {
+      "id": "base2-20",
+      "number": 20,
+      "name": "Jolteon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/20.png"
+    },
+    {
+      "id": "base2-21",
+      "number": 21,
+      "name": "Kangaskhan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/21.png"
+    },
+    {
+      "id": "base2-22",
+      "number": 22,
+      "name": "Mr. Mime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/22.png"
+    },
+    {
+      "id": "base2-23",
+      "number": 23,
+      "name": "Nidoqueen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/23.png"
+    },
+    {
+      "id": "base2-24",
+      "number": 24,
+      "name": "Pidgeot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/24.png"
+    },
+    {
+      "id": "base2-25",
+      "number": 25,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/25.png"
+    },
+    {
+      "id": "base2-26",
+      "number": 26,
+      "name": "Scyther",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/26.png"
+    },
+    {
+      "id": "base2-27",
+      "number": 27,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/27.png"
+    },
+    {
+      "id": "base2-28",
+      "number": 28,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/28.png"
+    },
+    {
+      "id": "base2-29",
+      "number": 29,
+      "name": "Venomoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/29.png"
+    },
+    {
+      "id": "base2-30",
+      "number": 30,
+      "name": "Victreebel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/30.png"
+    },
+    {
+      "id": "base2-31",
+      "number": 31,
+      "name": "Vileplume",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/31.png"
+    },
+    {
+      "id": "base2-32",
+      "number": 32,
+      "name": "Wigglytuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/32.png"
+    },
+    {
+      "id": "base2-33",
+      "number": 33,
+      "name": "Butterfree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/33.png"
+    },
+    {
+      "id": "base2-34",
+      "number": 34,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/34.png"
+    },
+    {
+      "id": "base2-35",
+      "number": 35,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/35.png"
+    },
+    {
+      "id": "base2-36",
+      "number": 36,
+      "name": "Fearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/36.png"
+    },
+    {
+      "id": "base2-37",
+      "number": 37,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/37.png"
+    },
+    {
+      "id": "base2-38",
+      "number": 38,
+      "name": "Lickitung",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/38.png"
+    },
+    {
+      "id": "base2-39",
+      "number": 39,
+      "name": "Marowak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/39.png"
+    },
+    {
+      "id": "base2-40",
+      "number": 40,
+      "name": "Nidorina",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/40.png"
+    },
+    {
+      "id": "base2-41",
+      "number": 41,
+      "name": "Parasect",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/41.png"
+    },
+    {
+      "id": "base2-42",
+      "number": 42,
+      "name": "Persian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/42.png"
+    },
+    {
+      "id": "base2-43",
+      "number": 43,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/43.png"
+    },
+    {
+      "id": "base2-44",
+      "number": 44,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/44.png"
+    },
+    {
+      "id": "base2-45",
+      "number": 45,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/45.png"
+    },
+    {
+      "id": "base2-46",
+      "number": 46,
+      "name": "Seaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/46.png"
+    },
+    {
+      "id": "base2-47",
+      "number": 47,
+      "name": "Tauros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/47.png"
+    },
+    {
+      "id": "base2-48",
+      "number": 48,
+      "name": "Weepinbell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/48.png"
+    },
+    {
+      "id": "base2-49",
+      "number": 49,
+      "name": "Bellsprout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/49.png"
+    },
+    {
+      "id": "base2-50",
+      "number": 50,
+      "name": "Cubone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/50.png"
+    },
+    {
+      "id": "base2-51",
+      "number": 51,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/51.png"
+    },
+    {
+      "id": "base2-52",
+      "number": 52,
+      "name": "Exeggcute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/52.png"
+    },
+    {
+      "id": "base2-53",
+      "number": 53,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/53.png"
+    },
+    {
+      "id": "base2-54",
+      "number": 54,
+      "name": "Jigglypuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/54.png"
+    },
+    {
+      "id": "base2-55",
+      "number": 55,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/55.png"
+    },
+    {
+      "id": "base2-56",
+      "number": 56,
+      "name": "Meowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/56.png"
+    },
+    {
+      "id": "base2-57",
+      "number": 57,
+      "name": "Nidoran♀",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/57.png"
+    },
+    {
+      "id": "base2-58",
+      "number": 58,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/58.png"
+    },
+    {
+      "id": "base2-59",
+      "number": 59,
+      "name": "Paras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/59.png"
+    },
+    {
+      "id": "base2-60",
+      "number": 60,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/60.png"
+    },
+    {
+      "id": "base2-61",
+      "number": 61,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/61.png"
+    },
+    {
+      "id": "base2-62",
+      "number": 62,
+      "name": "Spearow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/62.png"
+    },
+    {
+      "id": "base2-63",
+      "number": 63,
+      "name": "Venonat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/63.png"
+    },
+    {
+      "id": "base2-64",
+      "number": 64,
+      "name": "Poké Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Jungle/images/64.png"
+    }
+  ]
+}

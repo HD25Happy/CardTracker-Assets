@@ -1,0 +1,596 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Emerging Powers",
+  "totalCards": 98,
+  "availableImages": 98,
+  "cards": [
+    {
+      "id": "bw2-1",
+      "number": 1,
+      "name": "Pansage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/1.png"
+    },
+    {
+      "id": "bw2-2",
+      "number": 2,
+      "name": "Simisage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/2.png"
+    },
+    {
+      "id": "bw2-3",
+      "number": 3,
+      "name": "Sewaddle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/3.png"
+    },
+    {
+      "id": "bw2-4",
+      "number": 4,
+      "name": "Sewaddle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/4.png"
+    },
+    {
+      "id": "bw2-5",
+      "number": 5,
+      "name": "Swadloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/5.png"
+    },
+    {
+      "id": "bw2-6",
+      "number": 6,
+      "name": "Swadloon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/6.png"
+    },
+    {
+      "id": "bw2-7",
+      "number": 7,
+      "name": "Leavanny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/7.png"
+    },
+    {
+      "id": "bw2-8",
+      "number": 8,
+      "name": "Leavanny",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/8.png"
+    },
+    {
+      "id": "bw2-9",
+      "number": 9,
+      "name": "Cottonee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/9.png"
+    },
+    {
+      "id": "bw2-10",
+      "number": 10,
+      "name": "Cottonee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/10.png"
+    },
+    {
+      "id": "bw2-11",
+      "number": 11,
+      "name": "Whimsicott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/11.png"
+    },
+    {
+      "id": "bw2-12",
+      "number": 12,
+      "name": "Whimsicott",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/12.png"
+    },
+    {
+      "id": "bw2-13",
+      "number": 13,
+      "name": "Petilil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/13.png"
+    },
+    {
+      "id": "bw2-14",
+      "number": 14,
+      "name": "Lilligant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/14.png"
+    },
+    {
+      "id": "bw2-15",
+      "number": 15,
+      "name": "Deerling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/15.png"
+    },
+    {
+      "id": "bw2-16",
+      "number": 16,
+      "name": "Sawsbuck",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/16.png"
+    },
+    {
+      "id": "bw2-17",
+      "number": 17,
+      "name": "Virizion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/17.png"
+    },
+    {
+      "id": "bw2-18",
+      "number": 18,
+      "name": "Pansear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/18.png"
+    },
+    {
+      "id": "bw2-19",
+      "number": 19,
+      "name": "Simisear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/19.png"
+    },
+    {
+      "id": "bw2-20",
+      "number": 20,
+      "name": "Darumaka",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/20.png"
+    },
+    {
+      "id": "bw2-21",
+      "number": 21,
+      "name": "Darmanitan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/21.png"
+    },
+    {
+      "id": "bw2-22",
+      "number": 22,
+      "name": "Panpour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/22.png"
+    },
+    {
+      "id": "bw2-23",
+      "number": 23,
+      "name": "Simipour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/23.png"
+    },
+    {
+      "id": "bw2-24",
+      "number": 24,
+      "name": "Basculin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/24.png"
+    },
+    {
+      "id": "bw2-25",
+      "number": 25,
+      "name": "Basculin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/25.png"
+    },
+    {
+      "id": "bw2-26",
+      "number": 26,
+      "name": "Ducklett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/26.png"
+    },
+    {
+      "id": "bw2-27",
+      "number": 27,
+      "name": "Swanna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/27.png"
+    },
+    {
+      "id": "bw2-28",
+      "number": 28,
+      "name": "Cubchoo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/28.png"
+    },
+    {
+      "id": "bw2-29",
+      "number": 29,
+      "name": "Cubchoo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/29.png"
+    },
+    {
+      "id": "bw2-30",
+      "number": 30,
+      "name": "Beartic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/30.png"
+    },
+    {
+      "id": "bw2-31",
+      "number": 31,
+      "name": "Beartic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/31.png"
+    },
+    {
+      "id": "bw2-32",
+      "number": 32,
+      "name": "Emolga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/32.png"
+    },
+    {
+      "id": "bw2-33",
+      "number": 33,
+      "name": "Joltik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/33.png"
+    },
+    {
+      "id": "bw2-34",
+      "number": 34,
+      "name": "Galvantula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/34.png"
+    },
+    {
+      "id": "bw2-35",
+      "number": 35,
+      "name": "Thundurus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/35.png"
+    },
+    {
+      "id": "bw2-36",
+      "number": 36,
+      "name": "Woobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/36.png"
+    },
+    {
+      "id": "bw2-37",
+      "number": 37,
+      "name": "Swoobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/37.png"
+    },
+    {
+      "id": "bw2-38",
+      "number": 38,
+      "name": "Venipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/38.png"
+    },
+    {
+      "id": "bw2-39",
+      "number": 39,
+      "name": "Whirlipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/39.png"
+    },
+    {
+      "id": "bw2-40",
+      "number": 40,
+      "name": "Scolipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/40.png"
+    },
+    {
+      "id": "bw2-41",
+      "number": 41,
+      "name": "Sigilyph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/41.png"
+    },
+    {
+      "id": "bw2-42",
+      "number": 42,
+      "name": "Sigilyph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/42.png"
+    },
+    {
+      "id": "bw2-43",
+      "number": 43,
+      "name": "Gothita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/43.png"
+    },
+    {
+      "id": "bw2-44",
+      "number": 44,
+      "name": "Gothita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/44.png"
+    },
+    {
+      "id": "bw2-45",
+      "number": 45,
+      "name": "Gothorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/45.png"
+    },
+    {
+      "id": "bw2-46",
+      "number": 46,
+      "name": "Gothorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/46.png"
+    },
+    {
+      "id": "bw2-47",
+      "number": 47,
+      "name": "Gothitelle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/47.png"
+    },
+    {
+      "id": "bw2-48",
+      "number": 48,
+      "name": "Gothitelle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/48.png"
+    },
+    {
+      "id": "bw2-49",
+      "number": 49,
+      "name": "Roggenrola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/49.png"
+    },
+    {
+      "id": "bw2-50",
+      "number": 50,
+      "name": "Roggenrola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/50.png"
+    },
+    {
+      "id": "bw2-51",
+      "number": 51,
+      "name": "Boldore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/51.png"
+    },
+    {
+      "id": "bw2-52",
+      "number": 52,
+      "name": "Boldore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/52.png"
+    },
+    {
+      "id": "bw2-53",
+      "number": 53,
+      "name": "Gigalith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/53.png"
+    },
+    {
+      "id": "bw2-54",
+      "number": 54,
+      "name": "Drilbur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/54.png"
+    },
+    {
+      "id": "bw2-55",
+      "number": 55,
+      "name": "Drilbur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/55.png"
+    },
+    {
+      "id": "bw2-56",
+      "number": 56,
+      "name": "Excadrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/56.png"
+    },
+    {
+      "id": "bw2-57",
+      "number": 57,
+      "name": "Excadrill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/57.png"
+    },
+    {
+      "id": "bw2-58",
+      "number": 58,
+      "name": "Throh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/58.png"
+    },
+    {
+      "id": "bw2-59",
+      "number": 59,
+      "name": "Sawk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/59.png"
+    },
+    {
+      "id": "bw2-60",
+      "number": 60,
+      "name": "Sandile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/60.png"
+    },
+    {
+      "id": "bw2-61",
+      "number": 61,
+      "name": "Krokorok",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/61.png"
+    },
+    {
+      "id": "bw2-62",
+      "number": 62,
+      "name": "Krookodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/62.png"
+    },
+    {
+      "id": "bw2-63",
+      "number": 63,
+      "name": "Terrakion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/63.png"
+    },
+    {
+      "id": "bw2-64",
+      "number": 64,
+      "name": "Purrloin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/64.png"
+    },
+    {
+      "id": "bw2-65",
+      "number": 65,
+      "name": "Liepard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/65.png"
+    },
+    {
+      "id": "bw2-66",
+      "number": 66,
+      "name": "Zorua",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/66.png"
+    },
+    {
+      "id": "bw2-67",
+      "number": 67,
+      "name": "Zoroark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/67.png"
+    },
+    {
+      "id": "bw2-68",
+      "number": 68,
+      "name": "Vullaby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/68.png"
+    },
+    {
+      "id": "bw2-69",
+      "number": 69,
+      "name": "Mandibuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/69.png"
+    },
+    {
+      "id": "bw2-70",
+      "number": 70,
+      "name": "Ferroseed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/70.png"
+    },
+    {
+      "id": "bw2-71",
+      "number": 71,
+      "name": "Ferroseed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/71.png"
+    },
+    {
+      "id": "bw2-72",
+      "number": 72,
+      "name": "Ferrothorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/72.png"
+    },
+    {
+      "id": "bw2-73",
+      "number": 73,
+      "name": "Ferrothorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/73.png"
+    },
+    {
+      "id": "bw2-74",
+      "number": 74,
+      "name": "Klink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/74.png"
+    },
+    {
+      "id": "bw2-75",
+      "number": 75,
+      "name": "Klang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/75.png"
+    },
+    {
+      "id": "bw2-76",
+      "number": 76,
+      "name": "Klinklang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/76.png"
+    },
+    {
+      "id": "bw2-77",
+      "number": 77,
+      "name": "Cobalion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/77.png"
+    },
+    {
+      "id": "bw2-78",
+      "number": 78,
+      "name": "Patrat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/78.png"
+    },
+    {
+      "id": "bw2-79",
+      "number": 79,
+      "name": "Watchog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/79.png"
+    },
+    {
+      "id": "bw2-80",
+      "number": 80,
+      "name": "Pidove",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/80.png"
+    },
+    {
+      "id": "bw2-81",
+      "number": 81,
+      "name": "Tranquill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/81.png"
+    },
+    {
+      "id": "bw2-82",
+      "number": 82,
+      "name": "Unfezant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/82.png"
+    },
+    {
+      "id": "bw2-83",
+      "number": 83,
+      "name": "Audino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/83.png"
+    },
+    {
+      "id": "bw2-84",
+      "number": 84,
+      "name": "Minccino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/84.png"
+    },
+    {
+      "id": "bw2-85",
+      "number": 85,
+      "name": "Cinccino",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/85.png"
+    },
+    {
+      "id": "bw2-86",
+      "number": 86,
+      "name": "Rufflet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/86.png"
+    },
+    {
+      "id": "bw2-87",
+      "number": 87,
+      "name": "Rufflet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/87.png"
+    },
+    {
+      "id": "bw2-88",
+      "number": 88,
+      "name": "Braviary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/88.png"
+    },
+    {
+      "id": "bw2-89",
+      "number": 89,
+      "name": "Tornadus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/89.png"
+    },
+    {
+      "id": "bw2-90",
+      "number": 90,
+      "name": "Bianca",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/90.png"
+    },
+    {
+      "id": "bw2-91",
+      "number": 91,
+      "name": "Cheren",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/91.png"
+    },
+    {
+      "id": "bw2-92",
+      "number": 92,
+      "name": "Crushing Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/92.png"
+    },
+    {
+      "id": "bw2-93",
+      "number": 93,
+      "name": "Great Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/93.png"
+    },
+    {
+      "id": "bw2-94",
+      "number": 94,
+      "name": "Max Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/94.png"
+    },
+    {
+      "id": "bw2-95",
+      "number": 95,
+      "name": "Pokémon Catcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/95.png"
+    },
+    {
+      "id": "bw2-96",
+      "number": 96,
+      "name": "Recycle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/96.png"
+    },
+    {
+      "id": "bw2-97",
+      "number": 97,
+      "name": "Thundurus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/97.png"
+    },
+    {
+      "id": "bw2-98",
+      "number": 98,
+      "name": "Tornadus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Emerging%20Powers/images/98.png"
+    }
+  ]
+}

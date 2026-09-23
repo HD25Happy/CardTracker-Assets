@@ -1,0 +1,524 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Mythical Island",
+  "totalCards": 86,
+  "availableImages": 86,
+  "cards": [
+    {
+      "id": "A1a-001",
+      "number": 1,
+      "name": "Exeggcute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/001.png"
+    },
+    {
+      "id": "A1a-002",
+      "number": 2,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/002.png"
+    },
+    {
+      "id": "A1a-003",
+      "number": 3,
+      "name": "Celebi ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/003.png"
+    },
+    {
+      "id": "A1a-004",
+      "number": 4,
+      "name": "Snivy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/004.png"
+    },
+    {
+      "id": "A1a-005",
+      "number": 5,
+      "name": "Servine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/005.png"
+    },
+    {
+      "id": "A1a-006",
+      "number": 6,
+      "name": "Serperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/006.png"
+    },
+    {
+      "id": "A1a-007",
+      "number": 7,
+      "name": "Morelull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/007.png"
+    },
+    {
+      "id": "A1a-008",
+      "number": 8,
+      "name": "Shiinotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/008.png"
+    },
+    {
+      "id": "A1a-009",
+      "number": 9,
+      "name": "Dhelmise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/009.png"
+    },
+    {
+      "id": "A1a-010",
+      "number": 10,
+      "name": "Ponyta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/010.png"
+    },
+    {
+      "id": "A1a-011",
+      "number": 11,
+      "name": "Rapidash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/011.png"
+    },
+    {
+      "id": "A1a-012",
+      "number": 12,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/012.png"
+    },
+    {
+      "id": "A1a-013",
+      "number": 13,
+      "name": "Larvesta",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/013.png"
+    },
+    {
+      "id": "A1a-014",
+      "number": 14,
+      "name": "Volcarona",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/014.png"
+    },
+    {
+      "id": "A1a-015",
+      "number": 15,
+      "name": "Salandit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/015.png"
+    },
+    {
+      "id": "A1a-016",
+      "number": 16,
+      "name": "Salazzle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/016.png"
+    },
+    {
+      "id": "A1a-017",
+      "number": 17,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/017.png"
+    },
+    {
+      "id": "A1a-018",
+      "number": 18,
+      "name": "Gyarados ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/018.png"
+    },
+    {
+      "id": "A1a-019",
+      "number": 19,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/019.png"
+    },
+    {
+      "id": "A1a-020",
+      "number": 20,
+      "name": "Finneon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/020.png"
+    },
+    {
+      "id": "A1a-021",
+      "number": 21,
+      "name": "Lumineon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/021.png"
+    },
+    {
+      "id": "A1a-022",
+      "number": 22,
+      "name": "Chewtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/022.png"
+    },
+    {
+      "id": "A1a-023",
+      "number": 23,
+      "name": "Drednaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/023.png"
+    },
+    {
+      "id": "A1a-024",
+      "number": 24,
+      "name": "Cramorant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/024.png"
+    },
+    {
+      "id": "A1a-025",
+      "number": 25,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/025.png"
+    },
+    {
+      "id": "A1a-026",
+      "number": 26,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/026.png"
+    },
+    {
+      "id": "A1a-027",
+      "number": 27,
+      "name": "Electabuzz",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/027.png"
+    },
+    {
+      "id": "A1a-028",
+      "number": 28,
+      "name": "Joltik",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/028.png"
+    },
+    {
+      "id": "A1a-029",
+      "number": 29,
+      "name": "Galvantula",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/029.png"
+    },
+    {
+      "id": "A1a-030",
+      "number": 30,
+      "name": "Dedenne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/030.png"
+    },
+    {
+      "id": "A1a-031",
+      "number": 31,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/031.png"
+    },
+    {
+      "id": "A1a-032",
+      "number": 32,
+      "name": "Mew ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/032.png"
+    },
+    {
+      "id": "A1a-033",
+      "number": 33,
+      "name": "Sigilyph",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/033.png"
+    },
+    {
+      "id": "A1a-034",
+      "number": 34,
+      "name": "Elgyem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/034.png"
+    },
+    {
+      "id": "A1a-035",
+      "number": 35,
+      "name": "Beheeyem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/035.png"
+    },
+    {
+      "id": "A1a-036",
+      "number": 36,
+      "name": "Flabébé",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/036.png"
+    },
+    {
+      "id": "A1a-037",
+      "number": 37,
+      "name": "Floette",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/037.png"
+    },
+    {
+      "id": "A1a-038",
+      "number": 38,
+      "name": "Florges",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/038.png"
+    },
+    {
+      "id": "A1a-039",
+      "number": 39,
+      "name": "Swirlix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/039.png"
+    },
+    {
+      "id": "A1a-040",
+      "number": 40,
+      "name": "Slurpuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/040.png"
+    },
+    {
+      "id": "A1a-041",
+      "number": 41,
+      "name": "Mankey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/041.png"
+    },
+    {
+      "id": "A1a-042",
+      "number": 42,
+      "name": "Primeape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/042.png"
+    },
+    {
+      "id": "A1a-043",
+      "number": 43,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/043.png"
+    },
+    {
+      "id": "A1a-044",
+      "number": 44,
+      "name": "Graveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/044.png"
+    },
+    {
+      "id": "A1a-045",
+      "number": 45,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/045.png"
+    },
+    {
+      "id": "A1a-046",
+      "number": 46,
+      "name": "Aerodactyl ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/046.png"
+    },
+    {
+      "id": "A1a-047",
+      "number": 47,
+      "name": "Marshadow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/047.png"
+    },
+    {
+      "id": "A1a-048",
+      "number": 48,
+      "name": "Stonjourner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/048.png"
+    },
+    {
+      "id": "A1a-049",
+      "number": 49,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/049.png"
+    },
+    {
+      "id": "A1a-050",
+      "number": 50,
+      "name": "Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/050.png"
+    },
+    {
+      "id": "A1a-051",
+      "number": 51,
+      "name": "Purrloin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/051.png"
+    },
+    {
+      "id": "A1a-052",
+      "number": 52,
+      "name": "Liepard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/052.png"
+    },
+    {
+      "id": "A1a-053",
+      "number": 53,
+      "name": "Venipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/053.png"
+    },
+    {
+      "id": "A1a-054",
+      "number": 54,
+      "name": "Whirlipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/054.png"
+    },
+    {
+      "id": "A1a-055",
+      "number": 55,
+      "name": "Scolipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/055.png"
+    },
+    {
+      "id": "A1a-056",
+      "number": 56,
+      "name": "Druddigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/056.png"
+    },
+    {
+      "id": "A1a-057",
+      "number": 57,
+      "name": "Pidgey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/057.png"
+    },
+    {
+      "id": "A1a-058",
+      "number": 58,
+      "name": "Pidgeotto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/058.png"
+    },
+    {
+      "id": "A1a-059",
+      "number": 59,
+      "name": "Pidgeot ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/059.png"
+    },
+    {
+      "id": "A1a-060",
+      "number": 60,
+      "name": "Tauros",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/060.png"
+    },
+    {
+      "id": "A1a-061",
+      "number": 61,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/061.png"
+    },
+    {
+      "id": "A1a-062",
+      "number": 62,
+      "name": "Chatot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/062.png"
+    },
+    {
+      "id": "A1a-063",
+      "number": 63,
+      "name": "Old Amber",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/063.png"
+    },
+    {
+      "id": "A1a-064",
+      "number": 64,
+      "name": "Pokémon Flute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/064.png"
+    },
+    {
+      "id": "A1a-065",
+      "number": 65,
+      "name": "Mythical Slab",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/065.png"
+    },
+    {
+      "id": "A1a-066",
+      "number": 66,
+      "name": "Budding Expeditioner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/066.png"
+    },
+    {
+      "id": "A1a-067",
+      "number": 67,
+      "name": "Blue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/067.png"
+    },
+    {
+      "id": "A1a-068",
+      "number": 68,
+      "name": "Leaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/068.png"
+    },
+    {
+      "id": "A1a-069",
+      "number": 69,
+      "name": "Exeggutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/069.png"
+    },
+    {
+      "id": "A1a-070",
+      "number": 70,
+      "name": "Serperior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/070.png"
+    },
+    {
+      "id": "A1a-071",
+      "number": 71,
+      "name": "Salandit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/071.png"
+    },
+    {
+      "id": "A1a-072",
+      "number": 72,
+      "name": "Vaporeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/072.png"
+    },
+    {
+      "id": "A1a-073",
+      "number": 73,
+      "name": "Dedenne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/073.png"
+    },
+    {
+      "id": "A1a-074",
+      "number": 74,
+      "name": "Marshadow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/074.png"
+    },
+    {
+      "id": "A1a-075",
+      "number": 75,
+      "name": "Celebi ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/075.png"
+    },
+    {
+      "id": "A1a-076",
+      "number": 76,
+      "name": "Gyarados ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/076.png"
+    },
+    {
+      "id": "A1a-077",
+      "number": 77,
+      "name": "Mew ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/077.png"
+    },
+    {
+      "id": "A1a-078",
+      "number": 78,
+      "name": "Aerodactyl ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/078.png"
+    },
+    {
+      "id": "A1a-079",
+      "number": 79,
+      "name": "Pidgeot ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/079.png"
+    },
+    {
+      "id": "A1a-080",
+      "number": 80,
+      "name": "Budding Expeditioner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/080.png"
+    },
+    {
+      "id": "A1a-081",
+      "number": 81,
+      "name": "Blue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/081.png"
+    },
+    {
+      "id": "A1a-082",
+      "number": 82,
+      "name": "Leaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/082.png"
+    },
+    {
+      "id": "A1a-083",
+      "number": 83,
+      "name": "Mew ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/083.png"
+    },
+    {
+      "id": "A1a-084",
+      "number": 84,
+      "name": "Aerodactyl ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/084.png"
+    },
+    {
+      "id": "A1a-085",
+      "number": 85,
+      "name": "Celebi ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/085.png"
+    },
+    {
+      "id": "A1a-086",
+      "number": 86,
+      "name": "Mew ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Mythical%20Island/images/086.png"
+    }
+  ]
+}

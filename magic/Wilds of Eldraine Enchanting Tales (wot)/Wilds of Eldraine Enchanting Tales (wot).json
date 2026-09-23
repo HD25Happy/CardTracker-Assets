@@ -1,0 +1,625 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Wilds of Eldraine: Enchanting Tales",
+  "totalCards": 103,
+  "cards": [
+    {
+      "id": "1cb0ea8e-0707-46a8-9dc6-77c17244fd7b",
+      "number": 1,
+      "name": "Blind Obedience",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/1.jpg"
+    },
+    {
+      "id": "de36ecaa-62e0-4f1c-b07f-837a786dc897",
+      "number": 2,
+      "name": "Dawn of Hope",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/2.jpg"
+    },
+    {
+      "id": "d983b297-e341-40fa-ba9b-b9f87eb25057",
+      "number": 3,
+      "name": "Grasp of Fate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/3.jpg"
+    },
+    {
+      "id": "7088f502-662e-4083-b9b2-fdc0574592cd",
+      "number": 4,
+      "name": "Greater Auramancy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/4.jpg"
+    },
+    {
+      "id": "b0c1cd62-aa6e-4120-ba70-1f12c8efe389",
+      "number": 5,
+      "name": "Griffin Aerie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/5.jpg"
+    },
+    {
+      "id": "bb1bc2f9-d02a-4515-aa07-fcf98a3d194d",
+      "number": 6,
+      "name": "Intangible Virtue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/6.jpg"
+    },
+    {
+      "id": "45078d81-91ea-402c-ab3c-8464fc2ebb42",
+      "number": 7,
+      "name": "Karmic Justice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/7.jpg"
+    },
+    {
+      "id": "844b8b36-6c45-445c-92a3-f1058669d66a",
+      "number": 8,
+      "name": "Knightly Valor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/8.jpg"
+    },
+    {
+      "id": "cb8796fd-ebf4-4fe3-b785-f48c65ff8257",
+      "number": 9,
+      "name": "Land Tax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/9.jpg"
+    },
+    {
+      "id": "dfaae165-add6-491f-9521-60e30accc528",
+      "number": 10,
+      "name": "Leyline of Sanctity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/10.jpg"
+    },
+    {
+      "id": "fdbbcb80-bd9f-4b45-af55-c1264e73d602",
+      "number": 11,
+      "name": "Phyrexian Unlife",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/11.jpg"
+    },
+    {
+      "id": "43eb0e85-1c26-4d2c-bdac-6e94717f0762",
+      "number": 12,
+      "name": "Rest in Peace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/12.jpg"
+    },
+    {
+      "id": "f6c69c2f-729b-49ed-909d-57190a728e11",
+      "number": 13,
+      "name": "Smothering Tithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/13.jpg"
+    },
+    {
+      "id": "306937c6-0eb3-43d3-bd71-40ef7cefa9e6",
+      "number": 14,
+      "name": "As Foretold",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/14.jpg"
+    },
+    {
+      "id": "c39d78e6-fa15-43a2-8c8e-5436e82926b7",
+      "number": 15,
+      "name": "Compulsion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/15.jpg"
+    },
+    {
+      "id": "36924d70-5ede-4eed-a7db-7bc74d3eede9",
+      "number": 16,
+      "name": "Copy Enchantment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/16.jpg"
+    },
+    {
+      "id": "96056dc1-b989-4c87-8ad9-7a9dd99dd7fc",
+      "number": 17,
+      "name": "Curiosity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/17.jpg"
+    },
+    {
+      "id": "b8281681-a243-4995-8657-c3730aa67c57",
+      "number": 18,
+      "name": "Forced Fruition",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/18.jpg"
+    },
+    {
+      "id": "303ecebb-cadc-465a-8ef8-7b314f971f6c",
+      "number": 19,
+      "name": "Fraying Sanity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/19.jpg"
+    },
+    {
+      "id": "e8ebcbfb-1522-4ff5-b23a-f3ea9e08ad9b",
+      "number": 20,
+      "name": "Hatching Plans",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/20.jpg"
+    },
+    {
+      "id": "0c7eafcf-49aa-4134-b2d8-d9804160bcca",
+      "number": 21,
+      "name": "Intruder Alarm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/21.jpg"
+    },
+    {
+      "id": "0db7f9e6-4f27-4743-a456-1386f24dbd5f",
+      "number": 22,
+      "name": "Kindred Discovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/22.jpg"
+    },
+    {
+      "id": "d789703e-81ae-48a7-8831-201ccdec5eba",
+      "number": 23,
+      "name": "Leyline of Anticipation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/23.jpg"
+    },
+    {
+      "id": "a3c11195-144e-44c4-aaa9-c534037748ea",
+      "number": 24,
+      "name": "Omniscience",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/24.jpg"
+    },
+    {
+      "id": "043b2d30-a40f-4d47-933b-80544512f9c2",
+      "number": 25,
+      "name": "Rhystic Study",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/25.jpg"
+    },
+    {
+      "id": "9ad6dfe9-90b6-4582-af77-1355c950a50d",
+      "number": 26,
+      "name": "Spreading Seas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/26.jpg"
+    },
+    {
+      "id": "bdf9661d-b581-4496-9004-f292d9ac03ef",
+      "number": 27,
+      "name": "Bitterblossom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/27.jpg"
+    },
+    {
+      "id": "a2b11a54-b38c-4e22-8b6d-dfc6c037db0e",
+      "number": 28,
+      "name": "Dark Tutelage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/28.jpg"
+    },
+    {
+      "id": "b728cdab-e4fe-478b-b7b2-5912bd6a80a3",
+      "number": 29,
+      "name": "Grave Pact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/29.jpg"
+    },
+    {
+      "id": "034bfd23-8f10-4d98-9500-47d392531c69",
+      "number": 30,
+      "name": "Leyline of the Void",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/30.jpg"
+    },
+    {
+      "id": "ff727bfb-8cd8-43dd-afdf-eb74a4631eac",
+      "number": 31,
+      "name": "Necropotence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/31.jpg"
+    },
+    {
+      "id": "2e8ffc89-6436-4e4d-aa43-8f704b658b96",
+      "number": 32,
+      "name": "Oppression",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/32.jpg"
+    },
+    {
+      "id": "48a6cfd3-20bb-431b-b3f5-bb32a26e5002",
+      "number": 33,
+      "name": "Oversold Cemetery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/33.jpg"
+    },
+    {
+      "id": "e15e0521-1abf-4426-9f31-4081f068b184",
+      "number": 34,
+      "name": "Polluted Bonds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/34.jpg"
+    },
+    {
+      "id": "bd199c13-9437-4162-bde9-9301589989aa",
+      "number": 35,
+      "name": "Sanguine Bond",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/35.jpg"
+    },
+    {
+      "id": "02e5953c-420f-4f5e-bee1-2e49662e1f5b",
+      "number": 36,
+      "name": "Stab Wound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/36.jpg"
+    },
+    {
+      "id": "6854dc06-4845-4201-958b-2fdad3f7b64a",
+      "number": 37,
+      "name": "Vampiric Rites",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/37.jpg"
+    },
+    {
+      "id": "f5dd0247-f6a0-4f1d-ac27-a49a7e022e5b",
+      "number": 38,
+      "name": "Waste Not",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/38.jpg"
+    },
+    {
+      "id": "01499449-5614-428f-8fc1-1fa74f7114ad",
+      "number": 39,
+      "name": "Aggravated Assault",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/39.jpg"
+    },
+    {
+      "id": "b0dbdacf-59b5-46fc-9635-fd4fb1527189",
+      "number": 40,
+      "name": "Blood Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/40.jpg"
+    },
+    {
+      "id": "8dc7ea40-f45d-4550-82f5-ded841d8746d",
+      "number": 41,
+      "name": "Dragon Mantle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/41.jpg"
+    },
+    {
+      "id": "8801efe9-e141-4790-9d97-af8fc0222833",
+      "number": 42,
+      "name": "Fiery Emancipation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/42.jpg"
+    },
+    {
+      "id": "e92af114-ad34-4106-a7fa-5676dbcd4960",
+      "number": 43,
+      "name": "Goblin Bombardment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/43.jpg"
+    },
+    {
+      "id": "e23cf8e0-0983-4495-ad3e-8b0c3e706115",
+      "number": 44,
+      "name": "Impact Tremors",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/44.jpg"
+    },
+    {
+      "id": "d1670149-b64b-44a8-8858-59637679065c",
+      "number": 45,
+      "name": "Leyline of Lightning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/45.jpg"
+    },
+    {
+      "id": "3f0b8b24-7272-4d1a-af4a-c3a1b89a7e04",
+      "number": 46,
+      "name": "Mana Flare",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/46.jpg"
+    },
+    {
+      "id": "1a7576d7-ef3a-48b1-a06b-81d334c57b96",
+      "number": 47,
+      "name": "Raid Bombardment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/47.jpg"
+    },
+    {
+      "id": "4e95e687-fa34-4dfe-bf24-34a481041bd1",
+      "number": 48,
+      "name": "Repercussion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/48.jpg"
+    },
+    {
+      "id": "299a807e-21cb-4b49-ad2b-c9ce7eef393a",
+      "number": 49,
+      "name": "Shared Animosity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/49.jpg"
+    },
+    {
+      "id": "0b121aba-52c0-4b6c-a7d8-17188b524673",
+      "number": 50,
+      "name": "Sneak Attack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/50.jpg"
+    },
+    {
+      "id": "61c15767-1ddd-4bea-a23e-1598708434f6",
+      "number": 51,
+      "name": "Defense of the Heart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/51.jpg"
+    },
+    {
+      "id": "c7d7db76-0a0c-444f-96f1-559838450549",
+      "number": 52,
+      "name": "Doubling Season",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/52.jpg"
+    },
+    {
+      "id": "7931a072-b688-4a0b-a32e-9a2082738745",
+      "number": 53,
+      "name": "Garruk's Uprising",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/53.jpg"
+    },
+    {
+      "id": "9b36d3ff-8d38-467b-bd70-33dfeae73b7d",
+      "number": 54,
+      "name": "Ground Seal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/54.jpg"
+    },
+    {
+      "id": "d2d1bfab-25b4-474b-bdab-ac18215f1920",
+      "number": 55,
+      "name": "Hardened Scales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/55.jpg"
+    },
+    {
+      "id": "607157a4-4fe8-46b9-86e1-0a30f040116b",
+      "number": 56,
+      "name": "Leyline of Abundance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/56.jpg"
+    },
+    {
+      "id": "ce7785c2-0b3f-4952-8b2d-71fe73cf64e0",
+      "number": 57,
+      "name": "Nature's Will",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/57.jpg"
+    },
+    {
+      "id": "73558b8d-fb08-4df5-99e3-d4c11c9ccfa7",
+      "number": 58,
+      "name": "Parallel Lives",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/58.jpg"
+    },
+    {
+      "id": "86c63e02-41a8-4915-9e0d-fbabd916dbe7",
+      "number": 59,
+      "name": "Primal Vigor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/59.jpg"
+    },
+    {
+      "id": "97bd2780-f132-46dc-a33e-611dd7845bc4",
+      "number": 60,
+      "name": "Prismatic Omen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/60.jpg"
+    },
+    {
+      "id": "742f2d20-0f6b-488e-ae37-54a41522c191",
+      "number": 61,
+      "name": "Season of Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/61.jpg"
+    },
+    {
+      "id": "6f32f0e3-9ff6-4e86-b7ec-24f6cee998b2",
+      "number": 62,
+      "name": "Unnatural Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/62.jpg"
+    },
+    {
+      "id": "8ee63809-729b-48b1-a06d-3edc2a26208f",
+      "number": 63,
+      "name": "Utopia Sprawl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/63.jpg"
+    },
+    {
+      "id": "f7f99277-a65a-489e-9db4-7865f1b9c50b",
+      "number": 64,
+      "name": "Greater Auramancy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/64.jpg"
+    },
+    {
+      "id": "65c332cd-f5ac-4ba6-a941-bb9a194d2d11",
+      "number": 65,
+      "name": "Karmic Justice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/65.jpg"
+    },
+    {
+      "id": "9aab92e8-e5da-44a4-bab6-42ee9a3e0035",
+      "number": 66,
+      "name": "Land Tax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/66.jpg"
+    },
+    {
+      "id": "58178dd4-c61e-4017-b2e6-2d8308ded4fd",
+      "number": 67,
+      "name": "Smothering Tithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/67.jpg"
+    },
+    {
+      "id": "fb023670-7597-4042-84a4-0c578820dc9b",
+      "number": 68,
+      "name": "As Foretold",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/68.jpg"
+    },
+    {
+      "id": "7d0ee324-bc35-4419-ad20-ebdfdb147473",
+      "number": 69,
+      "name": "Kindred Discovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/69.jpg"
+    },
+    {
+      "id": "5249f9dc-d5e2-4e1f-b7da-8fcbf574f276",
+      "number": 70,
+      "name": "Omniscience",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/70.jpg"
+    },
+    {
+      "id": "e6a06aad-6073-465b-89d0-8c4ae4307aff",
+      "number": 71,
+      "name": "Rhystic Study",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/71.jpg"
+    },
+    {
+      "id": "4d6c0dc6-ab2e-4ab5-951a-1ddd6698e80e",
+      "number": 72,
+      "name": "Bitterblossom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/72.jpg"
+    },
+    {
+      "id": "f24021ca-f493-4de8-9e65-01bf10fe2920",
+      "number": 73,
+      "name": "Grave Pact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/73.jpg"
+    },
+    {
+      "id": "2765545b-5e2d-4d4c-b126-93415774a2e9",
+      "number": 74,
+      "name": "Necropotence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/74.jpg"
+    },
+    {
+      "id": "46d8d772-2100-48ac-93eb-6bb4681827bb",
+      "number": 75,
+      "name": "Polluted Bonds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/75.jpg"
+    },
+    {
+      "id": "a5e5ec5c-c50d-4c26-a7ad-f28124c35f9b",
+      "number": 76,
+      "name": "Aggravated Assault",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/76.jpg"
+    },
+    {
+      "id": "99a7018b-b1bc-4f22-978e-69fcc97915ce",
+      "number": 77,
+      "name": "Blood Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/77.jpg"
+    },
+    {
+      "id": "e6f6b6ed-6554-4bff-a231-fb1c3d6ba715",
+      "number": 78,
+      "name": "Repercussion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/78.jpg"
+    },
+    {
+      "id": "8fb31436-4b39-421e-a7e0-cdf172823665",
+      "number": 79,
+      "name": "Sneak Attack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/79.jpg"
+    },
+    {
+      "id": "7589fee1-b17d-4958-8b12-4f9c551c2e52",
+      "number": 80,
+      "name": "Defense of the Heart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/80.jpg"
+    },
+    {
+      "id": "6d545e9d-3b8e-44f5-8b4e-d8573ecc5819",
+      "number": 81,
+      "name": "Doubling Season",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/81.jpg"
+    },
+    {
+      "id": "e17dc4ea-dda8-4384-9f87-af853eba2f66",
+      "number": 82,
+      "name": "Nature's Will",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/82.jpg"
+    },
+    {
+      "id": "93ee144f-3c76-444f-8a9a-318ee6407526",
+      "number": 83,
+      "name": "Parallel Lives",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/83.jpg"
+    },
+    {
+      "id": "642cdc83-2973-40ac-96f4-22ffe47b4971",
+      "number": 84,
+      "name": "Greater Auramancy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/84.jpg"
+    },
+    {
+      "id": "534ca56b-5bcb-4b86-978a-87e8820ead9e",
+      "number": 85,
+      "name": "Karmic Justice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/85.jpg"
+    },
+    {
+      "id": "ba851a93-7c85-4559-bedf-1a4b117869b4",
+      "number": 86,
+      "name": "Land Tax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/86.jpg"
+    },
+    {
+      "id": "a095e47e-8f02-45cf-a9d2-677fe171258d",
+      "number": 87,
+      "name": "Smothering Tithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/87.jpg"
+    },
+    {
+      "id": "c634fb14-49a1-4642-9a22-bce99279cb88",
+      "number": 88,
+      "name": "As Foretold",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/88.jpg"
+    },
+    {
+      "id": "86dfee70-ce7b-40f9-ab48-7f2bcd6eaea1",
+      "number": 89,
+      "name": "Kindred Discovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/89.jpg"
+    },
+    {
+      "id": "d9caf326-9f85-4fda-88a4-7862e0f5dc49",
+      "number": 90,
+      "name": "Omniscience",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/90.jpg"
+    },
+    {
+      "id": "8f7f8d7a-e5ad-4c03-8ab3-e9af9c2927b7",
+      "number": 91,
+      "name": "Rhystic Study",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/91.jpg"
+    },
+    {
+      "id": "07ed5249-ac56-4f56-a8ca-f1808460dac6",
+      "number": 92,
+      "name": "Bitterblossom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/92.jpg"
+    },
+    {
+      "id": "9aaced6e-f656-49d3-9130-ba255800e0a5",
+      "number": 93,
+      "name": "Grave Pact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/93.jpg"
+    },
+    {
+      "id": "5a63228e-9e95-4234-a8a4-8d8b5139d48c",
+      "number": 94,
+      "name": "Necropotence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/94.jpg"
+    },
+    {
+      "id": "b474fc26-c95b-4508-805a-fcb2e7909d32",
+      "number": 95,
+      "name": "Polluted Bonds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/95.jpg"
+    },
+    {
+      "id": "179ed1be-c16d-45a9-bb21-b72545e69a5c",
+      "number": 96,
+      "name": "Aggravated Assault",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/96.jpg"
+    },
+    {
+      "id": "eaff5644-bf82-4638-a73f-d77104631f90",
+      "number": 97,
+      "name": "Blood Moon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/97.jpg"
+    },
+    {
+      "id": "feeb4df7-3b59-4fc1-8fbb-b99ddedaa8fb",
+      "number": 98,
+      "name": "Repercussion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/98.jpg"
+    },
+    {
+      "id": "019edeac-ce93-4969-8dcb-787f0bfd9ae7",
+      "number": 99,
+      "name": "Sneak Attack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/99.jpg"
+    },
+    {
+      "id": "f5475db2-cd0f-401d-8827-288da3203e8d",
+      "number": 100,
+      "name": "Defense of the Heart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/100.jpg"
+    },
+    {
+      "id": "72a09233-fd48-4122-ac5f-55247430e023",
+      "number": 101,
+      "name": "Doubling Season",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/101.jpg"
+    },
+    {
+      "id": "e1df9328-97ef-46aa-9d2c-897f62de0427",
+      "number": 102,
+      "name": "Nature's Will",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/102.jpg"
+    },
+    {
+      "id": "ede3f0ae-dcca-409f-a2f9-7a86424d8e7c",
+      "number": 103,
+      "name": "Parallel Lives",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Wilds%20of%20Eldraine%20Enchanting%20Tales%20%28wot%29/images/103.jpg"
+    }
+  ]
+}

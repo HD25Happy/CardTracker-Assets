@@ -1,0 +1,487 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duel Decks: Blessed vs. Cursed",
+  "totalCards": 80,
+  "cards": [
+    {
+      "id": "0ba5dd1a-6906-4b45-bbf7-2f10cb955083",
+      "number": 1,
+      "name": "Geist of Saint Traft",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/1.jpg"
+    },
+    {
+      "id": "cc5dbb93-63a2-478e-b874-1fdf3a03cbff",
+      "number": 2,
+      "name": "Bonds of Faith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/2.jpg"
+    },
+    {
+      "id": "de3d0a45-3b3a-4718-9cb8-ff0c2464d634",
+      "number": 3,
+      "name": "Cathedral Sanctifier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/3.jpg"
+    },
+    {
+      "id": "ec2120ff-a6d4-4192-96c0-33c139155ddf",
+      "number": 4,
+      "name": "Champion of the Parish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/4.jpg"
+    },
+    {
+      "id": "36fcc018-76c2-4246-8eca-b78115d568be",
+      "number": 5,
+      "name": "Chapel Geist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/5.jpg"
+    },
+    {
+      "id": "16e88d15-26b3-4782-a7f9-231f23905fb5",
+      "number": 6,
+      "name": "Dearly Departed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/6.jpg"
+    },
+    {
+      "id": "86f7fae8-a03a-4535-83c1-cece267fedec",
+      "number": 7,
+      "name": "Doomed Traveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/7.jpg"
+    },
+    {
+      "id": "aa8e63c6-6bbc-405d-84c0-6958931ad310",
+      "number": 8,
+      "name": "Eerie Interlude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/8.jpg"
+    },
+    {
+      "id": "26c38fbf-09ab-46fc-905e-ca45a85d794b",
+      "number": 9,
+      "name": "Elder Cathar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/9.jpg"
+    },
+    {
+      "id": "796583d3-8738-438a-bf6d-906acebff0ce",
+      "number": 10,
+      "name": "Emancipation Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/10.jpg"
+    },
+    {
+      "id": "1f8fd6e7-a7d9-433c-9d8c-ec279132af50",
+      "number": 11,
+      "name": "Fiend Hunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/11.jpg"
+    },
+    {
+      "id": "76f66ee8-8289-4780-aaec-feabd8ea9e3d",
+      "number": 12,
+      "name": "Gather the Townsfolk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/12.jpg"
+    },
+    {
+      "id": "9396d218-35e4-4457-9f3a-18bae368b526",
+      "number": 13,
+      "name": "Goldnight Redeemer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/13.jpg"
+    },
+    {
+      "id": "bd7844a2-70a1-4195-b2b7-1653cb882c6a",
+      "number": 14,
+      "name": "Increasing Devotion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/14.jpg"
+    },
+    {
+      "id": "b2cefcc4-8fb2-4acf-b8f0-e40acba87b42",
+      "number": 15,
+      "name": "Momentary Blink",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/15.jpg"
+    },
+    {
+      "id": "8bcf35f7-ac95-46e9-b84d-eae5adaf8109",
+      "number": 16,
+      "name": "Moorland Inquisitor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/16.jpg"
+    },
+    {
+      "id": "9b6b0457-024c-4957-bf77-75fe0a33c51f",
+      "number": 17,
+      "name": "Rebuke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/17.jpg"
+    },
+    {
+      "id": "22580e42-c164-4e9b-8210-6fa48bec7b8b",
+      "number": 18,
+      "name": "Slayer of the Wicked",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/18.jpg"
+    },
+    {
+      "id": "8f658073-5d90-4dca-b867-35ab827f22fd",
+      "number": 19,
+      "name": "Spectral Gateguards",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/19.jpg"
+    },
+    {
+      "id": "20eb4f21-2f20-4e4b-998c-a72527585549",
+      "number": 20,
+      "name": "Thraben Heretic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/20.jpg"
+    },
+    {
+      "id": "c987f24a-679f-4c4f-a04f-251cec3aef67",
+      "number": 21,
+      "name": "Topplegeist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/21.jpg"
+    },
+    {
+      "id": "3543ed04-9519-4d69-b2ab-cd6c0747d9fd",
+      "number": 22,
+      "name": "Village Bell-Ringer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/22.jpg"
+    },
+    {
+      "id": "11a8437f-a783-4d76-8af1-a347d48a1bad",
+      "number": 23,
+      "name": "Voice of the Provinces",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/23.jpg"
+    },
+    {
+      "id": "aa959355-ffac-442c-9c59-b2a654b4b400",
+      "number": 24,
+      "name": "Captain of the Mists",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/24.jpg"
+    },
+    {
+      "id": "53a14ab8-62f4-4873-b4ef-650f0aded095",
+      "number": 25,
+      "name": "Gryff Vanguard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/25.jpg"
+    },
+    {
+      "id": "4784a4d2-8af8-47dc-9ef8-053c6c873f93",
+      "number": 26,
+      "name": "Mist Raven",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/26.jpg"
+    },
+    {
+      "id": "a67bcad1-b535-4e51-a5f4-50612b0346ce",
+      "number": 27,
+      "name": "Nephalia Smuggler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/27.jpg"
+    },
+    {
+      "id": "a7f9b8f0-f2b9-48ec-86c2-71d1419e396b",
+      "number": 28,
+      "name": "Pore Over the Pages",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/28.jpg"
+    },
+    {
+      "id": "3547d3ce-0837-4fc2-9e19-904519287ad5",
+      "number": 29,
+      "name": "Tandem Lookout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/29.jpg"
+    },
+    {
+      "id": "3304c2bc-2d05-497d-b92a-3de21a9d6b45",
+      "number": 30,
+      "name": "Tower Geist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/30.jpg"
+    },
+    {
+      "id": "9359d59f-872e-4e43-94b6-90d6616f17e0",
+      "number": 31,
+      "name": "Butcher's Cleaver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/31.jpg"
+    },
+    {
+      "id": "36c8cdec-5ca9-40b0-ba90-48966e674546",
+      "number": 32,
+      "name": "Sharpened Pitchfork",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/32.jpg"
+    },
+    {
+      "id": "e1c1fa29-362f-40b4-b67f-513f6592fb3b",
+      "number": 33,
+      "name": "Seraph Sanctuary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/33.jpg"
+    },
+    {
+      "id": "6b403e68-4696-4c8a-bb25-68dc7f98e5e4",
+      "number": 34,
+      "name": "Tranquil Cove",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/34.jpg"
+    },
+    {
+      "id": "c234458f-1b0a-47a2-9cee-b6920e1ad54e",
+      "number": 35,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/35.jpg"
+    },
+    {
+      "id": "029540f9-9a19-4b1e-a61a-30813fd8cdd0",
+      "number": 36,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/36.jpg"
+    },
+    {
+      "id": "6bf7b441-34e9-4a0e-bc78-61ed9b077d1c",
+      "number": 37,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/37.jpg"
+    },
+    {
+      "id": "a3cc4f04-9fc2-4ee0-b60c-a102e442141f",
+      "number": 38,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/38.jpg"
+    },
+    {
+      "id": "e6a6edf8-47a8-4471-9d62-8fe3d102567a",
+      "number": 39,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/39.jpg"
+    },
+    {
+      "id": "7244582e-39a6-479e-9239-fc5d98c1a52f",
+      "number": 40,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/40.jpg"
+    },
+    {
+      "id": "dd80262b-5f4a-4ea5-88da-f21fca83df3e",
+      "number": 41,
+      "name": "Mindwrack Demon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/41.jpg"
+    },
+    {
+      "id": "d89de92b-2890-42f5-a7cf-72c67e3b70c2",
+      "number": 42,
+      "name": "Compelling Deterrence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/42.jpg"
+    },
+    {
+      "id": "96fd7354-7069-4e3e-b4f2-f9cd15c970ea",
+      "number": 43,
+      "name": "Forbidden Alchemy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/43.jpg"
+    },
+    {
+      "id": "beca3e00-2c04-41be-98d1-59bc2b5f05e4",
+      "number": 44,
+      "name": "Havengul Runebinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/44.jpg"
+    },
+    {
+      "id": "8782f856-06d3-43ef-958a-d2397353fa3a",
+      "number": 45,
+      "name": "Makeshift Mauler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/45.jpg"
+    },
+    {
+      "id": "7cf48c1a-5709-4e24-8a85-8292a4457150",
+      "number": 46,
+      "name": "Relentless Skaabs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/46.jpg"
+    },
+    {
+      "id": "740fc68d-1f08-4e9e-a797-427dcd7733ba",
+      "number": 47,
+      "name": "Scrapskin Drake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/47.jpg"
+    },
+    {
+      "id": "3d0142f7-7461-446a-b690-6882ccd93116",
+      "number": 48,
+      "name": "Screeching Skaab",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/48.jpg"
+    },
+    {
+      "id": "3ff74655-3156-4a02-af5a-f57c285e9d45",
+      "number": 49,
+      "name": "Stitched Drake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/49.jpg"
+    },
+    {
+      "id": "43297ddd-276f-4d2d-9d9c-937603d0e376",
+      "number": 50,
+      "name": "Abattoir Ghoul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/50.jpg"
+    },
+    {
+      "id": "ef9b4e72-2ac9-444c-81a9-756c5d3f2d65",
+      "number": 51,
+      "name": "Appetite for Brains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/51.jpg"
+    },
+    {
+      "id": "cb3411cb-8c43-4f06-8583-49dd9ba5db63",
+      "number": 52,
+      "name": "Barter in Blood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/52.jpg"
+    },
+    {
+      "id": "37117234-76eb-4a94-8230-a0a8c9b92e47",
+      "number": 53,
+      "name": "Butcher Ghoul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/53.jpg"
+    },
+    {
+      "id": "6adfcecf-bd58-4546-a058-0aa3fd93bce1",
+      "number": 54,
+      "name": "Diregraf Ghoul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/54.jpg"
+    },
+    {
+      "id": "fee9b318-15c1-45cf-97a5-2ad4764e06d0",
+      "number": 55,
+      "name": "Dread Return",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/55.jpg"
+    },
+    {
+      "id": "fcb29d03-2287-4586-a199-b31759ced9dc",
+      "number": 56,
+      "name": "Driver of the Dead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/56.jpg"
+    },
+    {
+      "id": "65b51d77-2335-4170-8d86-96052e9dc260",
+      "number": 57,
+      "name": "Falkenrath Noble",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/57.jpg"
+    },
+    {
+      "id": "b1155a94-1e6a-43d5-8438-5fa5aaec62d1",
+      "number": 58,
+      "name": "Ghoulraiser",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/58.jpg"
+    },
+    {
+      "id": "3c189fe5-a5f9-4057-bb70-0a88ae3169de",
+      "number": 59,
+      "name": "Gravecrawler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/59.jpg"
+    },
+    {
+      "id": "ba7827c0-0b31-46d0-8489-e7c14d25035e",
+      "number": 60,
+      "name": "Harvester of Souls",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/60.jpg"
+    },
+    {
+      "id": "80b582e3-1e02-4c24-87be-05880b56df70",
+      "number": 61,
+      "name": "Human Frailty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/61.jpg"
+    },
+    {
+      "id": "bbed06f6-c7f0-4304-b57a-b996a531adb1",
+      "number": 62,
+      "name": "Moan of the Unhallowed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/62.jpg"
+    },
+    {
+      "id": "9895dbaf-2a5e-472b-a605-d3d8075eb927",
+      "number": 63,
+      "name": "Sever the Bloodline",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/63.jpg"
+    },
+    {
+      "id": "a0f7106b-6550-4b84-82df-98d47b823548",
+      "number": 64,
+      "name": "Tooth Collector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/64.jpg"
+    },
+    {
+      "id": "fcfc9bd3-4378-4305-b427-4e3dd4e1fba1",
+      "number": 65,
+      "name": "Tribute to Hunger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/65.jpg"
+    },
+    {
+      "id": "dd119aa8-8414-4942-9a28-3e68a9a52a8e",
+      "number": 66,
+      "name": "Unbreathing Horde",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/66.jpg"
+    },
+    {
+      "id": "c128272d-4611-477c-84b9-081bddcc7188",
+      "number": 67,
+      "name": "Victim of Night",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/67.jpg"
+    },
+    {
+      "id": "f71d26ad-2d32-4202-8237-bc4612a53ea0",
+      "number": 68,
+      "name": "Diregraf Captain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/68.jpg"
+    },
+    {
+      "id": "6f8fe253-8f0c-43b6-81cd-357e33fe7e0d",
+      "number": 69,
+      "name": "Cobbled Wings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/69.jpg"
+    },
+    {
+      "id": "a5f74adf-e66b-4b5c-9e26-db4f23c721f6",
+      "number": 70,
+      "name": "Dismal Backwater",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/70.jpg"
+    },
+    {
+      "id": "f15e81c7-38fd-402b-bd49-68869fe7142c",
+      "number": 71,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/71.jpg"
+    },
+    {
+      "id": "4f60ca04-0b6e-4e8b-b3b1-8f68fe692d1c",
+      "number": 72,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/72.jpg"
+    },
+    {
+      "id": "f49aa320-797b-4608-acda-f68ef21d1c0d",
+      "number": 73,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/73.jpg"
+    },
+    {
+      "id": "b0d5294d-8f26-47f9-90f2-c0eb095dbcfc",
+      "number": 74,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/74.jpg"
+    },
+    {
+      "id": "b31dbc7a-8d66-44bb-836a-c1ed95152b86",
+      "number": 75,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/75.jpg"
+    },
+    {
+      "id": "086468db-5ecb-4b57-90a8-041eff6faad8",
+      "number": 76,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/76.jpg"
+    },
+    {
+      "id": "8e3a583e-2310-4284-ac44-fd28c72ec11b",
+      "number": 77,
+      "name": "Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/77.jpg"
+    },
+    {
+      "id": "15a620da-5056-4582-8da5-2c955c3f4c0d",
+      "number": 78,
+      "name": "Human",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/78.jpg"
+    },
+    {
+      "id": "b38c8153-ded1-499f-929a-b7bc8a09cd5a",
+      "number": 79,
+      "name": "Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/79.jpg"
+    },
+    {
+      "id": "7c60e495-8fb7-43bb-b11d-52882c0246bc",
+      "number": 80,
+      "name": "Zombie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Blessed%20vs.%20Cursed%20%28ddq%29/images/80.jpg"
+    }
+  ]
+}

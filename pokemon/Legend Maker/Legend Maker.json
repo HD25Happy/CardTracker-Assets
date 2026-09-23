@@ -1,0 +1,566 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Legend Maker",
+  "totalCards": 93,
+  "availableImages": 93,
+  "cards": [
+    {
+      "id": "ex12-1",
+      "number": 1,
+      "name": "Aerodactyl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/1.png"
+    },
+    {
+      "id": "ex12-2",
+      "number": 2,
+      "name": "Aggron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/2.png"
+    },
+    {
+      "id": "ex12-3",
+      "number": 3,
+      "name": "Cradily",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/3.png"
+    },
+    {
+      "id": "ex12-4",
+      "number": 4,
+      "name": "Delcatty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/4.png"
+    },
+    {
+      "id": "ex12-5",
+      "number": 5,
+      "name": "Gengar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/5.png"
+    },
+    {
+      "id": "ex12-6",
+      "number": 6,
+      "name": "Golem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/6.png"
+    },
+    {
+      "id": "ex12-7",
+      "number": 7,
+      "name": "Kabutops",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/7.png"
+    },
+    {
+      "id": "ex12-8",
+      "number": 8,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/8.png"
+    },
+    {
+      "id": "ex12-9",
+      "number": 9,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/9.png"
+    },
+    {
+      "id": "ex12-10",
+      "number": 10,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/10.png"
+    },
+    {
+      "id": "ex12-11",
+      "number": 11,
+      "name": "Muk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/11.png"
+    },
+    {
+      "id": "ex12-12",
+      "number": 12,
+      "name": "Shiftry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/12.png"
+    },
+    {
+      "id": "ex12-13",
+      "number": 13,
+      "name": "Victreebel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/13.png"
+    },
+    {
+      "id": "ex12-14",
+      "number": 14,
+      "name": "Wailord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/14.png"
+    },
+    {
+      "id": "ex12-15",
+      "number": 15,
+      "name": "Absol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/15.png"
+    },
+    {
+      "id": "ex12-16",
+      "number": 16,
+      "name": "Girafarig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/16.png"
+    },
+    {
+      "id": "ex12-17",
+      "number": 17,
+      "name": "Gorebyss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/17.png"
+    },
+    {
+      "id": "ex12-18",
+      "number": 18,
+      "name": "Huntail",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/18.png"
+    },
+    {
+      "id": "ex12-19",
+      "number": 19,
+      "name": "Lanturn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/19.png"
+    },
+    {
+      "id": "ex12-20",
+      "number": 20,
+      "name": "Lunatone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/20.png"
+    },
+    {
+      "id": "ex12-21",
+      "number": 21,
+      "name": "Magmar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/21.png"
+    },
+    {
+      "id": "ex12-22",
+      "number": 22,
+      "name": "Magneton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/22.png"
+    },
+    {
+      "id": "ex12-23",
+      "number": 23,
+      "name": "Omastar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/23.png"
+    },
+    {
+      "id": "ex12-24",
+      "number": 24,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/24.png"
+    },
+    {
+      "id": "ex12-25",
+      "number": 25,
+      "name": "Solrock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/25.png"
+    },
+    {
+      "id": "ex12-26",
+      "number": 26,
+      "name": "Spinda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/26.png"
+    },
+    {
+      "id": "ex12-27",
+      "number": 27,
+      "name": "Torkoal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/27.png"
+    },
+    {
+      "id": "ex12-28",
+      "number": 28,
+      "name": "Wobbuffet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/28.png"
+    },
+    {
+      "id": "ex12-29",
+      "number": 29,
+      "name": "Anorith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/29.png"
+    },
+    {
+      "id": "ex12-30",
+      "number": 30,
+      "name": "Cascoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/30.png"
+    },
+    {
+      "id": "ex12-31",
+      "number": 31,
+      "name": "Dunsparce",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/31.png"
+    },
+    {
+      "id": "ex12-32",
+      "number": 32,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/32.png"
+    },
+    {
+      "id": "ex12-33",
+      "number": 33,
+      "name": "Furret",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/33.png"
+    },
+    {
+      "id": "ex12-34",
+      "number": 34,
+      "name": "Graveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/34.png"
+    },
+    {
+      "id": "ex12-35",
+      "number": 35,
+      "name": "Haunter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/35.png"
+    },
+    {
+      "id": "ex12-36",
+      "number": 36,
+      "name": "Kabuto",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/36.png"
+    },
+    {
+      "id": "ex12-37",
+      "number": 37,
+      "name": "Kecleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/37.png"
+    },
+    {
+      "id": "ex12-38",
+      "number": 38,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/38.png"
+    },
+    {
+      "id": "ex12-39",
+      "number": 39,
+      "name": "Machoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/39.png"
+    },
+    {
+      "id": "ex12-40",
+      "number": 40,
+      "name": "Misdreavus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/40.png"
+    },
+    {
+      "id": "ex12-41",
+      "number": 41,
+      "name": "Nuzleaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/41.png"
+    },
+    {
+      "id": "ex12-42",
+      "number": 42,
+      "name": "Roselia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/42.png"
+    },
+    {
+      "id": "ex12-43",
+      "number": 43,
+      "name": "Sealeo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/43.png"
+    },
+    {
+      "id": "ex12-44",
+      "number": 44,
+      "name": "Tangela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/44.png"
+    },
+    {
+      "id": "ex12-45",
+      "number": 45,
+      "name": "Tentacruel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/45.png"
+    },
+    {
+      "id": "ex12-46",
+      "number": 46,
+      "name": "Vibrava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/46.png"
+    },
+    {
+      "id": "ex12-47",
+      "number": 47,
+      "name": "Weepinbell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/47.png"
+    },
+    {
+      "id": "ex12-48",
+      "number": 48,
+      "name": "Aron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/48.png"
+    },
+    {
+      "id": "ex12-49",
+      "number": 49,
+      "name": "Bellsprout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/49.png"
+    },
+    {
+      "id": "ex12-50",
+      "number": 50,
+      "name": "Chinchou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/50.png"
+    },
+    {
+      "id": "ex12-51",
+      "number": 51,
+      "name": "Clamperl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/51.png"
+    },
+    {
+      "id": "ex12-52",
+      "number": 52,
+      "name": "Gastly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/52.png"
+    },
+    {
+      "id": "ex12-53",
+      "number": 53,
+      "name": "Geodude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/53.png"
+    },
+    {
+      "id": "ex12-54",
+      "number": 54,
+      "name": "Grimer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/54.png"
+    },
+    {
+      "id": "ex12-55",
+      "number": 55,
+      "name": "Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/55.png"
+    },
+    {
+      "id": "ex12-56",
+      "number": 56,
+      "name": "Lileep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/56.png"
+    },
+    {
+      "id": "ex12-57",
+      "number": 57,
+      "name": "Machop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/57.png"
+    },
+    {
+      "id": "ex12-58",
+      "number": 58,
+      "name": "Magby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/58.png"
+    },
+    {
+      "id": "ex12-59",
+      "number": 59,
+      "name": "Magnemite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/59.png"
+    },
+    {
+      "id": "ex12-60",
+      "number": 60,
+      "name": "Omanyte",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/60.png"
+    },
+    {
+      "id": "ex12-61",
+      "number": 61,
+      "name": "Seedot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/61.png"
+    },
+    {
+      "id": "ex12-62",
+      "number": 62,
+      "name": "Sentret",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/62.png"
+    },
+    {
+      "id": "ex12-63",
+      "number": 63,
+      "name": "Shuppet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/63.png"
+    },
+    {
+      "id": "ex12-64",
+      "number": 64,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/64.png"
+    },
+    {
+      "id": "ex12-65",
+      "number": 65,
+      "name": "Spheal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/65.png"
+    },
+    {
+      "id": "ex12-66",
+      "number": 66,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/66.png"
+    },
+    {
+      "id": "ex12-67",
+      "number": 67,
+      "name": "Trapinch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/67.png"
+    },
+    {
+      "id": "ex12-68",
+      "number": 68,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/68.png"
+    },
+    {
+      "id": "ex12-69",
+      "number": 69,
+      "name": "Wailmer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/69.png"
+    },
+    {
+      "id": "ex12-70",
+      "number": 70,
+      "name": "Wurmple",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/70.png"
+    },
+    {
+      "id": "ex12-71",
+      "number": 71,
+      "name": "Wynaut",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/71.png"
+    },
+    {
+      "id": "ex12-72",
+      "number": 72,
+      "name": "Cursed Stone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/72.png"
+    },
+    {
+      "id": "ex12-73",
+      "number": 73,
+      "name": "Fieldworker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/73.png"
+    },
+    {
+      "id": "ex12-74",
+      "number": 74,
+      "name": "Full Flame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/74.png"
+    },
+    {
+      "id": "ex12-75",
+      "number": 75,
+      "name": "Giant Stump",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/75.png"
+    },
+    {
+      "id": "ex12-76",
+      "number": 76,
+      "name": "Power Tree",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/76.png"
+    },
+    {
+      "id": "ex12-77",
+      "number": 77,
+      "name": "Strange Cave",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/77.png"
+    },
+    {
+      "id": "ex12-78",
+      "number": 78,
+      "name": "Claw Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/78.png"
+    },
+    {
+      "id": "ex12-79",
+      "number": 79,
+      "name": "Mysterious Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/79.png"
+    },
+    {
+      "id": "ex12-80",
+      "number": 80,
+      "name": "Root Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/80.png"
+    },
+    {
+      "id": "ex12-81",
+      "number": 81,
+      "name": "Rainbow Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/81.png"
+    },
+    {
+      "id": "ex12-82",
+      "number": 82,
+      "name": "React Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/82.png"
+    },
+    {
+      "id": "ex12-83",
+      "number": 83,
+      "name": "Arcanine ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/83.png"
+    },
+    {
+      "id": "ex12-84",
+      "number": 84,
+      "name": "Armaldo ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/84.png"
+    },
+    {
+      "id": "ex12-85",
+      "number": 85,
+      "name": "Banette ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/85.png"
+    },
+    {
+      "id": "ex12-86",
+      "number": 86,
+      "name": "Dustox ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/86.png"
+    },
+    {
+      "id": "ex12-87",
+      "number": 87,
+      "name": "Flygon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/87.png"
+    },
+    {
+      "id": "ex12-88",
+      "number": 88,
+      "name": "Mew ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/88.png"
+    },
+    {
+      "id": "ex12-89",
+      "number": 89,
+      "name": "Walrein ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/89.png"
+    },
+    {
+      "id": "ex12-90",
+      "number": 90,
+      "name": "Regice ☆",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/90.png"
+    },
+    {
+      "id": "ex12-91",
+      "number": 91,
+      "name": "Regirock ☆",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/91.png"
+    },
+    {
+      "id": "ex12-92",
+      "number": 92,
+      "name": "Registeel ☆",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/92.png"
+    },
+    {
+      "id": "ex12-93",
+      "number": 93,
+      "name": "Pikachu δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Legend%20Maker/images/93.png"
+    }
+  ]
+}

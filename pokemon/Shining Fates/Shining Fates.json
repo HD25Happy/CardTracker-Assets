@@ -1,0 +1,446 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Shining Fates",
+  "totalCards": 73,
+  "availableImages": 73,
+  "cards": [
+    {
+      "id": "swsh4.5-1",
+      "number": 1,
+      "name": "Yanma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/1.png"
+    },
+    {
+      "id": "swsh4.5-2",
+      "number": 2,
+      "name": "Yanmega",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/2.png"
+    },
+    {
+      "id": "swsh4.5-3",
+      "number": 3,
+      "name": "Celebi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/3.png"
+    },
+    {
+      "id": "swsh4.5-4",
+      "number": 4,
+      "name": "Cacnea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/4.png"
+    },
+    {
+      "id": "swsh4.5-5",
+      "number": 5,
+      "name": "Tropius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/5.png"
+    },
+    {
+      "id": "swsh4.5-6",
+      "number": 6,
+      "name": "Rowlet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/6.png"
+    },
+    {
+      "id": "swsh4.5-7",
+      "number": 7,
+      "name": "Dartrix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/7.png"
+    },
+    {
+      "id": "swsh4.5-8",
+      "number": 8,
+      "name": "Decidueye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/8.png"
+    },
+    {
+      "id": "swsh4.5-9",
+      "number": 9,
+      "name": "Dhelmise V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/9.png"
+    },
+    {
+      "id": "swsh4.5-10",
+      "number": 10,
+      "name": "Dhelmise VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/10.png"
+    },
+    {
+      "id": "swsh4.5-11",
+      "number": 11,
+      "name": "Grookey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/11.png"
+    },
+    {
+      "id": "swsh4.5-12",
+      "number": 12,
+      "name": "Thwackey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/12.png"
+    },
+    {
+      "id": "swsh4.5-13",
+      "number": 13,
+      "name": "Rillaboom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/13.png"
+    },
+    {
+      "id": "swsh4.5-14",
+      "number": 14,
+      "name": "Gossifleur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/14.png"
+    },
+    {
+      "id": "swsh4.5-15",
+      "number": 15,
+      "name": "Eldegoss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/15.png"
+    },
+    {
+      "id": "swsh4.5-16",
+      "number": 16,
+      "name": "Zarude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/16.png"
+    },
+    {
+      "id": "swsh4.5-17",
+      "number": 17,
+      "name": "Reshiram",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/17.png"
+    },
+    {
+      "id": "swsh4.5-18",
+      "number": 18,
+      "name": "Cinderace V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/18.png"
+    },
+    {
+      "id": "swsh4.5-19",
+      "number": 19,
+      "name": "Cinderace VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/19.png"
+    },
+    {
+      "id": "swsh4.5-20",
+      "number": 20,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/20.png"
+    },
+    {
+      "id": "swsh4.5-21",
+      "number": 21,
+      "name": "Kyogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/21.png"
+    },
+    {
+      "id": "swsh4.5-22",
+      "number": 22,
+      "name": "Buizel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/22.png"
+    },
+    {
+      "id": "swsh4.5-23",
+      "number": 23,
+      "name": "Floatzel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/23.png"
+    },
+    {
+      "id": "swsh4.5-24",
+      "number": 24,
+      "name": "Manaphy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/24.png"
+    },
+    {
+      "id": "swsh4.5-25",
+      "number": 25,
+      "name": "Volcanion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/25.png"
+    },
+    {
+      "id": "swsh4.5-26",
+      "number": 26,
+      "name": "Chewtle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/26.png"
+    },
+    {
+      "id": "swsh4.5-27",
+      "number": 27,
+      "name": "Drednaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/27.png"
+    },
+    {
+      "id": "swsh4.5-28",
+      "number": 28,
+      "name": "Cramorant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/28.png"
+    },
+    {
+      "id": "swsh4.5-29",
+      "number": 29,
+      "name": "Snom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/29.png"
+    },
+    {
+      "id": "swsh4.5-30",
+      "number": 30,
+      "name": "Frosmoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/30.png"
+    },
+    {
+      "id": "swsh4.5-31",
+      "number": 31,
+      "name": "Shinx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/31.png"
+    },
+    {
+      "id": "swsh4.5-32",
+      "number": 32,
+      "name": "Luxio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/32.png"
+    },
+    {
+      "id": "swsh4.5-33",
+      "number": 33,
+      "name": "Luxray",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/33.png"
+    },
+    {
+      "id": "swsh4.5-34",
+      "number": 34,
+      "name": "Rotom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/34.png"
+    },
+    {
+      "id": "swsh4.5-35",
+      "number": 35,
+      "name": "Morpeko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/35.png"
+    },
+    {
+      "id": "swsh4.5-36",
+      "number": 36,
+      "name": "Morpeko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/36.png"
+    },
+    {
+      "id": "swsh4.5-37",
+      "number": 37,
+      "name": "Morpeko V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/37.png"
+    },
+    {
+      "id": "swsh4.5-38",
+      "number": 38,
+      "name": "Morpeko VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/38.png"
+    },
+    {
+      "id": "swsh4.5-39",
+      "number": 39,
+      "name": "Indeedee V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/39.png"
+    },
+    {
+      "id": "swsh4.5-40",
+      "number": 40,
+      "name": "Trapinch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/40.png"
+    },
+    {
+      "id": "swsh4.5-41",
+      "number": 41,
+      "name": "Koffing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/41.png"
+    },
+    {
+      "id": "swsh4.5-42",
+      "number": 42,
+      "name": "Galarian Weezing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/42.png"
+    },
+    {
+      "id": "swsh4.5-43",
+      "number": 43,
+      "name": "Spinarak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/43.png"
+    },
+    {
+      "id": "swsh4.5-44",
+      "number": 44,
+      "name": "Crobat V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/44.png"
+    },
+    {
+      "id": "swsh4.5-45",
+      "number": 45,
+      "name": "Crobat VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/45.png"
+    },
+    {
+      "id": "swsh4.5-46",
+      "number": 46,
+      "name": "Yveltal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/46.png"
+    },
+    {
+      "id": "swsh4.5-47",
+      "number": 47,
+      "name": "Nickit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/47.png"
+    },
+    {
+      "id": "swsh4.5-48",
+      "number": 48,
+      "name": "Thievul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/48.png"
+    },
+    {
+      "id": "swsh4.5-49",
+      "number": 49,
+      "name": "Cufant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/49.png"
+    },
+    {
+      "id": "swsh4.5-50",
+      "number": 50,
+      "name": "Ditto V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/50.png"
+    },
+    {
+      "id": "swsh4.5-51",
+      "number": 51,
+      "name": "Ditto VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/51.png"
+    },
+    {
+      "id": "swsh4.5-52",
+      "number": 52,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/52.png"
+    },
+    {
+      "id": "swsh4.5-53",
+      "number": 53,
+      "name": "Greedent V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/53.png"
+    },
+    {
+      "id": "swsh4.5-54",
+      "number": 54,
+      "name": "Cramorant V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/54.png"
+    },
+    {
+      "id": "swsh4.5-55",
+      "number": 55,
+      "name": "Cramorant VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/55.png"
+    },
+    {
+      "id": "swsh4.5-56",
+      "number": 56,
+      "name": "Indeedee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/56.png"
+    },
+    {
+      "id": "swsh4.5-57",
+      "number": 57,
+      "name": "Ball Guy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/57.png"
+    },
+    {
+      "id": "swsh4.5-58",
+      "number": 58,
+      "name": "Boss's Orders (Lysandre)",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/58.png"
+    },
+    {
+      "id": "swsh4.5-59",
+      "number": 59,
+      "name": "Gym Trainer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/59.png"
+    },
+    {
+      "id": "swsh4.5-60",
+      "number": 60,
+      "name": "Professor's Research (Professor Juniper)",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/60.png"
+    },
+    {
+      "id": "swsh4.5-61",
+      "number": 61,
+      "name": "Rusted Shield",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/61.png"
+    },
+    {
+      "id": "swsh4.5-62",
+      "number": 62,
+      "name": "Rusted Sword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/62.png"
+    },
+    {
+      "id": "swsh4.5-63",
+      "number": 63,
+      "name": "Team Yell Towel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/63.png"
+    },
+    {
+      "id": "swsh4.5-64",
+      "number": 64,
+      "name": "Alcremie V",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/64.png"
+    },
+    {
+      "id": "swsh4.5-65",
+      "number": 65,
+      "name": "Ball Guy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/65.png"
+    },
+    {
+      "id": "swsh4.5-66",
+      "number": 66,
+      "name": "Bird Keeper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/66.png"
+    },
+    {
+      "id": "swsh4.5-67",
+      "number": 67,
+      "name": "Cara Liss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/67.png"
+    },
+    {
+      "id": "swsh4.5-68",
+      "number": 68,
+      "name": "Gym Trainer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/68.png"
+    },
+    {
+      "id": "swsh4.5-69",
+      "number": 69,
+      "name": "Piers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/69.png"
+    },
+    {
+      "id": "swsh4.5-70",
+      "number": 70,
+      "name": "Poké Kid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/70.png"
+    },
+    {
+      "id": "swsh4.5-71",
+      "number": 71,
+      "name": "Rose",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/71.png"
+    },
+    {
+      "id": "swsh4.5-72",
+      "number": 72,
+      "name": "Skyla",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/72.png"
+    },
+    {
+      "id": "swsh4.5-73",
+      "number": 73,
+      "name": "Alcremie VMAX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Shining%20Fates/images/73.png"
+    }
+  ]
+}

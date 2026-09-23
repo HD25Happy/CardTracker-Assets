@@ -1,0 +1,379 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duel Decks Anthology: Divine vs. Demonic",
+  "totalCards": 62,
+  "cards": [
+    {
+      "id": "2886a989-5572-4ca0-a77b-e534d7934336",
+      "number": 1,
+      "name": "Akroma, Angel of Wrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/1.jpg"
+    },
+    {
+      "id": "f48ce122-b966-4c48-9b6c-b84dd0584cb9",
+      "number": 2,
+      "name": "Icatian Priest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/2.jpg"
+    },
+    {
+      "id": "74054bbf-6b47-4e9e-9775-ab249a859010",
+      "number": 3,
+      "name": "Angelic Page",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/3.jpg"
+    },
+    {
+      "id": "37780447-a102-40c2-afea-b7e7a38e860b",
+      "number": 4,
+      "name": "Charging Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/4.jpg"
+    },
+    {
+      "id": "8002ca7f-a889-4145-8f1b-5e8417f7c0bf",
+      "number": 5,
+      "name": "Venerable Monk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/5.jpg"
+    },
+    {
+      "id": "b5713023-3975-464f-b88a-096b3737a84c",
+      "number": 6,
+      "name": "Angelic Protector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/6.jpg"
+    },
+    {
+      "id": "d7d48d56-c79e-4c7c-a9a0-92b7fb980e5c",
+      "number": 7,
+      "name": "Serra Advocate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/7.jpg"
+    },
+    {
+      "id": "862dc4c1-1b80-48ae-878d-ea3cccf681bc",
+      "number": 8,
+      "name": "Sustainer of the Realm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/8.jpg"
+    },
+    {
+      "id": "e039fa85-d374-4658-bffb-1cce67d0e276",
+      "number": 9,
+      "name": "Angel of Mercy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/9.jpg"
+    },
+    {
+      "id": "d56afc99-5168-4853-afbb-eab32d62c472",
+      "number": 10,
+      "name": "Serra Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/10.jpg"
+    },
+    {
+      "id": "753c4ef2-d61a-4cfe-8e8b-8379402c8713",
+      "number": 11,
+      "name": "Twilight Shepherd",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/11.jpg"
+    },
+    {
+      "id": "c3ac419f-7630-48c7-9039-88ce28898b6d",
+      "number": 12,
+      "name": "Luminous Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/12.jpg"
+    },
+    {
+      "id": "1e90abc3-aa03-4d3e-a8db-6286e7da8a1f",
+      "number": 13,
+      "name": "Reya Dawnbringer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/13.jpg"
+    },
+    {
+      "id": "0ff82aba-9022-4eff-a6dc-67365360d646",
+      "number": 14,
+      "name": "Healing Salve",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/14.jpg"
+    },
+    {
+      "id": "dfdf70c7-49e2-4f6a-99e2-075aa826de60",
+      "number": 15,
+      "name": "Angelsong",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/15.jpg"
+    },
+    {
+      "id": "32ac656f-dc5a-4592-b51d-b6974cc2b83e",
+      "number": 16,
+      "name": "Otherworldly Journey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/16.jpg"
+    },
+    {
+      "id": "9791442c-2f42-44f6-85c0-f9de21f113b0",
+      "number": 17,
+      "name": "Pacifism",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/17.jpg"
+    },
+    {
+      "id": "eca4d77a-0bb2-464c-a85f-a22b3d15d7cd",
+      "number": 18,
+      "name": "Serra's Boon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/18.jpg"
+    },
+    {
+      "id": "a2a782a3-cc30-47c2-aab3-18abcda3df0a",
+      "number": 19,
+      "name": "Angelic Benediction",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/19.jpg"
+    },
+    {
+      "id": "af68753a-9507-4fc8-b981-78ebcdabec6d",
+      "number": 20,
+      "name": "Faith's Fetters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/20.jpg"
+    },
+    {
+      "id": "2c45c4b3-f652-4b55-a316-55a864ac2342",
+      "number": 21,
+      "name": "Serra's Embrace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/21.jpg"
+    },
+    {
+      "id": "cf62d7ae-c996-44dd-9a4d-6fd5a85fa21a",
+      "number": 22,
+      "name": "Righteous Cause",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/22.jpg"
+    },
+    {
+      "id": "69cf2f25-dc3e-457d-9d50-22a966a20d5e",
+      "number": 23,
+      "name": "Angel's Feather",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/23.jpg"
+    },
+    {
+      "id": "64fb031b-2486-48da-ac05-a46a45580400",
+      "number": 24,
+      "name": "Marble Diamond",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/24.jpg"
+    },
+    {
+      "id": "745d64bc-6e6f-4504-a587-6bf24e62cd39",
+      "number": 25,
+      "name": "Secluded Steppe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/25.jpg"
+    },
+    {
+      "id": "6e380260-6828-42df-a8b5-1943b05f91dc",
+      "number": 26,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/26.jpg"
+    },
+    {
+      "id": "1ee520e7-82c8-4083-855d-ae15931b8407",
+      "number": 27,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/27.jpg"
+    },
+    {
+      "id": "8911f09d-1c82-410e-9de0-21b619820da5",
+      "number": 28,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/28.jpg"
+    },
+    {
+      "id": "d0bb41fb-f224-4705-ba61-b7cac835be4d",
+      "number": 29,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/29.jpg"
+    },
+    {
+      "id": "01fc18ee-4bfc-44b0-88b2-0d746f3565c8",
+      "number": 30,
+      "name": "Lord of the Pit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/30.jpg"
+    },
+    {
+      "id": "6d2a66f0-1afe-41e6-a597-ec2e95685191",
+      "number": 31,
+      "name": "Abyssal Gatekeeper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/31.jpg"
+    },
+    {
+      "id": "177b5600-1071-4f0e-b5f1-966ac442b54b",
+      "number": 32,
+      "name": "Foul Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/32.jpg"
+    },
+    {
+      "id": "6e8e2064-cc16-41a0-a833-9a5afae6e7b0",
+      "number": 33,
+      "name": "Daggerclaw Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/33.jpg"
+    },
+    {
+      "id": "a7590768-1286-4b85-8b31-80e577e6d733",
+      "number": 34,
+      "name": "Dusk Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/34.jpg"
+    },
+    {
+      "id": "8227e2fc-259d-4470-8522-d550746dbc4a",
+      "number": 35,
+      "name": "Overeager Apprentice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/35.jpg"
+    },
+    {
+      "id": "2ab08d69-210b-4b06-88a2-45281a1a4e1e",
+      "number": 36,
+      "name": "Stinkweed Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/36.jpg"
+    },
+    {
+      "id": "7df777c3-281b-4a2d-b852-4e2663672c06",
+      "number": 37,
+      "name": "Soot Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/37.jpg"
+    },
+    {
+      "id": "f4213f45-e8b6-4d90-a3b0-e3d37f745c97",
+      "number": 38,
+      "name": "Demon's Jester",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/38.jpg"
+    },
+    {
+      "id": "48c03fa5-c8cc-4b39-a673-c23e41a5802a",
+      "number": 39,
+      "name": "Souldrinker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/39.jpg"
+    },
+    {
+      "id": "15beb937-dc3a-4b3a-8d33-5a74fa9addeb",
+      "number": 40,
+      "name": "Abyssal Specter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/40.jpg"
+    },
+    {
+      "id": "351e65ac-25d4-4916-aa33-5bfd9df19b25",
+      "number": 41,
+      "name": "Cackling Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/41.jpg"
+    },
+    {
+      "id": "b46d8e9e-dd8d-4f79-9cf5-76f02e69d49f",
+      "number": 42,
+      "name": "Fallen Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/42.jpg"
+    },
+    {
+      "id": "c93f6090-8d09-4e54-8405-f093473f989f",
+      "number": 43,
+      "name": "Reiver Demon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/43.jpg"
+    },
+    {
+      "id": "e1f9531a-7201-4dfc-beb1-4128ec41728c",
+      "number": 44,
+      "name": "Kuro, Pitlord",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/44.jpg"
+    },
+    {
+      "id": "43c636bd-9071-4212-8e2e-5d6c6f39f3d1",
+      "number": 45,
+      "name": "Dark Ritual",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/45.jpg"
+    },
+    {
+      "id": "8a453212-6014-4fe2-8308-8d03f8cd76a4",
+      "number": 46,
+      "name": "Duress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/46.jpg"
+    },
+    {
+      "id": "f42c9574-2f09-4cb0-80cb-10fb8c592e6f",
+      "number": 47,
+      "name": "Unholy Strength",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/47.jpg"
+    },
+    {
+      "id": "54151d43-2e22-4e6c-a6fe-327959382dd1",
+      "number": 48,
+      "name": "Cruel Edict",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/48.jpg"
+    },
+    {
+      "id": "68841ca8-a043-4f30-9a17-e983ed960bc2",
+      "number": 49,
+      "name": "Demonic Tutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/49.jpg"
+    },
+    {
+      "id": "dee163ab-c0cd-4636-bf8a-434503975ebe",
+      "number": 50,
+      "name": "Dark Banishing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/50.jpg"
+    },
+    {
+      "id": "65404e7b-acce-4e5b-82b7-3d7ce9572eec",
+      "number": 51,
+      "name": "Oni Possession",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/51.jpg"
+    },
+    {
+      "id": "8834250d-b82a-4ce1-b201-0e7a51bbf6bb",
+      "number": 52,
+      "name": "Barter in Blood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/52.jpg"
+    },
+    {
+      "id": "39abb31a-15af-4182-a33b-ecdb63e09e3e",
+      "number": 53,
+      "name": "Breeding Pit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/53.jpg"
+    },
+    {
+      "id": "b1b54b37-69f4-46bd-8ee7-216e65507478",
+      "number": 54,
+      "name": "Promise of Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/54.jpg"
+    },
+    {
+      "id": "433d0737-bb61-4aa0-98e8-1bd2d86f03fd",
+      "number": 55,
+      "name": "Corrupt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/55.jpg"
+    },
+    {
+      "id": "ca8d42f5-99a6-4fc1-a539-831cbfd9763e",
+      "number": 56,
+      "name": "Consume Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/56.jpg"
+    },
+    {
+      "id": "cd708b10-472f-44b1-9b62-668da6104ef5",
+      "number": 57,
+      "name": "Demon's Horn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/57.jpg"
+    },
+    {
+      "id": "ce3cb68a-936c-42de-9430-a920f9f14fc1",
+      "number": 58,
+      "name": "Barren Moor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/58.jpg"
+    },
+    {
+      "id": "c808e2ea-ae28-47f3-9dec-5cfc94dae705",
+      "number": 59,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/59.jpg"
+    },
+    {
+      "id": "7a2baa78-f161-4e09-9a30-74ca208d5163",
+      "number": 60,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/60.jpg"
+    },
+    {
+      "id": "ac35ea80-deb6-480a-b5f7-b0b0bd4a5933",
+      "number": 61,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/61.jpg"
+    },
+    {
+      "id": "4b8167f6-854f-40bc-bc86-6a6c915ae357",
+      "number": 62,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Anthology%20Divine%20vs.%20Demonic%20%28dvd%29/images/62.jpg"
+    }
+  ]
+}

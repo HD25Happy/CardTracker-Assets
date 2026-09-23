@@ -1,0 +1,1364 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Twilight Masquerade",
+  "totalCards": 226,
+  "availableImages": 226,
+  "cards": [
+    {
+      "id": "sv06-001",
+      "number": 1,
+      "name": "Tangela",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/001.png"
+    },
+    {
+      "id": "sv06-002",
+      "number": 2,
+      "name": "Tangrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/002.png"
+    },
+    {
+      "id": "sv06-003",
+      "number": 3,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/003.png"
+    },
+    {
+      "id": "sv06-004",
+      "number": 4,
+      "name": "Spinarak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/004.png"
+    },
+    {
+      "id": "sv06-005",
+      "number": 5,
+      "name": "Ariados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/005.png"
+    },
+    {
+      "id": "sv06-006",
+      "number": 6,
+      "name": "Sunkern",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/006.png"
+    },
+    {
+      "id": "sv06-007",
+      "number": 7,
+      "name": "Sunflora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/007.png"
+    },
+    {
+      "id": "sv06-008",
+      "number": 8,
+      "name": "Heracross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/008.png"
+    },
+    {
+      "id": "sv06-009",
+      "number": 9,
+      "name": "Volbeat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/009.png"
+    },
+    {
+      "id": "sv06-010",
+      "number": 10,
+      "name": "Illumise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/010.png"
+    },
+    {
+      "id": "sv06-011",
+      "number": 11,
+      "name": "Leafeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/011.png"
+    },
+    {
+      "id": "sv06-012",
+      "number": 12,
+      "name": "Phantump",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/012.png"
+    },
+    {
+      "id": "sv06-013",
+      "number": 13,
+      "name": "Trevenant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/013.png"
+    },
+    {
+      "id": "sv06-014",
+      "number": 14,
+      "name": "Grookey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/014.png"
+    },
+    {
+      "id": "sv06-015",
+      "number": 15,
+      "name": "Thwackey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/015.png"
+    },
+    {
+      "id": "sv06-016",
+      "number": 16,
+      "name": "Rillaboom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/016.png"
+    },
+    {
+      "id": "sv06-017",
+      "number": 17,
+      "name": "Applin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/017.png"
+    },
+    {
+      "id": "sv06-018",
+      "number": 18,
+      "name": "Dipplin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/018.png"
+    },
+    {
+      "id": "sv06-019",
+      "number": 19,
+      "name": "Iron Leaves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/019.png"
+    },
+    {
+      "id": "sv06-020",
+      "number": 20,
+      "name": "Poltchageist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/020.png"
+    },
+    {
+      "id": "sv06-021",
+      "number": 21,
+      "name": "Poltchageist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/021.png"
+    },
+    {
+      "id": "sv06-022",
+      "number": 22,
+      "name": "Sinistcha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/022.png"
+    },
+    {
+      "id": "sv06-023",
+      "number": 23,
+      "name": "Sinistcha ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/023.png"
+    },
+    {
+      "id": "sv06-024",
+      "number": 24,
+      "name": "Teal Mask Ogerpon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/024.png"
+    },
+    {
+      "id": "sv06-025",
+      "number": 25,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/025.png"
+    },
+    {
+      "id": "sv06-026",
+      "number": 26,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/026.png"
+    },
+    {
+      "id": "sv06-027",
+      "number": 27,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/027.png"
+    },
+    {
+      "id": "sv06-028",
+      "number": 28,
+      "name": "Slugma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/028.png"
+    },
+    {
+      "id": "sv06-029",
+      "number": 29,
+      "name": "Magcargo ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/029.png"
+    },
+    {
+      "id": "sv06-030",
+      "number": 30,
+      "name": "Torkoal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/030.png"
+    },
+    {
+      "id": "sv06-031",
+      "number": 31,
+      "name": "Chimchar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/031.png"
+    },
+    {
+      "id": "sv06-032",
+      "number": 32,
+      "name": "Monferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/032.png"
+    },
+    {
+      "id": "sv06-033",
+      "number": 33,
+      "name": "Infernape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/033.png"
+    },
+    {
+      "id": "sv06-034",
+      "number": 34,
+      "name": "Darumaka",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/034.png"
+    },
+    {
+      "id": "sv06-035",
+      "number": 35,
+      "name": "Darmanitan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/035.png"
+    },
+    {
+      "id": "sv06-036",
+      "number": 36,
+      "name": "Litwick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/036.png"
+    },
+    {
+      "id": "sv06-037",
+      "number": 37,
+      "name": "Lampent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/037.png"
+    },
+    {
+      "id": "sv06-038",
+      "number": 38,
+      "name": "Chandelure",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/038.png"
+    },
+    {
+      "id": "sv06-039",
+      "number": 39,
+      "name": "Chi-Yu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/039.png"
+    },
+    {
+      "id": "sv06-040",
+      "number": 40,
+      "name": "Hearthflame Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/040.png"
+    },
+    {
+      "id": "sv06-041",
+      "number": 41,
+      "name": "Poliwag",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/041.png"
+    },
+    {
+      "id": "sv06-042",
+      "number": 42,
+      "name": "Poliwhirl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/042.png"
+    },
+    {
+      "id": "sv06-043",
+      "number": 43,
+      "name": "Poliwrath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/043.png"
+    },
+    {
+      "id": "sv06-044",
+      "number": 44,
+      "name": "Goldeen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/044.png"
+    },
+    {
+      "id": "sv06-045",
+      "number": 45,
+      "name": "Seaking",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/045.png"
+    },
+    {
+      "id": "sv06-046",
+      "number": 46,
+      "name": "Jynx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/046.png"
+    },
+    {
+      "id": "sv06-047",
+      "number": 47,
+      "name": "Corphish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/047.png"
+    },
+    {
+      "id": "sv06-048",
+      "number": 48,
+      "name": "Crawdaunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/048.png"
+    },
+    {
+      "id": "sv06-049",
+      "number": 49,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/049.png"
+    },
+    {
+      "id": "sv06-050",
+      "number": 50,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/050.png"
+    },
+    {
+      "id": "sv06-051",
+      "number": 51,
+      "name": "Snorunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/051.png"
+    },
+    {
+      "id": "sv06-052",
+      "number": 52,
+      "name": "Glalie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/052.png"
+    },
+    {
+      "id": "sv06-053",
+      "number": 53,
+      "name": "Froslass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/053.png"
+    },
+    {
+      "id": "sv06-054",
+      "number": 54,
+      "name": "Glaceon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/054.png"
+    },
+    {
+      "id": "sv06-055",
+      "number": 55,
+      "name": "Phione",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/055.png"
+    },
+    {
+      "id": "sv06-056",
+      "number": 56,
+      "name": "Froakie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/056.png"
+    },
+    {
+      "id": "sv06-057",
+      "number": 57,
+      "name": "Frogadier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/057.png"
+    },
+    {
+      "id": "sv06-058",
+      "number": 58,
+      "name": "Cramorant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/058.png"
+    },
+    {
+      "id": "sv06-059",
+      "number": 59,
+      "name": "Finizen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/059.png"
+    },
+    {
+      "id": "sv06-060",
+      "number": 60,
+      "name": "Palafin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/060.png"
+    },
+    {
+      "id": "sv06-061",
+      "number": 61,
+      "name": "Palafin ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/061.png"
+    },
+    {
+      "id": "sv06-062",
+      "number": 62,
+      "name": "Iron Bundle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/062.png"
+    },
+    {
+      "id": "sv06-063",
+      "number": 63,
+      "name": "Walking Wake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/063.png"
+    },
+    {
+      "id": "sv06-064",
+      "number": 64,
+      "name": "Wellspring Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/064.png"
+    },
+    {
+      "id": "sv06-065",
+      "number": 65,
+      "name": "Zapdos",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/065.png"
+    },
+    {
+      "id": "sv06-066",
+      "number": 66,
+      "name": "Shinx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/066.png"
+    },
+    {
+      "id": "sv06-067",
+      "number": 67,
+      "name": "Luxio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/067.png"
+    },
+    {
+      "id": "sv06-068",
+      "number": 68,
+      "name": "Luxray ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/068.png"
+    },
+    {
+      "id": "sv06-069",
+      "number": 69,
+      "name": "Emolga",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/069.png"
+    },
+    {
+      "id": "sv06-070",
+      "number": 70,
+      "name": "Helioptile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/070.png"
+    },
+    {
+      "id": "sv06-071",
+      "number": 71,
+      "name": "Heliolisk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/071.png"
+    },
+    {
+      "id": "sv06-072",
+      "number": 72,
+      "name": "Morpeko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/072.png"
+    },
+    {
+      "id": "sv06-073",
+      "number": 73,
+      "name": "Tadbulb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/073.png"
+    },
+    {
+      "id": "sv06-074",
+      "number": 74,
+      "name": "Bellibolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/074.png"
+    },
+    {
+      "id": "sv06-075",
+      "number": 75,
+      "name": "Wattrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/075.png"
+    },
+    {
+      "id": "sv06-076",
+      "number": 76,
+      "name": "Kilowattrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/076.png"
+    },
+    {
+      "id": "sv06-077",
+      "number": 77,
+      "name": "Iron Thorns ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/077.png"
+    },
+    {
+      "id": "sv06-078",
+      "number": 78,
+      "name": "Clefairy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/078.png"
+    },
+    {
+      "id": "sv06-079",
+      "number": 79,
+      "name": "Clefable",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/079.png"
+    },
+    {
+      "id": "sv06-080",
+      "number": 80,
+      "name": "Abra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/080.png"
+    },
+    {
+      "id": "sv06-081",
+      "number": 81,
+      "name": "Kadabra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/081.png"
+    },
+    {
+      "id": "sv06-082",
+      "number": 82,
+      "name": "Alakazam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/082.png"
+    },
+    {
+      "id": "sv06-083",
+      "number": 83,
+      "name": "Girafarig",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/083.png"
+    },
+    {
+      "id": "sv06-084",
+      "number": 84,
+      "name": "Farigiraf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/084.png"
+    },
+    {
+      "id": "sv06-085",
+      "number": 85,
+      "name": "Chimecho",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/085.png"
+    },
+    {
+      "id": "sv06-086",
+      "number": 86,
+      "name": "Flabébé",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/086.png"
+    },
+    {
+      "id": "sv06-087",
+      "number": 87,
+      "name": "Floette",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/087.png"
+    },
+    {
+      "id": "sv06-088",
+      "number": 88,
+      "name": "Florges",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/088.png"
+    },
+    {
+      "id": "sv06-089",
+      "number": 89,
+      "name": "Swirlix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/089.png"
+    },
+    {
+      "id": "sv06-090",
+      "number": 90,
+      "name": "Slurpuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/090.png"
+    },
+    {
+      "id": "sv06-091",
+      "number": 91,
+      "name": "Sandygast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/091.png"
+    },
+    {
+      "id": "sv06-092",
+      "number": 92,
+      "name": "Palossand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/092.png"
+    },
+    {
+      "id": "sv06-093",
+      "number": 93,
+      "name": "Enamorus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/093.png"
+    },
+    {
+      "id": "sv06-094",
+      "number": 94,
+      "name": "Scream Tail ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/094.png"
+    },
+    {
+      "id": "sv06-095",
+      "number": 95,
+      "name": "Munkidori",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/095.png"
+    },
+    {
+      "id": "sv06-096",
+      "number": 96,
+      "name": "Fezandipiti",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/096.png"
+    },
+    {
+      "id": "sv06-097",
+      "number": 97,
+      "name": "Sandshrew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/097.png"
+    },
+    {
+      "id": "sv06-098",
+      "number": 98,
+      "name": "Sandslash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/098.png"
+    },
+    {
+      "id": "sv06-099",
+      "number": 99,
+      "name": "Hisuian Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/099.png"
+    },
+    {
+      "id": "sv06-100",
+      "number": 100,
+      "name": "Hisuian Arcanine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/100.png"
+    },
+    {
+      "id": "sv06-101",
+      "number": 101,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/101.png"
+    },
+    {
+      "id": "sv06-102",
+      "number": 102,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/102.png"
+    },
+    {
+      "id": "sv06-103",
+      "number": 103,
+      "name": "Timburr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/103.png"
+    },
+    {
+      "id": "sv06-104",
+      "number": 104,
+      "name": "Gurdurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/104.png"
+    },
+    {
+      "id": "sv06-105",
+      "number": 105,
+      "name": "Conkeldurr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/105.png"
+    },
+    {
+      "id": "sv06-106",
+      "number": 106,
+      "name": "Greninja ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/106.png"
+    },
+    {
+      "id": "sv06-107",
+      "number": 107,
+      "name": "Hawlucha",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/107.png"
+    },
+    {
+      "id": "sv06-108",
+      "number": 108,
+      "name": "Glimmet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/108.png"
+    },
+    {
+      "id": "sv06-109",
+      "number": 109,
+      "name": "Glimmora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/109.png"
+    },
+    {
+      "id": "sv06-110",
+      "number": 110,
+      "name": "Ting-Lu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/110.png"
+    },
+    {
+      "id": "sv06-111",
+      "number": 111,
+      "name": "Okidogi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/111.png"
+    },
+    {
+      "id": "sv06-112",
+      "number": 112,
+      "name": "Cornerstone Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/112.png"
+    },
+    {
+      "id": "sv06-113",
+      "number": 113,
+      "name": "Poochyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/113.png"
+    },
+    {
+      "id": "sv06-114",
+      "number": 114,
+      "name": "Mightyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/114.png"
+    },
+    {
+      "id": "sv06-115",
+      "number": 115,
+      "name": "Venipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/115.png"
+    },
+    {
+      "id": "sv06-116",
+      "number": 116,
+      "name": "Whirlipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/116.png"
+    },
+    {
+      "id": "sv06-117",
+      "number": 117,
+      "name": "Scolipede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/117.png"
+    },
+    {
+      "id": "sv06-118",
+      "number": 118,
+      "name": "Brute Bonnet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/118.png"
+    },
+    {
+      "id": "sv06-119",
+      "number": 119,
+      "name": "Skarmory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/119.png"
+    },
+    {
+      "id": "sv06-120",
+      "number": 120,
+      "name": "Aron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/120.png"
+    },
+    {
+      "id": "sv06-121",
+      "number": 121,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/121.png"
+    },
+    {
+      "id": "sv06-122",
+      "number": 122,
+      "name": "Aggron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/122.png"
+    },
+    {
+      "id": "sv06-123",
+      "number": 123,
+      "name": "Heatran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/123.png"
+    },
+    {
+      "id": "sv06-124",
+      "number": 124,
+      "name": "Varoom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/124.png"
+    },
+    {
+      "id": "sv06-125",
+      "number": 125,
+      "name": "Revavroom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/125.png"
+    },
+    {
+      "id": "sv06-126",
+      "number": 126,
+      "name": "Applin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/126.png"
+    },
+    {
+      "id": "sv06-127",
+      "number": 127,
+      "name": "Dipplin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/127.png"
+    },
+    {
+      "id": "sv06-128",
+      "number": 128,
+      "name": "Dreepy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/128.png"
+    },
+    {
+      "id": "sv06-129",
+      "number": 129,
+      "name": "Drakloak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/129.png"
+    },
+    {
+      "id": "sv06-130",
+      "number": 130,
+      "name": "Dragapult ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/130.png"
+    },
+    {
+      "id": "sv06-131",
+      "number": 131,
+      "name": "Tatsugiri",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/131.png"
+    },
+    {
+      "id": "sv06-132",
+      "number": 132,
+      "name": "Farfetch'd",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/132.png"
+    },
+    {
+      "id": "sv06-133",
+      "number": 133,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/133.png"
+    },
+    {
+      "id": "sv06-134",
+      "number": 134,
+      "name": "Blissey ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/134.png"
+    },
+    {
+      "id": "sv06-135",
+      "number": 135,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/135.png"
+    },
+    {
+      "id": "sv06-136",
+      "number": 136,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/136.png"
+    },
+    {
+      "id": "sv06-137",
+      "number": 137,
+      "name": "Aipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/137.png"
+    },
+    {
+      "id": "sv06-138",
+      "number": 138,
+      "name": "Ambipom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/138.png"
+    },
+    {
+      "id": "sv06-139",
+      "number": 139,
+      "name": "Ducklett",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/139.png"
+    },
+    {
+      "id": "sv06-140",
+      "number": 140,
+      "name": "Swanna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/140.png"
+    },
+    {
+      "id": "sv06-141",
+      "number": 141,
+      "name": "Bloodmoon Ursaluna ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/141.png"
+    },
+    {
+      "id": "sv06-142",
+      "number": 142,
+      "name": "Accompanying Flute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/142.png"
+    },
+    {
+      "id": "sv06-143",
+      "number": 143,
+      "name": "Bug Catching Set",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/143.png"
+    },
+    {
+      "id": "sv06-144",
+      "number": 144,
+      "name": "Caretaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/144.png"
+    },
+    {
+      "id": "sv06-145",
+      "number": 145,
+      "name": "Carmine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/145.png"
+    },
+    {
+      "id": "sv06-146",
+      "number": 146,
+      "name": "Community Center",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/146.png"
+    },
+    {
+      "id": "sv06-147",
+      "number": 147,
+      "name": "Cook",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/147.png"
+    },
+    {
+      "id": "sv06-148",
+      "number": 148,
+      "name": "Enhanced Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/148.png"
+    },
+    {
+      "id": "sv06-149",
+      "number": 149,
+      "name": "Festival Grounds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/149.png"
+    },
+    {
+      "id": "sv06-150",
+      "number": 150,
+      "name": "Handheld Fan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/150.png"
+    },
+    {
+      "id": "sv06-151",
+      "number": 151,
+      "name": "Hassel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/151.png"
+    },
+    {
+      "id": "sv06-152",
+      "number": 152,
+      "name": "Hyper Aroma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/152.png"
+    },
+    {
+      "id": "sv06-153",
+      "number": 153,
+      "name": "Jamming Tower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/153.png"
+    },
+    {
+      "id": "sv06-154",
+      "number": 154,
+      "name": "Kieran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/154.png"
+    },
+    {
+      "id": "sv06-155",
+      "number": 155,
+      "name": "Lana's Aid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/155.png"
+    },
+    {
+      "id": "sv06-156",
+      "number": 156,
+      "name": "Love Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/156.png"
+    },
+    {
+      "id": "sv06-157",
+      "number": 157,
+      "name": "Lucian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/157.png"
+    },
+    {
+      "id": "sv06-158",
+      "number": 158,
+      "name": "Lucky Helmet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/158.png"
+    },
+    {
+      "id": "sv06-159",
+      "number": 159,
+      "name": "Ogre's Mask",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/159.png"
+    },
+    {
+      "id": "sv06-160",
+      "number": 160,
+      "name": "Perrin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/160.png"
+    },
+    {
+      "id": "sv06-161",
+      "number": 161,
+      "name": "Raifort",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/161.png"
+    },
+    {
+      "id": "sv06-162",
+      "number": 162,
+      "name": "Scoop Up Cyclone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/162.png"
+    },
+    {
+      "id": "sv06-163",
+      "number": 163,
+      "name": "Secret Box",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/163.png"
+    },
+    {
+      "id": "sv06-164",
+      "number": 164,
+      "name": "Survival Brace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/164.png"
+    },
+    {
+      "id": "sv06-165",
+      "number": 165,
+      "name": "Unfair Stamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/165.png"
+    },
+    {
+      "id": "sv06-166",
+      "number": 166,
+      "name": "Boomerang Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/166.png"
+    },
+    {
+      "id": "sv06-167",
+      "number": 167,
+      "name": "Legacy Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/167.png"
+    },
+    {
+      "id": "sv06-168",
+      "number": 168,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/168.png"
+    },
+    {
+      "id": "sv06-169",
+      "number": 169,
+      "name": "Sunflora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/169.png"
+    },
+    {
+      "id": "sv06-170",
+      "number": 170,
+      "name": "Dipplin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/170.png"
+    },
+    {
+      "id": "sv06-171",
+      "number": 171,
+      "name": "Poltchageist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/171.png"
+    },
+    {
+      "id": "sv06-172",
+      "number": 172,
+      "name": "Torkoal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/172.png"
+    },
+    {
+      "id": "sv06-173",
+      "number": 173,
+      "name": "Infernape",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/173.png"
+    },
+    {
+      "id": "sv06-174",
+      "number": 174,
+      "name": "Froslass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/174.png"
+    },
+    {
+      "id": "sv06-175",
+      "number": 175,
+      "name": "Phione",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/175.png"
+    },
+    {
+      "id": "sv06-176",
+      "number": 176,
+      "name": "Cramorant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/176.png"
+    },
+    {
+      "id": "sv06-177",
+      "number": 177,
+      "name": "Heliolisk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/177.png"
+    },
+    {
+      "id": "sv06-178",
+      "number": 178,
+      "name": "Wattrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/178.png"
+    },
+    {
+      "id": "sv06-179",
+      "number": 179,
+      "name": "Chimecho",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/179.png"
+    },
+    {
+      "id": "sv06-180",
+      "number": 180,
+      "name": "Enamorus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/180.png"
+    },
+    {
+      "id": "sv06-181",
+      "number": 181,
+      "name": "Hisuian Growlithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/181.png"
+    },
+    {
+      "id": "sv06-182",
+      "number": 182,
+      "name": "Probopass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/182.png"
+    },
+    {
+      "id": "sv06-183",
+      "number": 183,
+      "name": "Timburr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/183.png"
+    },
+    {
+      "id": "sv06-184",
+      "number": 184,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/184.png"
+    },
+    {
+      "id": "sv06-185",
+      "number": 185,
+      "name": "Applin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/185.png"
+    },
+    {
+      "id": "sv06-186",
+      "number": 186,
+      "name": "Tatsugiri",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/186.png"
+    },
+    {
+      "id": "sv06-187",
+      "number": 187,
+      "name": "Chansey",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/187.png"
+    },
+    {
+      "id": "sv06-188",
+      "number": 188,
+      "name": "Eevee",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/188.png"
+    },
+    {
+      "id": "sv06-189",
+      "number": 189,
+      "name": "Sinistcha ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/189.png"
+    },
+    {
+      "id": "sv06-190",
+      "number": 190,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/190.png"
+    },
+    {
+      "id": "sv06-191",
+      "number": 191,
+      "name": "Magcargo ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/191.png"
+    },
+    {
+      "id": "sv06-192",
+      "number": 192,
+      "name": "Hearthflame Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/192.png"
+    },
+    {
+      "id": "sv06-193",
+      "number": 193,
+      "name": "Palafin ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/193.png"
+    },
+    {
+      "id": "sv06-194",
+      "number": 194,
+      "name": "Wellspring Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/194.png"
+    },
+    {
+      "id": "sv06-195",
+      "number": 195,
+      "name": "Luxray ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/195.png"
+    },
+    {
+      "id": "sv06-196",
+      "number": 196,
+      "name": "Iron Thorns ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/196.png"
+    },
+    {
+      "id": "sv06-197",
+      "number": 197,
+      "name": "Scream Tail ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/197.png"
+    },
+    {
+      "id": "sv06-198",
+      "number": 198,
+      "name": "Greninja ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/198.png"
+    },
+    {
+      "id": "sv06-199",
+      "number": 199,
+      "name": "Cornerstone Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/199.png"
+    },
+    {
+      "id": "sv06-200",
+      "number": 200,
+      "name": "Dragapult ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/200.png"
+    },
+    {
+      "id": "sv06-201",
+      "number": 201,
+      "name": "Blissey ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/201.png"
+    },
+    {
+      "id": "sv06-202",
+      "number": 202,
+      "name": "Bloodmoon Ursaluna ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/202.png"
+    },
+    {
+      "id": "sv06-203",
+      "number": 203,
+      "name": "Caretaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/203.png"
+    },
+    {
+      "id": "sv06-204",
+      "number": 204,
+      "name": "Carmine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/204.png"
+    },
+    {
+      "id": "sv06-205",
+      "number": 205,
+      "name": "Hassel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/205.png"
+    },
+    {
+      "id": "sv06-206",
+      "number": 206,
+      "name": "Kieran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/206.png"
+    },
+    {
+      "id": "sv06-207",
+      "number": 207,
+      "name": "Lana's Aid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/207.png"
+    },
+    {
+      "id": "sv06-208",
+      "number": 208,
+      "name": "Lucian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/208.png"
+    },
+    {
+      "id": "sv06-209",
+      "number": 209,
+      "name": "Perrin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/209.png"
+    },
+    {
+      "id": "sv06-210",
+      "number": 210,
+      "name": "Sinistcha ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/210.png"
+    },
+    {
+      "id": "sv06-211",
+      "number": 211,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/211.png"
+    },
+    {
+      "id": "sv06-212",
+      "number": 212,
+      "name": "Hearthflame Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/212.png"
+    },
+    {
+      "id": "sv06-213",
+      "number": 213,
+      "name": "Wellspring Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/213.png"
+    },
+    {
+      "id": "sv06-214",
+      "number": 214,
+      "name": "Greninja ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/214.png"
+    },
+    {
+      "id": "sv06-215",
+      "number": 215,
+      "name": "Cornerstone Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/215.png"
+    },
+    {
+      "id": "sv06-216",
+      "number": 216,
+      "name": "Bloodmoon Ursaluna ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/216.png"
+    },
+    {
+      "id": "sv06-217",
+      "number": 217,
+      "name": "Carmine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/217.png"
+    },
+    {
+      "id": "sv06-218",
+      "number": 218,
+      "name": "Kieran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/218.png"
+    },
+    {
+      "id": "sv06-219",
+      "number": 219,
+      "name": "Lana's Aid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/219.png"
+    },
+    {
+      "id": "sv06-220",
+      "number": 220,
+      "name": "Perrin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/220.png"
+    },
+    {
+      "id": "sv06-221",
+      "number": 221,
+      "name": "Teal Mask Ogerpon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/221.png"
+    },
+    {
+      "id": "sv06-222",
+      "number": 222,
+      "name": "Bloodmoon Ursaluna ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/222.png"
+    },
+    {
+      "id": "sv06-223",
+      "number": 223,
+      "name": "Buddy-Buddy Poffin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/223.png"
+    },
+    {
+      "id": "sv06-224",
+      "number": 224,
+      "name": "Enhanced Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/224.png"
+    },
+    {
+      "id": "sv06-225",
+      "number": 225,
+      "name": "Rescue Board",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/225.png"
+    },
+    {
+      "id": "sv06-226",
+      "number": 226,
+      "name": "Luminous Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Twilight%20Masquerade/images/226.png"
+    }
+  ]
+}

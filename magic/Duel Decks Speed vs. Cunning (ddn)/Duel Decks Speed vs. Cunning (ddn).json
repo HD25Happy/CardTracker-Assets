@@ -1,0 +1,499 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duel Decks: Speed vs. Cunning",
+  "totalCards": 82,
+  "cards": [
+    {
+      "id": "31f21aae-e25b-4d14-b558-a848a9372f92",
+      "number": 1,
+      "name": "Zurgo Helmsmasher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/1.jpg"
+    },
+    {
+      "id": "5028bb39-7f90-4b7e-96a1-060cf55fb763",
+      "number": 2,
+      "name": "Frenzied Goblin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/2.jpg"
+    },
+    {
+      "id": "f24906cd-9ace-4684-94b9-a66dc4fe5162",
+      "number": 3,
+      "name": "Infantry Veteran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/3.jpg"
+    },
+    {
+      "id": "9745cc70-d6a0-43c5-b8d7-a930d95e94c7",
+      "number": 4,
+      "name": "Leonin Snarecaster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/4.jpg"
+    },
+    {
+      "id": "f990b683-e49e-422e-a4e2-85cd09a6eb0d",
+      "number": 5,
+      "name": "Dregscape Zombie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/5.jpg"
+    },
+    {
+      "id": "0c0b85d3-ce46-4f12-8315-4cbf338eb8f0",
+      "number": 6,
+      "name": "Goblin Deathraiders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/6.jpg"
+    },
+    {
+      "id": "c6d4ab45-ab42-4144-9c57-ba046b76860c",
+      "number": 7,
+      "name": "Hellraiser Goblin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/7.jpg"
+    },
+    {
+      "id": "c491fb83-ad9a-4b59-99d6-9fbf50535014",
+      "number": 8,
+      "name": "Fleshbag Marauder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/8.jpg"
+    },
+    {
+      "id": "345a3696-1496-4726-a48b-6f1f421bf52a",
+      "number": 9,
+      "name": "Goblin Warchief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/9.jpg"
+    },
+    {
+      "id": "c3661c2d-f211-4e32-8edb-bb73617537e2",
+      "number": 10,
+      "name": "Hell's Thunder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/10.jpg"
+    },
+    {
+      "id": "86ebccf6-96e2-45a6-96db-5f2bfd541e15",
+      "number": 11,
+      "name": "Kathari Bomber",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/11.jpg"
+    },
+    {
+      "id": "5fdea923-094d-4f43-a5b6-b6e3f4b891d8",
+      "number": 12,
+      "name": "Shambling Remains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/12.jpg"
+    },
+    {
+      "id": "019be6df-da52-4cb0-81ee-a684e6f73e43",
+      "number": 13,
+      "name": "Mardu Heart-Piercer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/13.jpg"
+    },
+    {
+      "id": "3b267d18-b3fd-49d8-a472-65f4436b518d",
+      "number": 14,
+      "name": "Beetleback Chief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/14.jpg"
+    },
+    {
+      "id": "5a04a833-0ccf-4f59-9d94-2018e2f220e0",
+      "number": 15,
+      "name": "Krenko, Mob Boss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/15.jpg"
+    },
+    {
+      "id": "180f4220-bd76-4a2f-b9e1-414729cd1db2",
+      "number": 16,
+      "name": "Ogre Battledriver",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/16.jpg"
+    },
+    {
+      "id": "f3650f27-7ed5-41a4-80d7-a3101fe8849f",
+      "number": 17,
+      "name": "Flame-Kin Zealot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/17.jpg"
+    },
+    {
+      "id": "625ca28d-d918-440a-acbb-969cf7b1925c",
+      "number": 18,
+      "name": "Scourge Devil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/18.jpg"
+    },
+    {
+      "id": "647f0ced-564d-46d4-99f1-fcc2ddfb047d",
+      "number": 19,
+      "name": "Oni of Wild Places",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/19.jpg"
+    },
+    {
+      "id": "4327fd85-eb89-4707-80f8-bdf41179eda5",
+      "number": 20,
+      "name": "Reckless Abandon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/20.jpg"
+    },
+    {
+      "id": "6f096de6-995a-4c54-9e9e-b46410d6022d",
+      "number": 21,
+      "name": "Shock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/21.jpg"
+    },
+    {
+      "id": "d5962a39-1c67-49e1-b4c9-580e6d37b814",
+      "number": 22,
+      "name": "Bone Splinters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/22.jpg"
+    },
+    {
+      "id": "32c00c59-7cf7-4957-83f7-d571a259a40b",
+      "number": 23,
+      "name": "Arc Trail",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/23.jpg"
+    },
+    {
+      "id": "ef9fc225-71c0-4643-aac9-fe91abfb7bb1",
+      "number": 24,
+      "name": "Goblin Bombardment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/24.jpg"
+    },
+    {
+      "id": "313e89b3-8306-488e-8730-f918f8c6722e",
+      "number": 25,
+      "name": "Krenko's Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/25.jpg"
+    },
+    {
+      "id": "44f76f49-b04e-4f67-aaa7-abd9e6d028cb",
+      "number": 26,
+      "name": "Act of Treason",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/26.jpg"
+    },
+    {
+      "id": "f5606d36-2b3a-4d67-8392-b9a717fb4a2f",
+      "number": 27,
+      "name": "Dauntless Onslaught",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/27.jpg"
+    },
+    {
+      "id": "46e05909-48fc-41b6-81a1-598e19883266",
+      "number": 28,
+      "name": "Orcish Cannonade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/28.jpg"
+    },
+    {
+      "id": "a206a7d8-5dd0-4573-b85e-2a352d8753c5",
+      "number": 29,
+      "name": "Fiery Fall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/29.jpg"
+    },
+    {
+      "id": "52dd1712-6937-4630-b44c-952699307da4",
+      "number": 30,
+      "name": "Fury of the Horde",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/30.jpg"
+    },
+    {
+      "id": "dc0bb67c-9243-4ae1-b669-b813fefecb91",
+      "number": 31,
+      "name": "Banefire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/31.jpg"
+    },
+    {
+      "id": "2e10be82-f186-45b1-a12d-7422c9f86a9d",
+      "number": 32,
+      "name": "Evolving Wilds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/32.jpg"
+    },
+    {
+      "id": "b6af3085-a24c-4a76-b4c0-a27a50993f1c",
+      "number": 33,
+      "name": "Ghitu Encampment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/33.jpg"
+    },
+    {
+      "id": "34f492d6-8ca9-4360-8608-9183bdb0eed8",
+      "number": 34,
+      "name": "Nomad Outpost",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/34.jpg"
+    },
+    {
+      "id": "60ee28b6-03ed-4cbe-9367-b8db2ae5a66a",
+      "number": 35,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/35.jpg"
+    },
+    {
+      "id": "8956585b-1268-4eb4-b97e-74ffb9f82688",
+      "number": 36,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/36.jpg"
+    },
+    {
+      "id": "707ac400-885b-4424-87c3-1bb0cdbfea1e",
+      "number": 37,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/37.jpg"
+    },
+    {
+      "id": "cd97a3ed-e266-4cf3-bdf3-305d87373742",
+      "number": 38,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/38.jpg"
+    },
+    {
+      "id": "6bf5b682-6505-46ab-bf97-af26bda358ba",
+      "number": 39,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/39.jpg"
+    },
+    {
+      "id": "204f051f-50a6-48fe-aa0e-04c513f1b3ed",
+      "number": 40,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/40.jpg"
+    },
+    {
+      "id": "9e3b9156-4b50-4883-a76b-3a418b39e62d",
+      "number": 41,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/41.jpg"
+    },
+    {
+      "id": "e375cfff-7a36-47ba-828c-c9d7402ea68b",
+      "number": 42,
+      "name": "Arcanis the Omnipotent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/42.jpg"
+    },
+    {
+      "id": "cdec8e65-8914-4a7a-9ed0-991a73242f3f",
+      "number": 43,
+      "name": "Faerie Impostor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/43.jpg"
+    },
+    {
+      "id": "9c5794e4-fc05-4e34-9cac-4c4bc074692d",
+      "number": 44,
+      "name": "Coral Trickster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/44.jpg"
+    },
+    {
+      "id": "986104a6-16e7-4d4d-af5b-be1150543266",
+      "number": 45,
+      "name": "Fathom Seer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/45.jpg"
+    },
+    {
+      "id": "ea4ff6f3-cc53-4f4a-b884-2e751732f9c8",
+      "number": 46,
+      "name": "Jeskai Elder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/46.jpg"
+    },
+    {
+      "id": "dbc0f5c0-2c76-4cac-9c4a-3c3fbe2c0ca4",
+      "number": 47,
+      "name": "Willbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/47.jpg"
+    },
+    {
+      "id": "22331eb5-c791-4d38-a6f7-cc5f4ef815ef",
+      "number": 48,
+      "name": "Sparkmage Apprentice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/48.jpg"
+    },
+    {
+      "id": "aeac2463-897d-4be2-ade8-7a6ef04699aa",
+      "number": 49,
+      "name": "Lone Missionary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/49.jpg"
+    },
+    {
+      "id": "da7ad113-b04f-4611-b1cd-494cd2a8c5ac",
+      "number": 50,
+      "name": "Master Decoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/50.jpg"
+    },
+    {
+      "id": "e856fbd5-0e8b-4f28-bfea-0ad73418d140",
+      "number": 51,
+      "name": "Echo Tracer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/51.jpg"
+    },
+    {
+      "id": "d20c3de4-310d-4e1e-8a6d-1b8ed5432f72",
+      "number": 52,
+      "name": "Kor Hookmaster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/52.jpg"
+    },
+    {
+      "id": "29adb64e-b584-46de-a96f-57f56587a2b8",
+      "number": 53,
+      "name": "Stonecloaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/53.jpg"
+    },
+    {
+      "id": "69402ba7-5dac-43f6-bba4-429fac35a96b",
+      "number": 54,
+      "name": "Aquamorph Entity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/54.jpg"
+    },
+    {
+      "id": "faaf07b2-57b0-4437-a8d7-51ff8894a7db",
+      "number": 55,
+      "name": "Hussar Patrol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/55.jpg"
+    },
+    {
+      "id": "384cf91c-6cea-4279-b66d-d81b5791d411",
+      "number": 56,
+      "name": "Lightning Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/56.jpg"
+    },
+    {
+      "id": "5546fbd6-908d-46be-8d17-9470842f78a7",
+      "number": 57,
+      "name": "Faerie Invaders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/57.jpg"
+    },
+    {
+      "id": "9a5817e2-3834-4137-a0ec-c0e61c634ce6",
+      "number": 58,
+      "name": "Thousand Winds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/58.jpg"
+    },
+    {
+      "id": "e1f69adc-81a8-4009-a958-2a0d414fc4e4",
+      "number": 59,
+      "name": "Sphinx of Uthuun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/59.jpg"
+    },
+    {
+      "id": "c7b2e97a-76f7-438d-9e4f-2447d468366f",
+      "number": 60,
+      "name": "Fleeting Distraction",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/60.jpg"
+    },
+    {
+      "id": "8257cc36-4886-449a-bb45-51f6abf09e82",
+      "number": 61,
+      "name": "Stave Off",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/61.jpg"
+    },
+    {
+      "id": "df2cc327-715b-4fb6-8218-9d01711d1022",
+      "number": 62,
+      "name": "Swift Justice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/62.jpg"
+    },
+    {
+      "id": "ac814159-d7b8-43d2-a277-ea08339059f1",
+      "number": 63,
+      "name": "Impulse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/63.jpg"
+    },
+    {
+      "id": "9128ec7b-5321-4810-b5e9-5d4c15644ecd",
+      "number": 64,
+      "name": "Mana Leak",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/64.jpg"
+    },
+    {
+      "id": "9277aeeb-5193-4996-9a5f-3ac610d4c742",
+      "number": 65,
+      "name": "Lightning Helix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/65.jpg"
+    },
+    {
+      "id": "d20ee9c8-6d58-42fc-8b27-bfd0ea6d4374",
+      "number": 66,
+      "name": "Hold the Line",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/66.jpg"
+    },
+    {
+      "id": "8c8e6ca4-9678-4032-aca5-c74aac7cd897",
+      "number": 67,
+      "name": "Inferno Trap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/67.jpg"
+    },
+    {
+      "id": "6b63ac91-ea7b-4a6f-a53e-f2a216c01d80",
+      "number": 68,
+      "name": "Steam Augury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/68.jpg"
+    },
+    {
+      "id": "0b4fae95-9cce-4f15-8288-987e698b8c7d",
+      "number": 69,
+      "name": "Traumatic Visions",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/69.jpg"
+    },
+    {
+      "id": "a1184362-9565-4ecd-b9cb-865b6c9a996b",
+      "number": 70,
+      "name": "Whiplash Trap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/70.jpg"
+    },
+    {
+      "id": "b8b3ea52-2338-4499-9100-c4be73cdfc32",
+      "number": 71,
+      "name": "Arrow Volley Trap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/71.jpg"
+    },
+    {
+      "id": "4acaef84-55d1-43dc-b10a-696182e6709b",
+      "number": 72,
+      "name": "Repeal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/72.jpg"
+    },
+    {
+      "id": "58fd5f88-2739-493e-9232-610f3a4645c3",
+      "number": 73,
+      "name": "Mystic Monastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/73.jpg"
+    },
+    {
+      "id": "8cd4a965-2f3b-46a4-8e7d-5604877c885d",
+      "number": 74,
+      "name": "Terramorphic Expanse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/74.jpg"
+    },
+    {
+      "id": "9526c2b3-f2a2-41ae-89d4-8d276193f43f",
+      "number": 75,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/75.jpg"
+    },
+    {
+      "id": "246c1f79-bdd9-4a77-b481-02e81cf0b5aa",
+      "number": 76,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/76.jpg"
+    },
+    {
+      "id": "4a88705a-ab94-4e29-b556-e8f7ae1183fb",
+      "number": 77,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/77.jpg"
+    },
+    {
+      "id": "5fb3e3b8-24a9-49bb-af3d-6b866f4187f1",
+      "number": 78,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/78.jpg"
+    },
+    {
+      "id": "9c49b9c5-f701-49ff-aa3c-59e11add5d52",
+      "number": 79,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/79.jpg"
+    },
+    {
+      "id": "1856ed2e-dfd6-4794-9fe3-b2a7babcee01",
+      "number": 80,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/80.jpg"
+    },
+    {
+      "id": "11ee1e3c-32a4-4f2f-b7e3-09a19305521b",
+      "number": 81,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/81.jpg"
+    },
+    {
+      "id": "b05b371c-e66b-4219-863e-95e3ddca4a71",
+      "number": 82,
+      "name": "Goblin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Speed%20vs.%20Cunning%20%28ddn%29/images/82.jpg"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duel Decks: Elves vs. Inventors",
+  "totalCards": 76,
+  "cards": [
+    {
+      "id": "8a448dbf-08a1-4145-a4b2-0265cc9f2e53",
+      "number": 1,
+      "name": "Ezuri, Renegade Leader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/1.jpg"
+    },
+    {
+      "id": "868bb9fc-6b55-471c-9963-055ed2221526",
+      "number": 2,
+      "name": "Dwynen, Gilt-Leaf Daen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/2.jpg"
+    },
+    {
+      "id": "8abb79f6-e54c-4c37-8cc5-115a737898a0",
+      "number": 3,
+      "name": "Dwynen's Elite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/3.jpg"
+    },
+    {
+      "id": "43a1d2c3-0bae-47ef-acf0-d94f7abe2ea0",
+      "number": 4,
+      "name": "Elvish Aberration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/4.jpg"
+    },
+    {
+      "id": "1eb230a8-08d6-46a8-87fb-3c1614550f16",
+      "number": 5,
+      "name": "Elvish Archdruid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/5.jpg"
+    },
+    {
+      "id": "f3731491-097c-4915-acab-1da2d5176b37",
+      "number": 6,
+      "name": "Elvish Branchbender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/6.jpg"
+    },
+    {
+      "id": "d618c3ea-f823-4fe0-8e11-65d5965528d3",
+      "number": 7,
+      "name": "Elvish Mystic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/7.jpg"
+    },
+    {
+      "id": "838a8d40-5268-467e-8d14-d9fd72253df6",
+      "number": 8,
+      "name": "Elvish Vanguard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/8.jpg"
+    },
+    {
+      "id": "f909f002-f419-4292-ad92-05c4fd71749d",
+      "number": 9,
+      "name": "Ezuri's Archers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/9.jpg"
+    },
+    {
+      "id": "856c640c-234e-4fa7-b486-834134ba1a84",
+      "number": 10,
+      "name": "Fierce Empath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/10.jpg"
+    },
+    {
+      "id": "50558302-eea7-4d60-a65b-50386e73fccd",
+      "number": 11,
+      "name": "Gladehart Cavalry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/11.jpg"
+    },
+    {
+      "id": "dba4b527-8dbf-4d11-af87-710ab9561182",
+      "number": 12,
+      "name": "Ivy Lane Denizen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/12.jpg"
+    },
+    {
+      "id": "0f6ff643-461c-428b-8420-3b3393bbb003",
+      "number": 13,
+      "name": "Jagged-Scar Archers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/13.jpg"
+    },
+    {
+      "id": "6d1eb94d-5e52-4e4d-9cf7-5df1021b2aac",
+      "number": 14,
+      "name": "Krosan Tusker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/14.jpg"
+    },
+    {
+      "id": "7a8a8d63-e64b-4a7a-ba95-1a68f75977d4",
+      "number": 15,
+      "name": "Kujar Seedsculptor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/15.jpg"
+    },
+    {
+      "id": "b4d1f656-4a33-4348-b850-af7391ac071b",
+      "number": 16,
+      "name": "Lead the Stampede",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/16.jpg"
+    },
+    {
+      "id": "e7d04e77-cbc4-40bf-a0f2-67312309a9cb",
+      "number": 17,
+      "name": "Leaf Gilder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/17.jpg"
+    },
+    {
+      "id": "8ad19d75-b506-4d5c-bd94-40e8a1be7f27",
+      "number": 18,
+      "name": "Llanowar Empath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/18.jpg"
+    },
+    {
+      "id": "3b4465b8-0988-4efd-8b33-cc471909a773",
+      "number": 19,
+      "name": "Naturalize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/19.jpg"
+    },
+    {
+      "id": "29a4abe5-9770-4a55-b20a-2ceb6bb00db6",
+      "number": 20,
+      "name": "Nature's Way",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/20.jpg"
+    },
+    {
+      "id": "e9dcece0-13eb-4931-b39e-13de528a11a6",
+      "number": 21,
+      "name": "Nissa's Judgment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/21.jpg"
+    },
+    {
+      "id": "9c24fe81-a8b7-4b20-b5dd-1d1c91ff057f",
+      "number": 22,
+      "name": "Regal Force",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/22.jpg"
+    },
+    {
+      "id": "46475e1b-f49f-4880-accd-1a5e4b119198",
+      "number": 23,
+      "name": "Sylvan Advocate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/23.jpg"
+    },
+    {
+      "id": "366c5992-e97f-4f15-bea9-8a62675e46a5",
+      "number": 24,
+      "name": "Talara's Battalion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/24.jpg"
+    },
+    {
+      "id": "bed8b8aa-2c1f-4a5b-af6e-16802b3b9453",
+      "number": 25,
+      "name": "Viridian Shaman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/25.jpg"
+    },
+    {
+      "id": "416b9302-62e9-453b-a8b6-db367d37a584",
+      "number": 26,
+      "name": "Wildheart Invoker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/26.jpg"
+    },
+    {
+      "id": "22ecead7-58b3-4e34-8f7d-b095abee7f24",
+      "number": 27,
+      "name": "Yeva, Nature's Herald",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/27.jpg"
+    },
+    {
+      "id": "0d307dc2-7897-4394-b437-c1fc7c199e68",
+      "number": 28,
+      "name": "Oran-Rief, the Vastwood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/28.jpg"
+    },
+    {
+      "id": "0433780c-d072-4d8b-9109-236764824dc9",
+      "number": 29,
+      "name": "Tranquil Thicket",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/29.jpg"
+    },
+    {
+      "id": "14394198-0993-46ee-a3ea-5c7084a78772",
+      "number": 30,
+      "name": "Treetop Village",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/30.jpg"
+    },
+    {
+      "id": "5c284c81-195b-49e5-bfdd-3e0447103469",
+      "number": 31,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/31.jpg"
+    },
+    {
+      "id": "5257440c-ab4e-4b9e-a694-f7ff54feaa1b",
+      "number": 32,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/32.jpg"
+    },
+    {
+      "id": "88e1bf57-cb14-4dfe-abb1-d8ed9c051f1a",
+      "number": 33,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/33.jpg"
+    },
+    {
+      "id": "bb0e5fc9-1b11-45c0-a0c7-668507cfabfb",
+      "number": 34,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/34.jpg"
+    },
+    {
+      "id": "17be21c8-d7bb-405e-addd-5aba1125b709",
+      "number": 35,
+      "name": "Goblin Welder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/35.jpg"
+    },
+    {
+      "id": "f4e6f89d-c73b-4105-9743-95504f0fd866",
+      "number": 36,
+      "name": "Artificer's Epiphany",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/36.jpg"
+    },
+    {
+      "id": "7225ae44-1357-44a6-9244-1cf43c199f15",
+      "number": 37,
+      "name": "Etherium Sculptor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/37.jpg"
+    },
+    {
+      "id": "b8733a45-fb31-439b-9e4c-a092ae015569",
+      "number": 38,
+      "name": "Faerie Mechanist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/38.jpg"
+    },
+    {
+      "id": "29638358-d0fa-4cd5-9d42-66cee8e8ccc6",
+      "number": 39,
+      "name": "Riddlesmith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/39.jpg"
+    },
+    {
+      "id": "2b87cd20-b8c7-4ce2-86f9-3d1078995bfb",
+      "number": 40,
+      "name": "Treasure Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/40.jpg"
+    },
+    {
+      "id": "9a7800f7-95cd-4f5c-b054-4afad8924367",
+      "number": 41,
+      "name": "Trinket Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/41.jpg"
+    },
+    {
+      "id": "5252794a-5cbe-45e3-b5c1-b27c667e9c17",
+      "number": 42,
+      "name": "Trophy Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/42.jpg"
+    },
+    {
+      "id": "6bf5a7b6-62ef-48c5-b081-a6f0ca917d16",
+      "number": 43,
+      "name": "Whirler Rogue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/43.jpg"
+    },
+    {
+      "id": "98e67a2f-7556-47aa-a953-89dcfe57a6ee",
+      "number": 44,
+      "name": "Barrage Ogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/44.jpg"
+    },
+    {
+      "id": "e3ba390c-26d4-4086-ab7e-db5e61bd9db9",
+      "number": 45,
+      "name": "Galvanic Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/45.jpg"
+    },
+    {
+      "id": "e6087550-9f15-4a06-b030-18b0be652065",
+      "number": 46,
+      "name": "Ghirapur Gearcrafter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/46.jpg"
+    },
+    {
+      "id": "107b2271-ec4d-4c4c-b52b-ecf698066aef",
+      "number": 47,
+      "name": "Pia and Kiran Nalaar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/47.jpg"
+    },
+    {
+      "id": "ae1c5afc-81b4-438a-928e-0b0aefae191a",
+      "number": 48,
+      "name": "Shrapnel Blast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/48.jpg"
+    },
+    {
+      "id": "8e6bbaa4-b2c8-4e95-92b3-4d2e713e1a8d",
+      "number": 49,
+      "name": "Welding Sparks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/49.jpg"
+    },
+    {
+      "id": "1022eb7c-4195-41dc-acdb-ac42ddaec45e",
+      "number": 50,
+      "name": "Maverick Thopterist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/50.jpg"
+    },
+    {
+      "id": "9e6cda07-c6b0-4138-9b83-bff1802fe138",
+      "number": 51,
+      "name": "Reclusive Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/51.jpg"
+    },
+    {
+      "id": "7718b0ef-9df6-4983-b902-8d9580fc9370",
+      "number": 52,
+      "name": "Darksteel Plate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/52.jpg"
+    },
+    {
+      "id": "987d52d0-d682-4a79-b48b-21a0eddd0732",
+      "number": 53,
+      "name": "Filigree Familiar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/53.jpg"
+    },
+    {
+      "id": "537721ab-088f-4dbd-b984-67f68eaaf3cf",
+      "number": 54,
+      "name": "Ichor Wellspring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/54.jpg"
+    },
+    {
+      "id": "8fc62d61-2bc0-4b84-a0e9-5a01fcd4ef92",
+      "number": 55,
+      "name": "Inventor's Goggles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/55.jpg"
+    },
+    {
+      "id": "f7104572-5602-4c26-8df3-b1cb8409db41",
+      "number": 56,
+      "name": "Mycosynth Wellspring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/56.jpg"
+    },
+    {
+      "id": "2b3d86bd-0686-42bc-b540-3c1e2cb75e35",
+      "number": 57,
+      "name": "Myr Battlesphere",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/57.jpg"
+    },
+    {
+      "id": "8e289d6c-1dcd-4431-9ed4-62b48eb207e1",
+      "number": 58,
+      "name": "Myr Sire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/58.jpg"
+    },
+    {
+      "id": "76114dda-811c-41b2-995b-9e80115cc8c8",
+      "number": 59,
+      "name": "Neurok Replica",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/59.jpg"
+    },
+    {
+      "id": "b76903b2-f8d2-4157-ad93-361eccc1a617",
+      "number": 60,
+      "name": "Pyrite Spellbomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/60.jpg"
+    },
+    {
+      "id": "16f74ee4-f647-49b1-88b8-1aae8df3b271",
+      "number": 61,
+      "name": "Scuttling Doom Engine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/61.jpg"
+    },
+    {
+      "id": "9fb8c25a-5ca8-40b2-a782-50eee49721b7",
+      "number": 62,
+      "name": "Solemn Simulacrum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/62.jpg"
+    },
+    {
+      "id": "94858a1d-7107-4ae4-a519-c3f7904146fa",
+      "number": 63,
+      "name": "Thopter Assembly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/63.jpg"
+    },
+    {
+      "id": "44db92d7-2c55-4587-9a49-7cc305b8fca0",
+      "number": 64,
+      "name": "Voyager Staff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/64.jpg"
+    },
+    {
+      "id": "dbd78b03-312b-4bbf-a4f6-d5095545a11b",
+      "number": 65,
+      "name": "Darksteel Citadel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/65.jpg"
+    },
+    {
+      "id": "7907175d-aa71-4c6b-8d44-026cb6b0f91c",
+      "number": 66,
+      "name": "Foundry of the Consuls",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/66.jpg"
+    },
+    {
+      "id": "c91c6c79-8512-4318-822c-8eed96eecdaa",
+      "number": 67,
+      "name": "Great Furnace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/67.jpg"
+    },
+    {
+      "id": "8d0afc49-24af-4ef6-8336-ad47bfd38e81",
+      "number": 68,
+      "name": "Phyrexia's Core",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/68.jpg"
+    },
+    {
+      "id": "27b10829-fd16-4bef-8aa7-d47acdb3f53f",
+      "number": 69,
+      "name": "Seat of the Synod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/69.jpg"
+    },
+    {
+      "id": "ae4c9315-41f9-4264-ae6b-c0d9ed6287ca",
+      "number": 70,
+      "name": "Shivan Reef",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/70.jpg"
+    },
+    {
+      "id": "9b0bfb57-1483-4049-82da-05d206338b2c",
+      "number": 71,
+      "name": "Swiftwater Cliffs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/71.jpg"
+    },
+    {
+      "id": "4b1ba650-2397-4dc4-bad3-5c97f3a1e0db",
+      "number": 72,
+      "name": "Temple of Epiphany",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/72.jpg"
+    },
+    {
+      "id": "c0229fef-746c-417a-beb9-150f286da14a",
+      "number": 73,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/73.jpg"
+    },
+    {
+      "id": "e4f4b3e7-7c8e-42c9-895d-4c8b802ed4f7",
+      "number": 74,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/74.jpg"
+    },
+    {
+      "id": "b55b57b3-6cbd-4571-8163-b6ba76904d9d",
+      "number": 75,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/75.jpg"
+    },
+    {
+      "id": "e13ee385-ad54-410a-b1db-19a0267294e1",
+      "number": 76,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Elves%20vs.%20Inventors%20%28ddu%29/images/76.jpg"
+    }
+  ]
+}

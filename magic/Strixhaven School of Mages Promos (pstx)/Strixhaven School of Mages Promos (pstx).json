@@ -1,0 +1,991 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Strixhaven: School of Mages Promos",
+  "totalCards": 164,
+  "cards": [
+    {
+      "id": "0e8780c7-b5a6-48bc-9a2f-532b28133b9d",
+      "number": 0,
+      "name": "Mascot Exhibition",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/5p.jpg"
+    },
+    {
+      "id": "f8d78f36-c4da-4baa-81f7-b227154a6970",
+      "number": 0,
+      "name": "Mascot Exhibition",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/5s.jpg"
+    },
+    {
+      "id": "a662a862-c592-4c5b-9728-279d04be22bf",
+      "number": 0,
+      "name": "Wandering Archaic // Explore the Vastlands",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/6s.jpg"
+    },
+    {
+      "id": "01bf0111-de3a-429f-b491-c929996f40df",
+      "number": 0,
+      "name": "Academic Probation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/7p.jpg"
+    },
+    {
+      "id": "545011ff-848c-46b3-9d56-0d82b11fa7b6",
+      "number": 0,
+      "name": "Academic Probation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/7s.jpg"
+    },
+    {
+      "id": "99d68fbc-1200-4b84-8438-c6bbc3bc722e",
+      "number": 0,
+      "name": "Devastating Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/14p.jpg"
+    },
+    {
+      "id": "10bdcc99-d578-44b1-acaa-00fcaebe793f",
+      "number": 0,
+      "name": "Devastating Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/14s.jpg"
+    },
+    {
+      "id": "250b3ddb-bfd1-4a3c-bafb-4ef79a3edf08",
+      "number": 0,
+      "name": "Elite Spellbinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/17p.jpg"
+    },
+    {
+      "id": "d68ff357-456f-4b8a-90fa-a209c409de3c",
+      "number": 0,
+      "name": "Elite Spellbinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/17s.jpg"
+    },
+    {
+      "id": "690beef8-a20f-450a-924e-973f9810f84f",
+      "number": 0,
+      "name": "Leonin Lightscribe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/20p.jpg"
+    },
+    {
+      "id": "1a5f5b83-cf33-46ff-bf1e-10b17f826d94",
+      "number": 0,
+      "name": "Leonin Lightscribe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/20s.jpg"
+    },
+    {
+      "id": "235c628d-7bff-4e6e-8e34-6e2dcb4c4328",
+      "number": 0,
+      "name": "Mavinda, Students' Advocate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/21p.jpg"
+    },
+    {
+      "id": "8b5bd847-5044-4579-99c5-e79933ab041a",
+      "number": 0,
+      "name": "Mavinda, Students' Advocate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/21s.jpg"
+    },
+    {
+      "id": "63432170-9fa3-4c1c-938f-35ac6d89b5f1",
+      "number": 0,
+      "name": "Semester's End",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/27p.jpg"
+    },
+    {
+      "id": "839c4ebb-4d2f-4a1d-9e5d-a667c94f9978",
+      "number": 0,
+      "name": "Semester's End",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/27s.jpg"
+    },
+    {
+      "id": "3f893ac7-d6e4-4cee-b1a3-5ea92a344498",
+      "number": 0,
+      "name": "Sparring Regimen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/29p.jpg"
+    },
+    {
+      "id": "e588f4c7-802c-4613-bbad-f720320bee70",
+      "number": 0,
+      "name": "Sparring Regimen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/29s.jpg"
+    },
+    {
+      "id": "fc064de4-2597-4411-b4c7-6c34e3b82f08",
+      "number": 0,
+      "name": "Strict Proctor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/33p.jpg"
+    },
+    {
+      "id": "6d414102-f31a-4a5d-95f0-879a6f0113b6",
+      "number": 0,
+      "name": "Strict Proctor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/33s.jpg"
+    },
+    {
+      "id": "d9732eb6-99d9-4666-9982-5d5fc33dd514",
+      "number": 0,
+      "name": "Archmage Emeritus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/37p.jpg"
+    },
+    {
+      "id": "4553afd7-6312-40ca-9c19-794c96cde165",
+      "number": 0,
+      "name": "Archmage Emeritus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/37s.jpg"
+    },
+    {
+      "id": "44303006-af70-43a2-80a2-24f438a092e1",
+      "number": 0,
+      "name": "Dream Strix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/42p.jpg"
+    },
+    {
+      "id": "d3a82daa-71e3-416b-9b6d-eb2c3d1d223d",
+      "number": 0,
+      "name": "Dream Strix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/42s.jpg"
+    },
+    {
+      "id": "8bc6d128-48a3-4b01-b4af-f63fa39888eb",
+      "number": 0,
+      "name": "Ingenious Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/44p.jpg"
+    },
+    {
+      "id": "0cdd792a-9049-4f67-aed4-96e56e455c06",
+      "number": 0,
+      "name": "Ingenious Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/44s.jpg"
+    },
+    {
+      "id": "7ec3dfa3-1e78-420b-8a9f-d13626204d5a",
+      "number": 0,
+      "name": "Multiple Choice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/48p.jpg"
+    },
+    {
+      "id": "d8270254-e8ed-4935-b2cf-d2c38bdcda0d",
+      "number": 0,
+      "name": "Multiple Choice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/48s.jpg"
+    },
+    {
+      "id": "f6cdb9e1-a8e5-470b-81e2-759c38d10b69",
+      "number": 0,
+      "name": "Teachings of the Archaics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/57p.jpg"
+    },
+    {
+      "id": "e11dbf28-0053-445e-abd6-f0149cecf035",
+      "number": 0,
+      "name": "Teachings of the Archaics",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/57s.jpg"
+    },
+    {
+      "id": "ed60ea05-6890-4330-b1f7-ab900ee73f39",
+      "number": 0,
+      "name": "Tempted by the Oriq",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/58p.jpg"
+    },
+    {
+      "id": "20792bef-3875-4d09-abd9-77f158b1c420",
+      "number": 0,
+      "name": "Tempted by the Oriq",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/58s.jpg"
+    },
+    {
+      "id": "03f0f6ef-89fe-4969-a15b-30158133ff82",
+      "number": 0,
+      "name": "Baleful Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/64p.jpg"
+    },
+    {
+      "id": "53d8ebdb-d8f2-460d-ae23-792fa665dc2e",
+      "number": 0,
+      "name": "Baleful Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/64s.jpg"
+    },
+    {
+      "id": "67a8dca6-48bd-4922-8201-7bd8a281de21",
+      "number": 0,
+      "name": "Callous Bloodmage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/66p.jpg"
+    },
+    {
+      "id": "6a89f753-62f3-4cfa-9df6-514a6f84c8bd",
+      "number": 0,
+      "name": "Callous Bloodmage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/66s.jpg"
+    },
+    {
+      "id": "8bc4c182-7bbd-45ba-8f0e-3d7d5ce96539",
+      "number": 0,
+      "name": "Confront the Past",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/67p.jpg"
+    },
+    {
+      "id": "6515c0db-1433-4713-8ca3-f177a86b1dcf",
+      "number": 0,
+      "name": "Confront the Past",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/67s.jpg"
+    },
+    {
+      "id": "9eba96ee-0bea-44a0-8b39-fa192bbcf22b",
+      "number": 0,
+      "name": "Oriq Loremage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/80p.jpg"
+    },
+    {
+      "id": "c1264f92-c090-48c2-ba0c-5e13d91ef5c1",
+      "number": 0,
+      "name": "Oriq Loremage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/80s.jpg"
+    },
+    {
+      "id": "35d69af5-a847-447a-92df-4b13d2a08380",
+      "number": 0,
+      "name": "Poet's Quill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/82p.jpg"
+    },
+    {
+      "id": "685473bf-1f68-4dc7-8353-d950a7b8526b",
+      "number": 0,
+      "name": "Poet's Quill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/82s.jpg"
+    },
+    {
+      "id": "532fc36e-3467-4259-ab9a-2369c7d87f5e",
+      "number": 0,
+      "name": "Professor Onyx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/83p.jpg"
+    },
+    {
+      "id": "5698176c-571d-4952-85d6-fbd1b15f2aaa",
+      "number": 0,
+      "name": "Professor Onyx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/83s.jpg"
+    },
+    {
+      "id": "fb189dfa-8e1e-47ad-bd6c-ffcdd808ac40",
+      "number": 0,
+      "name": "Sedgemoor Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/86p.jpg"
+    },
+    {
+      "id": "1dfb626e-7b65-49de-bc80-1fa5cbd5dd1f",
+      "number": 0,
+      "name": "Sedgemoor Witch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/86s.jpg"
+    },
+    {
+      "id": "9c70711e-11e4-42e2-baeb-099327962573",
+      "number": 0,
+      "name": "Conspiracy Theorist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/94p.jpg"
+    },
+    {
+      "id": "2523aaa1-7b10-4b36-a8f8-fe3e1060c7b4",
+      "number": 0,
+      "name": "Conspiracy Theorist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/94s.jpg"
+    },
+    {
+      "id": "4ee02acc-5f11-442d-9355-384806203a3b",
+      "number": 0,
+      "name": "Crackle with Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/95p.jpg"
+    },
+    {
+      "id": "1f1702fd-5790-46ad-abd3-5f344b871094",
+      "number": 0,
+      "name": "Crackle with Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/95s.jpg"
+    },
+    {
+      "id": "7e36405e-1f68-4ce6-8036-554fb38d5e8c",
+      "number": 0,
+      "name": "Draconic Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/96p.jpg"
+    },
+    {
+      "id": "8ac10730-2a8a-4bbd-a933-d50ec8c9b43d",
+      "number": 0,
+      "name": "Draconic Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/96s.jpg"
+    },
+    {
+      "id": "7c9dabbb-1ea0-4042-b32b-35b60fcff778",
+      "number": 0,
+      "name": "Efreet Flamepainter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/98p.jpg"
+    },
+    {
+      "id": "15c0b4eb-40e3-4224-b76d-539db9e6ac5f",
+      "number": 0,
+      "name": "Efreet Flamepainter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/98s.jpg"
+    },
+    {
+      "id": "25a6a304-7f4b-45e6-85c0-e80a9a207db3",
+      "number": 0,
+      "name": "Fervent Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/101p.jpg"
+    },
+    {
+      "id": "f2748ea6-cdac-4bee-9010-0767bd43612e",
+      "number": 0,
+      "name": "Fervent Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/101s.jpg"
+    },
+    {
+      "id": "75314c58-16e4-40b6-b230-17374eab07dc",
+      "number": 0,
+      "name": "Illuminate History",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/108p.jpg"
+    },
+    {
+      "id": "72b48cbe-503b-48cb-944c-ad9c1c03812a",
+      "number": 0,
+      "name": "Illuminate History",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/108s.jpg"
+    },
+    {
+      "id": "ebc09eb3-3cd7-4b43-a1b8-b01dd556639e",
+      "number": 0,
+      "name": "Retriever Phoenix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/113p.jpg"
+    },
+    {
+      "id": "972e1f02-e532-4f69-becf-6a3f91c7d4d8",
+      "number": 0,
+      "name": "Retriever Phoenix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/113s.jpg"
+    },
+    {
+      "id": "e7e49013-32c9-461e-9477-9ac265c8fbe0",
+      "number": 0,
+      "name": "Accomplished Alchemist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/119p.jpg"
+    },
+    {
+      "id": "ed275072-f84b-47ef-8631-3a4e787ea330",
+      "number": 0,
+      "name": "Accomplished Alchemist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/119s.jpg"
+    },
+    {
+      "id": "012f63c9-a5e8-4b83-8673-8020986dc10e",
+      "number": 0,
+      "name": "Basic Conjuration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/120p.jpg"
+    },
+    {
+      "id": "7f3ed762-2339-47c6-afdf-71364b1a9c2e",
+      "number": 0,
+      "name": "Basic Conjuration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/120s.jpg"
+    },
+    {
+      "id": "ae495297-a0bb-425e-9f13-0c8dfe3606ec",
+      "number": 0,
+      "name": "Dragonsguard Elite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/127p.jpg"
+    },
+    {
+      "id": "58dd8787-7cf8-49d5-80f1-bffcb6957b4b",
+      "number": 0,
+      "name": "Dragonsguard Elite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/127s.jpg"
+    },
+    {
+      "id": "357ce522-4872-4386-b409-264e23953a53",
+      "number": 0,
+      "name": "Ecological Appreciation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/128p.jpg"
+    },
+    {
+      "id": "0b5011e0-02cd-40d0-9fc3-e443101b5db4",
+      "number": 0,
+      "name": "Ecological Appreciation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/128s.jpg"
+    },
+    {
+      "id": "7d140f1c-719f-475f-826a-efcd2e01747e",
+      "number": 0,
+      "name": "Exponential Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/130p.jpg"
+    },
+    {
+      "id": "891937ac-812e-495f-932e-e493cabb6590",
+      "number": 0,
+      "name": "Exponential Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/130s.jpg"
+    },
+    {
+      "id": "256ff8d2-0f0d-4717-a58f-ce3be1d6340c",
+      "number": 0,
+      "name": "Gnarled Professor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/133p.jpg"
+    },
+    {
+      "id": "90480228-b751-4c6b-bb11-da2132ccf1dc",
+      "number": 0,
+      "name": "Gnarled Professor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/133s.jpg"
+    },
+    {
+      "id": "e939194a-6993-412c-bbd8-540b9872a721",
+      "number": 0,
+      "name": "Verdant Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/146p.jpg"
+    },
+    {
+      "id": "92bb4d5f-6471-495e-99a9-556387015899",
+      "number": 0,
+      "name": "Verdant Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/146s.jpg"
+    },
+    {
+      "id": "d6a1c48e-2a28-4826-8328-34065d5f9895",
+      "number": 0,
+      "name": "Augmenter Pugilist // Echoing Equation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/147s.jpg"
+    },
+    {
+      "id": "44fad71f-5928-4ba3-bd53-2dedd24f0277",
+      "number": 0,
+      "name": "Blex, Vexing Pest // Search for Blex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/148s.jpg"
+    },
+    {
+      "id": "7be32140-c001-4fe1-a952-99a98c495330",
+      "number": 0,
+      "name": "Extus, Oriq Overlord // Awaken the Blood Avatar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/149s.jpg"
+    },
+    {
+      "id": "b52f1a16-ee9d-406c-8d5c-708361402b37",
+      "number": 0,
+      "name": "Flamescroll Celebrant // Revel in Silence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/150s.jpg"
+    },
+    {
+      "id": "b8b98aac-db10-4501-a6a1-0b2ae47d96cb",
+      "number": 0,
+      "name": "Jadzi, Oracle of Arcavios // Journey to the Oracle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/151s.jpg"
+    },
+    {
+      "id": "bc1b2de6-fdca-402c-923f-1e593c850b72",
+      "number": 0,
+      "name": "Kianne, Dean of Substance // Imbraham, Dean of Theory",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/152s.jpg"
+    },
+    {
+      "id": "633ce306-23a8-408d-95fd-fdeb995e6786",
+      "number": 0,
+      "name": "Mila, Crafty Companion // Lukka, Wayward Bonder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/153s.jpg"
+    },
+    {
+      "id": "c3b23739-d347-4eaa-9662-65d7ad5c56ae",
+      "number": 0,
+      "name": "Pestilent Cauldron // Restorative Burst",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/154s.jpg"
+    },
+    {
+      "id": "9ed6f39f-286b-4b46-8c40-52358c011f2e",
+      "number": 0,
+      "name": "Plargg, Dean of Chaos // Augusta, Dean of Order",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/155s.jpg"
+    },
+    {
+      "id": "9bf78711-0e41-458d-9841-72b173f092d0",
+      "number": 0,
+      "name": "Rowan, Scholar of Sparks // Will, Scholar of Frost",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/156s.jpg"
+    },
+    {
+      "id": "30b85384-147f-4e65-827e-4d9d5666a47b",
+      "number": 0,
+      "name": "Selfless Glyphweaver // Deadly Vanity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/157s.jpg"
+    },
+    {
+      "id": "e950ba87-0352-4880-a758-a00774f51717",
+      "number": 0,
+      "name": "Shaile, Dean of Radiance // Embrose, Dean of Shadow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/158s.jpg"
+    },
+    {
+      "id": "6e245502-1214-4b3c-9a6f-098f5641a409",
+      "number": 0,
+      "name": "Torrent Sculptor // Flamethrower Sonata",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/159s.jpg"
+    },
+    {
+      "id": "fa953715-a6ac-47e7-86d6-8f8f342aa289",
+      "number": 0,
+      "name": "Uvilda, Dean of Perfection // Nassari, Dean of Expression",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/160s.jpg"
+    },
+    {
+      "id": "d097defc-f3a7-45c5-b811-39560ec1e20a",
+      "number": 0,
+      "name": "Valentin, Dean of the Vein // Lisette, Dean of the Root",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/161s.jpg"
+    },
+    {
+      "id": "0057bac8-7600-422e-88ef-accf1d0bb4ef",
+      "number": 0,
+      "name": "Beledros Witherbloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/163p.jpg"
+    },
+    {
+      "id": "76f8cf4b-9a68-442a-ac65-030615c1c438",
+      "number": 0,
+      "name": "Beledros Witherbloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/163s.jpg"
+    },
+    {
+      "id": "0577994e-b43b-4f16-aa9f-fac0ebc4d617",
+      "number": 0,
+      "name": "Blade Historian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/165p.jpg"
+    },
+    {
+      "id": "96edfb62-e488-497e-b3c2-24aa23c23dbe",
+      "number": 0,
+      "name": "Blade Historian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/165s.jpg"
+    },
+    {
+      "id": "c6180286-3a44-4371-85f2-70a7c5249eb4",
+      "number": 0,
+      "name": "Blot Out the Sky",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/167p.jpg"
+    },
+    {
+      "id": "e2a5e1ce-9d35-4343-b69f-a0c614ce8761",
+      "number": 0,
+      "name": "Blot Out the Sky",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/167s.jpg"
+    },
+    {
+      "id": "4a7c9260-148f-44ba-b649-5640c0fd49f4",
+      "number": 0,
+      "name": "Body of Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/168p.jpg"
+    },
+    {
+      "id": "a64c0099-b08e-4199-bde8-6fd0fa2d6608",
+      "number": 0,
+      "name": "Body of Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/168s.jpg"
+    },
+    {
+      "id": "b3249345-3b27-46d0-846e-4b5b6e99e4b1",
+      "number": 0,
+      "name": "Culling Ritual",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/172p.jpg"
+    },
+    {
+      "id": "4898c39b-e355-412e-a3e7-433fcfa01391",
+      "number": 0,
+      "name": "Culling Ritual",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/172s.jpg"
+    },
+    {
+      "id": "8374a5c9-dc30-4409-a603-503b5e3a4ac1",
+      "number": 0,
+      "name": "Culmination of Studies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/173p.jpg"
+    },
+    {
+      "id": "c74882c6-2ed4-4cd6-9a03-b83794780ed3",
+      "number": 0,
+      "name": "Culmination of Studies",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/173s.jpg"
+    },
+    {
+      "id": "07917b35-24bc-4d07-9095-fcf53254b91a",
+      "number": 0,
+      "name": "Daemogoth Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/174p.jpg"
+    },
+    {
+      "id": "2b7d9620-b912-4634-b2bc-8bddc035721f",
+      "number": 0,
+      "name": "Daemogoth Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/174s.jpg"
+    },
+    {
+      "id": "9b56c2ef-7df1-47f7-9943-84ea55f6eebf",
+      "number": 0,
+      "name": "Double Major",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/179p.jpg"
+    },
+    {
+      "id": "b7808c57-24ad-4fc3-aa70-15836afde452",
+      "number": 0,
+      "name": "Double Major",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/179s.jpg"
+    },
+    {
+      "id": "81645b0b-b126-40eb-b54c-8b67c332e416",
+      "number": 0,
+      "name": "Dramatic Finale",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/180p.jpg"
+    },
+    {
+      "id": "a78e69f1-d779-4b53-a621-e9540491934d",
+      "number": 0,
+      "name": "Dramatic Finale",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/180s.jpg"
+    },
+    {
+      "id": "baedd3a4-f991-44bb-b870-7831bb637444",
+      "number": 0,
+      "name": "Elemental Expressionist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/181p.jpg"
+    },
+    {
+      "id": "e842d841-39d5-490f-9136-14818ec6433e",
+      "number": 0,
+      "name": "Elemental Expressionist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/181s.jpg"
+    },
+    {
+      "id": "c5214f65-2bab-46e4-aff5-a16cac249b53",
+      "number": 0,
+      "name": "Galazeth Prismari",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/189p.jpg"
+    },
+    {
+      "id": "c4d9e1a6-6908-44c7-9ace-f7c0a2413ddc",
+      "number": 0,
+      "name": "Galazeth Prismari",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/189s.jpg"
+    },
+    {
+      "id": "38ca358d-9f66-4edf-b143-18a1ce809149",
+      "number": 0,
+      "name": "Harness Infinity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/191p.jpg"
+    },
+    {
+      "id": "789ef97a-6fac-49b4-ba7a-743f727361a0",
+      "number": 0,
+      "name": "Harness Infinity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/191s.jpg"
+    },
+    {
+      "id": "fd674aa0-5161-4162-a72f-55cf58548d77",
+      "number": 0,
+      "name": "Hofri Ghostforge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/192p.jpg"
+    },
+    {
+      "id": "274aed35-81cc-4b2c-8507-c86db1669b12",
+      "number": 0,
+      "name": "Hofri Ghostforge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/192s.jpg"
+    },
+    {
+      "id": "3980caa1-6771-40cb-8a21-0b0f309af1a2",
+      "number": 0,
+      "name": "Kasmina, Enigma Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/196p.jpg"
+    },
+    {
+      "id": "b24e4b5d-969e-45c2-9542-0683ac868774",
+      "number": 0,
+      "name": "Kasmina, Enigma Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/196s.jpg"
+    },
+    {
+      "id": "c5f9aea2-5eba-4a5e-8497-649f2c2e2420",
+      "number": 0,
+      "name": "Lorehold Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/199p.jpg"
+    },
+    {
+      "id": "44494eff-8f41-4c80-8042-169a50c47f27",
+      "number": 0,
+      "name": "Lorehold Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/199s.jpg"
+    },
+    {
+      "id": "7e6eb5cf-eb27-4161-b346-50a64a5d39fa",
+      "number": 0,
+      "name": "Magma Opus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/203p.jpg"
+    },
+    {
+      "id": "9a3ccc0f-d66f-4eea-8dc1-9d1f1e0f9982",
+      "number": 0,
+      "name": "Magma Opus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/203s.jpg"
+    },
+    {
+      "id": "4a084f22-c2cc-460f-a54c-d26cff3cc691",
+      "number": 0,
+      "name": "Manifestation Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/205p.jpg"
+    },
+    {
+      "id": "450a2412-3030-443c-9910-6031d5c0e640",
+      "number": 0,
+      "name": "Manifestation Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/205s.jpg"
+    },
+    {
+      "id": "dfaf984e-c4a7-48c9-83bf-05d568baf8b5",
+      "number": 0,
+      "name": "Prismari Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/214p.jpg"
+    },
+    {
+      "id": "73b59968-de15-4173-a863-5933529b0efa",
+      "number": 0,
+      "name": "Prismari Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/214s.jpg"
+    },
+    {
+      "id": "0592f744-ac18-4fdd-85b6-eeac6d38a07c",
+      "number": 0,
+      "name": "Quandrix Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/217p.jpg"
+    },
+    {
+      "id": "eb3b911a-4edc-48a1-8718-e80bfddd5710",
+      "number": 0,
+      "name": "Quandrix Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/217s.jpg"
+    },
+    {
+      "id": "cdf1cd56-47d2-43c6-a657-a4a56e6b84f1",
+      "number": 0,
+      "name": "Radiant Scrollwielder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/221p.jpg"
+    },
+    {
+      "id": "30f9136d-bf9d-40f6-859a-1f31594f48da",
+      "number": 0,
+      "name": "Radiant Scrollwielder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/221s.jpg"
+    },
+    {
+      "id": "20d98ab6-11f8-4b84-97c3-5d1a3a464ac4",
+      "number": 0,
+      "name": "Rushed Rebirth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/228p.jpg"
+    },
+    {
+      "id": "27872add-2335-443a-8480-757b4439055f",
+      "number": 0,
+      "name": "Rushed Rebirth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/228s.jpg"
+    },
+    {
+      "id": "665b842f-b40e-4be6-8488-6d646da9ca1e",
+      "number": 0,
+      "name": "Shadrix Silverquill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/230p.jpg"
+    },
+    {
+      "id": "cc172173-1ce7-4100-a398-e235e29e4518",
+      "number": 0,
+      "name": "Shadrix Silverquill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/230s.jpg"
+    },
+    {
+      "id": "201c00ae-8044-4c99-a791-5c076d71aa73",
+      "number": 0,
+      "name": "Silverquill Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/232p.jpg"
+    },
+    {
+      "id": "be79bc1c-6ca9-48f7-86ae-214e2e31edde",
+      "number": 0,
+      "name": "Silverquill Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/232s.jpg"
+    },
+    {
+      "id": "cc06ea53-5e3a-432d-a770-8aa442713490",
+      "number": 0,
+      "name": "Silverquill Silencer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/234p.jpg"
+    },
+    {
+      "id": "f28a10a2-a3e5-480f-9864-eed608baa118",
+      "number": 0,
+      "name": "Silverquill Silencer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/234s.jpg"
+    },
+    {
+      "id": "2525977d-54a5-4529-a75d-7c73be3f111d",
+      "number": 0,
+      "name": "Tanazir Quandrix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/240p.jpg"
+    },
+    {
+      "id": "050760c5-b927-4b88-825d-e689fd321f53",
+      "number": 0,
+      "name": "Tanazir Quandrix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/240s.jpg"
+    },
+    {
+      "id": "3bb47454-bbc5-460d-ba8b-d2905542fe66",
+      "number": 0,
+      "name": "Vanishing Verse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/244p.jpg"
+    },
+    {
+      "id": "2d19559a-55e2-4991-b48f-e5ea4dd1b7e9",
+      "number": 0,
+      "name": "Vanishing Verse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/244s.jpg"
+    },
+    {
+      "id": "cd5d32aa-6dde-45c5-ac63-5c55a35ae966",
+      "number": 0,
+      "name": "Velomachus Lorehold",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/245p.jpg"
+    },
+    {
+      "id": "b1c8b04d-00d9-4d01-ae0c-e794d07aa28e",
+      "number": 0,
+      "name": "Velomachus Lorehold",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/245s.jpg"
+    },
+    {
+      "id": "d7f5d466-c91c-452a-bad4-a56fe02549d4",
+      "number": 0,
+      "name": "Venerable Warsinger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/246p.jpg"
+    },
+    {
+      "id": "2fe5c6aa-5298-4bbb-8103-1e5249a7c6f3",
+      "number": 0,
+      "name": "Venerable Warsinger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/246s.jpg"
+    },
+    {
+      "id": "e95c7c40-4bb1-4533-b031-d595fc5d9e8e",
+      "number": 0,
+      "name": "Witherbloom Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/248p.jpg"
+    },
+    {
+      "id": "78ae5619-19d1-4f0e-93f3-8370f288c017",
+      "number": 0,
+      "name": "Witherbloom Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/248s.jpg"
+    },
+    {
+      "id": "1f062c51-8f68-4111-be7e-c3d011b2992b",
+      "number": 0,
+      "name": "Codie, Vociferous Codex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/253p.jpg"
+    },
+    {
+      "id": "b7d659f3-e87d-4765-bef1-068d9b9378e7",
+      "number": 0,
+      "name": "Codie, Vociferous Codex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/253s.jpg"
+    },
+    {
+      "id": "492b6ac6-5e8f-4d93-a8aa-3bf17844fa04",
+      "number": 0,
+      "name": "Strixhaven Stadium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/259p.jpg"
+    },
+    {
+      "id": "878e1168-5c42-4e2c-ad80-1597d3e6a5e9",
+      "number": 0,
+      "name": "Strixhaven Stadium",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/259s.jpg"
+    },
+    {
+      "id": "ed334210-6712-4b70-8a2d-d3a3870b7df6",
+      "number": 0,
+      "name": "The Biblioplex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/264p.jpg"
+    },
+    {
+      "id": "bfb12500-9612-462b-87e0-a4d8cf34249a",
+      "number": 0,
+      "name": "The Biblioplex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/264s.jpg"
+    },
+    {
+      "id": "6bf1ad71-74e5-4610-a9b9-eb6f5ff8ae60",
+      "number": 0,
+      "name": "Frostboil Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/265p.jpg"
+    },
+    {
+      "id": "58c391ee-7700-4aff-93c6-ad8a6182b88a",
+      "number": 0,
+      "name": "Frostboil Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/265s.jpg"
+    },
+    {
+      "id": "37803ea3-86d6-4a18-92e6-203d96d265ba",
+      "number": 0,
+      "name": "Furycalm Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/266p.jpg"
+    },
+    {
+      "id": "a209b7f8-cfa8-4040-9bbe-069cfff2f832",
+      "number": 0,
+      "name": "Furycalm Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/266s.jpg"
+    },
+    {
+      "id": "bdad00e1-ce8e-4d7e-8f8d-5adc9e1614c1",
+      "number": 0,
+      "name": "Hall of Oracles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/267p.jpg"
+    },
+    {
+      "id": "5bdbb987-4c22-4bf6-9705-c725f05ef5fd",
+      "number": 0,
+      "name": "Hall of Oracles",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/267s.jpg"
+    },
+    {
+      "id": "9332dbfb-1994-4431-8d8d-a628062d8fc6",
+      "number": 0,
+      "name": "Necroblossom Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/269p.jpg"
+    },
+    {
+      "id": "59b850aa-1f6a-46c2-bc27-f3bc382b03dc",
+      "number": 0,
+      "name": "Necroblossom Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/269s.jpg"
+    },
+    {
+      "id": "506b41cc-8e3e-48aa-a192-74aec39fbcdb",
+      "number": 0,
+      "name": "Shineshadow Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/272p.jpg"
+    },
+    {
+      "id": "f8847609-a7fd-447b-be7a-8f31bc5ea43f",
+      "number": 0,
+      "name": "Shineshadow Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/272s.jpg"
+    },
+    {
+      "id": "ffc70e51-0f85-4e7f-8240-7d9c92f88550",
+      "number": 0,
+      "name": "Vineglimmer Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/274p.jpg"
+    },
+    {
+      "id": "c1fbe779-379f-4e72-aa86-ea9e8020e238",
+      "number": 0,
+      "name": "Vineglimmer Snarl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20School%20of%20Mages%20Promos%20%28pstx%29/images/274s.jpg"
+    }
+  ]
+}

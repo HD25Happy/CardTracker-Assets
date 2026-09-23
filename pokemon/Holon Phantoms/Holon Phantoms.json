@@ -1,0 +1,674 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Holon Phantoms",
+  "totalCards": 111,
+  "availableImages": 111,
+  "cards": [
+    {
+      "id": "ex13-1",
+      "number": 1,
+      "name": "Armaldo δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/1.png"
+    },
+    {
+      "id": "ex13-2",
+      "number": 2,
+      "name": "Cradily δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/2.png"
+    },
+    {
+      "id": "ex13-3",
+      "number": 3,
+      "name": "Deoxys δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/3.png"
+    },
+    {
+      "id": "ex13-4",
+      "number": 4,
+      "name": "Deoxys δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/4.png"
+    },
+    {
+      "id": "ex13-5",
+      "number": 5,
+      "name": "Deoxys δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/5.png"
+    },
+    {
+      "id": "ex13-6",
+      "number": 6,
+      "name": "Deoxys δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/6.png"
+    },
+    {
+      "id": "ex13-7",
+      "number": 7,
+      "name": "Flygon δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/7.png"
+    },
+    {
+      "id": "ex13-8",
+      "number": 8,
+      "name": "Gyarados δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/8.png"
+    },
+    {
+      "id": "ex13-9",
+      "number": 9,
+      "name": "Kabutops δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/9.png"
+    },
+    {
+      "id": "ex13-10",
+      "number": 10,
+      "name": "Kingdra δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/10.png"
+    },
+    {
+      "id": "ex13-11",
+      "number": 11,
+      "name": "Latias δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/11.png"
+    },
+    {
+      "id": "ex13-12",
+      "number": 12,
+      "name": "Latios δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/12.png"
+    },
+    {
+      "id": "ex13-13",
+      "number": 13,
+      "name": "Omastar δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/13.png"
+    },
+    {
+      "id": "ex13-14",
+      "number": 14,
+      "name": "Pidgeot δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/14.png"
+    },
+    {
+      "id": "ex13-15",
+      "number": 15,
+      "name": "Raichu δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/15.png"
+    },
+    {
+      "id": "ex13-16",
+      "number": 16,
+      "name": "Rayquaza δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/16.png"
+    },
+    {
+      "id": "ex13-17",
+      "number": 17,
+      "name": "Vileplume δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/17.png"
+    },
+    {
+      "id": "ex13-18",
+      "number": 18,
+      "name": "Absol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/18.png"
+    },
+    {
+      "id": "ex13-19",
+      "number": 19,
+      "name": "Bellossom δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/19.png"
+    },
+    {
+      "id": "ex13-20",
+      "number": 20,
+      "name": "Blaziken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/20.png"
+    },
+    {
+      "id": "ex13-21",
+      "number": 21,
+      "name": "Latias δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/21.png"
+    },
+    {
+      "id": "ex13-22",
+      "number": 22,
+      "name": "Latios δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/22.png"
+    },
+    {
+      "id": "ex13-23",
+      "number": 23,
+      "name": "Mawile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/23.png"
+    },
+    {
+      "id": "ex13-24",
+      "number": 24,
+      "name": "Mewtwo δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/24.png"
+    },
+    {
+      "id": "ex13-25",
+      "number": 25,
+      "name": "Nosepass",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/25.png"
+    },
+    {
+      "id": "ex13-26",
+      "number": 26,
+      "name": "Rayquaza δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/26.png"
+    },
+    {
+      "id": "ex13-27",
+      "number": 27,
+      "name": "Regice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/27.png"
+    },
+    {
+      "id": "ex13-28",
+      "number": 28,
+      "name": "Regirock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/28.png"
+    },
+    {
+      "id": "ex13-29",
+      "number": 29,
+      "name": "Registeel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/29.png"
+    },
+    {
+      "id": "ex13-30",
+      "number": 30,
+      "name": "Relicanth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/30.png"
+    },
+    {
+      "id": "ex13-31",
+      "number": 31,
+      "name": "Sableye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/31.png"
+    },
+    {
+      "id": "ex13-32",
+      "number": 32,
+      "name": "Seviper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/32.png"
+    },
+    {
+      "id": "ex13-33",
+      "number": 33,
+      "name": "Torkoal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/33.png"
+    },
+    {
+      "id": "ex13-34",
+      "number": 34,
+      "name": "Zangoose",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/34.png"
+    },
+    {
+      "id": "ex13-35",
+      "number": 35,
+      "name": "Aerodactyl δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/35.png"
+    },
+    {
+      "id": "ex13-36",
+      "number": 36,
+      "name": "Camerupt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/36.png"
+    },
+    {
+      "id": "ex13-37",
+      "number": 37,
+      "name": "Chimecho δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/37.png"
+    },
+    {
+      "id": "ex13-38",
+      "number": 38,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/38.png"
+    },
+    {
+      "id": "ex13-39",
+      "number": 39,
+      "name": "Combusken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/39.png"
+    },
+    {
+      "id": "ex13-40",
+      "number": 40,
+      "name": "Donphan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/40.png"
+    },
+    {
+      "id": "ex13-41",
+      "number": 41,
+      "name": "Exeggutor δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/41.png"
+    },
+    {
+      "id": "ex13-42",
+      "number": 42,
+      "name": "Gloom δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/42.png"
+    },
+    {
+      "id": "ex13-43",
+      "number": 43,
+      "name": "Golduck δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/43.png"
+    },
+    {
+      "id": "ex13-44",
+      "number": 44,
+      "name": "Holon's Castform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/44.png"
+    },
+    {
+      "id": "ex13-45",
+      "number": 45,
+      "name": "Lairon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/45.png"
+    },
+    {
+      "id": "ex13-46",
+      "number": 46,
+      "name": "Manectric",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/46.png"
+    },
+    {
+      "id": "ex13-47",
+      "number": 47,
+      "name": "Masquerain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/47.png"
+    },
+    {
+      "id": "ex13-48",
+      "number": 48,
+      "name": "Persian δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/48.png"
+    },
+    {
+      "id": "ex13-49",
+      "number": 49,
+      "name": "Pidgeotto δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/49.png"
+    },
+    {
+      "id": "ex13-50",
+      "number": 50,
+      "name": "Primeape δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/50.png"
+    },
+    {
+      "id": "ex13-51",
+      "number": 51,
+      "name": "Raichu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/51.png"
+    },
+    {
+      "id": "ex13-52",
+      "number": 52,
+      "name": "Seadra δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/52.png"
+    },
+    {
+      "id": "ex13-53",
+      "number": 53,
+      "name": "Sharpedo δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/53.png"
+    },
+    {
+      "id": "ex13-54",
+      "number": 54,
+      "name": "Vibrava δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/54.png"
+    },
+    {
+      "id": "ex13-55",
+      "number": 55,
+      "name": "Whiscash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/55.png"
+    },
+    {
+      "id": "ex13-56",
+      "number": 56,
+      "name": "Wobbuffet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/56.png"
+    },
+    {
+      "id": "ex13-57",
+      "number": 57,
+      "name": "Anorith δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/57.png"
+    },
+    {
+      "id": "ex13-58",
+      "number": 58,
+      "name": "Aron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/58.png"
+    },
+    {
+      "id": "ex13-59",
+      "number": 59,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/59.png"
+    },
+    {
+      "id": "ex13-60",
+      "number": 60,
+      "name": "Barboach",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/60.png"
+    },
+    {
+      "id": "ex13-61",
+      "number": 61,
+      "name": "Carvanha δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/61.png"
+    },
+    {
+      "id": "ex13-62",
+      "number": 62,
+      "name": "Corphish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/62.png"
+    },
+    {
+      "id": "ex13-63",
+      "number": 63,
+      "name": "Corphish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/63.png"
+    },
+    {
+      "id": "ex13-64",
+      "number": 64,
+      "name": "Electrike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/64.png"
+    },
+    {
+      "id": "ex13-65",
+      "number": 65,
+      "name": "Exeggcute δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/65.png"
+    },
+    {
+      "id": "ex13-66",
+      "number": 66,
+      "name": "Horsea δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/66.png"
+    },
+    {
+      "id": "ex13-67",
+      "number": 67,
+      "name": "Kabuto δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/67.png"
+    },
+    {
+      "id": "ex13-68",
+      "number": 68,
+      "name": "Lileep δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/68.png"
+    },
+    {
+      "id": "ex13-69",
+      "number": 69,
+      "name": "Magikarp δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/69.png"
+    },
+    {
+      "id": "ex13-70",
+      "number": 70,
+      "name": "Mankey δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/70.png"
+    },
+    {
+      "id": "ex13-71",
+      "number": 71,
+      "name": "Meowth δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/71.png"
+    },
+    {
+      "id": "ex13-72",
+      "number": 72,
+      "name": "Numel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/72.png"
+    },
+    {
+      "id": "ex13-73",
+      "number": 73,
+      "name": "Oddish δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/73.png"
+    },
+    {
+      "id": "ex13-74",
+      "number": 74,
+      "name": "Omanyte δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/74.png"
+    },
+    {
+      "id": "ex13-75",
+      "number": 75,
+      "name": "Phanpy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/75.png"
+    },
+    {
+      "id": "ex13-76",
+      "number": 76,
+      "name": "Pichu δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/76.png"
+    },
+    {
+      "id": "ex13-77",
+      "number": 77,
+      "name": "Pidgey δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/77.png"
+    },
+    {
+      "id": "ex13-78",
+      "number": 78,
+      "name": "Pikachu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/78.png"
+    },
+    {
+      "id": "ex13-79",
+      "number": 79,
+      "name": "Pikachu δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/79.png"
+    },
+    {
+      "id": "ex13-80",
+      "number": 80,
+      "name": "Poochyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/80.png"
+    },
+    {
+      "id": "ex13-81",
+      "number": 81,
+      "name": "Psyduck δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/81.png"
+    },
+    {
+      "id": "ex13-82",
+      "number": 82,
+      "name": "Surskit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/82.png"
+    },
+    {
+      "id": "ex13-83",
+      "number": 83,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/83.png"
+    },
+    {
+      "id": "ex13-84",
+      "number": 84,
+      "name": "Trapinch δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/84.png"
+    },
+    {
+      "id": "ex13-85",
+      "number": 85,
+      "name": "Holon Adventurer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/85.png"
+    },
+    {
+      "id": "ex13-86",
+      "number": 86,
+      "name": "Holon Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/86.png"
+    },
+    {
+      "id": "ex13-87",
+      "number": 87,
+      "name": "Holon Lake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/87.png"
+    },
+    {
+      "id": "ex13-88",
+      "number": 88,
+      "name": "Mr. Stone's Project",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/88.png"
+    },
+    {
+      "id": "ex13-89",
+      "number": 89,
+      "name": "Professor Cozmo's Discovery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/89.png"
+    },
+    {
+      "id": "ex13-90",
+      "number": 90,
+      "name": "Rare Candy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/90.png"
+    },
+    {
+      "id": "ex13-91",
+      "number": 91,
+      "name": "Claw Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/91.png"
+    },
+    {
+      "id": "ex13-92",
+      "number": 92,
+      "name": "Mysterious Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/92.png"
+    },
+    {
+      "id": "ex13-93",
+      "number": 93,
+      "name": "Root Fossil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/93.png"
+    },
+    {
+      "id": "ex13-94",
+      "number": 94,
+      "name": "Darkness Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/94.png"
+    },
+    {
+      "id": "ex13-95",
+      "number": 95,
+      "name": "Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/95.png"
+    },
+    {
+      "id": "ex13-96",
+      "number": 96,
+      "name": "Multi Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/96.png"
+    },
+    {
+      "id": "ex13-97",
+      "number": 97,
+      "name": "Dark Metal Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/97.png"
+    },
+    {
+      "id": "ex13-98",
+      "number": 98,
+      "name": "δ Rainbow Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/98.png"
+    },
+    {
+      "id": "ex13-99",
+      "number": 99,
+      "name": "Crawdaunt ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/99.png"
+    },
+    {
+      "id": "ex13-100",
+      "number": 100,
+      "name": "Mew ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/100.png"
+    },
+    {
+      "id": "ex13-101",
+      "number": 101,
+      "name": "Mightyena ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/101.png"
+    },
+    {
+      "id": "ex13-102",
+      "number": 102,
+      "name": "Gyarados ☆ δ",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/102.png"
+    },
+    {
+      "id": "ex13-103",
+      "number": 103,
+      "name": "Mewtwo Star",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/103.png"
+    },
+    {
+      "id": "ex13-104",
+      "number": 104,
+      "name": "Pikachu Star",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/104.png"
+    },
+    {
+      "id": "ex13-105",
+      "number": 105,
+      "name": "Grass Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/105.png"
+    },
+    {
+      "id": "ex13-106",
+      "number": 106,
+      "name": "Fire Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/106.png"
+    },
+    {
+      "id": "ex13-107",
+      "number": 107,
+      "name": "Water Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/107.png"
+    },
+    {
+      "id": "ex13-108",
+      "number": 108,
+      "name": "Lightning Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/108.png"
+    },
+    {
+      "id": "ex13-109",
+      "number": 109,
+      "name": "Psychic Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/109.png"
+    },
+    {
+      "id": "ex13-110",
+      "number": 110,
+      "name": "Fighting Energy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/110.png"
+    },
+    {
+      "id": "ex13-111",
+      "number": 111,
+      "name": "Mew",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Holon%20Phantoms/images/111.png"
+    }
+  ]
+}

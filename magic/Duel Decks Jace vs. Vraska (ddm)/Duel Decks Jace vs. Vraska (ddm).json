@@ -1,0 +1,535 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duel Decks: Jace vs. Vraska",
+  "totalCards": 88,
+  "cards": [
+    {
+      "id": "5410254f-cf9d-46c2-acea-07298ae65924",
+      "number": 1,
+      "name": "Jace, Architect of Thought",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/1.jpg"
+    },
+    {
+      "id": "787b6916-3fce-41dd-ab52-f17546fd04ed",
+      "number": 2,
+      "name": "Chronomaton",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/2.jpg"
+    },
+    {
+      "id": "f2291b66-8a3f-42a5-8494-09ecee64ed34",
+      "number": 3,
+      "name": "Jace's Phantasm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/3.jpg"
+    },
+    {
+      "id": "fa599aad-d46b-40dc-8eca-4c95e408d0b4",
+      "number": 4,
+      "name": "Phantasmal Bear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/4.jpg"
+    },
+    {
+      "id": "15fd5ce4-335f-409c-a09e-e17a41c2da71",
+      "number": 5,
+      "name": "Aether Figment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/5.jpg"
+    },
+    {
+      "id": "d04e6d05-5ec8-4e7d-86b8-da9549dbaa5e",
+      "number": 6,
+      "name": "Crosstown Courier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/6.jpg"
+    },
+    {
+      "id": "32822430-610d-47ce-9896-20191dce39d7",
+      "number": 7,
+      "name": "Dream Stalker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/7.jpg"
+    },
+    {
+      "id": "6152487a-4b9b-4c26-9430-afab60e43101",
+      "number": 8,
+      "name": "Krovikan Mist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/8.jpg"
+    },
+    {
+      "id": "334c41e0-e632-4fce-941a-e562aec5a4db",
+      "number": 9,
+      "name": "Merfolk Wayfinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/9.jpg"
+    },
+    {
+      "id": "1b35add6-630c-4b3a-bf30-8b0ed5d0550f",
+      "number": 10,
+      "name": "Sea Gate Oracle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/10.jpg"
+    },
+    {
+      "id": "8a0e0130-0043-4125-8db7-a233b5937e3a",
+      "number": 11,
+      "name": "Stealer of Secrets",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/11.jpg"
+    },
+    {
+      "id": "1640b76d-15d6-4b08-a34b-c5432259d570",
+      "number": 12,
+      "name": "Aether Adept",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/12.jpg"
+    },
+    {
+      "id": "93f5e67f-6013-47c8-8905-6a70c9f28faf",
+      "number": 13,
+      "name": "Archaeomancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/13.jpg"
+    },
+    {
+      "id": "4ed5909d-b54c-44d5-9f3f-7e9a2c6a25c7",
+      "number": 14,
+      "name": "Phantasmal Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/14.jpg"
+    },
+    {
+      "id": "690d22ce-fb21-4094-aa89-cc7c8a72840c",
+      "number": 15,
+      "name": "Body Double",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/15.jpg"
+    },
+    {
+      "id": "2bb3035b-3f13-4c1c-83a1-44c2750455ec",
+      "number": 16,
+      "name": "Leyline Phantom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/16.jpg"
+    },
+    {
+      "id": "1aa65b04-2aa6-48ae-b3b8-a8d5216422e6",
+      "number": 17,
+      "name": "Aeon Chronicler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/17.jpg"
+    },
+    {
+      "id": "7782e084-d746-4875-8986-4464eb65b24e",
+      "number": 18,
+      "name": "Riftwing Cloudskate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/18.jpg"
+    },
+    {
+      "id": "aeec1661-43e9-4e64-8798-c9aebad421e6",
+      "number": 19,
+      "name": "Jace's Mindseeker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/19.jpg"
+    },
+    {
+      "id": "fc63ad41-8b34-4c19-834f-990dad602836",
+      "number": 20,
+      "name": "Errant Ephemeron",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/20.jpg"
+    },
+    {
+      "id": "07365d4e-2252-43c9-89cb-706d00dfea61",
+      "number": 21,
+      "name": "Thought Scour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/21.jpg"
+    },
+    {
+      "id": "b450de6b-4b2f-4004-be7c-484434f28faf",
+      "number": 22,
+      "name": "Agoraphobia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/22.jpg"
+    },
+    {
+      "id": "a4ab4c36-eb3e-496e-ad70-de7c36e3f71e",
+      "number": 23,
+      "name": "Into the Roil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/23.jpg"
+    },
+    {
+      "id": "8e3697f5-e264-415f-83bc-e72432857111",
+      "number": 24,
+      "name": "Memory Lapse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/24.jpg"
+    },
+    {
+      "id": "5f3af1f2-8581-4e5d-b128-d74a0a9eaf12",
+      "number": 25,
+      "name": "Prohibit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/25.jpg"
+    },
+    {
+      "id": "0027e5ca-8046-40a0-bd73-79be55f28bff",
+      "number": 26,
+      "name": "Remand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/26.jpg"
+    },
+    {
+      "id": "3acb4667-29dd-44cb-a817-b3602fc2bf08",
+      "number": 27,
+      "name": "Claustrophobia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/27.jpg"
+    },
+    {
+      "id": "77480b11-2470-401a-be19-710ea32b719d",
+      "number": 28,
+      "name": "Griptide",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/28.jpg"
+    },
+    {
+      "id": "7ca8a427-5c20-4650-bbb5-9895e4f2c009",
+      "number": 29,
+      "name": "Ray of Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/29.jpg"
+    },
+    {
+      "id": "175e1d6c-1ec9-4af8-9c8d-63ecaa6a6776",
+      "number": 30,
+      "name": "Control Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/30.jpg"
+    },
+    {
+      "id": "54a9a782-3479-41cd-9c4f-fa38bfad98c8",
+      "number": 31,
+      "name": "Summoner's Bane",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/31.jpg"
+    },
+    {
+      "id": "45ddbda2-7cd0-4c1e-b6e7-9edc224a4366",
+      "number": 32,
+      "name": "Jace's Ingenuity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/32.jpg"
+    },
+    {
+      "id": "c37c7dfa-3ef3-4958-9b54-e96c7483f054",
+      "number": 33,
+      "name": "Future Sight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/33.jpg"
+    },
+    {
+      "id": "0f749639-a16a-4865-afdb-f415324f2ed7",
+      "number": 34,
+      "name": "Spelltwine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/34.jpg"
+    },
+    {
+      "id": "f6087b1e-1716-4c51-b8c0-fd076d17457a",
+      "number": 35,
+      "name": "Dread Statuary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/35.jpg"
+    },
+    {
+      "id": "d017b08e-4f52-4599-9037-73113b36fec8",
+      "number": 36,
+      "name": "Halimar Depths",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/36.jpg"
+    },
+    {
+      "id": "b4a728fd-e564-4a7c-9dde-e3e8b70c1f68",
+      "number": 37,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/37.jpg"
+    },
+    {
+      "id": "24295928-6414-4992-9dac-06021a304742",
+      "number": 38,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/38.jpg"
+    },
+    {
+      "id": "0c88a936-b745-402b-9eda-f9a18342698e",
+      "number": 39,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/39.jpg"
+    },
+    {
+      "id": "542a895f-11af-4534-b9b3-e1a3e77fabca",
+      "number": 40,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/40.jpg"
+    },
+    {
+      "id": "2e9d8487-5e73-4d14-bea7-8c7eee6acc80",
+      "number": 41,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/41.jpg"
+    },
+    {
+      "id": "19b9432d-9ae5-4821-b6c4-2e90240d8623",
+      "number": 42,
+      "name": "Vraska the Unseen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/42.jpg"
+    },
+    {
+      "id": "63752c08-55a8-4512-8ea1-a9235adbb685",
+      "number": 43,
+      "name": "Pulse Tracker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/43.jpg"
+    },
+    {
+      "id": "e90dd639-be14-41e1-918c-4ce6af2d84f8",
+      "number": 44,
+      "name": "Shadow Alley Denizen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/44.jpg"
+    },
+    {
+      "id": "cff4cb5e-fe71-4136-91e6-164168aac295",
+      "number": 45,
+      "name": "Tavern Swindler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/45.jpg"
+    },
+    {
+      "id": "776e36b2-d035-41a0-b218-6f2cb96f92af",
+      "number": 46,
+      "name": "Wight of Precinct Six",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/46.jpg"
+    },
+    {
+      "id": "6e9f4347-be56-44c3-bf0d-24519c4324fd",
+      "number": 47,
+      "name": "Death-Hood Cobra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/47.jpg"
+    },
+    {
+      "id": "e1ebaed7-b3d5-4eb8-93f7-3a65fd7b89b6",
+      "number": 48,
+      "name": "Gatecreeper Vine",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/48.jpg"
+    },
+    {
+      "id": "edfbf056-c3b7-40e9-8e2b-333585978ac9",
+      "number": 49,
+      "name": "River Boa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/49.jpg"
+    },
+    {
+      "id": "bcae0517-f7d1-4b67-9ca3-608f2d8a70f9",
+      "number": 50,
+      "name": "Vinelasher Kudzu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/50.jpg"
+    },
+    {
+      "id": "c901a8d7-e230-4a08-afe5-00e9d1c85544",
+      "number": 51,
+      "name": "Putrid Leech",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/51.jpg"
+    },
+    {
+      "id": "db9ee363-40c4-495f-910a-4f4cd6377e84",
+      "number": 52,
+      "name": "Sadistic Augermage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/52.jpg"
+    },
+    {
+      "id": "a0efff1e-c4ce-4521-bd7d-2134b96dc7d3",
+      "number": 53,
+      "name": "Slate Street Ruffian",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/53.jpg"
+    },
+    {
+      "id": "50032356-0eb1-4044-9843-d9b5d664b20e",
+      "number": 54,
+      "name": "Oran-Rief Recluse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/54.jpg"
+    },
+    {
+      "id": "5ba6ee29-fc77-4300-9c5e-1557cabd05e5",
+      "number": 55,
+      "name": "Spawnwrithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/55.jpg"
+    },
+    {
+      "id": "028b8d50-b858-4c64-8eb9-b7699b2134df",
+      "number": 56,
+      "name": "Stonefare Crocodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/56.jpg"
+    },
+    {
+      "id": "6f9caaa9-7d8d-459a-8d6b-75f85877c426",
+      "number": 57,
+      "name": "Ohran Viper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/57.jpg"
+    },
+    {
+      "id": "005ae9a2-b235-49ee-ae54-6875e087f43d",
+      "number": 58,
+      "name": "Corpse Traders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/58.jpg"
+    },
+    {
+      "id": "1cb8cf51-12e0-4727-9f97-5e471ace8278",
+      "number": 59,
+      "name": "Festerhide Boar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/59.jpg"
+    },
+    {
+      "id": "9b14ea9c-5bad-499d-8c3d-da72b748769b",
+      "number": 60,
+      "name": "Mold Shambler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/60.jpg"
+    },
+    {
+      "id": "2126c83b-75ce-4526-8f91-5cd8b6ec74a5",
+      "number": 61,
+      "name": "Highway Robber",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/61.jpg"
+    },
+    {
+      "id": "1f6665d5-8896-4c85-afbb-f11de62962ef",
+      "number": 62,
+      "name": "Nekrataal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/62.jpg"
+    },
+    {
+      "id": "016d333a-6a04-42ff-ba65-b3a5d251893e",
+      "number": 63,
+      "name": "Reaper of the Wilds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/63.jpg"
+    },
+    {
+      "id": "9a68b628-dfe6-4be0-b491-de4f6262575a",
+      "number": 64,
+      "name": "Acidic Slime",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/64.jpg"
+    },
+    {
+      "id": "d311dfd5-80b0-48bb-abe9-68b0abab8ca2",
+      "number": 65,
+      "name": "Drooling Groodion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/65.jpg"
+    },
+    {
+      "id": "92085347-6fdd-429c-9ed4-1548cc44d191",
+      "number": 66,
+      "name": "Tragic Slip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/66.jpg"
+    },
+    {
+      "id": "62e55607-4c1f-46ab-aae7-391b65a125c4",
+      "number": 67,
+      "name": "Hypnotic Cloud",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/67.jpg"
+    },
+    {
+      "id": "18f23daa-bc59-456a-8a28-3823e51bc74b",
+      "number": 68,
+      "name": "Night's Whisper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/68.jpg"
+    },
+    {
+      "id": "0a007dd4-f20d-4ed3-ab0b-96f6ad7236d5",
+      "number": 69,
+      "name": "Marsh Casualties",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/69.jpg"
+    },
+    {
+      "id": "9317b616-eabe-461a-bd60-6dd8620becb4",
+      "number": 70,
+      "name": "Treasured Find",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/70.jpg"
+    },
+    {
+      "id": "5ac5e741-3eee-4580-a931-7cad50c77934",
+      "number": 71,
+      "name": "Last Kiss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/71.jpg"
+    },
+    {
+      "id": "089ea955-1b54-4c7a-b305-c0fa559a94c8",
+      "number": 72,
+      "name": "Stab Wound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/72.jpg"
+    },
+    {
+      "id": "be2fef19-4ccb-4ca4-b4d6-46c258583290",
+      "number": 73,
+      "name": "Underworld Connections",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/73.jpg"
+    },
+    {
+      "id": "49b48dd6-3311-44a1-8dbd-6fac1957a61d",
+      "number": 74,
+      "name": "Consume Strength",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/74.jpg"
+    },
+    {
+      "id": "434fec21-1338-4f5b-91aa-91be81bf6e5c",
+      "number": 75,
+      "name": "Grisly Spectacle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/75.jpg"
+    },
+    {
+      "id": "6a34921b-042f-435f-8d26-25e7e96a3618",
+      "number": 76,
+      "name": "Golgari Guildgate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/76.jpg"
+    },
+    {
+      "id": "cbdf5688-8b26-4564-831b-a402bd702798",
+      "number": 77,
+      "name": "Rogue's Passage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/77.jpg"
+    },
+    {
+      "id": "15f08390-77d2-4ee7-ac54-94f367213695",
+      "number": 78,
+      "name": "Tainted Wood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/78.jpg"
+    },
+    {
+      "id": "11fd1aaf-b33d-4a27-8394-c0dadf889b1b",
+      "number": 79,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/79.jpg"
+    },
+    {
+      "id": "06017c14-2b8b-4840-be21-023602a3e8d8",
+      "number": 80,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/80.jpg"
+    },
+    {
+      "id": "2d6df214-baa7-4de3-8333-d751c45873e0",
+      "number": 81,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/81.jpg"
+    },
+    {
+      "id": "20a28816-8e41-4c17-9478-2c85e13ee23b",
+      "number": 82,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/82.jpg"
+    },
+    {
+      "id": "50aa6685-48b5-44ac-9588-b94382957bb8",
+      "number": 83,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/83.jpg"
+    },
+    {
+      "id": "a80ca452-06d2-44ba-9ef6-9fe4b7dd81dd",
+      "number": 84,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/84.jpg"
+    },
+    {
+      "id": "ee05a26d-b872-4d49-9860-2fd982b3662f",
+      "number": 85,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/85.jpg"
+    },
+    {
+      "id": "6c39da1f-64f0-45d7-8a50-092caf2ac8f8",
+      "number": 86,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/86.jpg"
+    },
+    {
+      "id": "b0b6e3d0-bbb0-4fa3-8c01-9e2926fed10f",
+      "number": 87,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/87.jpg"
+    },
+    {
+      "id": "543aeea7-23c1-4c7c-a377-f39c94846b5e",
+      "number": 88,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duel%20Decks%20Jace%20vs.%20Vraska%20%28ddm%29/images/88.jpg"
+    }
+  ]
+}

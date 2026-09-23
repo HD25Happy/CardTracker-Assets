@@ -1,0 +1,49 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Magic 2012 Tokens",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "b6311cc7-8431-43a3-83ec-b2a5f07acf56",
+      "number": 1,
+      "name": "Bird",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/1.jpg"
+    },
+    {
+      "id": "7c2a26d0-2687-41f6-99b9-6ed4e5e8a5e4",
+      "number": 2,
+      "name": "Soldier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/2.jpg"
+    },
+    {
+      "id": "8db7e3f4-0153-425a-8edc-2747bbb89638",
+      "number": 3,
+      "name": "Zombie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/3.jpg"
+    },
+    {
+      "id": "3bb48d4f-e39f-4d51-9bb1-efca7dbfdc83",
+      "number": 4,
+      "name": "Beast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/4.jpg"
+    },
+    {
+      "id": "ca2df53f-060d-464a-9c97-908e49e2dc2c",
+      "number": 5,
+      "name": "Saproling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/5.jpg"
+    },
+    {
+      "id": "84dc847c-7a37-4c7f-b02c-30b3e4c91fb6",
+      "number": 6,
+      "name": "Wurm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/6.jpg"
+    },
+    {
+      "id": "a1f88c3e-3532-489a-8f31-e07e8040f28e",
+      "number": 7,
+      "name": "Pentavite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Magic%202012%20Tokens%20%28tm12%29/images/7.jpg"
+    }
+  ]
+}

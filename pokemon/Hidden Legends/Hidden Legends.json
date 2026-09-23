@@ -1,0 +1,620 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Hidden Legends",
+  "totalCards": 102,
+  "availableImages": 102,
+  "cards": [
+    {
+      "id": "ex5-1",
+      "number": 1,
+      "name": "Banette",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/1.png"
+    },
+    {
+      "id": "ex5-2",
+      "number": 2,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/2.png"
+    },
+    {
+      "id": "ex5-3",
+      "number": 3,
+      "name": "Crobat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/3.png"
+    },
+    {
+      "id": "ex5-4",
+      "number": 4,
+      "name": "Dark Celebi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/4.png"
+    },
+    {
+      "id": "ex5-5",
+      "number": 5,
+      "name": "Electrode",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/5.png"
+    },
+    {
+      "id": "ex5-6",
+      "number": 6,
+      "name": "Exploud",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/6.png"
+    },
+    {
+      "id": "ex5-7",
+      "number": 7,
+      "name": "Heracross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/7.png"
+    },
+    {
+      "id": "ex5-8",
+      "number": 8,
+      "name": "Jirachi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/8.png"
+    },
+    {
+      "id": "ex5-9",
+      "number": 9,
+      "name": "Machamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/9.png"
+    },
+    {
+      "id": "ex5-10",
+      "number": 10,
+      "name": "Medicham",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/10.png"
+    },
+    {
+      "id": "ex5-11",
+      "number": 11,
+      "name": "Metagross",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/11.png"
+    },
+    {
+      "id": "ex5-12",
+      "number": 12,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/12.png"
+    },
+    {
+      "id": "ex5-13",
+      "number": 13,
+      "name": "Pinsir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/13.png"
+    },
+    {
+      "id": "ex5-14",
+      "number": 14,
+      "name": "Shiftry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/14.png"
+    },
+    {
+      "id": "ex5-15",
+      "number": 15,
+      "name": "Walrein",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/15.png"
+    },
+    {
+      "id": "ex5-16",
+      "number": 16,
+      "name": "Bellossom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/16.png"
+    },
+    {
+      "id": "ex5-17",
+      "number": 17,
+      "name": "Chimecho",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/17.png"
+    },
+    {
+      "id": "ex5-18",
+      "number": 18,
+      "name": "Gorebyss",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/18.png"
+    },
+    {
+      "id": "ex5-19",
+      "number": 19,
+      "name": "Huntail",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/19.png"
+    },
+    {
+      "id": "ex5-20",
+      "number": 20,
+      "name": "Masquerain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/20.png"
+    },
+    {
+      "id": "ex5-21",
+      "number": 21,
+      "name": "Metang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/21.png"
+    },
+    {
+      "id": "ex5-22",
+      "number": 22,
+      "name": "Ninetales",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/22.png"
+    },
+    {
+      "id": "ex5-23",
+      "number": 23,
+      "name": "Rain Castform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/23.png"
+    },
+    {
+      "id": "ex5-24",
+      "number": 24,
+      "name": "Relicanth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/24.png"
+    },
+    {
+      "id": "ex5-25",
+      "number": 25,
+      "name": "Snow-cloud Castform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/25.png"
+    },
+    {
+      "id": "ex5-26",
+      "number": 26,
+      "name": "Sunny Castform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/26.png"
+    },
+    {
+      "id": "ex5-27",
+      "number": 27,
+      "name": "Tropius",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/27.png"
+    },
+    {
+      "id": "ex5-28",
+      "number": 28,
+      "name": "Beldum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/28.png"
+    },
+    {
+      "id": "ex5-29",
+      "number": 29,
+      "name": "Beldum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/29.png"
+    },
+    {
+      "id": "ex5-30",
+      "number": 30,
+      "name": "Castform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/30.png"
+    },
+    {
+      "id": "ex5-31",
+      "number": 31,
+      "name": "Claydol",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/31.png"
+    },
+    {
+      "id": "ex5-32",
+      "number": 32,
+      "name": "Corsola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/32.png"
+    },
+    {
+      "id": "ex5-33",
+      "number": 33,
+      "name": "Dodrio",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/33.png"
+    },
+    {
+      "id": "ex5-34",
+      "number": 34,
+      "name": "Glalie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/34.png"
+    },
+    {
+      "id": "ex5-35",
+      "number": 35,
+      "name": "Gloom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/35.png"
+    },
+    {
+      "id": "ex5-36",
+      "number": 36,
+      "name": "Golbat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/36.png"
+    },
+    {
+      "id": "ex5-37",
+      "number": 37,
+      "name": "Igglybuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/37.png"
+    },
+    {
+      "id": "ex5-38",
+      "number": 38,
+      "name": "Lanturn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/38.png"
+    },
+    {
+      "id": "ex5-39",
+      "number": 39,
+      "name": "Loudred",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/39.png"
+    },
+    {
+      "id": "ex5-40",
+      "number": 40,
+      "name": "Luvdisc",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/40.png"
+    },
+    {
+      "id": "ex5-41",
+      "number": 41,
+      "name": "Machoke",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/41.png"
+    },
+    {
+      "id": "ex5-42",
+      "number": 42,
+      "name": "Medicham",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/42.png"
+    },
+    {
+      "id": "ex5-43",
+      "number": 43,
+      "name": "Metang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/43.png"
+    },
+    {
+      "id": "ex5-44",
+      "number": 44,
+      "name": "Metang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/44.png"
+    },
+    {
+      "id": "ex5-45",
+      "number": 45,
+      "name": "Nuzleaf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/45.png"
+    },
+    {
+      "id": "ex5-46",
+      "number": 46,
+      "name": "Rhydon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/46.png"
+    },
+    {
+      "id": "ex5-47",
+      "number": 47,
+      "name": "Sealeo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/47.png"
+    },
+    {
+      "id": "ex5-48",
+      "number": 48,
+      "name": "Spinda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/48.png"
+    },
+    {
+      "id": "ex5-49",
+      "number": 49,
+      "name": "Starmie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/49.png"
+    },
+    {
+      "id": "ex5-50",
+      "number": 50,
+      "name": "Swalot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/50.png"
+    },
+    {
+      "id": "ex5-51",
+      "number": 51,
+      "name": "Tentacruel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/51.png"
+    },
+    {
+      "id": "ex5-52",
+      "number": 52,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/52.png"
+    },
+    {
+      "id": "ex5-53",
+      "number": 53,
+      "name": "Baltoy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/53.png"
+    },
+    {
+      "id": "ex5-54",
+      "number": 54,
+      "name": "Beldum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/54.png"
+    },
+    {
+      "id": "ex5-55",
+      "number": 55,
+      "name": "Chikorita",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/55.png"
+    },
+    {
+      "id": "ex5-56",
+      "number": 56,
+      "name": "Chinchou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/56.png"
+    },
+    {
+      "id": "ex5-57",
+      "number": 57,
+      "name": "Chinchou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/57.png"
+    },
+    {
+      "id": "ex5-58",
+      "number": 58,
+      "name": "Clamperl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/58.png"
+    },
+    {
+      "id": "ex5-59",
+      "number": 59,
+      "name": "Cyndaquil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/59.png"
+    },
+    {
+      "id": "ex5-60",
+      "number": 60,
+      "name": "Doduo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/60.png"
+    },
+    {
+      "id": "ex5-61",
+      "number": 61,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/61.png"
+    },
+    {
+      "id": "ex5-62",
+      "number": 62,
+      "name": "Gulpin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/62.png"
+    },
+    {
+      "id": "ex5-63",
+      "number": 63,
+      "name": "Jigglypuff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/63.png"
+    },
+    {
+      "id": "ex5-64",
+      "number": 64,
+      "name": "Machop",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/64.png"
+    },
+    {
+      "id": "ex5-65",
+      "number": 65,
+      "name": "Meditite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/65.png"
+    },
+    {
+      "id": "ex5-66",
+      "number": 66,
+      "name": "Meditite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/66.png"
+    },
+    {
+      "id": "ex5-67",
+      "number": 67,
+      "name": "Minun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/67.png"
+    },
+    {
+      "id": "ex5-68",
+      "number": 68,
+      "name": "Oddish",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/68.png"
+    },
+    {
+      "id": "ex5-69",
+      "number": 69,
+      "name": "Plusle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/69.png"
+    },
+    {
+      "id": "ex5-70",
+      "number": 70,
+      "name": "Rhyhorn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/70.png"
+    },
+    {
+      "id": "ex5-71",
+      "number": 71,
+      "name": "Seedot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/71.png"
+    },
+    {
+      "id": "ex5-72",
+      "number": 72,
+      "name": "Shuppet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/72.png"
+    },
+    {
+      "id": "ex5-73",
+      "number": 73,
+      "name": "Snorunt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/73.png"
+    },
+    {
+      "id": "ex5-74",
+      "number": 74,
+      "name": "Spheal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/74.png"
+    },
+    {
+      "id": "ex5-75",
+      "number": 75,
+      "name": "Staryu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/75.png"
+    },
+    {
+      "id": "ex5-76",
+      "number": 76,
+      "name": "Surskit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/76.png"
+    },
+    {
+      "id": "ex5-77",
+      "number": 77,
+      "name": "Tentacool",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/77.png"
+    },
+    {
+      "id": "ex5-78",
+      "number": 78,
+      "name": "Togepi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/78.png"
+    },
+    {
+      "id": "ex5-79",
+      "number": 79,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/79.png"
+    },
+    {
+      "id": "ex5-80",
+      "number": 80,
+      "name": "Voltorb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/80.png"
+    },
+    {
+      "id": "ex5-81",
+      "number": 81,
+      "name": "Vulpix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/81.png"
+    },
+    {
+      "id": "ex5-82",
+      "number": 82,
+      "name": "Whismur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/82.png"
+    },
+    {
+      "id": "ex5-83",
+      "number": 83,
+      "name": "Zubat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/83.png"
+    },
+    {
+      "id": "ex5-84",
+      "number": 84,
+      "name": "Ancient Technical Machine [Ice]",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/84.png"
+    },
+    {
+      "id": "ex5-85",
+      "number": 85,
+      "name": "Ancient Technical Machine [Rock]",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/85.png"
+    },
+    {
+      "id": "ex5-86",
+      "number": 86,
+      "name": "Ancient Technical Machine [Steel]",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/86.png"
+    },
+    {
+      "id": "ex5-87",
+      "number": 87,
+      "name": "Ancient Tomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/87.png"
+    },
+    {
+      "id": "ex5-88",
+      "number": 88,
+      "name": "Desert Ruins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/88.png"
+    },
+    {
+      "id": "ex5-89",
+      "number": 89,
+      "name": "Island Cave",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/89.png"
+    },
+    {
+      "id": "ex5-90",
+      "number": 90,
+      "name": "Life Herb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/90.png"
+    },
+    {
+      "id": "ex5-91",
+      "number": 91,
+      "name": "Magnetic Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/91.png"
+    },
+    {
+      "id": "ex5-92",
+      "number": 92,
+      "name": "Steven's Advice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/92.png"
+    },
+    {
+      "id": "ex5-93",
+      "number": 93,
+      "name": "Groudon ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/93.png"
+    },
+    {
+      "id": "ex5-94",
+      "number": 94,
+      "name": "Kyogre ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/94.png"
+    },
+    {
+      "id": "ex5-95",
+      "number": 95,
+      "name": "Metagross ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/95.png"
+    },
+    {
+      "id": "ex5-96",
+      "number": 96,
+      "name": "Ninetales ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/96.png"
+    },
+    {
+      "id": "ex5-97",
+      "number": 97,
+      "name": "Regice ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/97.png"
+    },
+    {
+      "id": "ex5-98",
+      "number": 98,
+      "name": "Regirock ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/98.png"
+    },
+    {
+      "id": "ex5-99",
+      "number": 99,
+      "name": "Registeel ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/99.png"
+    },
+    {
+      "id": "ex5-100",
+      "number": 100,
+      "name": "Vileplume ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/100.png"
+    },
+    {
+      "id": "ex5-101",
+      "number": 101,
+      "name": "Wigglytuff ex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/101.png"
+    },
+    {
+      "id": "ex5-102",
+      "number": 102,
+      "name": "Groudon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Hidden%20Legends/images/102.png"
+    }
+  ]
+}

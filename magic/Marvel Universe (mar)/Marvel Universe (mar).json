@@ -1,0 +1,607 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Marvel Universe",
+  "totalCards": 100,
+  "cards": [
+    {
+      "id": "ec191a2f-12b1-438b-b2fe-f88fb82d9b87",
+      "number": 1,
+      "name": "Comeuppance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/1.jpg"
+    },
+    {
+      "id": "5d587b65-8c90-41e3-96e0-ecb3bbfb0ac7",
+      "number": 2,
+      "name": "Leyline Binding",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/2.jpg"
+    },
+    {
+      "id": "5a0b9b21-4d7f-4b02-aef1-3598eae2f581",
+      "number": 3,
+      "name": "Nine Lives",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/3.jpg"
+    },
+    {
+      "id": "3dfddf82-4dc7-4749-aa1c-d58cc6858cc0",
+      "number": 4,
+      "name": "Path to Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/4.jpg"
+    },
+    {
+      "id": "2bb8ede7-ca50-4df8-aa30-f1b14520163f",
+      "number": 5,
+      "name": "Reprieve",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/5.jpg"
+    },
+    {
+      "id": "4266ac5c-40dc-4fe3-9f42-e03cea5277ea",
+      "number": 6,
+      "name": "Rest in Peace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/6.jpg"
+    },
+    {
+      "id": "9a581f34-521c-4d28-96d4-be1e8dbc30b8",
+      "number": 7,
+      "name": "Wedding Ring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/7.jpg"
+    },
+    {
+      "id": "e23cbf2a-c07b-4202-826d-9b3c4a35a02e",
+      "number": 8,
+      "name": "Clever Impersonator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/8.jpg"
+    },
+    {
+      "id": "610a7782-ffe4-4b1c-bcc2-b3d89357e3da",
+      "number": 9,
+      "name": "Counterspell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/9.jpg"
+    },
+    {
+      "id": "deda48c4-527f-4367-83ed-3b3c30beaab8",
+      "number": 10,
+      "name": "Lorthos, the Tidemaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/10.jpg"
+    },
+    {
+      "id": "75b75aaf-499d-47b0-ab6d-873240b641b2",
+      "number": 11,
+      "name": "Mindbreak Trap",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/11.jpg"
+    },
+    {
+      "id": "5df07a06-e585-412d-a6db-cb5a78a68b6e",
+      "number": 12,
+      "name": "Mystic Confluence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/12.jpg"
+    },
+    {
+      "id": "ac1042e0-af4d-42b0-9d43-34b3fa5daf92",
+      "number": 13,
+      "name": "Ponder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/13.jpg"
+    },
+    {
+      "id": "3b4d51b9-f99e-4253-83d7-4dc6ef9bbe41",
+      "number": 14,
+      "name": "Rite of Replication",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/14.jpg"
+    },
+    {
+      "id": "d7706745-60fd-4fdb-9083-931b05a3e2b1",
+      "number": 15,
+      "name": "Traumatize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/15.jpg"
+    },
+    {
+      "id": "cf10e116-d1da-4570-be0e-c597a9e75d72",
+      "number": 16,
+      "name": "Feed the Swarm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/16.jpg"
+    },
+    {
+      "id": "0db3f148-4ede-4134-b2e0-2bb513d9cefc",
+      "number": 17,
+      "name": "Hex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/17.jpg"
+    },
+    {
+      "id": "82d69044-8d8c-4ae3-853e-de180f4706ca",
+      "number": 18,
+      "name": "Infernal Grasp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/18.jpg"
+    },
+    {
+      "id": "d7b0a0d5-a9fe-49ea-9250-8825b36accc0",
+      "number": 19,
+      "name": "Opposition Agent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/19.jpg"
+    },
+    {
+      "id": "3e560cb9-3036-46a2-a5c7-edb04d0095b7",
+      "number": 20,
+      "name": "Reanimate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/20.jpg"
+    },
+    {
+      "id": "eea57be1-032d-40ec-8091-92f89670e4a1",
+      "number": 21,
+      "name": "Saw in Half",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/21.jpg"
+    },
+    {
+      "id": "c47d09a5-a6d2-4bc2-bf65-b32e3c897c49",
+      "number": 22,
+      "name": "Skithiryx, the Blight Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/22.jpg"
+    },
+    {
+      "id": "7ebd1f51-2db6-4c3f-95cb-8035a410a8e8",
+      "number": 23,
+      "name": "Goblin Bombardment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/23.jpg"
+    },
+    {
+      "id": "08eb1bef-b00d-490b-a631-2849e0d1fd8e",
+      "number": 24,
+      "name": "Najeela, the Blade-Blossom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/24.jpg"
+    },
+    {
+      "id": "e473a591-9aae-4af2-9b25-96820b317df8",
+      "number": 25,
+      "name": "Relentless Assault",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/25.jpg"
+    },
+    {
+      "id": "291ffa45-f395-420f-8862-9a685b65ce69",
+      "number": 26,
+      "name": "Savage Beating",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/26.jpg"
+    },
+    {
+      "id": "8066310c-dcd6-465b-a0ae-44c8602367de",
+      "number": 27,
+      "name": "Shock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/27.jpg"
+    },
+    {
+      "id": "2f8e351a-ce09-4f7d-8b4e-bcffcab66aa1",
+      "number": 28,
+      "name": "Thrill of Possibility",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/28.jpg"
+    },
+    {
+      "id": "33ba9e5a-d078-4a47-b181-0ca7d1596919",
+      "number": 29,
+      "name": "Unexpected Windfall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/29.jpg"
+    },
+    {
+      "id": "a6e83b7b-07df-4ff0-8942-8fdb3f1502f9",
+      "number": 30,
+      "name": "Winds of Change",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/30.jpg"
+    },
+    {
+      "id": "77e2f5ac-5c0d-4503-b8ab-fee00eaaa4a3",
+      "number": 31,
+      "name": "Arachnogenesis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/31.jpg"
+    },
+    {
+      "id": "255544be-db0f-4dcc-8787-f05652cd2684",
+      "number": 32,
+      "name": "Arasta of the Endless Web",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/32.jpg"
+    },
+    {
+      "id": "7f419a04-7a18-4ea4-9581-bbc35bec4f16",
+      "number": 33,
+      "name": "Beast Within",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/33.jpg"
+    },
+    {
+      "id": "5fb701f6-bfad-4b43-9a0f-85496973d849",
+      "number": 34,
+      "name": "Heroic Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/34.jpg"
+    },
+    {
+      "id": "96c20d6f-6272-42f1-bfda-308ce7c4206a",
+      "number": 35,
+      "name": "Hunter's Insight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/35.jpg"
+    },
+    {
+      "id": "0c9c514f-f506-4b2c-af58-79922834cde7",
+      "number": 36,
+      "name": "Parallel Lives",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/36.jpg"
+    },
+    {
+      "id": "dcc41152-ca20-40d6-82ac-6b7fcd471a42",
+      "number": 37,
+      "name": "Silkguard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/37.jpg"
+    },
+    {
+      "id": "10c51d68-9a69-4784-9ce1-d6beaafa3ed3",
+      "number": 38,
+      "name": "Tangle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/38.jpg"
+    },
+    {
+      "id": "5a2f6ccf-af93-4922-973d-6abfeb4d7cfc",
+      "number": 39,
+      "name": "Alibou, Ancient Witness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/39.jpg"
+    },
+    {
+      "id": "71c9ed41-8832-440d-a455-f52f284e8d14",
+      "number": 40,
+      "name": "Terminate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/40.jpg"
+    },
+    {
+      "id": "5d393449-bdbe-4638-ba0b-7ec83f81b51e",
+      "number": 41,
+      "name": "Archangel of Thune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/41.jpg"
+    },
+    {
+      "id": "6b6b0a9f-0373-43c0-9c84-5c2efe902676",
+      "number": 42,
+      "name": "Concerted Effort",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/42.jpg"
+    },
+    {
+      "id": "c55e5f0d-8a4b-4b6f-ab43-1268b6fac74e",
+      "number": 43,
+      "name": "Don't Move",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/43.jpg"
+    },
+    {
+      "id": "621e3239-b527-4154-bce6-b51241809fc5",
+      "number": 44,
+      "name": "Ephemerate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/44.jpg"
+    },
+    {
+      "id": "a5abbfdb-0460-4f78-be7f-d3e8a4b3afb5",
+      "number": 45,
+      "name": "Final Showdown",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/45.jpg"
+    },
+    {
+      "id": "f78673f6-8173-4d0e-ae50-539cad30aa5c",
+      "number": 46,
+      "name": "Light of Promise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/46.jpg"
+    },
+    {
+      "id": "e2e30b25-b710-4566-8b0f-56f6e390a446",
+      "number": 47,
+      "name": "Path to Exile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/47.jpg"
+    },
+    {
+      "id": "bbc54478-d2f8-4abf-b664-cf014027c0dc",
+      "number": 48,
+      "name": "Return to the Ranks",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/48.jpg"
+    },
+    {
+      "id": "e6a3a9fd-9653-45dd-b592-a36f85af8fc4",
+      "number": 49,
+      "name": "Righteous Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/49.jpg"
+    },
+    {
+      "id": "44398c81-593a-4967-acf2-ec9823a10d33",
+      "number": 50,
+      "name": "Steelshaper's Gift",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/50.jpg"
+    },
+    {
+      "id": "c54d5ea1-0cc9-4e84-b712-642d55915dae",
+      "number": 51,
+      "name": "Teferi's Protection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/51.jpg"
+    },
+    {
+      "id": "379f4020-a58c-484d-9b44-72b200884079",
+      "number": 52,
+      "name": "Counterspell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/52.jpg"
+    },
+    {
+      "id": "9319c91c-fad3-4840-b3ca-5d3d94eb7ddf",
+      "number": 53,
+      "name": "Cyberdrive Awakener",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/53.jpg"
+    },
+    {
+      "id": "87c899c1-401f-4090-8f71-307e7106cdf2",
+      "number": 54,
+      "name": "Dig Through Time",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/54.jpg"
+    },
+    {
+      "id": "cd8c028c-82bb-4d47-a9cb-ed34c25f2599",
+      "number": 55,
+      "name": "Harbinger of the Seas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/55.jpg"
+    },
+    {
+      "id": "2e26f6c6-c043-4b71-ab90-584dceeec092",
+      "number": 56,
+      "name": "Lord of Atlantis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/56.jpg"
+    },
+    {
+      "id": "27bd54ab-5512-4011-a60f-ec2899b34327",
+      "number": 57,
+      "name": "Mechanized Production",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/57.jpg"
+    },
+    {
+      "id": "0355887d-eec7-4b1c-ada1-014ac7fce5c6",
+      "number": 58,
+      "name": "Narset's Reversal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/58.jpg"
+    },
+    {
+      "id": "875dfbf5-9313-439b-b021-8b92d898baa4",
+      "number": 59,
+      "name": "Reconnaissance Mission",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/59.jpg"
+    },
+    {
+      "id": "aee8a17a-de57-4a76-9613-d3c6b161e378",
+      "number": 60,
+      "name": "Show and Tell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/60.jpg"
+    },
+    {
+      "id": "c201946b-0746-4f8b-bd7b-84dc0fa60395",
+      "number": 61,
+      "name": "Simulacrum Synthesizer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/61.jpg"
+    },
+    {
+      "id": "c39be5b1-b693-4b1b-b40b-8bf6d1fe986d",
+      "number": 62,
+      "name": "Three Steps Ahead",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/62.jpg"
+    },
+    {
+      "id": "ee10e249-5000-4348-8e8e-6b9ac879db12",
+      "number": 63,
+      "name": "Dauthi Voidwalker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/63.jpg"
+    },
+    {
+      "id": "e0f658ff-323e-4e32-beaa-1d5753b4f081",
+      "number": 64,
+      "name": "Deadly Dispute",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/64.jpg"
+    },
+    {
+      "id": "f6bcf690-c532-4d2d-8458-78a5613a6090",
+      "number": 65,
+      "name": "Extinction Event",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/65.jpg"
+    },
+    {
+      "id": "c3a474a8-b2f0-4392-9f5d-0f78b3fb29e5",
+      "number": 66,
+      "name": "Final Act",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/66.jpg"
+    },
+    {
+      "id": "7cdd99ba-b96c-4808-89fc-ba675c546779",
+      "number": 67,
+      "name": "Massacre Girl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/67.jpg"
+    },
+    {
+      "id": "8a37de6b-3a92-4a32-a940-e0f303e316c1",
+      "number": 68,
+      "name": "No Mercy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/68.jpg"
+    },
+    {
+      "id": "2a6c3d3b-93ec-43df-a0cd-ea12ab047d51",
+      "number": 69,
+      "name": "Chaos Warp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/69.jpg"
+    },
+    {
+      "id": "318eb163-fd1d-47bc-976c-89ffd67ee8d4",
+      "number": 70,
+      "name": "Fiery Emancipation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/70.jpg"
+    },
+    {
+      "id": "5eaaca68-47e1-49f8-bf2e-c0eaad721e86",
+      "number": 71,
+      "name": "Fury of the Horde",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/71.jpg"
+    },
+    {
+      "id": "9ebf25f9-844c-40c6-b0f0-d5c82ee04656",
+      "number": 72,
+      "name": "Monstrous Rage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/72.jpg"
+    },
+    {
+      "id": "e2449983-c54c-49d8-8289-c591e465527e",
+      "number": 73,
+      "name": "Seize the Day",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/73.jpg"
+    },
+    {
+      "id": "e208d3bc-9a1d-40a5-8ab9-c0cca5d129f5",
+      "number": 74,
+      "name": "Bedlam",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/74.jpg"
+    },
+    {
+      "id": "b6b6c66f-e3e0-4904-ae41-2ecc786f70c5",
+      "number": 75,
+      "name": "Beast Within",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/75.jpg"
+    },
+    {
+      "id": "66fe10bb-9f05-400b-a8b7-6d6affe8c0f8",
+      "number": 76,
+      "name": "Defense of the Heart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/76.jpg"
+    },
+    {
+      "id": "e507e356-6241-4347-bd56-e0609954f378",
+      "number": 77,
+      "name": "Force of Vigor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/77.jpg"
+    },
+    {
+      "id": "12edbdcc-085f-48c8-9605-3c7e3fe63bc7",
+      "number": 78,
+      "name": "Heroic Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/78.jpg"
+    },
+    {
+      "id": "a51d8579-a99c-417b-ba71-7f2204ebea2a",
+      "number": 79,
+      "name": "Heroic Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/79.jpg"
+    },
+    {
+      "id": "4208a5fd-4ca9-4648-883e-5dfe02746e68",
+      "number": 80,
+      "name": "Heroic Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/80.jpg"
+    },
+    {
+      "id": "38d16f3a-a20f-4e98-8085-e4e09bc525d6",
+      "number": 81,
+      "name": "Primal Vigor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/81.jpg"
+    },
+    {
+      "id": "377792bf-2d72-40eb-9e47-1d4a86980fa4",
+      "number": 82,
+      "name": "Rancor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/82.jpg"
+    },
+    {
+      "id": "c443ee78-6bdc-4a74-9cad-93727b9fdbd6",
+      "number": 83,
+      "name": "Steely Resolve",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/83.jpg"
+    },
+    {
+      "id": "6b30090a-17b1-4e4d-a70c-bd232b5b3316",
+      "number": 84,
+      "name": "Unnatural Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/84.jpg"
+    },
+    {
+      "id": "7d2f262a-dc38-4414-8c66-0ef5eac7ad20",
+      "number": 85,
+      "name": "Anthem of Champions",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/85.jpg"
+    },
+    {
+      "id": "ef2efb63-2bc4-4808-9ded-ba93d89dedea",
+      "number": 86,
+      "name": "Aurelia, the Warleader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/86.jpg"
+    },
+    {
+      "id": "a1b11ef2-2285-40eb-b11c-223c159e3d1f",
+      "number": 87,
+      "name": "Black Panther, Wakandan King",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/87.jpg"
+    },
+    {
+      "id": "0669ffcf-30c1-4d90-ae5f-3deca0f82526",
+      "number": 88,
+      "name": "Captain America, First Avenger",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/88.jpg"
+    },
+    {
+      "id": "82267f18-ceff-4f98-bf6f-e0cbf94072d3",
+      "number": 89,
+      "name": "Escape to the Wilds",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/89.jpg"
+    },
+    {
+      "id": "ee1475d1-4f24-4719-b7a5-c6e3a2a9d63e",
+      "number": 90,
+      "name": "Fight to the Death",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/90.jpg"
+    },
+    {
+      "id": "20d54b22-62e8-48ac-ba65-0bdbf42d6cad",
+      "number": 91,
+      "name": "Iron Man, Titan of Innovation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/91.jpg"
+    },
+    {
+      "id": "05961dad-9fe6-409f-8bfd-c6176072e9b1",
+      "number": 92,
+      "name": "Privileged Position",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/92.jpg"
+    },
+    {
+      "id": "d20ce47d-f08f-475d-a8c3-8a4ebeb0b4f2",
+      "number": 93,
+      "name": "Ravenous Tyrannosaurus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/93.jpg"
+    },
+    {
+      "id": "08cd4665-9fc3-48f1-a136-41d4585b1bb4",
+      "number": 94,
+      "name": "Storm, Force of Nature",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/94.jpg"
+    },
+    {
+      "id": "2aa6ff08-efd2-4f51-b899-19ba6815767a",
+      "number": 95,
+      "name": "Sundering Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/95.jpg"
+    },
+    {
+      "id": "b98c57b1-6138-49a2-884a-995828cf4c50",
+      "number": 96,
+      "name": "Warleader's Call",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/96.jpg"
+    },
+    {
+      "id": "9976c1a8-ef3d-4911-854d-f53394fd709d",
+      "number": 97,
+      "name": "Wolverine, Best There Is",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/97.jpg"
+    },
+    {
+      "id": "e37487e4-c553-4495-a839-6a96209eaaa1",
+      "number": 98,
+      "name": "Horn of Greed",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/98.jpg"
+    },
+    {
+      "id": "6d3c06a5-a0b2-47a2-a583-d579c24a44c9",
+      "number": 99,
+      "name": "Roaming Throne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/99.jpg"
+    },
+    {
+      "id": "908770e0-5927-486a-b99b-64f165da4d90",
+      "number": 100,
+      "name": "Sword of Fire and Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Marvel%20Universe%20%28mar%29/images/100.jpg"
+    }
+  ]
+}

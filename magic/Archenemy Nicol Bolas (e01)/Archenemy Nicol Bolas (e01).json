@@ -1,0 +1,643 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Archenemy: Nicol Bolas",
+  "totalCards": 106,
+  "cards": [
+    {
+      "id": "3d27e65f-6d55-420e-a843-16097b50f7a2",
+      "number": 1,
+      "name": "Aegis Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/1.jpg"
+    },
+    {
+      "id": "19ef8a30-11e2-4f6e-a38c-3a2694d88d1c",
+      "number": 2,
+      "name": "Aerial Responder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/2.jpg"
+    },
+    {
+      "id": "3379dc97-abdf-43d7-8625-f8ac04b5687e",
+      "number": 3,
+      "name": "Anointer of Champions",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/3.jpg"
+    },
+    {
+      "id": "9e578da8-0ae7-494f-acf3-40732e338742",
+      "number": 4,
+      "name": "Doomed Traveler",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/4.jpg"
+    },
+    {
+      "id": "ba8db734-1923-40e9-821b-17b534ba5995",
+      "number": 5,
+      "name": "Excoriate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/5.jpg"
+    },
+    {
+      "id": "ca743b62-6dae-4afb-ba57-ab94d0075434",
+      "number": 6,
+      "name": "Expedition Raptor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/6.jpg"
+    },
+    {
+      "id": "61247ed9-6d77-4472-84e2-803472cf7ff5",
+      "number": 7,
+      "name": "Fencing Ace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/7.jpg"
+    },
+    {
+      "id": "6788d4ac-86f1-4ac5-915d-fdfe7e408443",
+      "number": 8,
+      "name": "Fiendslayer Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/8.jpg"
+    },
+    {
+      "id": "6f84f0ae-ee67-490b-9424-60ee2acb4a12",
+      "number": 9,
+      "name": "Flickerwisp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/9.jpg"
+    },
+    {
+      "id": "fb4ed14d-369e-4dd0-a6bf-258f031855fb",
+      "number": 10,
+      "name": "Gideon Jura",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/10.jpg"
+    },
+    {
+      "id": "757d58fc-cf26-4095-9616-a47e9501cc0d",
+      "number": 11,
+      "name": "Gideon's Lawkeeper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/11.jpg"
+    },
+    {
+      "id": "b4c4f694-618a-43ed-8781-2a51a234ba8e",
+      "number": 12,
+      "name": "Grand Abolisher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/12.jpg"
+    },
+    {
+      "id": "1df9aa51-dfd7-4e8a-a9f4-113b728b45de",
+      "number": 13,
+      "name": "Grasp of the Hieromancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/13.jpg"
+    },
+    {
+      "id": "b61a3ca4-f311-412a-927f-148e614846f6",
+      "number": 14,
+      "name": "Lightwielder Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/14.jpg"
+    },
+    {
+      "id": "cc08d054-81ee-4b03-9391-6e7947630cd7",
+      "number": 15,
+      "name": "Mentor of the Meek",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/15.jpg"
+    },
+    {
+      "id": "eb637f45-0569-4845-bbc7-3875f882a760",
+      "number": 16,
+      "name": "Moment of Heroism",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/16.jpg"
+    },
+    {
+      "id": "a1ffd603-d768-4762-a4eb-18568cb6511b",
+      "number": 17,
+      "name": "Odric, Master Tactician",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/17.jpg"
+    },
+    {
+      "id": "fef6faa4-520c-4823-bfdf-715cec7fcd4b",
+      "number": 18,
+      "name": "Precinct Captain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/18.jpg"
+    },
+    {
+      "id": "77eb6eed-8942-41f0-af34-1148548ed56c",
+      "number": 19,
+      "name": "Relief Captain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/19.jpg"
+    },
+    {
+      "id": "9905203b-58fe-4e85-a981-0b603b7ed8eb",
+      "number": 20,
+      "name": "Shoulder to Shoulder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/20.jpg"
+    },
+    {
+      "id": "cd7a20a2-4489-42c7-9a39-4e2de95c77e2",
+      "number": 21,
+      "name": "Sun Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/21.jpg"
+    },
+    {
+      "id": "b64501e1-da45-4d67-9961-94bc6997fad2",
+      "number": 22,
+      "name": "Youthful Knight",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/22.jpg"
+    },
+    {
+      "id": "3b674c0f-39ed-43b9-83d7-d2a9fa21d60b",
+      "number": 23,
+      "name": "Compulsive Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/23.jpg"
+    },
+    {
+      "id": "b2dc9693-3c27-4afe-84f3-2618a0e4ca1c",
+      "number": 24,
+      "name": "Icefall Regent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/24.jpg"
+    },
+    {
+      "id": "252f296d-b335-4d93-b09a-0c7fdad63932",
+      "number": 25,
+      "name": "Ior Ruin Expedition",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/25.jpg"
+    },
+    {
+      "id": "8567d27a-11e1-4eed-932d-959ce7704af3",
+      "number": 26,
+      "name": "Prognostic Sphinx",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/26.jpg"
+    },
+    {
+      "id": "326bc0b0-0414-40b6-9d1c-290711b263b4",
+      "number": 27,
+      "name": "Reckless Scholar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/27.jpg"
+    },
+    {
+      "id": "6190f293-1fb7-4b42-bdc4-306fda368c52",
+      "number": 28,
+      "name": "Sphinx of Jwar Isle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/28.jpg"
+    },
+    {
+      "id": "76999d96-f3fe-421e-9190-e682259e3cdb",
+      "number": 29,
+      "name": "Vision Skeins",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/29.jpg"
+    },
+    {
+      "id": "8781413d-82b9-44be-9d82-3aea4c804ce7",
+      "number": 30,
+      "name": "Windrider Eel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/30.jpg"
+    },
+    {
+      "id": "0ec85db7-c8ec-4730-b692-c140977436aa",
+      "number": 31,
+      "name": "Archfiend of Depravity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/31.jpg"
+    },
+    {
+      "id": "8341d14e-11e0-461d-9b63-aed03c70332d",
+      "number": 32,
+      "name": "Deathbringer Regent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/32.jpg"
+    },
+    {
+      "id": "de576989-5a76-4dc4-b67a-25dd0be3cceb",
+      "number": 33,
+      "name": "Doom Blade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/33.jpg"
+    },
+    {
+      "id": "4e10db60-e5a9-4361-b6e8-e6d87c94de84",
+      "number": 34,
+      "name": "Harvester of Souls",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/34.jpg"
+    },
+    {
+      "id": "6ada4055-279d-411d-9316-5ecf0b8668c5",
+      "number": 35,
+      "name": "Nightscape Familiar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/35.jpg"
+    },
+    {
+      "id": "c76dc426-e538-4f72-9556-3231ad49c88d",
+      "number": 36,
+      "name": "Overseer of the Damned",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/36.jpg"
+    },
+    {
+      "id": "611efb44-adb6-461d-ac8c-36b56dd25946",
+      "number": 37,
+      "name": "Reckless Spite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/37.jpg"
+    },
+    {
+      "id": "222439ec-009c-4a18-a6e2-e205155027d3",
+      "number": 38,
+      "name": "Vampire Nighthawk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/38.jpg"
+    },
+    {
+      "id": "f137e17e-6856-49c5-9878-8c5c8f3c1518",
+      "number": 39,
+      "name": "Avatar of Fury",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/39.jpg"
+    },
+    {
+      "id": "a8e3e496-6bfa-4eb0-b51e-fbc35cf18bae",
+      "number": 40,
+      "name": "Battle-Rattle Shaman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/40.jpg"
+    },
+    {
+      "id": "3f249a72-7568-4603-94f4-01a605fc1771",
+      "number": 41,
+      "name": "Blood Ogre",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/41.jpg"
+    },
+    {
+      "id": "7ab164f6-bfea-4519-bb44-80a716630f4f",
+      "number": 42,
+      "name": "Chandra, Pyromaster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/42.jpg"
+    },
+    {
+      "id": "94ca51cd-0c93-4f03-a92c-6623e5cf6618",
+      "number": 43,
+      "name": "Chandra's Outrage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/43.jpg"
+    },
+    {
+      "id": "1a91cd9b-9a5d-4251-bd6c-41c3ebd6d991",
+      "number": 44,
+      "name": "Chandra's Phoenix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/44.jpg"
+    },
+    {
+      "id": "62fd3810-f082-41ea-8eda-2add02de78f7",
+      "number": 45,
+      "name": "Coordinated Assault",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/45.jpg"
+    },
+    {
+      "id": "75c02edc-d25b-4619-b028-383a39c63a8c",
+      "number": 46,
+      "name": "Dualcaster Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/46.jpg"
+    },
+    {
+      "id": "cb738793-058f-462c-b8b7-4ddb448e7dd9",
+      "number": 47,
+      "name": "Fiery Fall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/47.jpg"
+    },
+    {
+      "id": "28e3923c-f124-4476-ad2d-e57b99edcef0",
+      "number": 48,
+      "name": "Flametongue Kavu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/48.jpg"
+    },
+    {
+      "id": "87573fa7-5593-4810-bc4a-0caa55577be5",
+      "number": 49,
+      "name": "Gorehorn Minotaurs",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/49.jpg"
+    },
+    {
+      "id": "e7979d38-88a6-4062-b725-52c91f170083",
+      "number": 50,
+      "name": "Grim Lavamancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/50.jpg"
+    },
+    {
+      "id": "ff2b71df-c89d-4ebb-bc3e-ba8044db3531",
+      "number": 51,
+      "name": "Guttersnipe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/51.jpg"
+    },
+    {
+      "id": "30239853-18e9-47ad-8926-c0752134f380",
+      "number": 52,
+      "name": "Hammerhand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/52.jpg"
+    },
+    {
+      "id": "42d8d2ae-d1d8-4ddb-bf3c-4ea48667b200",
+      "number": 53,
+      "name": "Inferno Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/53.jpg"
+    },
+    {
+      "id": "ccee0b4c-0cb0-4c0f-8ddc-bc74b8b97273",
+      "number": 54,
+      "name": "Lightning Bolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/54.jpg"
+    },
+    {
+      "id": "49ef5a91-d293-468a-8816-b16ca4ba79e0",
+      "number": 55,
+      "name": "Obsidian Fireheart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/55.jpg"
+    },
+    {
+      "id": "44c5f884-d071-40c2-bb2c-925dc2197ea3",
+      "number": 56,
+      "name": "Searing Spear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/56.jpg"
+    },
+    {
+      "id": "b9d52c11-f955-489e-b3c9-5a7e1a7933e8",
+      "number": 57,
+      "name": "Skarrgan Firebird",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/57.jpg"
+    },
+    {
+      "id": "3fc6e8a2-99fc-434a-a1c4-0f425686c54a",
+      "number": 58,
+      "name": "Stormblood Berserker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/58.jpg"
+    },
+    {
+      "id": "9336cb8a-13d4-4d97-9111-1326a9028df8",
+      "number": 59,
+      "name": "Sudden Demise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/59.jpg"
+    },
+    {
+      "id": "a2ba03cd-1347-46e6-9117-2b22ce62a645",
+      "number": 60,
+      "name": "Torchling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/60.jpg"
+    },
+    {
+      "id": "987d2f35-8293-4bca-88b1-02b5b96d37f2",
+      "number": 61,
+      "name": "Volcanic Geyser",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/61.jpg"
+    },
+    {
+      "id": "5e6cdd3d-f9c5-4303-b56f-e7f6260e36f4",
+      "number": 62,
+      "name": "Cultivate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/62.jpg"
+    },
+    {
+      "id": "719ebf00-8333-43b7-98a0-f7134d0a382e",
+      "number": 63,
+      "name": "Explore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/63.jpg"
+    },
+    {
+      "id": "297446a8-b8f2-49f5-8dc8-43ff138a89bd",
+      "number": 64,
+      "name": "Fertilid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/64.jpg"
+    },
+    {
+      "id": "98cb22ad-8a45-43a5-98f8-b8495ef8427f",
+      "number": 65,
+      "name": "Forgotten Ancient",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/65.jpg"
+    },
+    {
+      "id": "90555557-995e-4c1f-9680-4cad891b07a7",
+      "number": 66,
+      "name": "Hunter's Prowess",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/66.jpg"
+    },
+    {
+      "id": "47ea8cfa-ccf8-4daa-a1b5-f2247da1ef25",
+      "number": 67,
+      "name": "Khalni Heart Expedition",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/67.jpg"
+    },
+    {
+      "id": "4a37fbca-32db-40cc-9fd3-4764c7fd81e2",
+      "number": 68,
+      "name": "Nissa, Worldwaker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/68.jpg"
+    },
+    {
+      "id": "ff8c4bff-d37a-44b0-958f-91f4de6745c9",
+      "number": 69,
+      "name": "Oran-Rief Hydra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/69.jpg"
+    },
+    {
+      "id": "abca9292-e110-4edb-b9ce-703317175b68",
+      "number": 70,
+      "name": "Press the Advantage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/70.jpg"
+    },
+    {
+      "id": "c06d1117-78f9-42aa-8831-fb89a3a9e148",
+      "number": 71,
+      "name": "Rampaging Baloths",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/71.jpg"
+    },
+    {
+      "id": "b39ed985-32f5-4152-8f39-af645d7f7dc5",
+      "number": 72,
+      "name": "Retreat to Kazandu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/72.jpg"
+    },
+    {
+      "id": "c217f6c6-e4be-4980-a125-18ccab318c96",
+      "number": 73,
+      "name": "Scute Mob",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/73.jpg"
+    },
+    {
+      "id": "53e467a6-810b-4caa-bc56-aec7272177b4",
+      "number": 74,
+      "name": "Sylvan Bounty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/74.jpg"
+    },
+    {
+      "id": "ea5baac6-a27c-4899-82cf-591061d0f308",
+      "number": 75,
+      "name": "Thragtusk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/75.jpg"
+    },
+    {
+      "id": "3f203c27-0474-449d-aa24-2125ad80fb68",
+      "number": 76,
+      "name": "Turntimber Basilisk",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/76.jpg"
+    },
+    {
+      "id": "1848b845-dc37-4f3e-9521-dafab7fa67a8",
+      "number": 77,
+      "name": "Vastwood Zendikon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/77.jpg"
+    },
+    {
+      "id": "6a59419a-9b49-4dcd-b510-6faaf355664d",
+      "number": 78,
+      "name": "Vines of the Recluse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/78.jpg"
+    },
+    {
+      "id": "71466930-3e8a-4435-99e2-f06d1bc545b2",
+      "number": 79,
+      "name": "Woodborn Behemoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/79.jpg"
+    },
+    {
+      "id": "06cb1bd6-73e0-4104-b344-4bc52d7dcedf",
+      "number": 80,
+      "name": "Baleful Strix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/80.jpg"
+    },
+    {
+      "id": "719abc71-dda9-49bf-b050-4fc28ad8b9b7",
+      "number": 81,
+      "name": "Blood Tyrant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/81.jpg"
+    },
+    {
+      "id": "d71a8ea5-199e-473e-a2b1-e2f7cc804ffc",
+      "number": 82,
+      "name": "Cruel Ultimatum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/82.jpg"
+    },
+    {
+      "id": "2aa5f358-6d21-48b2-ad28-6e787e464b0e",
+      "number": 83,
+      "name": "Dreadbore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/83.jpg"
+    },
+    {
+      "id": "64e4da15-190d-44d9-962e-8102e8090a5f",
+      "number": 84,
+      "name": "Extract from Darkness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/84.jpg"
+    },
+    {
+      "id": "9e80f2fc-06d4-4ce9-b23b-3e4af1208fa5",
+      "number": 85,
+      "name": "Nicol Bolas, Planeswalker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/85.jpg"
+    },
+    {
+      "id": "b3947ce7-0a14-41d0-9b8f-ee6d62c460fa",
+      "number": 86,
+      "name": "Slave of Bolas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/86.jpg"
+    },
+    {
+      "id": "b861e2c2-524b-4aea-b8af-fa72f00c9c4d",
+      "number": 87,
+      "name": "Soul Ransom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/87.jpg"
+    },
+    {
+      "id": "1bf29333-2fe4-4bd3-855b-8eef8d14c5d6",
+      "number": 88,
+      "name": "Obelisk of Grixis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/88.jpg"
+    },
+    {
+      "id": "aca733e9-c252-4eab-8392-843e9c0bbae1",
+      "number": 89,
+      "name": "Sword of the Animist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/89.jpg"
+    },
+    {
+      "id": "43ec73b2-4215-4e30-ad6d-1764879030f4",
+      "number": 90,
+      "name": "Talisman of Dominance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/90.jpg"
+    },
+    {
+      "id": "243253fb-5fca-401f-9363-c152a5943e13",
+      "number": 91,
+      "name": "Talisman of Indulgence",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/91.jpg"
+    },
+    {
+      "id": "96b0bd25-034c-471a-926f-3e885e3aafd9",
+      "number": 92,
+      "name": "Crumbling Necropolis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/92.jpg"
+    },
+    {
+      "id": "7b977c9f-1f2a-4b27-aba5-0ee9ebc422e2",
+      "number": 93,
+      "name": "Dragonskull Summit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/93.jpg"
+    },
+    {
+      "id": "2d3a1881-aa9c-4b0e-8350-e033b0367035",
+      "number": 94,
+      "name": "Drowned Catacomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/94.jpg"
+    },
+    {
+      "id": "356c3e6a-e51f-44e2-942c-e5c247e4a9bd",
+      "number": 95,
+      "name": "Grixis Panorama",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/95.jpg"
+    },
+    {
+      "id": "e6741f53-f02e-4f1b-9620-e49ad00e7e1d",
+      "number": 96,
+      "name": "Smoldering Spires",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/96.jpg"
+    },
+    {
+      "id": "6a18b41e-e02e-4348-82cf-57570150563f",
+      "number": 97,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/97.jpg"
+    },
+    {
+      "id": "3e7d8ebd-7481-48b5-84bb-b747a8a612c1",
+      "number": 98,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/98.jpg"
+    },
+    {
+      "id": "359ca653-664b-4dfc-96cc-06bfb1b700a2",
+      "number": 99,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/99.jpg"
+    },
+    {
+      "id": "553b6aaa-3ae3-4f3b-9ab6-361eddf996a2",
+      "number": 100,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/100.jpg"
+    },
+    {
+      "id": "bf0b0bfa-5d1b-4783-b187-7aea8405e6bd",
+      "number": 101,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/101.jpg"
+    },
+    {
+      "id": "f75d3f2a-5120-4056-a816-4f38c1f18459",
+      "number": 102,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/102.jpg"
+    },
+    {
+      "id": "7cee75b2-ca71-4d98-841d-796cbcedfb43",
+      "number": 103,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/103.jpg"
+    },
+    {
+      "id": "0be8241f-cfe9-4e48-8005-8bfcba92547a",
+      "number": 104,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/104.jpg"
+    },
+    {
+      "id": "9865657b-43da-48e2-ac55-6a29c21df253",
+      "number": 105,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/105.jpg"
+    },
+    {
+      "id": "3a9ea6ee-0150-40f1-baa3-fe637128be2f",
+      "number": 106,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Archenemy%20Nicol%20Bolas%20%28e01%29/images/106.jpg"
+    }
+  ]
+}

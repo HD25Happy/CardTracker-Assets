@@ -1,0 +1,476 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Dragon Majesty",
+  "totalCards": 78,
+  "availableImages": 78,
+  "cards": [
+    {
+      "id": "sm7.5-1",
+      "number": 1,
+      "name": "Charmander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/1.png"
+    },
+    {
+      "id": "sm7.5-2",
+      "number": 2,
+      "name": "Charmeleon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/2.png"
+    },
+    {
+      "id": "sm7.5-3",
+      "number": 3,
+      "name": "Charizard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/3.png"
+    },
+    {
+      "id": "sm7.5-4",
+      "number": 4,
+      "name": "Torchic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/4.png"
+    },
+    {
+      "id": "sm7.5-5",
+      "number": 5,
+      "name": "Combusken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/5.png"
+    },
+    {
+      "id": "sm7.5-6",
+      "number": 6,
+      "name": "Blaziken",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/6.png"
+    },
+    {
+      "id": "sm7.5-7",
+      "number": 7,
+      "name": "Victini ◇",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/7.png"
+    },
+    {
+      "id": "sm7.5-8",
+      "number": 8,
+      "name": "Darumaka",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/8.png"
+    },
+    {
+      "id": "sm7.5-9",
+      "number": 9,
+      "name": "Darmanitan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/9.png"
+    },
+    {
+      "id": "sm7.5-10",
+      "number": 10,
+      "name": "Heatmor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/10.png"
+    },
+    {
+      "id": "sm7.5-11",
+      "number": 11,
+      "name": "Reshiram GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/11.png"
+    },
+    {
+      "id": "sm7.5-12",
+      "number": 12,
+      "name": "Litten",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/12.png"
+    },
+    {
+      "id": "sm7.5-13",
+      "number": 13,
+      "name": "Salandit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/13.png"
+    },
+    {
+      "id": "sm7.5-14",
+      "number": 14,
+      "name": "Salazzle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/14.png"
+    },
+    {
+      "id": "sm7.5-15",
+      "number": 15,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/15.png"
+    },
+    {
+      "id": "sm7.5-16",
+      "number": 16,
+      "name": "Horsea",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/16.png"
+    },
+    {
+      "id": "sm7.5-17",
+      "number": 17,
+      "name": "Seadra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/17.png"
+    },
+    {
+      "id": "sm7.5-18",
+      "number": 18,
+      "name": "Kingdra GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/18.png"
+    },
+    {
+      "id": "sm7.5-19",
+      "number": 19,
+      "name": "Magikarp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/19.png"
+    },
+    {
+      "id": "sm7.5-20",
+      "number": 20,
+      "name": "Gyarados",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/20.png"
+    },
+    {
+      "id": "sm7.5-21",
+      "number": 21,
+      "name": "Lapras",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/21.png"
+    },
+    {
+      "id": "sm7.5-22",
+      "number": 22,
+      "name": "Totodile",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/22.png"
+    },
+    {
+      "id": "sm7.5-23",
+      "number": 23,
+      "name": "Croconaw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/23.png"
+    },
+    {
+      "id": "sm7.5-24",
+      "number": 24,
+      "name": "Feraligatr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/24.png"
+    },
+    {
+      "id": "sm7.5-25",
+      "number": 25,
+      "name": "Wooper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/25.png"
+    },
+    {
+      "id": "sm7.5-26",
+      "number": 26,
+      "name": "Quagsire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/26.png"
+    },
+    {
+      "id": "sm7.5-27",
+      "number": 27,
+      "name": "Corsola",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/27.png"
+    },
+    {
+      "id": "sm7.5-28",
+      "number": 28,
+      "name": "Feebas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/28.png"
+    },
+    {
+      "id": "sm7.5-29",
+      "number": 29,
+      "name": "Milotic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/29.png"
+    },
+    {
+      "id": "sm7.5-30",
+      "number": 30,
+      "name": "Phione",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/30.png"
+    },
+    {
+      "id": "sm7.5-31",
+      "number": 31,
+      "name": "Wishiwashi",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/31.png"
+    },
+    {
+      "id": "sm7.5-32",
+      "number": 32,
+      "name": "Trapinch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/32.png"
+    },
+    {
+      "id": "sm7.5-33",
+      "number": 33,
+      "name": "Hydreigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/33.png"
+    },
+    {
+      "id": "sm7.5-34",
+      "number": 34,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/34.png"
+    },
+    {
+      "id": "sm7.5-35",
+      "number": 35,
+      "name": "Dratini",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/35.png"
+    },
+    {
+      "id": "sm7.5-36",
+      "number": 36,
+      "name": "Dragonair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/36.png"
+    },
+    {
+      "id": "sm7.5-37",
+      "number": 37,
+      "name": "Dragonite GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/37.png"
+    },
+    {
+      "id": "sm7.5-38",
+      "number": 38,
+      "name": "Vibrava",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/38.png"
+    },
+    {
+      "id": "sm7.5-39",
+      "number": 39,
+      "name": "Flygon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/39.png"
+    },
+    {
+      "id": "sm7.5-40",
+      "number": 40,
+      "name": "Altaria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/40.png"
+    },
+    {
+      "id": "sm7.5-41",
+      "number": 41,
+      "name": "Altaria GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/41.png"
+    },
+    {
+      "id": "sm7.5-42",
+      "number": 42,
+      "name": "Bagon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/42.png"
+    },
+    {
+      "id": "sm7.5-43",
+      "number": 43,
+      "name": "Shelgon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/43.png"
+    },
+    {
+      "id": "sm7.5-44",
+      "number": 44,
+      "name": "Salamence GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/44.png"
+    },
+    {
+      "id": "sm7.5-45",
+      "number": 45,
+      "name": "Druddigon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/45.png"
+    },
+    {
+      "id": "sm7.5-46",
+      "number": 46,
+      "name": "Zekrom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/46.png"
+    },
+    {
+      "id": "sm7.5-47",
+      "number": 47,
+      "name": "Kyurem",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/47.png"
+    },
+    {
+      "id": "sm7.5-48",
+      "number": 48,
+      "name": "White Kyurem GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/48.png"
+    },
+    {
+      "id": "sm7.5-49",
+      "number": 49,
+      "name": "Zygarde",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/49.png"
+    },
+    {
+      "id": "sm7.5-50",
+      "number": 50,
+      "name": "Turtonator",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/50.png"
+    },
+    {
+      "id": "sm7.5-51",
+      "number": 51,
+      "name": "Drampa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/51.png"
+    },
+    {
+      "id": "sm7.5-52",
+      "number": 52,
+      "name": "Jangmo-o",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/52.png"
+    },
+    {
+      "id": "sm7.5-53",
+      "number": 53,
+      "name": "Hakamo-o",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/53.png"
+    },
+    {
+      "id": "sm7.5-54",
+      "number": 54,
+      "name": "Kommo-o",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/54.png"
+    },
+    {
+      "id": "sm7.5-55",
+      "number": 55,
+      "name": "Kangaskhan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/55.png"
+    },
+    {
+      "id": "sm7.5-56",
+      "number": 56,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/56.png"
+    },
+    {
+      "id": "sm7.5-57",
+      "number": 57,
+      "name": "Swablu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/57.png"
+    },
+    {
+      "id": "sm7.5-58",
+      "number": 58,
+      "name": "Blaine’s Last Stand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/58.png"
+    },
+    {
+      "id": "sm7.5-59",
+      "number": 59,
+      "name": "Dragon Talon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/59.png"
+    },
+    {
+      "id": "sm7.5-60",
+      "number": 60,
+      "name": "Fiery Flint",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/60.png"
+    },
+    {
+      "id": "sm7.5-61",
+      "number": 61,
+      "name": "Lance ◇",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/61.png"
+    },
+    {
+      "id": "sm7.5-62",
+      "number": 62,
+      "name": "Switch Raft",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/62.png"
+    },
+    {
+      "id": "sm7.5-63",
+      "number": 63,
+      "name": "Wela Volcano Park",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/63.png"
+    },
+    {
+      "id": "sm7.5-64",
+      "number": 64,
+      "name": "Zinnia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/64.png"
+    },
+    {
+      "id": "sm7.5-65",
+      "number": 65,
+      "name": "Reshiram GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/65.png"
+    },
+    {
+      "id": "sm7.5-66",
+      "number": 66,
+      "name": "Kingdra GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/66.png"
+    },
+    {
+      "id": "sm7.5-67",
+      "number": 67,
+      "name": "Dragonite GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/67.png"
+    },
+    {
+      "id": "sm7.5-68",
+      "number": 68,
+      "name": "Altaria GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/68.png"
+    },
+    {
+      "id": "sm7.5-69",
+      "number": 69,
+      "name": "Blaine’s Last Stand",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/69.png"
+    },
+    {
+      "id": "sm7.5-70",
+      "number": 70,
+      "name": "Zinnia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/70.png"
+    },
+    {
+      "id": "sm7.5-71",
+      "number": 71,
+      "name": "Reshiram GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/71.png"
+    },
+    {
+      "id": "sm7.5-72",
+      "number": 72,
+      "name": "Altaria GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/72.png"
+    },
+    {
+      "id": "sm7.5-73",
+      "number": 73,
+      "name": "Salamence GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/73.png"
+    },
+    {
+      "id": "sm7.5-74",
+      "number": 74,
+      "name": "White Kyurem GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/74.png"
+    },
+    {
+      "id": "sm7.5-75",
+      "number": 75,
+      "name": "Dragon Talon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/75.png"
+    },
+    {
+      "id": "sm7.5-76",
+      "number": 76,
+      "name": "Fiery Flint",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/76.png"
+    },
+    {
+      "id": "sm7.5-77",
+      "number": 77,
+      "name": "Switch Raft",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/77.png"
+    },
+    {
+      "id": "sm7.5-78",
+      "number": 78,
+      "name": "Ultra Necrozma GX",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Dragon%20Majesty/images/78.png"
+    }
+  ]
+}

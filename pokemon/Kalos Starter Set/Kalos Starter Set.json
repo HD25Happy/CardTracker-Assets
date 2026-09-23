@@ -1,0 +1,242 @@
+﻿{
+  "game": "Pokemon",
+  "setName": "Kalos Starter Set",
+  "totalCards": 39,
+  "availableImages": 39,
+  "cards": [
+    {
+      "id": "xy0-1",
+      "number": 1,
+      "name": "Weedle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/1.png"
+    },
+    {
+      "id": "xy0-2",
+      "number": 2,
+      "name": "Pansage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/2.png"
+    },
+    {
+      "id": "xy0-3",
+      "number": 3,
+      "name": "Chespin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/3.png"
+    },
+    {
+      "id": "xy0-4",
+      "number": 4,
+      "name": "Quilladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/4.png"
+    },
+    {
+      "id": "xy0-5",
+      "number": 5,
+      "name": "Chesnaught",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/5.png"
+    },
+    {
+      "id": "xy0-6",
+      "number": 6,
+      "name": "Slugma",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/6.png"
+    },
+    {
+      "id": "xy0-7",
+      "number": 7,
+      "name": "Pansear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/7.png"
+    },
+    {
+      "id": "xy0-8",
+      "number": 8,
+      "name": "Fennekin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/8.png"
+    },
+    {
+      "id": "xy0-9",
+      "number": 9,
+      "name": "Braixen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/9.png"
+    },
+    {
+      "id": "xy0-10",
+      "number": 10,
+      "name": "Delphox",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/10.png"
+    },
+    {
+      "id": "xy0-11",
+      "number": 11,
+      "name": "Panpour",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/11.png"
+    },
+    {
+      "id": "xy0-12",
+      "number": 12,
+      "name": "Froakie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/12.png"
+    },
+    {
+      "id": "xy0-13",
+      "number": 13,
+      "name": "Frogadier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/13.png"
+    },
+    {
+      "id": "xy0-14",
+      "number": 14,
+      "name": "Greninja",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/14.png"
+    },
+    {
+      "id": "xy0-15",
+      "number": 15,
+      "name": "Clauncher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/15.png"
+    },
+    {
+      "id": "xy0-16",
+      "number": 16,
+      "name": "Poochyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/16.png"
+    },
+    {
+      "id": "xy0-17",
+      "number": 17,
+      "name": "Mightyena",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/17.png"
+    },
+    {
+      "id": "xy0-18",
+      "number": 18,
+      "name": "Inkay",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/18.png"
+    },
+    {
+      "id": "xy0-19",
+      "number": 19,
+      "name": "Pawniard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/19.png"
+    },
+    {
+      "id": "xy0-20",
+      "number": 20,
+      "name": "Bisharp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/20.png"
+    },
+    {
+      "id": "xy0-21",
+      "number": 21,
+      "name": "Honedge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/21.png"
+    },
+    {
+      "id": "xy0-22",
+      "number": 22,
+      "name": "Snubbull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/22.png"
+    },
+    {
+      "id": "xy0-23",
+      "number": 23,
+      "name": "Granbull",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/23.png"
+    },
+    {
+      "id": "xy0-24",
+      "number": 24,
+      "name": "Swirlix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/24.png"
+    },
+    {
+      "id": "xy0-25",
+      "number": 25,
+      "name": "Farfetch'd",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/25.png"
+    },
+    {
+      "id": "xy0-26",
+      "number": 26,
+      "name": "Snorlax",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/26.png"
+    },
+    {
+      "id": "xy0-27",
+      "number": 27,
+      "name": "Miltank",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/27.png"
+    },
+    {
+      "id": "xy0-28",
+      "number": 28,
+      "name": "Skitty",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/28.png"
+    },
+    {
+      "id": "xy0-29",
+      "number": 29,
+      "name": "Bidoof",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/29.png"
+    },
+    {
+      "id": "xy0-30",
+      "number": 30,
+      "name": "Bunnelby",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/30.png"
+    },
+    {
+      "id": "xy0-31",
+      "number": 31,
+      "name": "Fletchling",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/31.png"
+    },
+    {
+      "id": "xy0-32",
+      "number": 32,
+      "name": "Furfrou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/32.png"
+    },
+    {
+      "id": "xy0-33",
+      "number": 33,
+      "name": "Furfrou",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/33.png"
+    },
+    {
+      "id": "xy0-34",
+      "number": 34,
+      "name": "Crushing Hammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/34.png"
+    },
+    {
+      "id": "xy0-35",
+      "number": 35,
+      "name": "Poké Ball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/35.png"
+    },
+    {
+      "id": "xy0-36",
+      "number": 36,
+      "name": "Pokémon Catcher",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/36.png"
+    },
+    {
+      "id": "xy0-37",
+      "number": 37,
+      "name": "Potion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/37.png"
+    },
+    {
+      "id": "xy0-38",
+      "number": 38,
+      "name": "Switch",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/38.png"
+    },
+    {
+      "id": "xy0-39",
+      "number": 39,
+      "name": "Tierno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/pokemon/Kalos%20Starter%20Set/images/39.png"
+    }
+  ]
+}

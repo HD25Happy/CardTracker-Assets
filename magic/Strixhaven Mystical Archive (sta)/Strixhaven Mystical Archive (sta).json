@@ -1,0 +1,763 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Strixhaven Mystical Archive",
+  "totalCards": 126,
+  "cards": [
+    {
+      "id": "e0d18742-d661-4223-8880-9ed995379b2e",
+      "number": 1,
+      "name": "Approach of the Second Sun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/1.jpg"
+    },
+    {
+      "id": "5bf85d00-52cc-4594-b4fd-5ec424210524",
+      "number": 2,
+      "name": "Day of Judgment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/2.jpg"
+    },
+    {
+      "id": "ade8f339-4afb-477a-9434-e6cd9126cd10",
+      "number": 3,
+      "name": "Defiant Strike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/3.jpg"
+    },
+    {
+      "id": "5ae3b199-92a0-4d94-819c-fbf24a87d353",
+      "number": 4,
+      "name": "Divine Gambit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/4.jpg"
+    },
+    {
+      "id": "7be5092f-cd24-4aea-824e-67b9767019b2",
+      "number": 5,
+      "name": "Ephemerate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/5.jpg"
+    },
+    {
+      "id": "07bc15bf-1923-45d7-988f-9a4adf3982ee",
+      "number": 6,
+      "name": "Gift of Estates",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/6.jpg"
+    },
+    {
+      "id": "57e547cd-eba4-4a75-9c4e-8eeb6e00ddc4",
+      "number": 7,
+      "name": "Gods Willing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/7.jpg"
+    },
+    {
+      "id": "e7f32354-893d-4f0b-b555-e0757fb5443b",
+      "number": 8,
+      "name": "Mana Tithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/8.jpg"
+    },
+    {
+      "id": "f8da7312-91e8-4f8d-84ef-6888360b3718",
+      "number": 9,
+      "name": "Revitalize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/9.jpg"
+    },
+    {
+      "id": "cc9ece2f-7eda-4fc5-a562-3e16e71560e9",
+      "number": 10,
+      "name": "Swords to Plowshares",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/10.jpg"
+    },
+    {
+      "id": "28e21c8c-5ad1-4830-8621-f0fd6500ca79",
+      "number": 11,
+      "name": "Teferi's Protection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/11.jpg"
+    },
+    {
+      "id": "3cad77b5-94eb-4715-9fc1-75c45c28e83a",
+      "number": 12,
+      "name": "Blue Sun's Zenith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/12.jpg"
+    },
+    {
+      "id": "11d27509-07c2-4445-a1d5-e56523fb8566",
+      "number": 13,
+      "name": "Brainstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/13.jpg"
+    },
+    {
+      "id": "0f578fbf-c3c7-4407-9fda-3c13b165798c",
+      "number": 14,
+      "name": "Compulsive Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/14.jpg"
+    },
+    {
+      "id": "ffdf9d2a-c163-43df-9a2f-20b8749c86ae",
+      "number": 15,
+      "name": "Counterspell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/15.jpg"
+    },
+    {
+      "id": "98c1b465-b6d9-491b-bfc2-c034cc825d27",
+      "number": 16,
+      "name": "Memory Lapse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/16.jpg"
+    },
+    {
+      "id": "95f4e609-7fb7-4903-8d4c-45d38cf743be",
+      "number": 17,
+      "name": "Mind's Desire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/17.jpg"
+    },
+    {
+      "id": "5bfe3a17-3349-4fcc-a9b5-418faa55cc43",
+      "number": 18,
+      "name": "Negate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/18.jpg"
+    },
+    {
+      "id": "ab59ac4f-2a77-4566-85c0-32666447dcf2",
+      "number": 19,
+      "name": "Opt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/19.jpg"
+    },
+    {
+      "id": "fd7b2ee8-9f2f-4624-a788-15b88e6a2d50",
+      "number": 20,
+      "name": "Strategic Planning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/20.jpg"
+    },
+    {
+      "id": "05e5dbfd-84cf-4fe1-850f-3d2965ed3120",
+      "number": 21,
+      "name": "Tezzeret's Gambit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/21.jpg"
+    },
+    {
+      "id": "6e70332c-de0b-45ce-bbd1-5de4314c08db",
+      "number": 22,
+      "name": "Time Warp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/22.jpg"
+    },
+    {
+      "id": "f7a0c25a-8760-44ea-a418-fcd4a9761632",
+      "number": 23,
+      "name": "Whirlwind Denial",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/23.jpg"
+    },
+    {
+      "id": "57b7f7bd-6db3-4716-b1c3-015b0a6d37e3",
+      "number": 24,
+      "name": "Agonizing Remorse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/24.jpg"
+    },
+    {
+      "id": "f3ccea48-ee90-4da8-832d-8c30c98bf1dd",
+      "number": 25,
+      "name": "Crux of Fate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/25.jpg"
+    },
+    {
+      "id": "6fc57076-cac4-4f5e-956b-e3d77bd258b2",
+      "number": 26,
+      "name": "Dark Ritual",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/26.jpg"
+    },
+    {
+      "id": "3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c",
+      "number": 27,
+      "name": "Demonic Tutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/27.jpg"
+    },
+    {
+      "id": "7e6c0fe2-a82b-42cb-8629-b9f00b7f08e9",
+      "number": 28,
+      "name": "Doom Blade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/28.jpg"
+    },
+    {
+      "id": "5bb89f3f-f3b0-402d-9f3c-5b4b8a9d1e91",
+      "number": 29,
+      "name": "Duress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/29.jpg"
+    },
+    {
+      "id": "c55b2b50-ac83-4a78-8f84-580193d1ca0f",
+      "number": 30,
+      "name": "Eliminate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/30.jpg"
+    },
+    {
+      "id": "d47df2c2-437d-4b8e-82cc-1707e3efd5b5",
+      "number": 31,
+      "name": "Inquisition of Kozilek",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/31.jpg"
+    },
+    {
+      "id": "0ef84fcc-7685-41e5-bcd0-25b974ce570f",
+      "number": 32,
+      "name": "Sign in Blood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/32.jpg"
+    },
+    {
+      "id": "4c92756f-1dc2-49be-bb38-0f8cf10079fa",
+      "number": 33,
+      "name": "Tainted Pact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/33.jpg"
+    },
+    {
+      "id": "659d0ca7-90c9-473a-8b46-4fe40351b57d",
+      "number": 34,
+      "name": "Tendrils of Agony",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/34.jpg"
+    },
+    {
+      "id": "da3de5c0-acda-4116-b0c5-eceb2c19cb2d",
+      "number": 35,
+      "name": "Village Rites",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/35.jpg"
+    },
+    {
+      "id": "6d0a3996-5a03-481b-9bda-15c6f6e5f9c4",
+      "number": 36,
+      "name": "Chaos Warp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/36.jpg"
+    },
+    {
+      "id": "e3cb6157-ea56-4921-b803-59e3fbef0b94",
+      "number": 37,
+      "name": "Claim the Firstborn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/37.jpg"
+    },
+    {
+      "id": "b429172f-2182-49dd-b6f6-e5e09493628d",
+      "number": 38,
+      "name": "Faithless Looting",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/38.jpg"
+    },
+    {
+      "id": "b99b45df-9602-4037-a695-09decb5f21d7",
+      "number": 39,
+      "name": "Grapeshot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/39.jpg"
+    },
+    {
+      "id": "6ef32c03-14f5-4ee2-af3a-4cbee45cd152",
+      "number": 40,
+      "name": "Increasing Vengeance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/40.jpg"
+    },
+    {
+      "id": "71a5dfad-c8b4-46cc-9a06-73d23b269df8",
+      "number": 41,
+      "name": "Infuriate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/41.jpg"
+    },
+    {
+      "id": "4eaac4fd-95f5-4f38-b593-0101e79a20f9",
+      "number": 42,
+      "name": "Lightning Bolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/42.jpg"
+    },
+    {
+      "id": "89978bd5-8222-4052-9625-3a5db81baa27",
+      "number": 43,
+      "name": "Mizzix's Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/43.jpg"
+    },
+    {
+      "id": "60eeb025-704c-4a82-90b2-f91202ae30d9",
+      "number": 44,
+      "name": "Shock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/44.jpg"
+    },
+    {
+      "id": "f60687e5-9384-4453-833e-2c76f25bfac5",
+      "number": 45,
+      "name": "Stone Rain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/45.jpg"
+    },
+    {
+      "id": "78ba24c2-73c3-4630-bb8e-7431e5b3aebd",
+      "number": 46,
+      "name": "Thrill of Possibility",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/46.jpg"
+    },
+    {
+      "id": "d80e9897-d84c-4992-9e8e-3a00f377c7e5",
+      "number": 47,
+      "name": "Urza's Rage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/47.jpg"
+    },
+    {
+      "id": "16782095-0b7f-4489-8a97-b74f8efef352",
+      "number": 48,
+      "name": "Abundant Harvest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/48.jpg"
+    },
+    {
+      "id": "e7b44893-e6d1-48d0-ba69-06b9569e1e38",
+      "number": 49,
+      "name": "Adventurous Impulse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/49.jpg"
+    },
+    {
+      "id": "0e07a16f-d836-40f9-85e3-a78582a97109",
+      "number": 50,
+      "name": "Channel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/50.jpg"
+    },
+    {
+      "id": "b3896717-1e46-4aa2-88b7-1c4fe76edde1",
+      "number": 51,
+      "name": "Cultivate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/51.jpg"
+    },
+    {
+      "id": "9e1f1110-0919-49cd-8b5b-979b2744fd3c",
+      "number": 52,
+      "name": "Harmonize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/52.jpg"
+    },
+    {
+      "id": "f847439f-a9b6-4a3c-abd1-76d54e0aed99",
+      "number": 53,
+      "name": "Krosan Grip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/53.jpg"
+    },
+    {
+      "id": "4bb72f05-5173-4e70-9e71-278249b378e7",
+      "number": 54,
+      "name": "Natural Order",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/54.jpg"
+    },
+    {
+      "id": "3a95986b-532b-4e3a-acf4-c93c6db7282f",
+      "number": 55,
+      "name": "Primal Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/55.jpg"
+    },
+    {
+      "id": "af727601-5251-48b6-b5e3-b68ca0608bc9",
+      "number": 56,
+      "name": "Regrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/56.jpg"
+    },
+    {
+      "id": "d9849b22-1fba-4f6a-bd94-df1bc1764e6b",
+      "number": 57,
+      "name": "Snakeskin Veil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/57.jpg"
+    },
+    {
+      "id": "02f960f2-1324-4d48-bab7-c46b836a8907",
+      "number": 58,
+      "name": "Weather the Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/58.jpg"
+    },
+    {
+      "id": "c2743ca3-8b4a-429a-9f9b-090d632b6601",
+      "number": 59,
+      "name": "Despark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/59.jpg"
+    },
+    {
+      "id": "08a4d142-b98b-4027-94cb-314f67fb1d4a",
+      "number": 60,
+      "name": "Electrolyze",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/60.jpg"
+    },
+    {
+      "id": "ae9f9b3d-d463-4bc6-b822-872a1f8867c8",
+      "number": 61,
+      "name": "Growth Spiral",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/61.jpg"
+    },
+    {
+      "id": "227ac87a-7196-40d0-ab00-98ebafcca09a",
+      "number": 62,
+      "name": "Lightning Helix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/62.jpg"
+    },
+    {
+      "id": "3882ebea-2864-40ef-a21d-6ba80a0bd417",
+      "number": 63,
+      "name": "Putrefy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/63.jpg"
+    },
+    {
+      "id": "6a058a72-ebfe-4957-a7dd-ee7471db2498",
+      "number": 64,
+      "name": "Approach of the Second Sun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/64.jpg"
+    },
+    {
+      "id": "e5e6d72d-ef92-46b2-853f-003ae6250d30",
+      "number": 65,
+      "name": "Day of Judgment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/65.jpg"
+    },
+    {
+      "id": "447c7d1e-8bf9-4558-9480-6f0423f36b81",
+      "number": 66,
+      "name": "Defiant Strike",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/66.jpg"
+    },
+    {
+      "id": "ac62fae3-2525-4b71-80d1-83e608070e4f",
+      "number": 67,
+      "name": "Divine Gambit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/67.jpg"
+    },
+    {
+      "id": "f704397a-c180-44ae-9e4e-90180556b87b",
+      "number": 68,
+      "name": "Ephemerate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/68.jpg"
+    },
+    {
+      "id": "cdfaa364-55d3-402b-83f0-69ffae82304f",
+      "number": 69,
+      "name": "Gift of Estates",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/69.jpg"
+    },
+    {
+      "id": "54bc478b-fb90-4071-acdd-ae6ff33334fd",
+      "number": 70,
+      "name": "Gods Willing",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/70.jpg"
+    },
+    {
+      "id": "89aafeb7-31e3-4389-9c4e-4903c342a021",
+      "number": 71,
+      "name": "Mana Tithe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/71.jpg"
+    },
+    {
+      "id": "64dbdc3f-aa48-4a59-adab-e0a8e981295a",
+      "number": 72,
+      "name": "Revitalize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/72.jpg"
+    },
+    {
+      "id": "a5d364f3-e3e7-46fb-8273-aabd56ded0c5",
+      "number": 73,
+      "name": "Swords to Plowshares",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/73.jpg"
+    },
+    {
+      "id": "a7f56fbb-c88a-4d10-a6c1-fef72403c4b9",
+      "number": 74,
+      "name": "Teferi's Protection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/74.jpg"
+    },
+    {
+      "id": "04ca1405-fb1d-467b-ab00-f28fc0fe6c03",
+      "number": 75,
+      "name": "Blue Sun's Zenith",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/75.jpg"
+    },
+    {
+      "id": "c6118d1d-28c1-4f54-97cb-c4f934b6739c",
+      "number": 76,
+      "name": "Brainstorm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/76.jpg"
+    },
+    {
+      "id": "76e5bd95-4de8-4acc-8e6f-bbfbf55d57a9",
+      "number": 77,
+      "name": "Compulsive Research",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/77.jpg"
+    },
+    {
+      "id": "8118282a-1473-4c0b-a283-1f58e0d0209a",
+      "number": 78,
+      "name": "Counterspell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/78.jpg"
+    },
+    {
+      "id": "13636e52-aee6-4262-9b4d-a2979193bfa3",
+      "number": 79,
+      "name": "Memory Lapse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/79.jpg"
+    },
+    {
+      "id": "7550cf1f-bf03-489e-8ec5-19c835f785ff",
+      "number": 80,
+      "name": "Mind's Desire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/80.jpg"
+    },
+    {
+      "id": "35308c10-f8e9-4c35-a680-a3dfe16ac63a",
+      "number": 81,
+      "name": "Negate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/81.jpg"
+    },
+    {
+      "id": "cd5017e7-2da9-48be-8dc3-458a1374b97c",
+      "number": 82,
+      "name": "Opt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/82.jpg"
+    },
+    {
+      "id": "3c5f48a9-4d6a-4ca6-b99e-d6b1dfac7e04",
+      "number": 83,
+      "name": "Strategic Planning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/83.jpg"
+    },
+    {
+      "id": "6de53b7d-f2de-47aa-b5d4-9427c12484b0",
+      "number": 84,
+      "name": "Tezzeret's Gambit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/84.jpg"
+    },
+    {
+      "id": "34f0f4cb-1ef6-44cd-8cca-1d1e138c0344",
+      "number": 85,
+      "name": "Time Warp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/85.jpg"
+    },
+    {
+      "id": "7949ab59-cd09-4500-a323-5ba05392623f",
+      "number": 86,
+      "name": "Whirlwind Denial",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/86.jpg"
+    },
+    {
+      "id": "f31b98f3-acc0-4113-8f70-86bf2d36b9c1",
+      "number": 87,
+      "name": "Agonizing Remorse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/87.jpg"
+    },
+    {
+      "id": "acfb53cc-384e-4ae2-afa5-541100c92951",
+      "number": 88,
+      "name": "Crux of Fate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/88.jpg"
+    },
+    {
+      "id": "b734cb11-2024-411f-9885-dafda14bb431",
+      "number": 89,
+      "name": "Dark Ritual",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/89.jpg"
+    },
+    {
+      "id": "99b6e466-784b-48a6-8e72-beff72f39231",
+      "number": 90,
+      "name": "Demonic Tutor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/90.jpg"
+    },
+    {
+      "id": "a6565f48-185f-4977-8edc-4840b784d29d",
+      "number": 91,
+      "name": "Doom Blade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/91.jpg"
+    },
+    {
+      "id": "11e96127-83e2-42e2-9799-998b1408d444",
+      "number": 92,
+      "name": "Duress",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/92.jpg"
+    },
+    {
+      "id": "65e93381-0192-4b89-af64-dcc7150b757b",
+      "number": 93,
+      "name": "Eliminate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/93.jpg"
+    },
+    {
+      "id": "a6af6cee-a60a-4953-8e22-c3bddc435619",
+      "number": 94,
+      "name": "Inquisition of Kozilek",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/94.jpg"
+    },
+    {
+      "id": "5d32dfc4-ba8f-4421-b05f-4bf3afd592f7",
+      "number": 95,
+      "name": "Sign in Blood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/95.jpg"
+    },
+    {
+      "id": "9b8f466f-83ec-4d72-90de-0e30069f7ecd",
+      "number": 96,
+      "name": "Tainted Pact",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/96.jpg"
+    },
+    {
+      "id": "1541b593-a7f1-4e6b-aff6-d6341cf8fec5",
+      "number": 97,
+      "name": "Tendrils of Agony",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/97.jpg"
+    },
+    {
+      "id": "f9e6276c-0b80-4d11-b889-8a24b210c4f0",
+      "number": 98,
+      "name": "Village Rites",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/98.jpg"
+    },
+    {
+      "id": "8cbb63b8-9c7f-411a-a1bf-6c9cccdc6307",
+      "number": 99,
+      "name": "Chaos Warp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/99.jpg"
+    },
+    {
+      "id": "1fba553e-eca3-453e-8f67-ec7e5c9f3946",
+      "number": 100,
+      "name": "Claim the Firstborn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/100.jpg"
+    },
+    {
+      "id": "7052a5cd-81b3-40ef-94e0-7c89e9554e33",
+      "number": 101,
+      "name": "Faithless Looting",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/101.jpg"
+    },
+    {
+      "id": "dc58957e-dbf0-40ac-9ec4-05fea0c61880",
+      "number": 102,
+      "name": "Grapeshot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/102.jpg"
+    },
+    {
+      "id": "d4867546-a609-4958-a48e-522fb9258faf",
+      "number": 103,
+      "name": "Increasing Vengeance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/103.jpg"
+    },
+    {
+      "id": "67983e97-a990-4f89-811c-a58a0a10a701",
+      "number": 104,
+      "name": "Infuriate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/104.jpg"
+    },
+    {
+      "id": "b14fae63-2e82-49c1-8e62-d84a65f27479",
+      "number": 105,
+      "name": "Lightning Bolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/105.jpg"
+    },
+    {
+      "id": "63e25534-2bc3-4813-ae63-63cadfe36df6",
+      "number": 106,
+      "name": "Mizzix's Mastery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/106.jpg"
+    },
+    {
+      "id": "2f4a8702-464b-44fd-b706-8a73dd9b0097",
+      "number": 107,
+      "name": "Shock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/107.jpg"
+    },
+    {
+      "id": "d290f3d7-3c45-464c-afae-78bb2615aaf4",
+      "number": 108,
+      "name": "Stone Rain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/108.jpg"
+    },
+    {
+      "id": "05123ba5-7e35-4d3f-8354-e784ce8f1b98",
+      "number": 109,
+      "name": "Thrill of Possibility",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/109.jpg"
+    },
+    {
+      "id": "60d27e1f-ed0d-44c6-8070-d764d4e9c0fb",
+      "number": 110,
+      "name": "Urza's Rage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/110.jpg"
+    },
+    {
+      "id": "bb246be3-d9cb-4753-8d8c-0c770a584090",
+      "number": 111,
+      "name": "Abundant Harvest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/111.jpg"
+    },
+    {
+      "id": "b0c56784-e106-4f17-a1a3-2c0bbb41d316",
+      "number": 112,
+      "name": "Adventurous Impulse",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/112.jpg"
+    },
+    {
+      "id": "c5f4583d-a532-4c67-ad50-138f35fa7490",
+      "number": 113,
+      "name": "Channel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/113.jpg"
+    },
+    {
+      "id": "b8386ca9-0359-4a18-abea-0cb0e955a947",
+      "number": 114,
+      "name": "Cultivate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/114.jpg"
+    },
+    {
+      "id": "cb853d72-9b29-4ea1-80db-da9e0b547ad5",
+      "number": 115,
+      "name": "Harmonize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/115.jpg"
+    },
+    {
+      "id": "bea70da6-8da5-4c9b-8b6d-6a876b046274",
+      "number": 116,
+      "name": "Krosan Grip",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/116.jpg"
+    },
+    {
+      "id": "8ac43bf2-08e1-4b63-ac4f-ccc565ca2cee",
+      "number": 117,
+      "name": "Natural Order",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/117.jpg"
+    },
+    {
+      "id": "ff5f2c89-dbe9-4b44-b892-8e2325860e62",
+      "number": 118,
+      "name": "Primal Command",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/118.jpg"
+    },
+    {
+      "id": "21d0ec3e-10c6-4401-a21f-b767318120b6",
+      "number": 119,
+      "name": "Regrowth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/119.jpg"
+    },
+    {
+      "id": "e909bd04-5394-4888-aa4a-4f90855663bb",
+      "number": 120,
+      "name": "Snakeskin Veil",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/120.jpg"
+    },
+    {
+      "id": "9f7b9f50-2b6c-4ef5-8b72-0bf7e160909e",
+      "number": 121,
+      "name": "Weather the Storm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/121.jpg"
+    },
+    {
+      "id": "f3e0de9d-de5b-4a95-95af-aef4cc546a94",
+      "number": 122,
+      "name": "Despark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/122.jpg"
+    },
+    {
+      "id": "8212125e-1742-41db-a7e9-32df59441f4e",
+      "number": 123,
+      "name": "Electrolyze",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/123.jpg"
+    },
+    {
+      "id": "ffea9e1d-10e1-458b-afba-e33ce9695322",
+      "number": 124,
+      "name": "Growth Spiral",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/124.jpg"
+    },
+    {
+      "id": "47eb569f-9f8d-4856-acf9-f8e87baa19d0",
+      "number": 125,
+      "name": "Lightning Helix",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/125.jpg"
+    },
+    {
+      "id": "5ee093aa-87ad-4a9e-8edf-e397fb1dd6aa",
+      "number": 126,
+      "name": "Putrefy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Strixhaven%20Mystical%20Archive%20%28sta%29/images/126.jpg"
+    }
+  ]
+}
