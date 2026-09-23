@@ -1,0 +1,3577 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Final Fantasy",
+  "totalCards": 595,
+  "cards": [
+    {
+      "id": "95318d85-4a08-47ac-a43d-ea83c0bea81c",
+      "number": 1,
+      "name": "Summon: Bahamut",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/1.jpg"
+    },
+    {
+      "id": "d55a4c02-1aa4-454c-9041-84937377a53b",
+      "number": 2,
+      "name": "Ultima, Origin of Oblivion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/2.jpg"
+    },
+    {
+      "id": "1a67a991-1e52-4676-a2e3-2bc7aa943ab3",
+      "number": 3,
+      "name": "Adelbert Steiner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/3.jpg"
+    },
+    {
+      "id": "e86328b6-ded2-41df-8b6e-4a770e7b171e",
+      "number": 4,
+      "name": "Aerith Gainsborough",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/4.jpg"
+    },
+    {
+      "id": "3123d16c-e1e6-4659-a7a3-2ec6efc6bf08",
+      "number": 5,
+      "name": "Aerith Rescue Mission",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/5.jpg"
+    },
+    {
+      "id": "f2596767-7d19-4110-86ed-3cfc93ac7483",
+      "number": 6,
+      "name": "Ambrosia Whiteheart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/6.jpg"
+    },
+    {
+      "id": "ffe0596f-ef99-4862-9386-0fe455259995",
+      "number": 7,
+      "name": "Ashe, Princess of Dalmasca",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/7.jpg"
+    },
+    {
+      "id": "77d82764-563c-4bc2-b568-625ec7215e0d",
+      "number": 8,
+      "name": "Auron's Inspiration",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/8.jpg"
+    },
+    {
+      "id": "240e1466-bd02-423d-b829-234dcd2bfab2",
+      "number": 9,
+      "name": "Battle Menu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/9.jpg"
+    },
+    {
+      "id": "2cf7e8a3-fad7-413d-b17c-7519a9cf5fb5",
+      "number": 10,
+      "name": "Cloud, Midgar Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/10.jpg"
+    },
+    {
+      "id": "7387bca7-f496-45da-a0ac-6be049303a8f",
+      "number": 11,
+      "name": "Cloudbound Moogle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/11.jpg"
+    },
+    {
+      "id": "7604b534-5480-42fa-bc36-bbae730f8582",
+      "number": 12,
+      "name": "Coeurl",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/12.jpg"
+    },
+    {
+      "id": "5f51c853-949d-44e9-a3a2-02e1ce69a147",
+      "number": 13,
+      "name": "Crystal Fragments // Summon: Alexander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/13.jpg"
+    },
+    {
+      "id": "d4df4373-0ee6-44e3-81c6-0881c070014c",
+      "number": 14,
+      "name": "The Crystal's Chosen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/14.jpg"
+    },
+    {
+      "id": "f58840dc-c641-4092-8b67-9c0d449af715",
+      "number": 15,
+      "name": "Delivery Moogle",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/15.jpg"
+    },
+    {
+      "id": "8c0f9306-2058-476d-a711-bd37a6e15e42",
+      "number": 16,
+      "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/16.jpg"
+    },
+    {
+      "id": "96630531-8eb7-4e3e-8d63-60c562a5571b",
+      "number": 17,
+      "name": "Dragoon's Lance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/17.jpg"
+    },
+    {
+      "id": "e17c0d27-e88d-4ba9-acbb-3f916cee3d7e",
+      "number": 18,
+      "name": "Dwarven Castle Guard",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/18.jpg"
+    },
+    {
+      "id": "900cdf11-b42e-4dcc-97c3-2e4d8e406a70",
+      "number": 19,
+      "name": "Fate of the Sun-Cryst",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/19.jpg"
+    },
+    {
+      "id": "0c730a3b-334e-466b-bb9b-4b41fce2af6d",
+      "number": 20,
+      "name": "From Father to Son",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/20.jpg"
+    },
+    {
+      "id": "076a8eca-ed73-4ee9-aab4-d9d43d394ee6",
+      "number": 21,
+      "name": "G'raha Tia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/21.jpg"
+    },
+    {
+      "id": "29606c49-e1a4-49c3-883b-9122c08bbbc7",
+      "number": 22,
+      "name": "Gaelicat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/22.jpg"
+    },
+    {
+      "id": "ff976428-2145-4630-aab1-08870b90b2f0",
+      "number": 23,
+      "name": "Machinist's Arsenal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/23.jpg"
+    },
+    {
+      "id": "59c4a1a2-623c-43b2-8005-ecb5c6436c10",
+      "number": 24,
+      "name": "Magitek Armor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/24.jpg"
+    },
+    {
+      "id": "b64dc6d7-dd01-4e66-9099-4c90865448df",
+      "number": 25,
+      "name": "Magitek Infantry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/25.jpg"
+    },
+    {
+      "id": "6822144f-f0eb-4e10-a217-52cad36d2973",
+      "number": 26,
+      "name": "Minwu, White Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/26.jpg"
+    },
+    {
+      "id": "caa838a7-60a9-4791-af5b-194f7574c4c8",
+      "number": 27,
+      "name": "Moogles' Valor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/27.jpg"
+    },
+    {
+      "id": "446506c5-5e1d-4b42-aef3-ea247d7881ef",
+      "number": 28,
+      "name": "Paladin's Arms",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/28.jpg"
+    },
+    {
+      "id": "62e299b0-9ef6-49d3-aa79-384325fed89e",
+      "number": 29,
+      "name": "Phoenix Down",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/29.jpg"
+    },
+    {
+      "id": "494e68e9-ecba-4482-82bc-207ad59144c1",
+      "number": 30,
+      "name": "Restoration Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/30.jpg"
+    },
+    {
+      "id": "bdb5452e-d97f-409b-91d0-2664f39b09b8",
+      "number": 31,
+      "name": "Sidequest: Catch a Fish // Cooking Campsite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/31.jpg"
+    },
+    {
+      "id": "da6d9529-3cb0-4adc-8209-b9b02db3bf54",
+      "number": 32,
+      "name": "Slash of Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/32.jpg"
+    },
+    {
+      "id": "399bb699-e61d-4b41-b6e9-e594cbad6194",
+      "number": 33,
+      "name": "Snow Villiers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/33.jpg"
+    },
+    {
+      "id": "06a972a4-0c1b-4f12-a5a5-fdea47c4cd35",
+      "number": 34,
+      "name": "Stiltzkin, Moogle Merchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/34.jpg"
+    },
+    {
+      "id": "00546117-018a-4286-bc20-b5446c5be56f",
+      "number": 35,
+      "name": "Summon: Choco/Mog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/35.jpg"
+    },
+    {
+      "id": "44d23652-077e-4c1f-b640-b284685db911",
+      "number": 36,
+      "name": "Summon: Knights of Round",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/36.jpg"
+    },
+    {
+      "id": "e44497a8-067e-454e-a9c0-684f03df55ff",
+      "number": 37,
+      "name": "Summon: Primal Garuda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/37.jpg"
+    },
+    {
+      "id": "39504a0e-f63f-4907-afd7-c4492f6b8a3b",
+      "number": 38,
+      "name": "Ultima",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/38.jpg"
+    },
+    {
+      "id": "2625c00d-0a51-4481-bf36-cf13a2546242",
+      "number": 39,
+      "name": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/39.jpg"
+    },
+    {
+      "id": "c9e6b374-3e44-4df7-b0a3-4ef98dc08267",
+      "number": 40,
+      "name": "Weapons Vendor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/40.jpg"
+    },
+    {
+      "id": "2df6f515-9d21-4769-b1c4-c219611bccbb",
+      "number": 41,
+      "name": "White Auracite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/41.jpg"
+    },
+    {
+      "id": "30db372e-0b4c-4e16-9667-bf3fda666f72",
+      "number": 42,
+      "name": "White Mage's Staff",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/42.jpg"
+    },
+    {
+      "id": "19bd0885-baaa-40f2-9c59-b1ea53807540",
+      "number": 43,
+      "name": "The Wind Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/43.jpg"
+    },
+    {
+      "id": "1867b5cb-2bb0-4f49-b302-036fdffa2344",
+      "number": 44,
+      "name": "You're Not Alone",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/44.jpg"
+    },
+    {
+      "id": "f21f9161-5945-40da-8da0-446f6a4a1c23",
+      "number": 45,
+      "name": "Zack Fair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/45.jpg"
+    },
+    {
+      "id": "bfa4e927-1d6f-4a64-9801-7d168a5ef3f6",
+      "number": 46,
+      "name": "Astrologian's Planisphere",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/46.jpg"
+    },
+    {
+      "id": "932b865c-bfe7-4bb7-82e9-2403cf0e0522",
+      "number": 47,
+      "name": "Cargo Ship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/47.jpg"
+    },
+    {
+      "id": "ec195607-ac30-4931-acfd-f9d8ac8b047f",
+      "number": 48,
+      "name": "Combat Tutorial",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/48.jpg"
+    },
+    {
+      "id": "d92bce20-308e-4841-aaf8-8e20698292e7",
+      "number": 49,
+      "name": "Dragoon's Wyvern",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/49.jpg"
+    },
+    {
+      "id": "ba752243-2727-4b8a-8e21-e70becfd4ff3",
+      "number": 50,
+      "name": "Dreams of Laguna",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/50.jpg"
+    },
+    {
+      "id": "950ee302-5512-43c5-ac7c-b2b06f4177bf",
+      "number": 51,
+      "name": "Edgar, King of Figaro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/51.jpg"
+    },
+    {
+      "id": "aec83c9a-8ec4-4a5a-b27f-0e74a2b3d21e",
+      "number": 52,
+      "name": "Eject",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/52.jpg"
+    },
+    {
+      "id": "896ee6e9-15a9-4974-b576-50f4759fac38",
+      "number": 53,
+      "name": "Ether",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/53.jpg"
+    },
+    {
+      "id": "cce4eb99-d960-4ab7-911a-bb4ea74d1775",
+      "number": 54,
+      "name": "Gogo, Master of Mimicry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/54.jpg"
+    },
+    {
+      "id": "ad304c9c-943f-442f-bb82-ff378ad7d7ba",
+      "number": 55,
+      "name": "Ice Flan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/55.jpg"
+    },
+    {
+      "id": "9dabd626-7ec3-4913-babb-d5d3fd5e32d5",
+      "number": 56,
+      "name": "Ice Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/56.jpg"
+    },
+    {
+      "id": "ae612312-3a8e-495f-8730-deaaf7505ca1",
+      "number": 57,
+      "name": "Il Mheg Pixie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/57.jpg"
+    },
+    {
+      "id": "1f163763-4802-4a96-a5bc-f3c381db7b5c",
+      "number": 58,
+      "name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/58.jpg"
+    },
+    {
+      "id": "4a6976f2-0bd5-449a-8fcf-f5a732ce22c1",
+      "number": 59,
+      "name": "Louisoix's Sacrifice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/59.jpg"
+    },
+    {
+      "id": "ae875471-346c-4a76-b26f-b7205dad5b80",
+      "number": 60,
+      "name": "The Lunar Whale",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/60.jpg"
+    },
+    {
+      "id": "44921b2e-5938-4f63-92b9-0b719a2f8c68",
+      "number": 61,
+      "name": "Magic Damper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/61.jpg"
+    },
+    {
+      "id": "1dd61cf6-2fb5-4cff-ab00-7677ac85774c",
+      "number": 62,
+      "name": "Matoya, Archon Elder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/62.jpg"
+    },
+    {
+      "id": "a753abfc-35d3-4faf-ab35-3b51aa778174",
+      "number": 63,
+      "name": "Memories Returning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/63.jpg"
+    },
+    {
+      "id": "e3998132-5746-4dde-9529-97d3ad7d7361",
+      "number": 64,
+      "name": "The Prima Vista",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/64.jpg"
+    },
+    {
+      "id": "a75a6ecc-a6a5-462c-bd92-ae57dde9b965",
+      "number": 65,
+      "name": "Qiqirn Merchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/65.jpg"
+    },
+    {
+      "id": "61784cbd-92e9-43c7-a1a8-4004b1bf4dae",
+      "number": 66,
+      "name": "Quistis Trepe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/66.jpg"
+    },
+    {
+      "id": "6aedac12-3714-4a81-bd4d-1d2555c66f78",
+      "number": 67,
+      "name": "Relm's Sketching",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/67.jpg"
+    },
+    {
+      "id": "ebd733f0-8883-434a-b36c-ef76b091fe8e",
+      "number": 68,
+      "name": "Retrieve the Esper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/68.jpg"
+    },
+    {
+      "id": "4572884d-0c0e-41e7-b219-f76b95fdbd01",
+      "number": 69,
+      "name": "Rook Turret",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/69.jpg"
+    },
+    {
+      "id": "a12ff7c3-6ae0-4098-9240-ff3fd16a5288",
+      "number": 70,
+      "name": "Sage's Nouliths",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/70.jpg"
+    },
+    {
+      "id": "516940c7-c271-4f64-af75-c7ba98548382",
+      "number": 71,
+      "name": "Sahagin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/71.jpg"
+    },
+    {
+      "id": "08ab5220-e5c1-472e-8217-97fd60e1773c",
+      "number": 72,
+      "name": "Scorpion Sentinel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/72.jpg"
+    },
+    {
+      "id": "8ac3d2c9-5978-4cfb-a746-c901decff093",
+      "number": 73,
+      "name": "Sidequest: Card Collection // Magicked Card",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/73.jpg"
+    },
+    {
+      "id": "c96cae63-7625-48e3-aaba-5b1632a8642d",
+      "number": 74,
+      "name": "Sleep Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/74.jpg"
+    },
+    {
+      "id": "0d80c511-2f4d-4f77-8143-7b49b2b19fae",
+      "number": 75,
+      "name": "Stolen Uniform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/75.jpg"
+    },
+    {
+      "id": "6678501e-6349-4e37-ab4c-a31a3d408d52",
+      "number": 76,
+      "name": "Stuck in Summoner's Sanctum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/76.jpg"
+    },
+    {
+      "id": "ea7f26a9-b203-4ee7-88f1-3d9c77a25bcb",
+      "number": 77,
+      "name": "Summon: Leviathan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/77.jpg"
+    },
+    {
+      "id": "a80511f8-7cb1-4974-afde-8a5cebe13ad7",
+      "number": 78,
+      "name": "Summon: Shiva",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/78.jpg"
+    },
+    {
+      "id": "2270642d-fe2a-4265-aff0-a24a43ebe0a1",
+      "number": 79,
+      "name": "Swallowed by Leviathan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/79.jpg"
+    },
+    {
+      "id": "83e1cd8d-5b97-427a-be75-2a1947f9c59b",
+      "number": 80,
+      "name": "Syncopate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/80.jpg"
+    },
+    {
+      "id": "c2dcfd0a-3f52-4616-a09a-fd2db8b6b93e",
+      "number": 81,
+      "name": "Thief's Knife",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/81.jpg"
+    },
+    {
+      "id": "aa5086e0-e2f2-498f-9035-1b31e1d21e0a",
+      "number": 82,
+      "name": "Travel the Overworld",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/82.jpg"
+    },
+    {
+      "id": "14379198-9a0a-4853-9d51-fb074a24b1c0",
+      "number": 83,
+      "name": "Ultros, Obnoxious Octopus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/83.jpg"
+    },
+    {
+      "id": "b40a055f-ea66-44d4-b058-a328a3d10994",
+      "number": 84,
+      "name": "Valkyrie Aerial Unit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/84.jpg"
+    },
+    {
+      "id": "e0af8436-797b-4e1f-b21a-d8e93701c3c9",
+      "number": 85,
+      "name": "The Water Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/85.jpg"
+    },
+    {
+      "id": "aef218fa-13a4-4653-95d6-6b3ef1b33a92",
+      "number": 86,
+      "name": "Y'shtola Rhul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/86.jpg"
+    },
+    {
+      "id": "162a415c-5465-497e-8f4e-c6f09681641d",
+      "number": 87,
+      "name": "Ahriman",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/87.jpg"
+    },
+    {
+      "id": "58ccdcfc-a669-480f-bded-4273cfaf2045",
+      "number": 88,
+      "name": "Al Bhed Salvagers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/88.jpg"
+    },
+    {
+      "id": "4627072e-9c72-4084-8021-690777342548",
+      "number": 89,
+      "name": "Ardyn, the Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/89.jpg"
+    },
+    {
+      "id": "35e8f140-055f-4fc7-a765-fb030d828214",
+      "number": 90,
+      "name": "Black Mage's Rod",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/90.jpg"
+    },
+    {
+      "id": "026e7167-d665-43d0-a51e-8df2d68cdb5e",
+      "number": 91,
+      "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/91.jpg"
+    },
+    {
+      "id": "c969bd0f-f174-4e2f-b95c-c9ccd5d0b8ba",
+      "number": 92,
+      "name": "Circle of Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/92.jpg"
+    },
+    {
+      "id": "688fcf8a-0a44-416a-8086-83acf9a6fe69",
+      "number": 93,
+      "name": "Cornered by Black Mages",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/93.jpg"
+    },
+    {
+      "id": "2520ab23-a068-4462-b261-2754409b4108",
+      "number": 94,
+      "name": "Dark Confidant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/94.jpg"
+    },
+    {
+      "id": "b50dcc7c-260f-4d8c-9a9e-9244ec23a91e",
+      "number": 95,
+      "name": "Dark Knight's Greatsword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/95.jpg"
+    },
+    {
+      "id": "0f93b6ac-54ce-45d0-8549-19307406e6e5",
+      "number": 96,
+      "name": "The Darkness Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/96.jpg"
+    },
+    {
+      "id": "13abd96c-d1af-43d0-b3a4-ac3db20e3b51",
+      "number": 97,
+      "name": "Demon Wall",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/97.jpg"
+    },
+    {
+      "id": "eb98cbc3-749c-44f4-974c-00be1286d69e",
+      "number": 98,
+      "name": "Evil Reawakened",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/98.jpg"
+    },
+    {
+      "id": "f73a5cbb-905f-4b99-8d23-9d1b6bd47ee8",
+      "number": 99,
+      "name": "Fang, Fearless l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/99.jpg"
+    },
+    {
+      "id": "01c5bafe-c995-4cef-90fb-7ccb95858511",
+      "number": 0,
+      "name": "Ragnarok, Divine Deliverance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/99b.jpg"
+    },
+    {
+      "id": "e1b0739a-dcc4-4034-96d7-69e551b2f36b",
+      "number": 100,
+      "name": "Fight On!",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/100.jpg"
+    },
+    {
+      "id": "bbf01770-6d0f-4015-b4b4-a74a53cb767a",
+      "number": 101,
+      "name": "The Final Days",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/101.jpg"
+    },
+    {
+      "id": "a4ee8ba5-6a79-4652-b2a4-a3dae804bc28",
+      "number": 102,
+      "name": "Gaius van Baelsar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/102.jpg"
+    },
+    {
+      "id": "8680d052-c07b-4d9b-bda9-b5f69f44f424",
+      "number": 103,
+      "name": "Hecteyes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/103.jpg"
+    },
+    {
+      "id": "4ec91fe8-b3da-47fa-b45e-94b62a260aba",
+      "number": 104,
+      "name": "Jecht, Reluctant Guardian // Braska's Final Aeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/104.jpg"
+    },
+    {
+      "id": "f8c86be0-e1b3-4a78-9254-238dd936914b",
+      "number": 105,
+      "name": "Kain, Traitorous Dragoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/105.jpg"
+    },
+    {
+      "id": "e46d8048-03ce-4e07-ba24-f41ba6140a4e",
+      "number": 106,
+      "name": "Malboro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/106.jpg"
+    },
+    {
+      "id": "f9d25b34-990d-416c-aef7-1b5a73f19dd4",
+      "number": 107,
+      "name": "Namazu Trader",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/107.jpg"
+    },
+    {
+      "id": "a6b5af82-3646-44f9-ac12-1d7fa698f037",
+      "number": 108,
+      "name": "Ninja's Blades",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/108.jpg"
+    },
+    {
+      "id": "ae075e71-d33d-4d6c-b4a5-0b47dd6fd196",
+      "number": 109,
+      "name": "Overkill",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/109.jpg"
+    },
+    {
+      "id": "7a50d2ac-101d-41e1-b400-18fa7d2d7125",
+      "number": 110,
+      "name": "Phantom Train",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/110.jpg"
+    },
+    {
+      "id": "ff2bafe7-4d0f-464d-b7ba-55a54366fc68",
+      "number": 111,
+      "name": "Poison the Waters",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/111.jpg"
+    },
+    {
+      "id": "7475ecf6-23f5-45af-9ef0-ac7923bbc9cb",
+      "number": 112,
+      "name": "Qutrub Forayer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/112.jpg"
+    },
+    {
+      "id": "b5eb0064-c7c4-4e3e-add2-b86269de3fb9",
+      "number": 113,
+      "name": "Reno and Rude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/113.jpg"
+    },
+    {
+      "id": "945006ea-c6a1-4ee5-abb2-387c2b6d3123",
+      "number": 114,
+      "name": "Resentful Revelation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/114.jpg"
+    },
+    {
+      "id": "85eaf5e7-77dc-4842-a70c-ce4ac7f724df",
+      "number": 115,
+      "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/115.jpg"
+    },
+    {
+      "id": "cf7df82f-937a-443f-813f-2bcc6944c5c0",
+      "number": 116,
+      "name": "Sephiroth's Intervention",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/116.jpg"
+    },
+    {
+      "id": "f02ce338-4fe2-44b0-a896-3ed7e6c874a3",
+      "number": 117,
+      "name": "Shambling Cie'th",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/117.jpg"
+    },
+    {
+      "id": "7367b257-1a8c-4593-a307-7116e36e0342",
+      "number": 118,
+      "name": "Shinra Reinforcements",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/118.jpg"
+    },
+    {
+      "id": "c3eb2ae5-10de-4c3d-91c8-8734befc80b2",
+      "number": 119,
+      "name": "Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/119.jpg"
+    },
+    {
+      "id": "aa4f6703-21f8-4c29-ad5a-5afb54188ade",
+      "number": 120,
+      "name": "Summon: Anima",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/120.jpg"
+    },
+    {
+      "id": "8b1b5f06-e34d-44a3-976e-5157c4b7a0f4",
+      "number": 121,
+      "name": "Summon: Primal Odin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/121.jpg"
+    },
+    {
+      "id": "1a9b8723-4383-4c14-b24d-52863af8703d",
+      "number": 122,
+      "name": "Tonberry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/122.jpg"
+    },
+    {
+      "id": "274788f4-fbf3-4a15-bdc0-f513a2fde30d",
+      "number": 123,
+      "name": "Undercity Dire Rat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/123.jpg"
+    },
+    {
+      "id": "6de6d23b-7d42-41c1-be1c-010fe43ee586",
+      "number": 124,
+      "name": "Vayne's Treachery",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/124.jpg"
+    },
+    {
+      "id": "028ef608-acfe-4e9d-90db-eca4411ba78a",
+      "number": 125,
+      "name": "Vincent Valentine // Galian Beast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/125.jpg"
+    },
+    {
+      "id": "0502c426-5271-4989-8598-5bc159afe79c",
+      "number": 126,
+      "name": "Vincent's Limit Break",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/126.jpg"
+    },
+    {
+      "id": "b65ffce4-bb58-418a-9bad-81533a5f2ba2",
+      "number": 127,
+      "name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/127.jpg"
+    },
+    {
+      "id": "9ba292d5-5139-42ea-950d-0a638445277f",
+      "number": 128,
+      "name": "Zodiark, Umbral God",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/128.jpg"
+    },
+    {
+      "id": "1a504dff-5857-4a61-ab99-616d5df7cf5a",
+      "number": 129,
+      "name": "Barret Wallace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/129.jpg"
+    },
+    {
+      "id": "70f47277-ca47-428a-808f-0fb32e820a71",
+      "number": 130,
+      "name": "Blazing Bomb",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/130.jpg"
+    },
+    {
+      "id": "b2e1986c-2852-4843-bdc4-eddb727ba3d4",
+      "number": 131,
+      "name": "Call the Mountain Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/131.jpg"
+    },
+    {
+      "id": "8d8d3903-a7f4-4cd8-8d29-b4a173e4fbb2",
+      "number": 132,
+      "name": "Choco-Comet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/132.jpg"
+    },
+    {
+      "id": "9a069e96-2786-493d-aca8-f70611435dbe",
+      "number": 133,
+      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/133.jpg"
+    },
+    {
+      "id": "13e81e32-7246-46b9-872e-cde77cedd197",
+      "number": 134,
+      "name": "Coral Sword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/134.jpg"
+    },
+    {
+      "id": "ea430b17-2014-4b8e-b53f-43bcfc06f7cd",
+      "number": 135,
+      "name": "The Fire Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/135.jpg"
+    },
+    {
+      "id": "415ff6a5-61ef-4b37-ae08-e44476300d4a",
+      "number": 136,
+      "name": "Fire Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/136.jpg"
+    },
+    {
+      "id": "98366937-d15b-4a66-b9f6-878d50b63871",
+      "number": 137,
+      "name": "Firion, Wild Rose Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/137.jpg"
+    },
+    {
+      "id": "9921f646-e893-44db-ac89-0633c1009788",
+      "number": 138,
+      "name": "Freya Crescent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/138.jpg"
+    },
+    {
+      "id": "1eb81329-fb7a-4347-b96c-9960a5c48e87",
+      "number": 139,
+      "name": "Gilgamesh, Master-at-Arms",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/139.jpg"
+    },
+    {
+      "id": "3af9d100-70ee-4c6c-a762-11a0c4f3ef6f",
+      "number": 140,
+      "name": "Haste Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/140.jpg"
+    },
+    {
+      "id": "2a8b3e1e-5c10-4360-ac1c-83b2e026278c",
+      "number": 141,
+      "name": "Hill Gigas",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/141.jpg"
+    },
+    {
+      "id": "bd2db3f5-fd0d-4817-af90-6bea1f07e16b",
+      "number": 142,
+      "name": "Item Shopkeep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/142.jpg"
+    },
+    {
+      "id": "cd5b9daf-6325-4eb4-a069-4a8cc7807884",
+      "number": 143,
+      "name": "Laughing Mad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/143.jpg"
+    },
+    {
+      "id": "98bb716d-ca66-445f-9cb3-0fc656c8ebff",
+      "number": 144,
+      "name": "Light of Judgment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/144.jpg"
+    },
+    {
+      "id": "6bc39af4-be19-4889-b930-df7ebf7b9481",
+      "number": 145,
+      "name": "Mysidian Elder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/145.jpg"
+    },
+    {
+      "id": "3d3e926a-74af-4996-849f-d31e0fdedeae",
+      "number": 146,
+      "name": "Nibelheim Aflame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/146.jpg"
+    },
+    {
+      "id": "0343916d-1b65-4e95-aef1-e72dbcebf0c4",
+      "number": 147,
+      "name": "Opera Love Song",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/147.jpg"
+    },
+    {
+      "id": "4c617bcd-05f8-40c2-bb38-489bc863ce6b",
+      "number": 148,
+      "name": "Prompto Argentum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/148.jpg"
+    },
+    {
+      "id": "c38c98bb-74c9-460f-9997-ea5c5f922347",
+      "number": 149,
+      "name": "Queen Brahne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/149.jpg"
+    },
+    {
+      "id": "3618e283-2df9-4eb9-97b0-96b55ee31cc0",
+      "number": 150,
+      "name": "Random Encounter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/150.jpg"
+    },
+    {
+      "id": "7035d11b-525f-4120-8dcb-610095196681",
+      "number": 151,
+      "name": "Raubahn, Bull of Ala Mhigo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/151.jpg"
+    },
+    {
+      "id": "e0579955-75f9-47a9-8b03-e287d120826a",
+      "number": 152,
+      "name": "Red Mage's Rapier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/152.jpg"
+    },
+    {
+      "id": "12df1295-8b08-4c8e-bac9-55b4f514c0be",
+      "number": 153,
+      "name": "Sabotender",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/153.jpg"
+    },
+    {
+      "id": "11f1d378-c78c-402a-ac46-2d32598c23e7",
+      "number": 154,
+      "name": "Samurai's Katana",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/154.jpg"
+    },
+    {
+      "id": "a6e021da-2397-4ad3-a07b-65c701df531a",
+      "number": 155,
+      "name": "Sandworm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/155.jpg"
+    },
+    {
+      "id": "9c776984-99ea-4181-ac95-78c41ba9d54f",
+      "number": 156,
+      "name": "Seifer Almasy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/156.jpg"
+    },
+    {
+      "id": "7661003c-bf83-46bb-bcc0-8fbf5819ffa8",
+      "number": 157,
+      "name": "Self-Destruct",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/157.jpg"
+    },
+    {
+      "id": "31e2ad37-73cf-4858-8a3a-fc1165cd21a7",
+      "number": 158,
+      "name": "Sidequest: Play Blitzball // World Champion, Celestial Weapon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/158.jpg"
+    },
+    {
+      "id": "7efd7627-0754-4685-9d04-8f5f82f45632",
+      "number": 159,
+      "name": "Sorceress's Schemes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/159.jpg"
+    },
+    {
+      "id": "8ab5429a-1075-49aa-9608-0610080fbf7a",
+      "number": 160,
+      "name": "Summon: Brynhildr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/160.jpg"
+    },
+    {
+      "id": "840659ee-1493-4190-a514-c2c9ae14e331",
+      "number": 161,
+      "name": "Summon: Esper Ramuh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/161.jpg"
+    },
+    {
+      "id": "d0e5cbd4-401b-4456-80bf-d90beadfd1f8",
+      "number": 162,
+      "name": "Summon: G.F. Cerberus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/162.jpg"
+    },
+    {
+      "id": "c6c73092-5195-4bdc-b039-a699f6e297b2",
+      "number": 163,
+      "name": "Summon: G.F. Ifrit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/163.jpg"
+    },
+    {
+      "id": "f61693a2-7042-44e0-85ba-9bf12ab94e7e",
+      "number": 164,
+      "name": "Suplex",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/164.jpg"
+    },
+    {
+      "id": "9f2b202c-91da-40ec-8324-6b6be7cb3bc8",
+      "number": 165,
+      "name": "Thunder Magic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/165.jpg"
+    },
+    {
+      "id": "d9a1de36-7f47-4b28-bb56-38d7e5bed82f",
+      "number": 166,
+      "name": "Triple Triad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/166.jpg"
+    },
+    {
+      "id": "0265fd20-a85d-49ce-b338-4c40843a5b18",
+      "number": 167,
+      "name": "Unexpected Request",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/167.jpg"
+    },
+    {
+      "id": "50e1ec29-9de3-4f1b-b818-057e030d475b",
+      "number": 168,
+      "name": "Vaan, Street Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/168.jpg"
+    },
+    {
+      "id": "cb98a7dd-542e-4448-b3bb-ff5d67a36535",
+      "number": 169,
+      "name": "Warrior's Sword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/169.jpg"
+    },
+    {
+      "id": "135d6b27-9168-4513-9d7d-56edae048857",
+      "number": 170,
+      "name": "Zell Dincht",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/170.jpg"
+    },
+    {
+      "id": "ec91c4e4-711f-464d-bc83-e6813f4fdcdb",
+      "number": 171,
+      "name": "Airship Crash",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/171.jpg"
+    },
+    {
+      "id": "4c139f30-5ecd-48fd-ae7c-ec2cc98889ff",
+      "number": 172,
+      "name": "Ancient Adamantoise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/172.jpg"
+    },
+    {
+      "id": "e5857b1b-73bc-458e-b26b-7ed8bef785f3",
+      "number": 173,
+      "name": "Balamb T-Rexaur",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/173.jpg"
+    },
+    {
+      "id": "2ac03e90-1e16-453f-88e4-a0448db73403",
+      "number": 174,
+      "name": "Bard's Bow",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/174.jpg"
+    },
+    {
+      "id": "d818d574-2832-4a7a-a13b-aa6e695fdaa5",
+      "number": 175,
+      "name": "Bartz and Boko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/175.jpg"
+    },
+    {
+      "id": "ec8ab637-3d7d-4712-9f83-8920f808f715",
+      "number": 176,
+      "name": "Blitzball Shot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/176.jpg"
+    },
+    {
+      "id": "d5273db4-6214-41e4-825a-612fca8bbe03",
+      "number": 177,
+      "name": "Cactuar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/177.jpg"
+    },
+    {
+      "id": "ff8c8be0-8223-499c-8704-cb68e0a42ce2",
+      "number": 178,
+      "name": "Chocobo Kick",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/178.jpg"
+    },
+    {
+      "id": "1565813b-6912-42f4-bae0-22136a2d6a92",
+      "number": 179,
+      "name": "Chocobo Racetrack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/179.jpg"
+    },
+    {
+      "id": "75c18134-f517-4a68-8640-0426b3cd4f6c",
+      "number": 180,
+      "name": "Clash of the Eikons",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/180.jpg"
+    },
+    {
+      "id": "900206f1-7dd6-4db9-a430-73e560fd196b",
+      "number": 181,
+      "name": "Coliseum Behemoth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/181.jpg"
+    },
+    {
+      "id": "784287c2-43c5-4210-93ae-cdd33b9acb1b",
+      "number": 182,
+      "name": "Commune with Beavers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/182.jpg"
+    },
+    {
+      "id": "6ce7f494-2a19-4b11-94d4-fc5e5a7068bd",
+      "number": 183,
+      "name": "Diamond Weapon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/183.jpg"
+    },
+    {
+      "id": "d585e218-3dc8-4fbd-8ad2-795fbc9b2155",
+      "number": 184,
+      "name": "The Earth Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/184.jpg"
+    },
+    {
+      "id": "0f503360-216a-4629-89b2-d32072850aef",
+      "number": 185,
+      "name": "Esper Origins // Summon: Esper Maduin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/185.jpg"
+    },
+    {
+      "id": "0ce05634-6c01-4941-a135-904cb4e33ac4",
+      "number": 186,
+      "name": "Galuf's Final Act",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/186.jpg"
+    },
+    {
+      "id": "bc10d648-4053-460f-bc52-9c20477bf6de",
+      "number": 187,
+      "name": "Gigantoad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/187.jpg"
+    },
+    {
+      "id": "b7c3544a-5dd5-423e-8a40-ac4803db8adc",
+      "number": 188,
+      "name": "Goobbue Gardener",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/188.jpg"
+    },
+    {
+      "id": "4dced21f-478c-4500-9484-af5864dea5cc",
+      "number": 189,
+      "name": "Gran Pulse Ochu",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/189.jpg"
+    },
+    {
+      "id": "020dee17-d85b-44c4-9faa-b1ef977956f4",
+      "number": 190,
+      "name": "Gysahl Greens",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/190.jpg"
+    },
+    {
+      "id": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+      "number": 191,
+      "name": "Jumbo Cactuar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/191.jpg"
+    },
+    {
+      "id": "a182bc66-bfda-4bf5-bd12-3de5dba60945",
+      "number": 192,
+      "name": "Loporrit Scout",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/192.jpg"
+    },
+    {
+      "id": "d6e1dee0-e2cd-4899-a3ea-7d0df717c9ab",
+      "number": 193,
+      "name": "Prishe's Wanderings",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/193.jpg"
+    },
+    {
+      "id": "4f352b5e-9731-4a8e-b872-db5d3bf32211",
+      "number": 194,
+      "name": "Quina, Qu Gourmet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/194.jpg"
+    },
+    {
+      "id": "c25960e0-5779-4e20-89f3-03950ad9d91c",
+      "number": 195,
+      "name": "Reach the Horizon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/195.jpg"
+    },
+    {
+      "id": "d1af74e4-38d5-44b5-85e1-4d13f6970453",
+      "number": 196,
+      "name": "A Realm Reborn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/196.jpg"
+    },
+    {
+      "id": "19ad36d6-8bf4-490c-9980-b98a470af892",
+      "number": 197,
+      "name": "Ride the Shoopuf",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/197.jpg"
+    },
+    {
+      "id": "40a06165-2835-4610-86a1-7f684992fcf2",
+      "number": 198,
+      "name": "Rydia's Return",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/198.jpg"
+    },
+    {
+      "id": "1e2a3566-1390-457e-8077-d776a8671319",
+      "number": 199,
+      "name": "Sazh Katzroy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/199.jpg"
+    },
+    {
+      "id": "dda6b4d0-1b60-46b0-b321-b9ffe15afff4",
+      "number": 200,
+      "name": "Sazh's Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/200.jpg"
+    },
+    {
+      "id": "0cbf911c-a721-4b84-8645-d83a0966be18",
+      "number": 201,
+      "name": "Sidequest: Raise a Chocobo // Black Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/201.jpg"
+    },
+    {
+      "id": "32eb192b-de6b-4814-8077-628d343d014e",
+      "number": 202,
+      "name": "Summon: Fat Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/202.jpg"
+    },
+    {
+      "id": "93feb9d5-d004-4598-a448-b3488c869c05",
+      "number": 203,
+      "name": "Summon: Fenrir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/203.jpg"
+    },
+    {
+      "id": "5ce6ea96-7293-496d-b9c8-8ed6d6109a4d",
+      "number": 204,
+      "name": "Summon: Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/204.jpg"
+    },
+    {
+      "id": "d9fda3fc-569d-49f8-a2ed-e0b1d6668426",
+      "number": 205,
+      "name": "Summoner's Grimoire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/205.jpg"
+    },
+    {
+      "id": "fb781323-2746-405d-a9b2-e778c037a6e9",
+      "number": 206,
+      "name": "Tifa Lockhart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/206.jpg"
+    },
+    {
+      "id": "24d6eab7-22bd-494f-8cbe-204446f24be9",
+      "number": 207,
+      "name": "Tifa's Limit Break",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/207.jpg"
+    },
+    {
+      "id": "0f5725aa-42bb-4dfd-9c15-135b38b33da3",
+      "number": 208,
+      "name": "Torgal, A Fine Hound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/208.jpg"
+    },
+    {
+      "id": "49cd4efa-4df4-4257-9a42-60330f7781e2",
+      "number": 209,
+      "name": "Town Greeter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/209.jpg"
+    },
+    {
+      "id": "2462df62-fc35-47ed-9571-40452074dc6d",
+      "number": 210,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/210.jpg"
+    },
+    {
+      "id": "91226c1a-63a0-494e-bcf0-77c2d6f49213",
+      "number": 211,
+      "name": "Vanille, Cheerful l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/211.jpg"
+    },
+    {
+      "id": "aa192912-c9ee-403f-8a46-a338c9edb4b9",
+      "number": 212,
+      "name": "Absolute Virtue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/212.jpg"
+    },
+    {
+      "id": "afcaed7d-7ea3-4f2a-a7f5-ee3315226369",
+      "number": 213,
+      "name": "Balthier and Fran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/213.jpg"
+    },
+    {
+      "id": "fe86e41b-b0f6-4aa1-8827-c095c721f304",
+      "number": 214,
+      "name": "Black Waltz No. 3",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/214.jpg"
+    },
+    {
+      "id": "409c305a-52dc-4538-8e72-efcd568eaf49",
+      "number": 215,
+      "name": "Choco, Seeker of Paradise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/215.jpg"
+    },
+    {
+      "id": "7fb99393-d2b6-40a6-8de7-317efdc4c50b",
+      "number": 216,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/216.jpg"
+    },
+    {
+      "id": "a292094a-674a-401f-8776-ba5ebe57c946",
+      "number": 217,
+      "name": "Cloud of Darkness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/217.jpg"
+    },
+    {
+      "id": "75cf4eb8-33e7-4dfc-b890-a7e3b5c1b9d5",
+      "number": 218,
+      "name": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/218.jpg"
+    },
+    {
+      "id": "3d75e8fd-6139-4b10-9ce3-195b47d72e0c",
+      "number": 219,
+      "name": "The Emperor of Palamecia // The Lord Master of Hell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/219.jpg"
+    },
+    {
+      "id": "1b4bab87-4000-461d-8b58-d34928fee305",
+      "number": 220,
+      "name": "Exdeath, Void Warlock // Neo Exdeath, Dimension's End",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/220.jpg"
+    },
+    {
+      "id": "dd463dbe-5f2c-4d4f-86f8-ad8ff407af62",
+      "number": 221,
+      "name": "Garland, Knight of Cornelia // Chaos, the Endless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/221.jpg"
+    },
+    {
+      "id": "b883df14-8d7b-4f6a-9a6a-2f71f5b6ddda",
+      "number": 222,
+      "name": "Garnet, Princess of Alexandria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/222.jpg"
+    },
+    {
+      "id": "6a7784de-a10d-4ce6-98a5-aaf3e85773b6",
+      "number": 223,
+      "name": "Giott, King of the Dwarves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/223.jpg"
+    },
+    {
+      "id": "442957fc-045d-4db6-b82a-445f172d23e4",
+      "number": 224,
+      "name": "Gladiolus Amicitia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/224.jpg"
+    },
+    {
+      "id": "849f5716-7211-4e93-a220-f88d49f937f4",
+      "number": 225,
+      "name": "Golbez, Crystal Collector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/225.jpg"
+    },
+    {
+      "id": "fbdb68cc-5516-481a-94c5-59f6c69b8a17",
+      "number": 226,
+      "name": "Hope Estheim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/226.jpg"
+    },
+    {
+      "id": "ab4f9721-5b2c-4371-98a5-3f6714265e57",
+      "number": 227,
+      "name": "Ignis Scientia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/227.jpg"
+    },
+    {
+      "id": "534f98ee-7bc2-44d6-b49f-f57c051807d5",
+      "number": 228,
+      "name": "Jenova, Ancient Calamity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/228.jpg"
+    },
+    {
+      "id": "457fdbb9-5439-460f-8e37-176f8919362c",
+      "number": 229,
+      "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/229.jpg"
+    },
+    {
+      "id": "f9e64cb6-48f7-41d3-99e7-4b0bc3b33fd7",
+      "number": 230,
+      "name": "Judge Magister Gabranth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/230.jpg"
+    },
+    {
+      "id": "8fcf3fbb-1ddd-437e-81c1-f5a3133f5ee8",
+      "number": 231,
+      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/231.jpg"
+    },
+    {
+      "id": "008782d2-72b0-4554-b1ce-2db99969a4d8",
+      "number": 232,
+      "name": "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/232.jpg"
+    },
+    {
+      "id": "1103da9c-300c-406b-997d-9e5bb7cd02d6",
+      "number": 233,
+      "name": "Lightning, Army of One",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/233.jpg"
+    },
+    {
+      "id": "572feb8c-6976-40a8-8a34-b4db836cca56",
+      "number": 234,
+      "name": "Locke Cole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/234.jpg"
+    },
+    {
+      "id": "1881a66b-956d-4bab-b578-5b2d3407c972",
+      "number": 235,
+      "name": "Noctis, Prince of Lucis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/235.jpg"
+    },
+    {
+      "id": "9a8eb7e6-0c0b-42d0-aa90-2d3d29bc15aa",
+      "number": 236,
+      "name": "Omega, Heartless Evolution",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/236.jpg"
+    },
+    {
+      "id": "ba79d293-bf42-48b6-a868-5249f4beeb76",
+      "number": 237,
+      "name": "Rinoa Heartilly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/237.jpg"
+    },
+    {
+      "id": "f5fff00b-c9a0-4e90-abc0-349f8716c885",
+      "number": 238,
+      "name": "Rufus Shinra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/238.jpg"
+    },
+    {
+      "id": "99450143-6ab5-463d-9e04-e8e6703a8b92",
+      "number": 239,
+      "name": "Rydia, Summoner of Mist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/239.jpg"
+    },
+    {
+      "id": "62fa74c0-43ae-445c-8039-ca9d00e9709a",
+      "number": 240,
+      "name": "Serah Farron // Crystallized Serah",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/240.jpg"
+    },
+    {
+      "id": "eff984b2-6ea9-4471-91c5-99c47f87f10b",
+      "number": 241,
+      "name": "Shantotto, Tactician Magician",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/241.jpg"
+    },
+    {
+      "id": "659be746-bd31-4a70-8cec-7798da78b0b5",
+      "number": 242,
+      "name": "Sin, Spira's Punishment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/242.jpg"
+    },
+    {
+      "id": "cc4e5234-fb41-48f7-91f4-039710542bc3",
+      "number": 243,
+      "name": "Squall, SeeD Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/243.jpg"
+    },
+    {
+      "id": "a67793ef-ef80-4434-9c54-e3fd8a270bbe",
+      "number": 244,
+      "name": "Tellah, Great Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/244.jpg"
+    },
+    {
+      "id": "fbd447aa-588d-4c4d-925e-a7d3bdf6a65c",
+      "number": 245,
+      "name": "Terra, Magical Adept // Esper Terra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/245.jpg"
+    },
+    {
+      "id": "aa851d68-a7a4-48c0-9cd7-d3d2e079f3a1",
+      "number": 246,
+      "name": "Tidus, Blitzball Star",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/246.jpg"
+    },
+    {
+      "id": "2d6a2b68-5407-464e-a335-7866fd969c30",
+      "number": 247,
+      "name": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/247.jpg"
+    },
+    {
+      "id": "ecc1027a-8c07-44a0-bdde-fa2844cff694",
+      "number": 248,
+      "name": "Vivi Ornitier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/248.jpg"
+    },
+    {
+      "id": "f5fce9a5-85ae-408e-a260-b1e39843626e",
+      "number": 0,
+      "name": "A-Vivi Ornitier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/A-248.jpg"
+    },
+    {
+      "id": "77bc419d-ff69-4e7c-afe6-faca383a5ed7",
+      "number": 249,
+      "name": "The Wandering Minstrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/249.jpg"
+    },
+    {
+      "id": "35b613ad-86f0-431b-af93-147d21041fde",
+      "number": 250,
+      "name": "Yuna, Hope of Spira",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/250.jpg"
+    },
+    {
+      "id": "e42c7d9d-8685-415b-8c5d-6ab2165863b9",
+      "number": 251,
+      "name": "Zidane, Tantalus Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/251.jpg"
+    },
+    {
+      "id": "0a1d6dcd-bd41-4f57-a35b-6613811fe4d4",
+      "number": 252,
+      "name": "Adventurer's Airship",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/252.jpg"
+    },
+    {
+      "id": "038710ca-c756-4e66-a9de-278e676c9f5b",
+      "number": 253,
+      "name": "Aettir and Priwen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/253.jpg"
+    },
+    {
+      "id": "92f4ad73-42bf-45c0-8bb6-0b44043c81ef",
+      "number": 254,
+      "name": "Blitzball",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/254.jpg"
+    },
+    {
+      "id": "374d7383-a1a7-4eea-91f7-290180e14cc9",
+      "number": 255,
+      "name": "Buster Sword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/255.jpg"
+    },
+    {
+      "id": "a4b05d37-df62-475c-8371-735ed2fa1b05",
+      "number": 256,
+      "name": "Elixir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/256.jpg"
+    },
+    {
+      "id": "d42e5fed-67ac-46d7-a5d4-78f661f3e8b4",
+      "number": 257,
+      "name": "Excalibur II",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/257.jpg"
+    },
+    {
+      "id": "f724dde1-84b0-4e3b-a9b8-44cd22bb9f79",
+      "number": 258,
+      "name": "Genji Glove",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/258.jpg"
+    },
+    {
+      "id": "ef7011f4-fc08-4b15-973d-d15357cbe744",
+      "number": 259,
+      "name": "Instant Ramen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/259.jpg"
+    },
+    {
+      "id": "e48cf6d5-4d32-4b66-80be-3495ecd3e906",
+      "number": 260,
+      "name": "Iron Giant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/260.jpg"
+    },
+    {
+      "id": "04d327a3-1699-4556-b681-a957671ad142",
+      "number": 261,
+      "name": "Lion Heart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/261.jpg"
+    },
+    {
+      "id": "d6e1e3e7-20d4-42cb-ad22-60356b9e8fdc",
+      "number": 262,
+      "name": "Lunatic Pandora",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/262.jpg"
+    },
+    {
+      "id": "57d07ca0-5618-4a90-a605-ca14a193ce3b",
+      "number": 263,
+      "name": "Magic Pot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/263.jpg"
+    },
+    {
+      "id": "fc408575-8ef7-4043-b6b7-b38cef7c97d1",
+      "number": 264,
+      "name": "The Masamune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/264.jpg"
+    },
+    {
+      "id": "995033f0-873d-4e46-b0c9-98ec8ef270ff",
+      "number": 265,
+      "name": "Monk's Fist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/265.jpg"
+    },
+    {
+      "id": "989b52f7-d8a5-4488-9a5d-f14a1d48686d",
+      "number": 266,
+      "name": "PuPu UFO",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/266.jpg"
+    },
+    {
+      "id": "dc420e79-c483-474f-97cd-e9c6a636c306",
+      "number": 267,
+      "name": "The Regalia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/267.jpg"
+    },
+    {
+      "id": "e09ee4c9-85ef-4d1e-864b-d659b8e8f51d",
+      "number": 268,
+      "name": "Relentless X-ATM092",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/268.jpg"
+    },
+    {
+      "id": "75761f1e-9449-4c58-8265-8abac71dafc1",
+      "number": 269,
+      "name": "Ring of the Lucii",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/269.jpg"
+    },
+    {
+      "id": "70d9ab99-ec8a-402e-ba1d-ffa6c4c84a3f",
+      "number": 270,
+      "name": "World Map",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/270.jpg"
+    },
+    {
+      "id": "f0da2ee1-986e-4cbf-92eb-d96fdb572ca5",
+      "number": 271,
+      "name": "Adventurer's Inn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/271.jpg"
+    },
+    {
+      "id": "001e9f20-5b15-41cb-bf82-46172decc235",
+      "number": 272,
+      "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/272.jpg"
+    },
+    {
+      "id": "6e4bf840-802d-47d5-bffd-8ba495e19cf6",
+      "number": 273,
+      "name": "Baron, Airship Kingdom",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/273.jpg"
+    },
+    {
+      "id": "f73ce8ec-c916-48eb-ae20-c0d6d03d7145",
+      "number": 274,
+      "name": "Capital City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/274.jpg"
+    },
+    {
+      "id": "5e43c36f-b8a2-4b2b-b2ea-57e6fa97521c",
+      "number": 275,
+      "name": "Clive's Hideaway",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/275.jpg"
+    },
+    {
+      "id": "64db46d4-f91f-49cc-971c-b8e19f0c4ea9",
+      "number": 276,
+      "name": "Crossroads Village",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/276.jpg"
+    },
+    {
+      "id": "e28eac1e-adc7-4f8d-b206-bef09ba07d38",
+      "number": 277,
+      "name": "Eden, Seat of the Sanctum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/277.jpg"
+    },
+    {
+      "id": "99582781-613e-4a33-aec7-7569b4a961aa",
+      "number": 278,
+      "name": "Gohn, Town of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/278.jpg"
+    },
+    {
+      "id": "5363c881-443d-43df-afd8-f81e1a1741a2",
+      "number": 279,
+      "name": "The Gold Saucer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/279.jpg"
+    },
+    {
+      "id": "7beccfa6-3e4b-4460-954e-870cb39e462d",
+      "number": 280,
+      "name": "Gongaga, Reactor Town",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/280.jpg"
+    },
+    {
+      "id": "dfcbc131-fd50-4908-b539-c8e52bb70c58",
+      "number": 281,
+      "name": "Guadosalam, Farplane Gateway",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/281.jpg"
+    },
+    {
+      "id": "07fca511-a65c-4779-82c0-9215b0dcd068",
+      "number": 282,
+      "name": "Insomnia, Crown City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/282.jpg"
+    },
+    {
+      "id": "068bc755-9d3d-430b-abc5-c775a5415bf9",
+      "number": 283,
+      "name": "Ishgard, the Holy See // Faith & Grief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/283.jpg"
+    },
+    {
+      "id": "98b2d5b5-f85b-4c42-a0f5-a76f6af304ba",
+      "number": 284,
+      "name": "Jidoor, Aristocratic Capital // Overture",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/284.jpg"
+    },
+    {
+      "id": "548dd152-f0b6-4e8f-9afc-a4ec1671b648",
+      "number": 285,
+      "name": "Lindblum, Industrial Regency // Mage Siege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/285.jpg"
+    },
+    {
+      "id": "8a837256-6bb4-4a60-962d-d2793548d26c",
+      "number": 286,
+      "name": "Midgar, City of Mako // Reactor Raid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/286.jpg"
+    },
+    {
+      "id": "c44c9bbe-f4c6-41cf-b3c3-b943f4011bc1",
+      "number": 287,
+      "name": "Rabanastre, Royal City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/287.jpg"
+    },
+    {
+      "id": "7a745b5e-cdb8-4d05-ac5c-87be69536da6",
+      "number": 288,
+      "name": "Sharlayan, Nation of Scholars",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/288.jpg"
+    },
+    {
+      "id": "fc7d1912-7e27-49ef-bd98-375d975a42b0",
+      "number": 289,
+      "name": "Starting Town",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/289.jpg"
+    },
+    {
+      "id": "f6285535-bc44-4274-a886-b14d7c7aaba8",
+      "number": 290,
+      "name": "Treno, Dark City",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/290.jpg"
+    },
+    {
+      "id": "10e5648e-4884-41e3-95f8-c76f6bca01e2",
+      "number": 291,
+      "name": "Vector, Imperial Capital",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/291.jpg"
+    },
+    {
+      "id": "c74024bd-b383-468d-9cf5-d112a29f6457",
+      "number": 292,
+      "name": "Windurst, Federation Center",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/292.jpg"
+    },
+    {
+      "id": "881e4c00-3b9a-47a1-bf66-1badda994c88",
+      "number": 293,
+      "name": "Zanarkand, Ancient Metropolis // Lasting Fayth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/293.jpg"
+    },
+    {
+      "id": "9dd2d666-7c6b-48ce-93dc-c004ebdd1fe9",
+      "number": 294,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/294.jpg"
+    },
+    {
+      "id": "e623b058-76d2-476b-9ee6-82807f7992c3",
+      "number": 295,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/295.jpg"
+    },
+    {
+      "id": "ee86ac2f-f398-4422-8721-8ac859fbf5bc",
+      "number": 296,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/296.jpg"
+    },
+    {
+      "id": "b92ec9f6-a56d-40c6-aee2-7d5e1524c985",
+      "number": 297,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/297.jpg"
+    },
+    {
+      "id": "eeecf096-87dd-4dcb-953f-700445bf3f3a",
+      "number": 298,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/298.jpg"
+    },
+    {
+      "id": "347e00db-abcf-4053-aa27-4a5b42e1da55",
+      "number": 299,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/299.jpg"
+    },
+    {
+      "id": "f66094ef-059b-4511-aa6e-835906736de4",
+      "number": 300,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/300.jpg"
+    },
+    {
+      "id": "a7f56d20-16dc-4b7f-98bf-124817a83bae",
+      "number": 301,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/301.jpg"
+    },
+    {
+      "id": "08ec1e4f-e284-4216-a022-bd94c4dae02b",
+      "number": 302,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/302.jpg"
+    },
+    {
+      "id": "a18ef64b-a9de-4548-b4d5-168758442db7",
+      "number": 303,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/303.jpg"
+    },
+    {
+      "id": "d061b9a8-e95d-48ec-a1c9-337433b62dfc",
+      "number": 304,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/304.jpg"
+    },
+    {
+      "id": "ea1735b9-fd10-4c9c-b9d3-046d8c22b852",
+      "number": 305,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/305.jpg"
+    },
+    {
+      "id": "be72862d-d71e-4b18-98a6-59019399f631",
+      "number": 306,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/306.jpg"
+    },
+    {
+      "id": "3d08f6a6-316d-45d8-aabe-1760a20903ac",
+      "number": 307,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/307.jpg"
+    },
+    {
+      "id": "c52038c8-5bba-4d8e-845f-30af44300acc",
+      "number": 308,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/308.jpg"
+    },
+    {
+      "id": "c61feafd-ef09-437c-a12c-fd7d6cb8c15a",
+      "number": 309,
+      "name": "Wastes",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/309.jpg"
+    },
+    {
+      "id": "b5327e09-2ea0-4365-bb20-087a08da8ce6",
+      "number": 310,
+      "name": "Ishgard, the Holy See // Faith & Grief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/310.jpg"
+    },
+    {
+      "id": "72678d58-888e-4d3c-bc2c-78f5b7862e03",
+      "number": 311,
+      "name": "Jidoor, Aristocratic Capital // Overture",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/311.jpg"
+    },
+    {
+      "id": "b2ae92d9-7047-424e-a482-2311888a8c56",
+      "number": 312,
+      "name": "Lindblum, Industrial Regency // Mage Siege",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/312.jpg"
+    },
+    {
+      "id": "fa605930-a7f0-410d-ac58-f5f0bd8caadf",
+      "number": 313,
+      "name": "Midgar, City of Mako // Reactor Raid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/313.jpg"
+    },
+    {
+      "id": "c64bb94b-c1a7-4dd3-b2dc-b87d306d62ad",
+      "number": 314,
+      "name": "Zanarkand, Ancient Metropolis // Lasting Fayth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/314.jpg"
+    },
+    {
+      "id": "41ae833d-77ee-4876-8990-591ae0d800ab",
+      "number": 315,
+      "name": "Ardyn, the Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/315.jpg"
+    },
+    {
+      "id": "39f9de73-84a7-483f-927e-91ade20a2d06",
+      "number": 316,
+      "name": "Kain, Traitorous Dragoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/316.jpg"
+    },
+    {
+      "id": "83c82209-47d5-4c4c-b8ec-96ab907e15d3",
+      "number": 317,
+      "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/317.jpg"
+    },
+    {
+      "id": "425d5bea-9c9a-4e8a-b4bc-02284fb9b5b4",
+      "number": 318,
+      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/318.jpg"
+    },
+    {
+      "id": "6aaba8b1-1fcb-4a73-894f-f32400352c8c",
+      "number": 319,
+      "name": "Balthier and Fran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/319.jpg"
+    },
+    {
+      "id": "be2af52c-9f38-40e4-a643-06c5f2a9f416",
+      "number": 320,
+      "name": "Lightning, Army of One",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/320.jpg"
+    },
+    {
+      "id": "ada6aeb6-8c9f-4498-9326-b4da0fcb19a3",
+      "number": 321,
+      "name": "Vivi Ornitier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/321.jpg"
+    },
+    {
+      "id": "0cadfe0e-9cdf-4e64-b143-f996c76bf93b",
+      "number": 322,
+      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/322.jpg"
+    },
+    {
+      "id": "0cf789e7-045c-4ad1-abc3-23eabda54f02",
+      "number": 323,
+      "name": "Terra, Magical Adept // Esper Terra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/323.jpg"
+    },
+    {
+      "id": "2ac1b165-27ff-47f3-b598-43f7f021093a",
+      "number": 324,
+      "name": "Ultima, Origin of Oblivion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/324.jpg"
+    },
+    {
+      "id": "2ecefb14-23a2-44f4-a3aa-63c246f744e1",
+      "number": 325,
+      "name": "Ambrosia Whiteheart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/325.jpg"
+    },
+    {
+      "id": "522920b3-e7a4-4097-8321-2dbb326719c6",
+      "number": 326,
+      "name": "Moogles' Valor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/326.jpg"
+    },
+    {
+      "id": "8347cb57-7c20-4085-83f3-bee35b55b3f1",
+      "number": 327,
+      "name": "Stiltzkin, Moogle Merchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/327.jpg"
+    },
+    {
+      "id": "e673fb51-d36c-42fb-91bf-805812522064",
+      "number": 328,
+      "name": "Ultima",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/328.jpg"
+    },
+    {
+      "id": "a9a432dc-6e53-48d2-8fbe-b01bd2cab6dd",
+      "number": 329,
+      "name": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/329.jpg"
+    },
+    {
+      "id": "423134fa-62d9-439c-b123-eeea52f42414",
+      "number": 330,
+      "name": "The Wind Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/330.jpg"
+    },
+    {
+      "id": "fb3c836d-8012-4591-ba4f-e6db6d59b974",
+      "number": 331,
+      "name": "Memories Returning",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/331.jpg"
+    },
+    {
+      "id": "0cf03aad-0562-4d29-8c70-dc529c3a3961",
+      "number": 332,
+      "name": "Stolen Uniform",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/332.jpg"
+    },
+    {
+      "id": "7572888a-c394-4d9f-b66f-30d91364d265",
+      "number": 333,
+      "name": "The Water Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/333.jpg"
+    },
+    {
+      "id": "378df0f4-5043-461f-8705-9a2c0c3acd43",
+      "number": 334,
+      "name": "Dark Confidant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/334.jpg"
+    },
+    {
+      "id": "749f2041-0eb5-42c3-b9ac-05a7575cb693",
+      "number": 335,
+      "name": "The Darkness Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/335.jpg"
+    },
+    {
+      "id": "2eb50ecd-d32f-482b-8e6f-57f68179241b",
+      "number": 336,
+      "name": "Zodiark, Umbral God",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/336.jpg"
+    },
+    {
+      "id": "58306c68-5de8-48f4-9ce5-ea69792af58c",
+      "number": 337,
+      "name": "The Fire Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/337.jpg"
+    },
+    {
+      "id": "816f618c-ed6c-4320-9c33-9ae903e32abf",
+      "number": 338,
+      "name": "Gilgamesh, Master-at-Arms",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/338.jpg"
+    },
+    {
+      "id": "f6c21de9-7278-4406-8037-afe2c29b271f",
+      "number": 339,
+      "name": "Nibelheim Aflame",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/339.jpg"
+    },
+    {
+      "id": "5bd84d2c-6f09-4aef-a98b-7b256c7de821",
+      "number": 340,
+      "name": "Triple Triad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/340.jpg"
+    },
+    {
+      "id": "fa15ebf3-7ada-4e86-abc9-85dea83edb8c",
+      "number": 341,
+      "name": "Clash of the Eikons",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/341.jpg"
+    },
+    {
+      "id": "9240303a-73a3-4daf-b5fc-090ce7cbd92a",
+      "number": 342,
+      "name": "The Earth Crystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/342.jpg"
+    },
+    {
+      "id": "fe80b498-a25d-4f68-ac26-9554c3ee1677",
+      "number": 343,
+      "name": "Jumbo Cactuar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/343.jpg"
+    },
+    {
+      "id": "aa78ab04-6ddf-4a67-8bcf-0da4646a1e48",
+      "number": 344,
+      "name": "A Realm Reborn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/344.jpg"
+    },
+    {
+      "id": "66188ecc-ac97-4dcb-ada3-57d86915a911",
+      "number": 345,
+      "name": "Torgal, A Fine Hound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/345.jpg"
+    },
+    {
+      "id": "9f80efa6-769f-4205-b69e-9cf0e78b7bcd",
+      "number": 346,
+      "name": "Jenova, Ancient Calamity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/346.jpg"
+    },
+    {
+      "id": "615f1a04-2ad4-443b-a915-2181a6bf13af",
+      "number": 347,
+      "name": "Omega, Heartless Evolution",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/347.jpg"
+    },
+    {
+      "id": "ce15bf1d-debf-4e0f-a69d-a57619d4b0ee",
+      "number": 348,
+      "name": "Sin, Spira's Punishment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/348.jpg"
+    },
+    {
+      "id": "0dcb6a53-ad1b-465b-8d4c-f2c8b2b29e25",
+      "number": 349,
+      "name": "Tellah, Great Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/349.jpg"
+    },
+    {
+      "id": "2ceea116-6197-45ec-a5a9-73588744b8a0",
+      "number": 350,
+      "name": "Aettir and Priwen",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/350.jpg"
+    },
+    {
+      "id": "f57d0446-1eae-4b88-b65c-92a14a3f9cef",
+      "number": 351,
+      "name": "Buster Sword",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/351.jpg"
+    },
+    {
+      "id": "becf759b-e3bc-4281-a1e1-1da9f36247ef",
+      "number": 352,
+      "name": "Excalibur II",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/352.jpg"
+    },
+    {
+      "id": "a288efba-7c70-428d-a2b7-571891976f78",
+      "number": 353,
+      "name": "The Masamune",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/353.jpg"
+    },
+    {
+      "id": "1a6c87dc-188c-4c75-9026-568263940b90",
+      "number": 354,
+      "name": "Balamb Garden, SeeD Academy // Balamb Garden, Airborne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/354.jpg"
+    },
+    {
+      "id": "4786e79c-1e64-41bd-87f6-9a33110afa71",
+      "number": 355,
+      "name": "Eden, Seat of the Sanctum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/355.jpg"
+    },
+    {
+      "id": "fd5cb1fc-71b2-4b05-abd3-c90e95c53ad1",
+      "number": 356,
+      "name": "Summon: Bahamut",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/356.jpg"
+    },
+    {
+      "id": "c2416ecc-bb6b-44f6-8fa6-61d168777f2e",
+      "number": 357,
+      "name": "Crystal Fragments // Summon: Alexander",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/357.jpg"
+    },
+    {
+      "id": "b95481b1-1780-4cf9-b910-dd0a4461f818",
+      "number": 358,
+      "name": "Summon: Choco/Mog",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/358.jpg"
+    },
+    {
+      "id": "b8a48466-6dc1-4874-9328-c7358e642f39",
+      "number": 359,
+      "name": "Summon: Knights of Round",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/359.jpg"
+    },
+    {
+      "id": "f6ee6624-79be-4a76-8c12-80bf31f81ae2",
+      "number": 360,
+      "name": "Summon: Primal Garuda",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/360.jpg"
+    },
+    {
+      "id": "4c6738f5-55cb-48f0-8e70-296d1c549cd3",
+      "number": 361,
+      "name": "Summon: Leviathan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/361.jpg"
+    },
+    {
+      "id": "340b2b03-1b20-411c-ba30-2be77655290a",
+      "number": 362,
+      "name": "Summon: Shiva",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/362.jpg"
+    },
+    {
+      "id": "20c75373-7db4-4964-8e09-2badce2f0f84",
+      "number": 363,
+      "name": "Jecht, Reluctant Guardian // Braska's Final Aeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/363.jpg"
+    },
+    {
+      "id": "d4aa9f4e-cba9-41fa-8c65-3e263988f90d",
+      "number": 364,
+      "name": "Summon: Anima",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/364.jpg"
+    },
+    {
+      "id": "d8117e64-6e43-4aa8-90df-c5b21fbb9182",
+      "number": 365,
+      "name": "Summon: Primal Odin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/365.jpg"
+    },
+    {
+      "id": "fac98745-a30e-4f64-be21-302c0d73d4f7",
+      "number": 366,
+      "name": "Summon: Brynhildr",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/366.jpg"
+    },
+    {
+      "id": "a6edb808-9753-4029-81ed-60a91ebc1d77",
+      "number": 367,
+      "name": "Summon: Esper Ramuh",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/367.jpg"
+    },
+    {
+      "id": "a5ad1e50-2bf1-4f43-9da4-62a89b521206",
+      "number": 368,
+      "name": "Summon: G.F. Cerberus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/368.jpg"
+    },
+    {
+      "id": "25c3ce9a-39e5-4273-ba67-224a837b75e7",
+      "number": 369,
+      "name": "Summon: G.F. Ifrit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/369.jpg"
+    },
+    {
+      "id": "efbe3aa0-ddf1-4db2-ae4c-cfea7b5d09ed",
+      "number": 370,
+      "name": "Esper Origins // Summon: Esper Maduin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/370.jpg"
+    },
+    {
+      "id": "a44ae92c-4894-4172-82b3-11e2e94653ef",
+      "number": 371,
+      "name": "Summon: Fat Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/371.jpg"
+    },
+    {
+      "id": "412093fb-15c1-4b36-aa53-9484f955ee2c",
+      "number": 372,
+      "name": "Summon: Fenrir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/372.jpg"
+    },
+    {
+      "id": "e5881485-7935-427e-911e-843f198d94dc",
+      "number": 373,
+      "name": "Summon: Titan",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/373.jpg"
+    },
+    {
+      "id": "fa316d6e-9ea7-4496-a3f3-5023a6952473",
+      "number": 374,
+      "name": "Aerith Gainsborough",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/374.jpg"
+    },
+    {
+      "id": "5d8690ec-fded-4801-8eaf-5e5fe3d444ec",
+      "number": 375,
+      "name": "Cloud, Midgar Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/375.jpg"
+    },
+    {
+      "id": "f2309a7e-4ba0-4820-8313-ecd38d32a55f",
+      "number": 376,
+      "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/376.jpg"
+    },
+    {
+      "id": "054e180d-4e66-426d-adb5-a4fee94b6a67",
+      "number": 377,
+      "name": "Gogo, Master of Mimicry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/377.jpg"
+    },
+    {
+      "id": "8b67055b-4a0a-4a16-9c83-d493c36fce01",
+      "number": 378,
+      "name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/378.jpg"
+    },
+    {
+      "id": "35090ce1-6fb4-438c-88e9-dd116d550a92",
+      "number": 379,
+      "name": "Ardyn, the Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/379.jpg"
+    },
+    {
+      "id": "d8c5c414-c7a0-489b-9cb8-1b910aa89b8e",
+      "number": 380,
+      "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/380.jpg"
+    },
+    {
+      "id": "dca1a706-9eee-4d75-80ee-fa12257908e3",
+      "number": 381,
+      "name": "Fang, Fearless l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/381.jpg"
+    },
+    {
+      "id": "0f40e47b-32ed-4846-92b3-cc54e89368fe",
+      "number": 0,
+      "name": "Ragnarok, Divine Deliverance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/381b.jpg"
+    },
+    {
+      "id": "f150d6e9-3da6-4655-9c63-dd34525d08a1",
+      "number": 382,
+      "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/382.jpg"
+    },
+    {
+      "id": "221efaa7-ba6e-4f6e-99d1-e258b91091f7",
+      "number": 383,
+      "name": "Vincent Valentine // Galian Beast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/383.jpg"
+    },
+    {
+      "id": "59fc74c0-9a97-44d5-a62e-a2b68880cfac",
+      "number": 384,
+      "name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/384.jpg"
+    },
+    {
+      "id": "faf87bad-253a-4c7a-9dd5-c575cb27db9f",
+      "number": 385,
+      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/385.jpg"
+    },
+    {
+      "id": "8f1cb5a5-2f52-4a9d-a4fe-9603116b7ad5",
+      "number": 386,
+      "name": "Firion, Wild Rose Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/386.jpg"
+    },
+    {
+      "id": "d8f9b257-6491-46d2-be41-846ab4c39d5e",
+      "number": 387,
+      "name": "Prompto Argentum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/387.jpg"
+    },
+    {
+      "id": "90ee46cc-12fc-499f-8c13-a289d5fdbaba",
+      "number": 388,
+      "name": "Raubahn, Bull of Ala Mhigo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/388.jpg"
+    },
+    {
+      "id": "e0863980-7f20-4af0-8a5a-5504b2419f64",
+      "number": 389,
+      "name": "Seifer Almasy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/389.jpg"
+    },
+    {
+      "id": "6db5c3de-eb63-40f1-a721-9f2de47ea59e",
+      "number": 390,
+      "name": "Vaan, Street Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/390.jpg"
+    },
+    {
+      "id": "d402d825-4c2c-46db-b16b-5df583bc5f83",
+      "number": 391,
+      "name": "Tifa Lockhart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/391.jpg"
+    },
+    {
+      "id": "28cdd11b-7337-4696-b2a0-77236c7b7210",
+      "number": 392,
+      "name": "Vanille, Cheerful l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/392.jpg"
+    },
+    {
+      "id": "c8198264-150f-4f95-9de1-cbc7fa456535",
+      "number": 393,
+      "name": "Balthier and Fran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/393.jpg"
+    },
+    {
+      "id": "fd537047-d997-4ee1-b259-3ed54b7c5576",
+      "number": 394,
+      "name": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/394.jpg"
+    },
+    {
+      "id": "95822b03-a49b-4a77-a257-fe0527088177",
+      "number": 395,
+      "name": "Golbez, Crystal Collector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/395.jpg"
+    },
+    {
+      "id": "5b1fd4c8-7de6-47cb-916a-513d04774f01",
+      "number": 396,
+      "name": "Hope Estheim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/396.jpg"
+    },
+    {
+      "id": "04dd9ad9-eab2-447c-b065-078a0b184519",
+      "number": 397,
+      "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/397.jpg"
+    },
+    {
+      "id": "53756218-bcdb-498a-8c61-654183153487",
+      "number": 398,
+      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/398.jpg"
+    },
+    {
+      "id": "374877d1-167a-42ea-adf3-a707ea0300e8",
+      "number": 399,
+      "name": "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/399.jpg"
+    },
+    {
+      "id": "45cb2a76-7d12-41e6-93c7-09922934699c",
+      "number": 400,
+      "name": "Lightning, Army of One",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/400.jpg"
+    },
+    {
+      "id": "8d61fe60-0318-4362-8cea-7c6499b8ca70",
+      "number": 401,
+      "name": "Noctis, Prince of Lucis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/401.jpg"
+    },
+    {
+      "id": "883c6111-c921-4cd6-930d-4fa335ef2871",
+      "number": 402,
+      "name": "Squall, SeeD Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/402.jpg"
+    },
+    {
+      "id": "f39b9892-9b82-4dea-bae0-e1735618341e",
+      "number": 403,
+      "name": "The Wandering Minstrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/403.jpg"
+    },
+    {
+      "id": "8f861d59-f2ce-457f-99f4-48b12ae34fa2",
+      "number": 404,
+      "name": "Yuna, Hope of Spira",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/404.jpg"
+    },
+    {
+      "id": "8dca28e1-21f1-4ed7-b294-df2e0c5c9503",
+      "number": 405,
+      "name": "Zidane, Tantalus Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/405.jpg"
+    },
+    {
+      "id": "28ce1dbc-508c-4d09-8e44-37bf5ebfdc8f",
+      "number": 406,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/406.jpg"
+    },
+    {
+      "id": "a3e8d94e-050b-4571-ae12-1e80e6b63611",
+      "number": 407,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/407.jpg"
+    },
+    {
+      "id": "a9801368-263b-4515-9027-4f1827e7214c",
+      "number": 408,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/408.jpg"
+    },
+    {
+      "id": "2bbab097-acb3-480d-a433-e4f81dde62e4",
+      "number": 409,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/409.jpg"
+    },
+    {
+      "id": "fc4d240f-8920-4f8d-82a2-4cd4da93d6fb",
+      "number": 410,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/410.jpg"
+    },
+    {
+      "id": "8200a5e1-0c8b-45a4-b468-03e5067e9f81",
+      "number": 411,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/411.jpg"
+    },
+    {
+      "id": "5a9b1404-3061-4979-81eb-e056bc212205",
+      "number": 412,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/412.jpg"
+    },
+    {
+      "id": "cc027995-3d7c-4283-9e0e-eaef5727f2b8",
+      "number": 413,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/413.jpg"
+    },
+    {
+      "id": "4bd892ea-b5bc-4b57-b317-741113381b50",
+      "number": 414,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/414.jpg"
+    },
+    {
+      "id": "b6776f23-5f5b-4f0a-a00c-1ca8f03ffc5f",
+      "number": 415,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/415.jpg"
+    },
+    {
+      "id": "e564eda2-36dd-4f44-b84b-d0c18a9bdb1e",
+      "number": 416,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/416.jpg"
+    },
+    {
+      "id": "3952bbbb-6fe4-4d13-8825-e93df1d048e9",
+      "number": 417,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/417.jpg"
+    },
+    {
+      "id": "0148fa7c-b6d6-458c-8cdd-a6c4e6dd4e59",
+      "number": 418,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/418.jpg"
+    },
+    {
+      "id": "7d8b2dfc-ecaf-403b-932f-a5efc8b713e6",
+      "number": 419,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/419.jpg"
+    },
+    {
+      "id": "2c1b48ba-b158-4b9d-802c-5cbfdf96dca5",
+      "number": 420,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/420.jpg"
+    },
+    {
+      "id": "e6e27054-03e1-424e-92d8-6e77d7683d79",
+      "number": 421,
+      "name": "Ultima, Origin of Oblivion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/421.jpg"
+    },
+    {
+      "id": "817ffbb6-5e7c-4498-af65-9e3d0cc5bcd6",
+      "number": 422,
+      "name": "Adelbert Steiner",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/422.jpg"
+    },
+    {
+      "id": "6a1796e1-30c5-4e55-bec8-7013512606b0",
+      "number": 423,
+      "name": "Aerith Gainsborough",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/423.jpg"
+    },
+    {
+      "id": "fcd2f288-9d05-465a-bb3e-2a444a027096",
+      "number": 424,
+      "name": "Ambrosia Whiteheart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/424.jpg"
+    },
+    {
+      "id": "9b103e50-8bac-41d4-966e-a5d42132bc12",
+      "number": 425,
+      "name": "Ashe, Princess of Dalmasca",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/425.jpg"
+    },
+    {
+      "id": "ab1b24dd-ab23-41b0-a074-e77e8d9c5564",
+      "number": 426,
+      "name": "Beatrix, Loyal General",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/426.jpg"
+    },
+    {
+      "id": "86fd126f-7672-4d83-93df-c61184d2fcf4",
+      "number": 427,
+      "name": "Cloud, Midgar Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/427.jpg"
+    },
+    {
+      "id": "d869c60b-3aa2-4a90-aa93-5d4c5afd1672",
+      "number": 428,
+      "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/428.jpg"
+    },
+    {
+      "id": "d285d6fa-b618-4558-b1e6-d148e0927cb5",
+      "number": 429,
+      "name": "G'raha Tia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/429.jpg"
+    },
+    {
+      "id": "99ad3e31-815c-409f-8fe5-d13a3f5d2b65",
+      "number": 430,
+      "name": "Minwu, White Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/430.jpg"
+    },
+    {
+      "id": "d7964800-1392-4bb8-84e2-c9f3938ceac3",
+      "number": 431,
+      "name": "Rosa, Resolute White Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/431.jpg"
+    },
+    {
+      "id": "8ff58500-479d-48d2-b84e-ff3cdb9d0154",
+      "number": 432,
+      "name": "Snow Villiers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/432.jpg"
+    },
+    {
+      "id": "ea207686-faf2-4e60-a613-a6752a3d1ddf",
+      "number": 433,
+      "name": "Stiltzkin, Moogle Merchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/433.jpg"
+    },
+    {
+      "id": "790d1050-025a-4792-8e89-24b14278eec5",
+      "number": 434,
+      "name": "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/434.jpg"
+    },
+    {
+      "id": "f99f3a14-3a7c-4c1c-b747-c6b1144ef1f1",
+      "number": 435,
+      "name": "Zack Fair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/435.jpg"
+    },
+    {
+      "id": "f28bd4d2-b2cf-48f1-ba11-956c12284550",
+      "number": 436,
+      "name": "Edgar, King of Figaro",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/436.jpg"
+    },
+    {
+      "id": "59156e99-5514-4eb3-b976-bb6cfe354d12",
+      "number": 437,
+      "name": "Gogo, Master of Mimicry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/437.jpg"
+    },
+    {
+      "id": "863dc1bd-8554-42ba-8d49-d99ea969103d",
+      "number": 438,
+      "name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/438.jpg"
+    },
+    {
+      "id": "0429bba6-d496-49ac-b849-fb8274f86880",
+      "number": 439,
+      "name": "Matoya, Archon Elder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/439.jpg"
+    },
+    {
+      "id": "3cc379aa-6810-421d-a317-026867c4d245",
+      "number": 440,
+      "name": "Quistis Trepe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/440.jpg"
+    },
+    {
+      "id": "f988af75-acf4-41bb-b4c5-58492fd1f6a0",
+      "number": 441,
+      "name": "Ultimecia, Temporal Threat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/441.jpg"
+    },
+    {
+      "id": "9e3f57b6-0d03-4176-8c2a-0937437fb62e",
+      "number": 442,
+      "name": "Ultros, Obnoxious Octopus",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/442.jpg"
+    },
+    {
+      "id": "a1d3d33d-4cd9-4009-82c9-adb2e1ec45cb",
+      "number": 443,
+      "name": "Y'shtola Rhul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/443.jpg"
+    },
+    {
+      "id": "c4c34b33-4b03-4225-ac22-a34efe173b42",
+      "number": 444,
+      "name": "Ardyn, the Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/444.jpg"
+    },
+    {
+      "id": "c976f89d-768a-4cee-b0ac-90f854bfe94f",
+      "number": 445,
+      "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/445.jpg"
+    },
+    {
+      "id": "b82f08c2-3944-437d-9af6-f1e9088e02bb",
+      "number": 446,
+      "name": "Fang, Fearless l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/446.jpg"
+    },
+    {
+      "id": "cbcde2c1-e973-4ec0-b333-d71fa7452ef1",
+      "number": 0,
+      "name": "Ragnarok, Divine Deliverance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/446b.jpg"
+    },
+    {
+      "id": "42605473-e37d-46b3-8979-31cc6b21bc3c",
+      "number": 447,
+      "name": "Gaius van Baelsar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/447.jpg"
+    },
+    {
+      "id": "3ae96898-3a72-428a-93e8-93ded3662669",
+      "number": 448,
+      "name": "Jecht, Reluctant Guardian // Braska's Final Aeon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/448.jpg"
+    },
+    {
+      "id": "28eb294b-4cab-4c34-ae29-20aac9799471",
+      "number": 449,
+      "name": "Kain, Traitorous Dragoon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/449.jpg"
+    },
+    {
+      "id": "ef6a2ef4-4aa1-4037-89d5-50c4a6579371",
+      "number": 450,
+      "name": "Reno and Rude",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/450.jpg"
+    },
+    {
+      "id": "7cb5acb6-14af-4e17-8e6c-b44122bd81e4",
+      "number": 451,
+      "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/451.jpg"
+    },
+    {
+      "id": "8fc42c17-a12b-42db-bb01-3e444ac2a376",
+      "number": 452,
+      "name": "Seymour Flux",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/452.jpg"
+    },
+    {
+      "id": "de8067cc-3de3-43b2-8fcf-6dce6f4f7db1",
+      "number": 453,
+      "name": "Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/453.jpg"
+    },
+    {
+      "id": "2b2a676e-901f-4e0e-87c6-69820f319d7f",
+      "number": 454,
+      "name": "Vincent Valentine // Galian Beast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/454.jpg"
+    },
+    {
+      "id": "40658fd0-78a6-44e5-9351-512e6bdcf637",
+      "number": 455,
+      "name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/455.jpg"
+    },
+    {
+      "id": "f7f9977f-b2dc-46bb-b961-097675cdcb45",
+      "number": 456,
+      "name": "Zodiark, Umbral God",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/456.jpg"
+    },
+    {
+      "id": "3c8d6eaa-e6d1-4a52-98fb-9cb4d876cc0b",
+      "number": 457,
+      "name": "Barret Wallace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/457.jpg"
+    },
+    {
+      "id": "cdf7fb4a-acb5-4fae-a44c-c437e5b82ec4",
+      "number": 458,
+      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/458.jpg"
+    },
+    {
+      "id": "70def31c-e328-4f1f-a165-a43f94401c65",
+      "number": 459,
+      "name": "Firion, Wild Rose Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/459.jpg"
+    },
+    {
+      "id": "e5aa0b07-9ebb-46d7-a80f-2e644dbd9d36",
+      "number": 460,
+      "name": "Freya Crescent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/460.jpg"
+    },
+    {
+      "id": "79070b71-3737-4d9a-8193-b2d7bf8d876b",
+      "number": 461,
+      "name": "Gilgamesh, Master-at-Arms",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/461.jpg"
+    },
+    {
+      "id": "40cce7b4-1d5d-4d91-90c5-71b79b5be1ac",
+      "number": 462,
+      "name": "Lightning, Security Sergeant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/462.jpg"
+    },
+    {
+      "id": "5ee02af5-cb6c-43a3-8a1d-7e8630a90739",
+      "number": 463,
+      "name": "Prompto Argentum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/463.jpg"
+    },
+    {
+      "id": "5957ab2d-55ed-4160-8c78-8c70009c39d8",
+      "number": 464,
+      "name": "Queen Brahne",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/464.jpg"
+    },
+    {
+      "id": "3732c276-3635-46e0-a46e-1b433501d3fd",
+      "number": 465,
+      "name": "Raubahn, Bull of Ala Mhigo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/465.jpg"
+    },
+    {
+      "id": "50467632-dddf-45ef-900e-9718f364cf9b",
+      "number": 466,
+      "name": "Seifer Almasy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/466.jpg"
+    },
+    {
+      "id": "dbd01ef3-0b06-46a3-97f9-eaff2a539a4a",
+      "number": 467,
+      "name": "Vaan, Street Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/467.jpg"
+    },
+    {
+      "id": "25d28011-f0a6-4d7b-ab87-aae0fe354d9e",
+      "number": 468,
+      "name": "Zell Dincht",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/468.jpg"
+    },
+    {
+      "id": "1b9a92f8-2044-4554-aec9-00b410dada35",
+      "number": 469,
+      "name": "Bartz and Boko",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/469.jpg"
+    },
+    {
+      "id": "bb17f0c0-4738-42a0-94e1-27344f13735f",
+      "number": 470,
+      "name": "Diamond Weapon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/470.jpg"
+    },
+    {
+      "id": "0208a5a9-3a6f-44c5-9e46-24bdf924753c",
+      "number": 471,
+      "name": "Quina, Qu Gourmet",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/471.jpg"
+    },
+    {
+      "id": "366fbdb4-56b4-4dd1-8cc7-565786c71c24",
+      "number": 472,
+      "name": "Sazh Katzroy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/472.jpg"
+    },
+    {
+      "id": "165a50ba-5ead-45aa-be8a-9bdd9766da66",
+      "number": 473,
+      "name": "Tifa Lockhart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/473.jpg"
+    },
+    {
+      "id": "b4b78fba-cde2-4ab9-bc96-51d0fc5b29cf",
+      "number": 474,
+      "name": "Torgal, A Fine Hound",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/474.jpg"
+    },
+    {
+      "id": "6c752ee2-81b0-468a-a54b-740c22f2334e",
+      "number": 475,
+      "name": "Vanille, Cheerful l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/475.jpg"
+    },
+    {
+      "id": "50716867-4370-4c2f-aae5-9d791a5d5a2e",
+      "number": 476,
+      "name": "Absolute Virtue",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/476.jpg"
+    },
+    {
+      "id": "8c9eaf03-0af1-496f-b3d9-37938a8dc6dd",
+      "number": 477,
+      "name": "Balthier and Fran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/477.jpg"
+    },
+    {
+      "id": "7d143a13-a627-4b64-9356-253a2f9ddf98",
+      "number": 478,
+      "name": "Black Waltz No. 3",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/478.jpg"
+    },
+    {
+      "id": "6bf0cce3-ba72-4f7f-8b65-01e5dcd3299f",
+      "number": 479,
+      "name": "Choco, Seeker of Paradise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/479.jpg"
+    },
+    {
+      "id": "db9830c7-1f40-4ff2-8e99-7c6393d4a968",
+      "number": 480,
+      "name": "Cid, Timeless Artificer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/480.jpg"
+    },
+    {
+      "id": "c53b7098-02c6-4977-8871-334f3fd4ee1f",
+      "number": 481,
+      "name": "Cloud of Darkness",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/481.jpg"
+    },
+    {
+      "id": "75180e47-064e-4dd6-adcf-d4fb497a445b",
+      "number": 482,
+      "name": "Cloud, Planet's Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/482.jpg"
+    },
+    {
+      "id": "0f462d81-bb1b-4d44-8952-6dff52970792",
+      "number": 483,
+      "name": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/483.jpg"
+    },
+    {
+      "id": "1b4d8a51-2307-4ed6-af25-c48946219096",
+      "number": 484,
+      "name": "The Emperor of Palamecia // The Lord Master of Hell",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/484.jpg"
+    },
+    {
+      "id": "df51bf51-839a-4b4d-a6c2-431c9ebff875",
+      "number": 485,
+      "name": "Exdeath, Void Warlock // Neo Exdeath, Dimension's End",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/485.jpg"
+    },
+    {
+      "id": "8e6e21d2-e282-4f56-8e6b-929176b264b3",
+      "number": 486,
+      "name": "Garland, Knight of Cornelia // Chaos, the Endless",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/486.jpg"
+    },
+    {
+      "id": "6136d21e-e6fa-4aaf-9eca-3847fa2c65fd",
+      "number": 487,
+      "name": "Garnet, Princess of Alexandria",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/487.jpg"
+    },
+    {
+      "id": "e5220843-4964-4abe-b397-a909be8ed8e0",
+      "number": 488,
+      "name": "Giott, King of the Dwarves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/488.jpg"
+    },
+    {
+      "id": "8e2d8e83-1fd4-4c99-ae84-b450e3650cb7",
+      "number": 489,
+      "name": "Gladiolus Amicitia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/489.jpg"
+    },
+    {
+      "id": "db013d39-3681-4ed0-8671-d1d2452df9de",
+      "number": 490,
+      "name": "Golbez, Crystal Collector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/490.jpg"
+    },
+    {
+      "id": "a50f113e-be5d-4251-8605-67f54fbe9b3f",
+      "number": 491,
+      "name": "Hope Estheim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/491.jpg"
+    },
+    {
+      "id": "2790a23d-00ff-47b7-badd-9dd68042bb99",
+      "number": 492,
+      "name": "Ignis Scientia",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/492.jpg"
+    },
+    {
+      "id": "22dd493f-e481-4563-8f87-c5bdbfd54fdd",
+      "number": 493,
+      "name": "Jenova, Ancient Calamity",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/493.jpg"
+    },
+    {
+      "id": "8d5aaba7-1d36-4a0f-ad3e-70dca5944c53",
+      "number": 494,
+      "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/494.jpg"
+    },
+    {
+      "id": "ab39a24e-c73b-4d62-b7a0-c4ea968768c9",
+      "number": 495,
+      "name": "Judge Magister Gabranth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/495.jpg"
+    },
+    {
+      "id": "06b7ca77-7194-4a0b-a650-4afd7afb50eb",
+      "number": 496,
+      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/496.jpg"
+    },
+    {
+      "id": "98067c9a-d81e-4f5c-b55a-28872331fce8",
+      "number": 497,
+      "name": "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/497.jpg"
+    },
+    {
+      "id": "0c665905-183b-401f-b83c-a312d032e061",
+      "number": 498,
+      "name": "Lightning, Army of One",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/498.jpg"
+    },
+    {
+      "id": "81d0f2e4-8b22-4c9b-ad01-fd0818fe7372",
+      "number": 499,
+      "name": "Locke Cole",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/499.jpg"
+    },
+    {
+      "id": "8717cde9-eaee-4926-ab6e-02bb58421d05",
+      "number": 500,
+      "name": "Noctis, Prince of Lucis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/500.jpg"
+    },
+    {
+      "id": "926953df-e1f8-4d3e-a05d-93657143da04",
+      "number": 501,
+      "name": "Omega, Heartless Evolution",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/501.jpg"
+    },
+    {
+      "id": "3f77c0f4-7a1b-496e-b030-55627446dfe3",
+      "number": 502,
+      "name": "Rinoa Heartilly",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/502.jpg"
+    },
+    {
+      "id": "5d49c95e-2398-4646-b9f1-44d0b73fc157",
+      "number": 503,
+      "name": "Rufus Shinra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/503.jpg"
+    },
+    {
+      "id": "f67652be-9b37-41d0-93db-ba26f8a23186",
+      "number": 504,
+      "name": "Rydia, Summoner of Mist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/504.jpg"
+    },
+    {
+      "id": "b03e29e2-cfda-4284-8d30-0686c01e861e",
+      "number": 505,
+      "name": "Sephiroth, Planet's Heir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/505.jpg"
+    },
+    {
+      "id": "7224bb1b-167c-47e5-8314-84aebca054b6",
+      "number": 506,
+      "name": "Serah Farron // Crystallized Serah",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/506.jpg"
+    },
+    {
+      "id": "d1e01457-1696-4313-b21e-36e088735b1f",
+      "number": 507,
+      "name": "Shantotto, Tactician Magician",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/507.jpg"
+    },
+    {
+      "id": "075dd582-61b7-45e9-9dcf-0b544b733e61",
+      "number": 508,
+      "name": "Sin, Spira's Punishment",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/508.jpg"
+    },
+    {
+      "id": "fef02132-34e6-4f3a-ac60-af3221a782b3",
+      "number": 509,
+      "name": "Squall, SeeD Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/509.jpg"
+    },
+    {
+      "id": "e0c5f3d5-ca17-4d4c-8de4-3559d6c6fe94",
+      "number": 510,
+      "name": "Tellah, Great Sage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/510.jpg"
+    },
+    {
+      "id": "fe0aa7d7-73e7-4c8c-92b5-b923817ce461",
+      "number": 511,
+      "name": "Terra, Magical Adept // Esper Terra",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/511.jpg"
+    },
+    {
+      "id": "cfe3a1fa-d885-48c0-aa47-bfd8d340bf8e",
+      "number": 512,
+      "name": "Tidus, Blitzball Star",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/512.jpg"
+    },
+    {
+      "id": "e7922b5a-6e75-4910-93ad-37e322073d35",
+      "number": 513,
+      "name": "Ultimecia, Time Sorceress // Ultimecia, Omnipotent",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/513.jpg"
+    },
+    {
+      "id": "0cfc4614-f6c1-4247-ab96-5bd41006ad85",
+      "number": 514,
+      "name": "Vivi Ornitier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/514.jpg"
+    },
+    {
+      "id": "fd5de0c8-6af9-4b0a-be9d-19af1e7bd7c3",
+      "number": 515,
+      "name": "The Wandering Minstrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/515.jpg"
+    },
+    {
+      "id": "e11df7e8-e154-4fe2-b8d6-a452d0e0d7d5",
+      "number": 516,
+      "name": "Xande, Dark Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/516.jpg"
+    },
+    {
+      "id": "cf41b2a8-0f8f-48fd-a430-056a2f669615",
+      "number": 517,
+      "name": "Yuna, Hope of Spira",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/517.jpg"
+    },
+    {
+      "id": "2eaffe7a-0e04-4c19-942b-695a0c350ef0",
+      "number": 518,
+      "name": "Zidane, Tantalus Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/518.jpg"
+    },
+    {
+      "id": "024a8033-fb41-40a4-b71d-0aa533e0f378",
+      "number": 519,
+      "name": "Aerith Gainsborough",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/519.jpg"
+    },
+    {
+      "id": "f0b73ab0-b8eb-4a6f-a8d9-25d56fdf740a",
+      "number": 520,
+      "name": "Cloud, Midgar Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/520.jpg"
+    },
+    {
+      "id": "9f347fa7-301f-4bc5-954c-b910a840a23b",
+      "number": 521,
+      "name": "Dion, Bahamut's Dominant // Bahamut, Warden of Light",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/521.jpg"
+    },
+    {
+      "id": "8cbeb01f-965f-4aa2-9e75-31718cc574e3",
+      "number": 522,
+      "name": "Gogo, Master of Mimicry",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/522.jpg"
+    },
+    {
+      "id": "bbd46c0d-cd9d-4e48-b6bf-f619e141100c",
+      "number": 523,
+      "name": "Jill, Shiva's Dominant // Shiva, Warden of Ice",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/523.jpg"
+    },
+    {
+      "id": "34bd7a66-afb1-4a6b-80b3-fce1bb361d88",
+      "number": 524,
+      "name": "Ardyn, the Usurper",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/524.jpg"
+    },
+    {
+      "id": "7d95f911-91c3-41ee-a709-c579c723eede",
+      "number": 525,
+      "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/525.jpg"
+    },
+    {
+      "id": "a8bfc03f-227c-4a5d-b172-067ea5860bf9",
+      "number": 526,
+      "name": "Fang, Fearless l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/526.jpg"
+    },
+    {
+      "id": "a951cc35-bd29-467f-b28c-5d57340e7450",
+      "number": 0,
+      "name": "Ragnarok, Divine Deliverance",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/526b.jpg"
+    },
+    {
+      "id": "db95465a-2a58-44d7-9439-edd18c9505f0",
+      "number": 527,
+      "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/527.jpg"
+    },
+    {
+      "id": "15ea1113-7360-462d-91b8-22d5110cbf5a",
+      "number": 528,
+      "name": "Vincent Valentine // Galian Beast",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/528.jpg"
+    },
+    {
+      "id": "8e3b09a9-631d-4174-8390-a82db0a3d68d",
+      "number": 529,
+      "name": "Zenos yae Galvus // Shinryu, Transcendent Rival",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/529.jpg"
+    },
+    {
+      "id": "57f83eb3-d9d3-4565-b898-4ba1da768172",
+      "number": 530,
+      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/530.jpg"
+    },
+    {
+      "id": "6687a6e8-f674-4db8-81eb-5ad28b7890f7",
+      "number": 531,
+      "name": "Firion, Wild Rose Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/531.jpg"
+    },
+    {
+      "id": "516105c2-462e-44e8-b412-5e9eb27ba040",
+      "number": 532,
+      "name": "Prompto Argentum",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/532.jpg"
+    },
+    {
+      "id": "3afa1696-e242-469f-b3ae-99109c4b36e0",
+      "number": 533,
+      "name": "Raubahn, Bull of Ala Mhigo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/533.jpg"
+    },
+    {
+      "id": "0a38194e-44bb-4f79-9797-03cb733808d0",
+      "number": 534,
+      "name": "Seifer Almasy",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/534.jpg"
+    },
+    {
+      "id": "9cbdcfad-dd4f-4405-9379-eb11c6e4d4f5",
+      "number": 535,
+      "name": "Vaan, Street Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/535.jpg"
+    },
+    {
+      "id": "17e88e4e-d8f0-4598-bfd4-006469c6f26e",
+      "number": 536,
+      "name": "Tifa Lockhart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/536.jpg"
+    },
+    {
+      "id": "f1083637-7c43-44e0-8029-ad56cca8cc19",
+      "number": 537,
+      "name": "Vanille, Cheerful l'Cie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/537.jpg"
+    },
+    {
+      "id": "ab6954bc-4fbc-4cb9-9c4d-1f46b3fe0085",
+      "number": 538,
+      "name": "Balthier and Fran",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/538.jpg"
+    },
+    {
+      "id": "7083fa8a-a841-4c69-9443-af35676a7817",
+      "number": 539,
+      "name": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/539.jpg"
+    },
+    {
+      "id": "de4c9b6b-27be-45b6-9642-49471aaddcb9",
+      "number": 540,
+      "name": "Golbez, Crystal Collector",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/540.jpg"
+    },
+    {
+      "id": "0b3ba36b-4a15-425c-98ae-37a10b3772bc",
+      "number": 541,
+      "name": "Hope Estheim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/541.jpg"
+    },
+    {
+      "id": "b818aec4-f5a1-411f-ae19-85787cad9032",
+      "number": 542,
+      "name": "Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/542.jpg"
+    },
+    {
+      "id": "21977a0a-7e76-4e1f-9c42-dcc4d63961a1",
+      "number": 543,
+      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/543.jpg"
+    },
+    {
+      "id": "d673228a-eec8-4f6e-82fd-10db909ccee2",
+      "number": 544,
+      "name": "Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/544.jpg"
+    },
+    {
+      "id": "2b760674-b6cc-4730-8c88-4e627f60589c",
+      "number": 545,
+      "name": "Lightning, Army of One",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/545.jpg"
+    },
+    {
+      "id": "49543cd4-d976-4d3b-a7d2-6acfbb28b1b5",
+      "number": 546,
+      "name": "Noctis, Prince of Lucis",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/546.jpg"
+    },
+    {
+      "id": "51df7137-8bfc-4140-b436-88834bd78b73",
+      "number": 547,
+      "name": "Squall, SeeD Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/547.jpg"
+    },
+    {
+      "id": "fe9cd860-1b4e-48ec-be30-e0ec4ca75e26",
+      "number": 548,
+      "name": "The Wandering Minstrel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/548.jpg"
+    },
+    {
+      "id": "ed59c09c-b972-4470-bcae-c79866825941",
+      "number": 549,
+      "name": "Yuna, Hope of Spira",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/549.jpg"
+    },
+    {
+      "id": "439b31a8-d6e2-4db4-bac3-c02e2eb11719",
+      "number": 550,
+      "name": "Zidane, Tantalus Thief",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/550.jpg"
+    },
+    {
+      "id": "71b97e69-f198-41ec-9385-015ec2f0160f",
+      "number": 551,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/551.jpg"
+    },
+    {
+      "id": "81690ce7-0651-40e4-9769-baebe10e2cbf",
+      "number": 0,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/551a.jpg"
+    },
+    {
+      "id": "ac3db85f-8cc3-4869-a555-882b62a1726b",
+      "number": 0,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/551b.jpg"
+    },
+    {
+      "id": "156cfd45-1556-4804-becf-039cfff7de3d",
+      "number": 0,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/551c.jpg"
+    },
+    {
+      "id": "e40d85a5-ecfa-4f95-920b-404eb448324f",
+      "number": 0,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/551d.jpg"
+    },
+    {
+      "id": "6ce8744a-ede3-4662-968a-360eb6639f08",
+      "number": 0,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/551f.jpg"
+    },
+    {
+      "id": "a6d58067-337d-43dc-b4a3-c6acc701d450",
+      "number": 552,
+      "name": "Cloud, Planet's Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/552.jpg"
+    },
+    {
+      "id": "abd73e52-62f0-4e89-9dc6-90ff0bc2a9b7",
+      "number": 553,
+      "name": "Sephiroth, Planet's Heir",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/553.jpg"
+    },
+    {
+      "id": "9da83b07-4978-4af7-be51-8aa8f35ec0bb",
+      "number": 554,
+      "name": "Beatrix, Loyal General",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/554.jpg"
+    },
+    {
+      "id": "c44e0ad6-9f44-4e4c-8c3b-3ee99409a740",
+      "number": 555,
+      "name": "Rosa, Resolute White Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/555.jpg"
+    },
+    {
+      "id": "b64e4475-f1c6-4d85-b42f-6d84d06855bb",
+      "number": 556,
+      "name": "Ultimecia, Temporal Threat",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/556.jpg"
+    },
+    {
+      "id": "a11cb85c-85dd-435c-8303-4d0d18bdb1e9",
+      "number": 557,
+      "name": "Deadly Embrace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/557.jpg"
+    },
+    {
+      "id": "c5fdc78e-0815-443c-8c26-35387b6f4f37",
+      "number": 558,
+      "name": "Seymour Flux",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/558.jpg"
+    },
+    {
+      "id": "05b04b06-9271-4a28-a60e-287df0d1a4d1",
+      "number": 559,
+      "name": "Judgment Bolt",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/559.jpg"
+    },
+    {
+      "id": "4ad4dce3-6e43-4528-b570-85547d03164e",
+      "number": 560,
+      "name": "Lightning, Security Sergeant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/560.jpg"
+    },
+    {
+      "id": "1caed9a8-b73b-470e-b9d8-8c3b7cac3eee",
+      "number": 561,
+      "name": "Xande, Dark Mage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/561.jpg"
+    },
+    {
+      "id": "8b691d42-3498-4d47-9a46-f7c376df8886",
+      "number": 562,
+      "name": "Magitek Scythe",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/562.jpg"
+    },
+    {
+      "id": "b9162d08-a6ba-4e6e-b82c-9b092bd781dd",
+      "number": 563,
+      "name": "Ultima Weapon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/563.jpg"
+    },
+    {
+      "id": "b358dadc-9cc9-4baf-afec-3b50d0822609",
+      "number": 564,
+      "name": "Cloud, Midgar Mercenary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/564.jpg"
+    },
+    {
+      "id": "c7d9c54d-edec-40a8-82d8-b12cee7daa21",
+      "number": 565,
+      "name": "Stiltzkin, Moogle Merchant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/565.jpg"
+    },
+    {
+      "id": "13f4b6f3-736f-4f33-9d05-9bfd0b05b214",
+      "number": 566,
+      "name": "A Realm Reborn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/566.jpg"
+    },
+    {
+      "id": "39a038ed-9ed9-4a32-9613-989e4809ec94",
+      "number": 567,
+      "name": "Tifa Lockhart",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/567.jpg"
+    },
+    {
+      "id": "f58e882a-c59f-4f72-91b5-0291f8360a2c",
+      "number": 568,
+      "name": "Traveling Chocobo",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/568.jpg"
+    },
+    {
+      "id": "1ce688fa-1fdb-4acd-b9b0-bf7325a6b8e0",
+      "number": 569,
+      "name": "Choco, Seeker of Paradise",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/569.jpg"
+    },
+    {
+      "id": "25ef2d44-c261-4511-b96f-85e7a291e318",
+      "number": 570,
+      "name": "Vivi Ornitier",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/570.jpg"
+    },
+    {
+      "id": "d9228c15-06d1-4701-8619-1ad08d63275a",
+      "number": 571,
+      "name": "Yuna, Hope of Spira",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/571.jpg"
+    },
+    {
+      "id": "dec72b07-8f41-4d42-a455-794bf106302c",
+      "number": 572,
+      "name": "Plains",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/572.jpg"
+    },
+    {
+      "id": "46255a65-b735-4888-85db-3ab2ab3d903c",
+      "number": 573,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/573.jpg"
+    },
+    {
+      "id": "1176ebbf-4130-4e4e-ad49-65101a7357b4",
+      "number": 574,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/574.jpg"
+    },
+    {
+      "id": "0cef98b7-d54a-456e-8240-1c5af3a72a04",
+      "number": 575,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/575.jpg"
+    },
+    {
+      "id": "2036f825-ef57-4a40-b45f-0668d9c8ec6a",
+      "number": 576,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/576.jpg"
+    },
+    {
+      "id": "6d24956c-b123-4682-9f89-6821ae45fc00",
+      "number": 577,
+      "name": "Y'shtola Rhul",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/577.jpg"
+    },
+    {
+      "id": "de3b9b08-f430-4f01-8a42-3a9f1415eee0",
+      "number": 578,
+      "name": "Phoenix Down",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/578.jpg"
+    },
+    {
+      "id": "b8921d64-fdd3-4cdd-9687-983c8d6e0f72",
+      "number": 579,
+      "name": "White Auracite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/579.jpg"
+    },
+    {
+      "id": "90ab9143-23e0-437e-bc51-a46f3497c195",
+      "number": 580,
+      "name": "Zack Fair",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/580.jpg"
+    },
+    {
+      "id": "a0f6e2d7-58b5-4a7d-8c42-e25185cd173f",
+      "number": 581,
+      "name": "Astrologian's Planisphere",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/581.jpg"
+    },
+    {
+      "id": "ace9baac-4aa6-49ef-b85d-514de6e77043",
+      "number": 582,
+      "name": "Sage's Nouliths",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/582.jpg"
+    },
+    {
+      "id": "b6dc1f5a-a6cc-4ab4-8bb9-e216e24ca735",
+      "number": 583,
+      "name": "Circle of Power",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/583.jpg"
+    },
+    {
+      "id": "ea5b9fe8-2561-4176-adfd-3fb790250bbc",
+      "number": 584,
+      "name": "Barret Wallace",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/584.jpg"
+    },
+    {
+      "id": "9268ccdb-0b5b-4624-9443-f7b5330ec71f",
+      "number": 585,
+      "name": "Laughing Mad",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Final%20Fantasy%20%28fin%29/images/585.jpg"
+    }
+  ]
+}
