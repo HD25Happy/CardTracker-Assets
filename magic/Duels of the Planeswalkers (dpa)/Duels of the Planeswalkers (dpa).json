@@ -1,0 +1,685 @@
+﻿{
+  "game": "Magic: The Gathering",
+  "setName": "Duels of the Planeswalkers",
+  "totalCards": 113,
+  "cards": [
+    {
+      "id": "ae97f4a8-3e76-4b7e-9fae-eed82f55736c",
+      "number": 1,
+      "name": "Air Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/1.jpg"
+    },
+    {
+      "id": "94d4c6c7-6e8d-4727-9a1b-efca18abc617",
+      "number": 2,
+      "name": "Boomerang",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/2.jpg"
+    },
+    {
+      "id": "be72e8e6-31da-48c0-8d57-f768a806c4aa",
+      "number": 3,
+      "name": "Cancel",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/3.jpg"
+    },
+    {
+      "id": "7dea181e-0130-4233-a9b4-1d4b506ef180",
+      "number": 4,
+      "name": "Cloud Sprite",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/4.jpg"
+    },
+    {
+      "id": "690962ae-2d34-431c-96b1-4090aae1a270",
+      "number": 5,
+      "name": "Counterbore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/5.jpg"
+    },
+    {
+      "id": "d57f368c-2df2-4f87-9863-468e051edc82",
+      "number": 6,
+      "name": "Deluge",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/6.jpg"
+    },
+    {
+      "id": "29940d8c-da96-4b74-a503-80f6e6883d20",
+      "number": 7,
+      "name": "Denizen of the Deep",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/7.jpg"
+    },
+    {
+      "id": "4e3fb81e-7057-4ae3-b08e-5e70016f20d2",
+      "number": 8,
+      "name": "Essence Scatter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/8.jpg"
+    },
+    {
+      "id": "1c9d3c77-6b39-4eb2-8414-b1224c303703",
+      "number": 9,
+      "name": "Evacuation",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/9.jpg"
+    },
+    {
+      "id": "8517578c-e15d-428f-9bb4-cf271eb9f0b9",
+      "number": 10,
+      "name": "Mahamoti Djinn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/10.jpg"
+    },
+    {
+      "id": "456459f2-17da-4640-8924-771cd6c16810",
+      "number": 11,
+      "name": "Mind Control",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/11.jpg"
+    },
+    {
+      "id": "ef53cbf5-9e06-4fa2-8d19-48f4c00151b0",
+      "number": 12,
+      "name": "Mind Spring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/12.jpg"
+    },
+    {
+      "id": "6e582d88-a4ed-4df4-996a-bde560b0c7af",
+      "number": 13,
+      "name": "Negate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/13.jpg"
+    },
+    {
+      "id": "aceb52d6-102a-4524-9aea-d1416e112f0a",
+      "number": 14,
+      "name": "Phantom Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/14.jpg"
+    },
+    {
+      "id": "c83e1469-b637-48e3-881b-24de239e45d2",
+      "number": 15,
+      "name": "Snapping Drake",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/15.jpg"
+    },
+    {
+      "id": "f24c605c-e644-4e44-992e-2d3ffa5929be",
+      "number": 16,
+      "name": "Thieving Magpie",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/16.jpg"
+    },
+    {
+      "id": "473cc0ae-bac0-4a9a-9114-a046c9aaa21d",
+      "number": 17,
+      "name": "Unsummon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/17.jpg"
+    },
+    {
+      "id": "999b5185-7e5c-428a-827c-b7d963b679b7",
+      "number": 18,
+      "name": "Abyssal Specter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/18.jpg"
+    },
+    {
+      "id": "f6cd986b-977a-4d3e-a395-a295c4604184",
+      "number": 19,
+      "name": "Ascendant Evincar",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/19.jpg"
+    },
+    {
+      "id": "0415df73-9334-4436-a177-e56619462d71",
+      "number": 20,
+      "name": "Consume Spirit",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/20.jpg"
+    },
+    {
+      "id": "9e7854b5-e6b1-48a3-b280-04461ec34d2e",
+      "number": 21,
+      "name": "Crowd of Cinders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/21.jpg"
+    },
+    {
+      "id": "7cd9e7c4-9d49-4258-88e4-f70a8177f177",
+      "number": 22,
+      "name": "Drudge Skeletons",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/22.jpg"
+    },
+    {
+      "id": "918ee136-c8e6-4235-bfdc-30460be1297c",
+      "number": 23,
+      "name": "Dusk Imp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/23.jpg"
+    },
+    {
+      "id": "fc7b36a9-0f86-4f68-9dac-f67618c4843a",
+      "number": 24,
+      "name": "Essence Drain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/24.jpg"
+    },
+    {
+      "id": "9123dfd3-61a0-4f34-baf2-6e63f38237b3",
+      "number": 25,
+      "name": "Eyeblight's Ending",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/25.jpg"
+    },
+    {
+      "id": "1e5e400c-1319-4dbf-bbfb-c203c9289f62",
+      "number": 26,
+      "name": "Megrim",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/26.jpg"
+    },
+    {
+      "id": "02256444-0c6f-4a18-ba3e-7d0b1f6d9b39",
+      "number": 27,
+      "name": "Mind Rot",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/27.jpg"
+    },
+    {
+      "id": "4e6ab1b7-73a9-48ab-bf15-3602d96bf017",
+      "number": 28,
+      "name": "Mind Shatter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/28.jpg"
+    },
+    {
+      "id": "e102660a-af2f-4983-8cef-ab9a363c24b2",
+      "number": 29,
+      "name": "Moonglove Winnower",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/29.jpg"
+    },
+    {
+      "id": "e06670f5-0ee6-4b43-81a9-86c1d25df736",
+      "number": 30,
+      "name": "Mortivore",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/30.jpg"
+    },
+    {
+      "id": "221690b7-fb17-48b3-a3a3-190473a35848",
+      "number": 31,
+      "name": "Ravenous Rats",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/31.jpg"
+    },
+    {
+      "id": "43b3ddee-980f-45a6-bb15-a0910187007a",
+      "number": 32,
+      "name": "Sengir Vampire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/32.jpg"
+    },
+    {
+      "id": "1a83c90f-f737-452c-b324-e825d181d1fe",
+      "number": 33,
+      "name": "Severed Legion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/33.jpg"
+    },
+    {
+      "id": "a3757fd2-bac9-464e-8c05-ea6cf3941c34",
+      "number": 34,
+      "name": "Terror",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/34.jpg"
+    },
+    {
+      "id": "960c53f5-6d28-4bc4-b6a1-345f2a2a97f8",
+      "number": 35,
+      "name": "Underworld Dreams",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/35.jpg"
+    },
+    {
+      "id": "66662b5a-e9fe-408c-b783-9ebf2e26ba5d",
+      "number": 36,
+      "name": "Unholy Strength",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/36.jpg"
+    },
+    {
+      "id": "4f67114e-ff16-4817-b2ed-45299e60648e",
+      "number": 37,
+      "name": "Act of Treason",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/37.jpg"
+    },
+    {
+      "id": "e03d70c6-fde0-4eb0-8d39-69879448ab05",
+      "number": 38,
+      "name": "Banefire",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/38.jpg"
+    },
+    {
+      "id": "f6d9ee29-9e68-4b9a-953d-1b3d28651463",
+      "number": 39,
+      "name": "Blaze",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/39.jpg"
+    },
+    {
+      "id": "b51595ba-b783-42ca-85a4-0e31f8ec8def",
+      "number": 40,
+      "name": "Bloodmark Mentor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/40.jpg"
+    },
+    {
+      "id": "514b8cc1-7d5b-40ff-9c71-bb5e54e40358",
+      "number": 41,
+      "name": "Cinder Pyromancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/41.jpg"
+    },
+    {
+      "id": "3d889638-5b39-4bf3-91c1-f275033f3c38",
+      "number": 42,
+      "name": "Earth Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/42.jpg"
+    },
+    {
+      "id": "4dc24eb0-83a1-4373-8678-8fec69fb5def",
+      "number": 43,
+      "name": "Enrage",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/43.jpg"
+    },
+    {
+      "id": "ccd12a28-39f5-47ee-b158-cd08ac4146b5",
+      "number": 44,
+      "name": "Furnace of Rath",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/44.jpg"
+    },
+    {
+      "id": "e52e578d-049d-43a9-ac25-2104bef2ddad",
+      "number": 45,
+      "name": "Goblin Piker",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/45.jpg"
+    },
+    {
+      "id": "03555889-bb1d-4e83-9da4-5a3b4294654f",
+      "number": 46,
+      "name": "Goblin Sky Raider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/46.jpg"
+    },
+    {
+      "id": "22955bf2-4119-40dd-a9de-25d875a93cd5",
+      "number": 47,
+      "name": "Hill Giant",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/47.jpg"
+    },
+    {
+      "id": "23c637a2-566e-49fa-b961-105c5382afd3",
+      "number": 48,
+      "name": "Incinerate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/48.jpg"
+    },
+    {
+      "id": "d18a5787-8e3a-4c87-a656-d663b2844e39",
+      "number": 49,
+      "name": "Kamahl, Pit Fighter",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/49.jpg"
+    },
+    {
+      "id": "ef614cf8-8f97-4677-b32c-7556f40c75af",
+      "number": 50,
+      "name": "Lightning Elemental",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/50.jpg"
+    },
+    {
+      "id": "80a98928-9465-49ed-8e82-5f6085f5e797",
+      "number": 51,
+      "name": "Prodigal Pyromancer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/51.jpg"
+    },
+    {
+      "id": "1900c0b1-b2b0-4561-ae63-ab7cd4c54580",
+      "number": 52,
+      "name": "Rage Reflection",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/52.jpg"
+    },
+    {
+      "id": "6d8330b7-7fae-45ef-b254-12f720b85fba",
+      "number": 53,
+      "name": "Shivan Dragon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/53.jpg"
+    },
+    {
+      "id": "ac0d4280-2b2a-49bc-b5bb-03d32523ec88",
+      "number": 54,
+      "name": "Shock",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/54.jpg"
+    },
+    {
+      "id": "1aaaf09f-7203-432a-8c1d-b8a94288131d",
+      "number": 55,
+      "name": "Blanchwood Armor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/55.jpg"
+    },
+    {
+      "id": "b9972df5-5d44-4d41-ab97-8085b06150b5",
+      "number": 56,
+      "name": "Civic Wayfinder",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/56.jpg"
+    },
+    {
+      "id": "0b557581-0bd9-4e4e-a33e-75cf1043ef11",
+      "number": 57,
+      "name": "Drove of Elves",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/57.jpg"
+    },
+    {
+      "id": "2e000f17-7a40-4543-a049-6273a496695a",
+      "number": 58,
+      "name": "Duskdale Wurm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/58.jpg"
+    },
+    {
+      "id": "54ae49e8-12d5-47fe-a767-588bb2e3626a",
+      "number": 59,
+      "name": "Elven Riders",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/59.jpg"
+    },
+    {
+      "id": "c8ce1109-a5b5-49ce-a08c-1ca121b5c42b",
+      "number": 60,
+      "name": "Elvish Champion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/60.jpg"
+    },
+    {
+      "id": "207de426-ed83-44d5-a74b-ef2f33958b7f",
+      "number": 61,
+      "name": "Elvish Eulogist",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/61.jpg"
+    },
+    {
+      "id": "d0cabbc3-6df4-4ecf-8aeb-49608662028b",
+      "number": 62,
+      "name": "Elvish Promenade",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/62.jpg"
+    },
+    {
+      "id": "96e5aa70-99d5-436b-b443-33e68846c3ed",
+      "number": 63,
+      "name": "Elvish Visionary",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/63.jpg"
+    },
+    {
+      "id": "4ccee6a1-decb-4e6f-94b7-3e8e285e1cb6",
+      "number": 64,
+      "name": "Elvish Warrior",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/64.jpg"
+    },
+    {
+      "id": "b3df5ab1-050e-475d-95e1-bc0b1b0a96ba",
+      "number": 65,
+      "name": "Gaea's Herald",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/65.jpg"
+    },
+    {
+      "id": "781996be-180b-4168-af4f-1e92520335b6",
+      "number": 66,
+      "name": "Giant Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/66.jpg"
+    },
+    {
+      "id": "a0647544-3927-4b32-a143-2942edaa64f7",
+      "number": 67,
+      "name": "Giant Spider",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/67.jpg"
+    },
+    {
+      "id": "fe76a404-1907-484e-8192-11dfa9389092",
+      "number": 68,
+      "name": "Greenweaver Druid",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/68.jpg"
+    },
+    {
+      "id": "7c903da4-81b6-4b80-be05-c856588516e8",
+      "number": 69,
+      "name": "Howl of the Night Pack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/69.jpg"
+    },
+    {
+      "id": "9cf2d9af-6028-48e2-83f0-69d3964943c3",
+      "number": 70,
+      "name": "Immaculate Magistrate",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/70.jpg"
+    },
+    {
+      "id": "250c1ead-9ea6-40b4-8792-8f23e0cda502",
+      "number": 71,
+      "name": "Imperious Perfect",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/71.jpg"
+    },
+    {
+      "id": "11b4d4cd-90a3-47e6-89b0-0dad8b7a33cc",
+      "number": 72,
+      "name": "Jagged-Scar Archers",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/72.jpg"
+    },
+    {
+      "id": "e2d12882-f791-4b46-a08c-9c543319ac79",
+      "number": 73,
+      "name": "Lys Alana Huntmaster",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/73.jpg"
+    },
+    {
+      "id": "69072d65-6d1d-48d1-aca0-4273722be79a",
+      "number": 74,
+      "name": "Molimo, Maro-Sorcerer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/74.jpg"
+    },
+    {
+      "id": "19e73f93-4f13-4429-884b-06b6d4173c4e",
+      "number": 75,
+      "name": "Natural Spring",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/75.jpg"
+    },
+    {
+      "id": "184627ac-db47-45fd-9019-f85d3335def2",
+      "number": 76,
+      "name": "Naturalize",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/76.jpg"
+    },
+    {
+      "id": "427f911a-5802-41f6-bca6-5aa644578973",
+      "number": 77,
+      "name": "Nature's Spiral",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/77.jpg"
+    },
+    {
+      "id": "a3fc8f66-fb3b-4266-ae8d-286bd936b4c7",
+      "number": 78,
+      "name": "Overrun",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/78.jpg"
+    },
+    {
+      "id": "269fe403-cd65-49f3-a281-e0f87ed8ea05",
+      "number": 79,
+      "name": "Rampant Growth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/79.jpg"
+    },
+    {
+      "id": "47ae4c69-929e-4ef5-a4c5-fabdc126c977",
+      "number": 80,
+      "name": "River Boa",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/80.jpg"
+    },
+    {
+      "id": "e874fca9-504c-4e57-b7a5-429cfec41335",
+      "number": 81,
+      "name": "Roughshod Mentor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/81.jpg"
+    },
+    {
+      "id": "479daf7e-892d-42b7-bb5c-115ed530645e",
+      "number": 82,
+      "name": "Runeclaw Bear",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/82.jpg"
+    },
+    {
+      "id": "c66e84bb-8539-4444-9d9b-38e12d96054f",
+      "number": 83,
+      "name": "Spined Wurm",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/83.jpg"
+    },
+    {
+      "id": "19187eb0-40ce-488f-bf6f-da6a353b0e40",
+      "number": 84,
+      "name": "Talara's Battalion",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/84.jpg"
+    },
+    {
+      "id": "d6d31031-71e0-48d0-a3db-4a41a5bd6809",
+      "number": 85,
+      "name": "Trained Armodon",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/85.jpg"
+    },
+    {
+      "id": "1886c23e-cdb9-46e7-8086-c827bf79da66",
+      "number": 86,
+      "name": "Troll Ascetic",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/86.jpg"
+    },
+    {
+      "id": "d393f2cb-c15b-415e-a755-a8e054bd5276",
+      "number": 87,
+      "name": "Verdant Force",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/87.jpg"
+    },
+    {
+      "id": "c3c8cc70-a8c8-41db-99c1-b8be6f020180",
+      "number": 88,
+      "name": "Vigor",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/88.jpg"
+    },
+    {
+      "id": "54b5d7d8-3eac-47be-80e8-cce5aaa8995e",
+      "number": 89,
+      "name": "Wall of Wood",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/89.jpg"
+    },
+    {
+      "id": "8dda991b-e914-43ee-becf-2f8b4c1bd1f3",
+      "number": 90,
+      "name": "Coat of Arms",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/90.jpg"
+    },
+    {
+      "id": "603527cc-e475-4a04-9758-baea995a341c",
+      "number": 91,
+      "name": "Demon's Horn",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/91.jpg"
+    },
+    {
+      "id": "e81eb75d-e027-4fe6-a440-d438f6f7734a",
+      "number": 92,
+      "name": "Dragon's Claw",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/92.jpg"
+    },
+    {
+      "id": "c9caca5e-29fe-4e61-917f-a8637e4a61d9",
+      "number": 93,
+      "name": "Kraken's Eye",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/93.jpg"
+    },
+    {
+      "id": "c1be8865-e60e-4def-8c19-b12eb5cb0835",
+      "number": 94,
+      "name": "Loxodon Warhammer",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/94.jpg"
+    },
+    {
+      "id": "f2f03a77-d936-4094-a669-a3fa768c3632",
+      "number": 95,
+      "name": "The Rack",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/95.jpg"
+    },
+    {
+      "id": "ab3cd4d4-f697-4ff8-a56a-a1d47513da5d",
+      "number": 96,
+      "name": "Wall of Spears",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/96.jpg"
+    },
+    {
+      "id": "287895cd-c498-4e15-8755-d69f7ba56285",
+      "number": 97,
+      "name": "Wurm's Tooth",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/97.jpg"
+    },
+    {
+      "id": "ef834127-661d-464c-abef-4d6cc9eac859",
+      "number": 98,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/98.jpg"
+    },
+    {
+      "id": "c6ebbd4f-1cf0-4d1a-ada2-c211507c72a0",
+      "number": 99,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/99.jpg"
+    },
+    {
+      "id": "ae8460b1-4f79-4f8b-a068-5a5ff521f950",
+      "number": 100,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/100.jpg"
+    },
+    {
+      "id": "2680ec1f-04fd-47e9-bfcd-b10134fc1eba",
+      "number": 101,
+      "name": "Island",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/101.jpg"
+    },
+    {
+      "id": "81520ea5-a9e4-4434-8253-1acde2f84fa1",
+      "number": 102,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/102.jpg"
+    },
+    {
+      "id": "1aa4e8d9-d30c-4bb7-ad46-1af587adf8f8",
+      "number": 103,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/103.jpg"
+    },
+    {
+      "id": "e64492e3-b994-4c11-a350-96f191164a97",
+      "number": 104,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/104.jpg"
+    },
+    {
+      "id": "872c8d7c-7be6-44d3-8450-e922590ee431",
+      "number": 105,
+      "name": "Swamp",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/105.jpg"
+    },
+    {
+      "id": "afd47f08-2814-4fe5-9d41-77cd870f6be7",
+      "number": 106,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/106.jpg"
+    },
+    {
+      "id": "38df9942-d8dd-4470-8c7e-66d6a49c8d06",
+      "number": 107,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/107.jpg"
+    },
+    {
+      "id": "db640129-03fc-4333-89d0-b71c9ccd1bf0",
+      "number": 108,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/108.jpg"
+    },
+    {
+      "id": "fe7a789a-c4d7-412f-aacc-ebea2b24eaa2",
+      "number": 109,
+      "name": "Mountain",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/109.jpg"
+    },
+    {
+      "id": "8e349be2-31ca-4c2e-be57-984507d8f0b4",
+      "number": 110,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/110.jpg"
+    },
+    {
+      "id": "1d463301-7f73-4e3d-bd5b-1c03fd014281",
+      "number": 111,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/111.jpg"
+    },
+    {
+      "id": "fdb20f54-2fb4-43dc-b685-f27f597d46c2",
+      "number": 112,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/112.jpg"
+    },
+    {
+      "id": "7c3b0f6a-a984-495e-9a4c-f0ae0adb7421",
+      "number": 113,
+      "name": "Forest",
+      "imageUrl": "https://raw.githubusercontent.com/Hd25Happy/CardTracker-Assets/main/magic/Duels%20of%20the%20Planeswalkers%20%28dpa%29/images/113.jpg"
+    }
+  ]
+}
